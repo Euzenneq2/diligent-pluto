@@ -1,6 +1,8 @@
 ---
 title: Terms & Conditions
 seo:
+  type: stackbit_page_meta
+  template: stackbit_page_meta
   title: Terms and Conditions
   description: This is the terms and conditions page
   extra:

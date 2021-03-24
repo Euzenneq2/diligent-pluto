@@ -1,6 +1,8 @@
 ---
 title: Style Guide
 seo:
+  type: stackbit_page_meta
+  template: stackbit_page_meta
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
   extra:

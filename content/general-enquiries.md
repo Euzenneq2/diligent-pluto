@@ -2,6 +2,7 @@
 title: General enquiries
 sections:
   - type: hero_section
+    template: hero_section
     title: This is the Hero
     subtitle: The optional subtitle
     align: center
@@ -9,6 +10,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
+    template: form_section
     content: >-
       ### Billing
 
@@ -29,17 +31,23 @@ sections:
     form_id: contact-form
     form_action: /thank-you
     form_fields:
-      - input_type: text
+      - type: form_field
+        template: form_field
+        input_type: text
         name: name
         label: Name
         default_value: Your name
         is_required: true
-      - input_type: email
+      - type: form_field
+        template: form_field
+        input_type: email
         name: email
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: select
+      - type: form_field
+        template: form_field
+        input_type: select
         name: subject
         label: Subject
         default_value: Please select
@@ -47,11 +55,15 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-      - input_type: textarea
+      - type: form_field
+        template: form_field
+        input_type: textarea
         name: message
         label: Message
         default_value: Your message
-      - input_type: checkbox
+      - type: form_field
+        template: form_field
+        input_type: checkbox
         name: consent
         label: >-
           I understand that this form is storing my submitted information so I
@@ -63,6 +75,8 @@ sections:
     padding_bottom: medium
     background_color: primary
 seo:
+  type: stackbit_page_meta
+  template: stackbit_page_meta
   title: General Enquiries
   description: This is the general enquiries page
   extra:

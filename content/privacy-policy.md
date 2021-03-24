@@ -1,6 +1,8 @@
 ---
 title: Privacy Policy
 seo:
+  type: stackbit_page_meta
+  template: stackbit_page_meta
   title: Privacy Policy
   description: This is the privacy policy page
   extra:
