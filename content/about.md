@@ -110,7 +110,7 @@ sections:
         template: action
         label: Ici
         url: /contact
-        style: secondary
+        style: primary
     align: center
     padding_top: medium
     padding_bottom: medium
