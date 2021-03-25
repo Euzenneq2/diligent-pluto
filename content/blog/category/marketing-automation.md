@@ -2,7 +2,7 @@
 title: Marketing automation
 sections:
   - type: hero_section
-    title: Inbound marketing
+    title: Marketing automation
     subtitle: The optional subtitle
     align: center
     padding_top: medium
