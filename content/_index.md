@@ -282,9 +282,10 @@ sections:
         template: grid_item
         title: Stratégie de contenu
         title_align: center
-        content: >
+        content: >+
           Mettre en avant votre contenu, **vos produit** et **vos points fort**
-          en créant du **contenu adapté.**
+          en créant du **contenu adapté** à votre persona cible**.**
+
         content_align: center
         actions:
           - type: action
