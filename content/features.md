@@ -275,7 +275,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: Devis gratuit
+        label: Gratuitement
     actions_position: bottom
     actions_width: fourty
     align: center
