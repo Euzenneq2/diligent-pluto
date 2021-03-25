@@ -68,14 +68,6 @@ sections:
       - url: '#'
         style: primary
         has_icon: true
-        icon: instagram
-        icon_position: center
-        new_window: false
-        no_follow: false
-        type: action
-      - url: '#'
-        style: primary
-        has_icon: true
         icon: linkedin
         icon_position: center
         new_window: false
