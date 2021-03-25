@@ -15,12 +15,13 @@ sections:
       Rassurez-vous, je ne mords pas et je ne vous ferai pas signer de devis dès
       notre premier contact. Choisissez une relation de confiance et ça sans
       engagement !
+    image_alt: page-contact
   - type: features_section
     template: features_section
     features:
       - content: "N'hésitez pas à réservez votre rendez vous en complétant le formulaire Calendly ci-joint.\n\nUne date, un horaire, quelques questions et vous serez rappelé dans les plus brefs délais !\n\n*Mary Marketing traite les données recueillies en utilisant votre adresse électronique pour vous communiquer des publicités concernant ces services.*\n\n*Pour en savoir plus, reportez vous à la notice\_*[*ci-jointe*](/contact)*.*\n"
         actions: []
-        image_alt:
+        image_alt: null
         media_position: right
         media_width: fifty
         align: left
