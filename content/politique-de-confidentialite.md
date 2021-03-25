@@ -1,5 +1,6 @@
 ---
 title: Politique de confidentialité
+---
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
