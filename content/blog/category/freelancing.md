@@ -1,5 +1,5 @@
 ---
-title: Inbound marketing
+title: Freelancing
 sections:
   - type: hero_section
     title: Inbound marketing
