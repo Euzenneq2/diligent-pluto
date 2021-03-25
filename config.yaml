@@ -17,7 +17,7 @@ params:
       - type: action
         template: action
         label: Rédaction web
-        url: /features
+        url: /redaction-web
         style: primary
       - type: action
         template: action
