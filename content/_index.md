@@ -253,7 +253,7 @@ sections:
       - type: feature
         template: feature
         title: 'Enchanté, moi c''est Mary !'
-        image: images/brandon-guidelines.png
+        image: images/portrait-mary-marketing.svg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
