@@ -39,7 +39,7 @@ sections:
     background_image_size: auto
     background_image_position: center center
     background_image_repeat: no-repeat
-    background_image: /images/Visuel tarif_5.svg
+    background_image: /images/visuel-fleur-tarif.svg
   - type: cta_section
     template: cta_section
     actions:
