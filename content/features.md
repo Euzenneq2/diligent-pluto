@@ -276,7 +276,7 @@ sections:
         no_follow: false
         type: action
         label: Contactez-moi !
-    actions_position: right
+    actions_position: bottom
     actions_width: fourty
     align: center
     padding_top: large
