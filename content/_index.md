@@ -499,7 +499,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Johan Ennez
+        title: Johan Smith
         subtitle: Growthhacker
         title_align: center
         image: images/Johan-Ennez.jpg
