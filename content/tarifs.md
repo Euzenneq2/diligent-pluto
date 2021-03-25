@@ -10,7 +10,7 @@ sections:
     padding_bottom: small
     image: /images/page-tarif.png
     media_position: right
-    image_alt: page-tarif
+    image_alt: tarif-redaction-web.png
   - type: features_section
     template: features_section
     features:
