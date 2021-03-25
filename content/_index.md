@@ -577,7 +577,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Prendre rendez-vous
+        label: Organiser un rendez-vous
         url: /about
         style: primary
     actions_position: bottom
