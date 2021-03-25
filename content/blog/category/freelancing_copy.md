@@ -42,14 +42,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in Freelancing
+  title: Posts in E-commerce
   description: This is the author archive page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Freelancing
+      value: Posts in E-commerce
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
