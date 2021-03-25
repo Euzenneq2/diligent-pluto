@@ -224,7 +224,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/opti-seo-home
+        image: images/opti-seo-home.svg
     grid_cols: three
     grid_gap_vert: large
     grid_gap_horiz: medium
