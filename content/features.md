@@ -278,7 +278,7 @@ sections:
         label: Contactez-moi !
     actions_position: right
     actions_width: fourty
-    align: left
+    align: center
     padding_top: large
     padding_bottom: large
     has_border: false
