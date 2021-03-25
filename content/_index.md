@@ -295,7 +295,7 @@ sections:
             template: action
             label: En savoir plus
             url: /style-guide
-            style: primary
+            style: link
             has_icon: false
             icon: arrow-right
             icon_position: center
