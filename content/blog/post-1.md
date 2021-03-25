@@ -1,5 +1,5 @@
 ---
-title: "Les 5 astuces de la\_ rédaction web qui vous font gagner du temps"
+title: 'Rédaction web : 6 pièges qui vous font perdre du temps'
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
