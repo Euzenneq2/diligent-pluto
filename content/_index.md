@@ -80,15 +80,15 @@ sections:
         title: Référencement
         title_align: center
         content: |
-          *   Audit de votre site web
+          Audit de votre site web
 
-          *   Balise Méta/Alt
+          Balise Méta/Alt
 
-          *   Structure des titres H1, H2...
+          Structure des titres H1, H2...
 
-          *   Longue traine
+          Longue traine
 
-          *   Stratégie netlinking
+          Stratégie netlinking
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
