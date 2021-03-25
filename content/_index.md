@@ -201,7 +201,7 @@ sections:
           j'utilise le logiciel "**1.fr**".
 
 
-          Cela me permet d'enrichir le **champ lexical** du contenu rédigé.
+          Cela me permet d'enrichir le **champ lexical** du **contenu rédigé**.
       - title: Contenu exclusif
         title_align: center
         content: "Je m'engage à produire pour vous, du\_**contenue unique**.\n\nLe plagiat ne fait pas partie de mes façons de travailler.\n"
