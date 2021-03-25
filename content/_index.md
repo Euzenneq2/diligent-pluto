@@ -301,7 +301,7 @@ sections:
         title_align: center
         content: >
           Que ce soit des **articles** de blog, des **descriptions** de produit,
-          des **e-books** ou des **livres blanc**.. je peux tout réaliser.
+          des **pages web** ou des **livres blanc**.. je peux tout réaliser.
         content_align: center
         actions:
           - type: action
