@@ -407,7 +407,7 @@ sections:
         image: /images/Formation.svg
     grid_cols: two
     grid_gap_vert: small
-    grid_gap_horiz: medium
+    grid_gap_horiz: large
     enable_cards: false
     align: center
     background_color: none
