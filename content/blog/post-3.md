@@ -7,6 +7,7 @@ date: '2020-05-28'
 author: data/team/gustav-purpleson.json
 categories:
   - data/categories/general.json
+  - data/categories/referencement-naturel-seo.json
 tags:
   - data/tags/stackbit.json
   - data/tags/jamstack.json
