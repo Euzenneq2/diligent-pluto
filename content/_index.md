@@ -456,13 +456,12 @@ sections:
         image_width: twenty-five
       - type: grid_item
         template: grid_item
-        content: >+
+        content: >
           Je me suis formé à la rédaction web avec Mary. Formation en quelques
           heures, tout était très bien expliqué.
 
 
-          **Arthur Lazure**, *Auto-entrepreneur*
-
+          **Anthony Lazure**, *Auto-entrepreneur*
         image: /images/Tem3.png
         image_alt: Gordon Norman
         image_position: left
