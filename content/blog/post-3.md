@@ -17,7 +17,7 @@ excerpt: >-
 thumb_image: images/blog-do-follow-no-follow.png
 thumb_image_alt: Post 3 placeholder image
 image: images/blog-do-follow-no-follow.png
-image_alt: Post 3 placeholder image
+image_alt: blog-do-follow-no-follow.png
 image_position: top
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
