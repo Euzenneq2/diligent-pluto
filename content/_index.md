@@ -343,11 +343,10 @@ sections:
         image_has_padding: true
       - title: Netlinking
         title_align: center
-        content: >+
+        content: >
           Pour améliorer le **référencement naturel**, la popularité et
-          l'audience de votre site web, développons le nombre de vos liens
-          externes (**backlink**).
-
+          l'audience de votre site web, développons le nombre de vos
+          **backlinks**.
         content_align: center
         actions:
           - label: En savoir plus
