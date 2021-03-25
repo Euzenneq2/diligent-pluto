@@ -185,7 +185,6 @@ sections:
     grid_items:
       - title: Champ sémantique
         title_align: center
-        content: "Après avoir trouvée vos\_**mots clés**\_et vos\_**longues traines**, j'utilise le logiciel \"**1.fr\".**\n\nCela me permet d'enrichir le champ lexical du contenu rédigé.\n"
         content_align: center
         actions: []
         actions_align: center
