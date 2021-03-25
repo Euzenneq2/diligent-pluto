@@ -1,5 +1,5 @@
 ---
-title: lien "Do follow" et "No follow" .
+title: Utiliser des liens "Do follow" et "No follow" pour diriger son flux SEO.
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
