@@ -1,5 +1,5 @@
 ---
-title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: 'Rédaction web : 6 pièges qui vous font perdre du temps'
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
