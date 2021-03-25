@@ -2,7 +2,7 @@
 title: E-commerce
 sections:
   - type: hero_section
-    title: Freelancing
+    title: E-commerce
     subtitle: The optional subtitle
     align: center
     padding_top: medium
