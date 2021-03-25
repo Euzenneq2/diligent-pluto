@@ -1,5 +1,5 @@
 ---
-title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+title: "Le guide\_ : tout comprendre du SEO technique"
 subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.
