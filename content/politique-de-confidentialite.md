@@ -1,6 +1,6 @@
 ---
 title: Politique de confidentialité
-    padding_top: large
+ padding_top: large
     padding_bottom: large
     align: left
 seo:
