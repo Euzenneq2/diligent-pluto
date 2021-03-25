@@ -558,7 +558,7 @@ sections:
     content: >
       J'aide les entreprises dans la création ou dans la refonte du contenu
       rédactionnel de leur site internet grâce à mes techniques de rédactrice
-      web et d'optimisation seo. 
+      web et mes outils d'optimisation seo.
 
 
       N'hésitez pas à me contactez, un bon positionnement à la clé !
