@@ -1,6 +1,6 @@
 ---
 title: Devenir rédactrice WEB
-date: '2020-06-02'
+date: '2021-03-25'
 author: data/team/gustav-purpleson.json
 categories:
   - data/categories/tutorials.json
