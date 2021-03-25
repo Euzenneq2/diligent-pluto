@@ -12,7 +12,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: images/blog-piege-temps.png
-thumb_image_alt: Post 1 placeholder image
+thumb_image_alt: blog-piege-temps
 image: images/blog-piege-temps.png
 image_alt: blog-piege-temps
 image_position: right
