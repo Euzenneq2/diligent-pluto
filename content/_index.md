@@ -179,19 +179,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    template: features_section
-    features:
-      - type: feature
-        template: feature
-        title: Salut moi c'est Mary !
-        subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu, n'hésitez à venir me découvrir dans ma page \"À propos\"."
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
@@ -210,6 +197,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: features_section
+    template: features_section
+    features:
+      - type: feature
+        template: feature
+        title: Salut moi c'est Mary !
+        subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu, n'hésitez à venir me découvrir dans ma page \"À propos\"."
+        image: images/brandon-guidelines.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - type: grid_section
     template: grid_section
     title: Des solutions précises pour votre projet de création de contenu SEO
