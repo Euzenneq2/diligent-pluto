@@ -49,7 +49,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Inbound marketing
+      value: Posts in Réseaux sociaux et social selling
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
