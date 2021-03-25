@@ -270,7 +270,7 @@ sections:
             template: action
             label: En savoir plus
             url: /style-guide
-            style: secondary
+            style: link
             has_icon: false
             icon: arrow-right
             icon_position: center
