@@ -5,7 +5,8 @@ sections:
     template: hero_section
     title: Rédactrice web SEO friendly
     subtitle: >-
-
+      Vous avez besoin d'atteindre les 10 premiers résultats de recherche de
+      Google pour promouvoir votre activité ?
     content: >
        C'est important en tant que rédactrice web d'être à jour des bonnes
       pratiques du référencement naturel...
