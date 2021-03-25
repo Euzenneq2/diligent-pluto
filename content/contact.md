@@ -9,7 +9,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-    image: /images/page-contact.png
+    image: /images/contact-redactrice-web.png
     media_position: bottom
     content: >
       Rassurez-vous, je ne mords pas et je ne vous ferai pas signer de devis dès
