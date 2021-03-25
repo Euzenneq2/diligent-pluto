@@ -31,7 +31,7 @@ sections:
     background_color: primary
   - type: grid_section
     template: grid_section
-    title: 3 axes d'expertise pour intervenir sur votre projet web
+    title: 3 axes d'expertise pour intervenir sur votre projet éditorial
     subtitle: Que puis-je faire pour vous ?
     grid_items:
       - type: grid_item
