@@ -74,6 +74,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: Linkedin Mary-marketing
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
