@@ -183,7 +183,7 @@ sections:
     subtitle: Comment vous serais-je utile ?
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Champ sémantique
         subtitle: lorem-ipsum
         title_align: left
         content: |2
