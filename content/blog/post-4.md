@@ -18,7 +18,7 @@ excerpt: >-
 thumb_image: images/classic/post-4.png
 thumb_image_alt: Post 4 placeholder image
 image: images/blog-tendances-content-marketing-2021.png
-image_alt: Post 4 placeholder image
+image_alt: blog-tendances-content-marketing-2021
 image_position: right
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
