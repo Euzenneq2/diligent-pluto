@@ -197,7 +197,7 @@ sections:
         type: grid_item
         image: images/lien-champ-semantique.svg
         content: >
-          Après avoir trouvée vos **mots clés** et vos** longues traines**,
+          Après avoir trouvée vos **mots clés** et vos **longues traines**,
           j'utilise le logiciel "**1.fr**".
 
 
