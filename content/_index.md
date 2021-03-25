@@ -308,9 +308,9 @@ sections:
         title: Rédaction web
         title_align: center
         content: >
-          Que ce soit des **articles** de blog, des **descriptions** de produit,
-          des **pages web** ou des **livres blanc**... Produire ce type de
-          support fait partie de mon quotidien. 
+          Que ce soit des **articles** de blog, des **fiches produit**, des
+          **pages web** ou des **livres blanc**... Produire ce type de support
+          fait partie de mon quotidien.
         content_align: center
         actions:
           - type: action
