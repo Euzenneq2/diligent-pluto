@@ -142,7 +142,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Premier rendez-vous
+        label: Découvrir
         url: /contact
         style: primary
         icon_position: left
