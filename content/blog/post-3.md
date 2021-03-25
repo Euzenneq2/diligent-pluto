@@ -1,5 +1,5 @@
 ---
-title: Comment mettre mes liens en "No follow" "Do follow" et
+title: Comment mettre un lien en Nofollow ou Dofollow ?
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
