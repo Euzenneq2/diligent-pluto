@@ -228,7 +228,7 @@ sections:
     grid_cols: three
     grid_gap_vert: large
     grid_gap_horiz: medium
-    enable_cards: false
+    enable_cards: true
     align: center
     padding_top: medium
     padding_bottom: medium
