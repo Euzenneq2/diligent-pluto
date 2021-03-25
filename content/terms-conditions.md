@@ -26,17 +26,23 @@ layout: page
 ## Identité
 
 Nom du site web : Mary Marketing
+
 Adresse : < http://nomdusite.domaine >
+
 Propriétaire : Marylène LOUIS
+
 Responsable de publication : Marylène LOUIS
 
 Conception et réalisation : < concepteur >
+
 Animation : < animateur >
+
 Hébergement : < hébergeur >
 
-## Personne morale (retirer ce bloc au besoin)
+## Personne morale
 
 < ‘Raison sociale’ – ‘Forme juridique’ au capital de XXX XXX euros – RCS XXXXXX – ‘Adresse complète’ >
+
 < ‘Téléphone’ – ‘Email’ >
 
 ## Conditions d’utilisation
