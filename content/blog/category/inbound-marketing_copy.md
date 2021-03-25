@@ -1,5 +1,5 @@
 ---
-title: Inbound marketing
+title: Actualité marketing digital
 sections:
   - type: hero_section
     title: Inbound marketing
