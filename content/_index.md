@@ -344,9 +344,8 @@ sections:
       - title: Netlinking
         title_align: center
         content: >
-          Pour améliorer le **référencement naturel**, la popularité et
-          l'audience de votre site web, développons le nombre de vos
-          **backlinks**.
+          Pour améliorer le **référencement**, la popularité et l'audience de
+          votre site web, développons le nombre de vos **backlinks**.
         content_align: center
         actions:
           - label: En savoir plus
