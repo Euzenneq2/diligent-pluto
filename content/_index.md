@@ -190,7 +190,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lien-champ-seman
+        image_alt: lien-champ-semantique
         image_position: top
         image_width: fifty
         image_align: center
