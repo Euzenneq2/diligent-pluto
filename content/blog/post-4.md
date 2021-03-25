@@ -13,7 +13,7 @@ excerpt: >-
   Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
   vitium consuetudo Latina traduceret.
 thumb_image: images/classic/post-2.png
-thumb_image_alt: blog-tendances-content-marketing-2021
+thumb_image_alt: post-2
 image: images/classic/post-2.png
 image_alt: blog-tendances-content-marketing-2021
 image_position: right
