@@ -91,6 +91,7 @@ params:
         label: Mentions légales
         url: /mentions-legales
         style: link
+        no_follow: true
       - type: action
         template: action
         label: "Politique de\_ confidentialité"
