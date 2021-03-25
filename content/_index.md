@@ -37,7 +37,7 @@ sections:
       - type: grid_item
         template: grid_item
         image: /images/Stratégie-de-contenu.svg
-        image_alt: Contentful logo
+        image_alt: Stratégie-de-contenu
         image_align: center
         title: Stratégie de contenu
         title_align: center
