@@ -140,22 +140,6 @@ Devenir rédacteur web c'est aussi effectuer des **missions** qui pourraient �
 
 Pour devenir rédacteur web, une formation dans le domaine des langues, des lettres, de la communication, du journalisme ou encore de la politique peut constituer un atout non négligeable. Ce type d'étude permet d'avoir de bonnes bases rédactionnelles pour se lancer et commencer à rédiger un article. **Mais les formations dans les écoles ne sont pas destinées à former des rédacteurs web**. Il n'existe pas de réelle formation pour rédiger du contenu ou apprendre l'écriture sur la toile. Il est donc conseillé de se former auprès de personnes pratiquantes et de rédacteurs professionnels. Allez faire un tour sur leur site web !
 
-### Découvrez Digital Bootcamp
-
-La formation « **Devenez rédacteur web** » de Digital Bootcamp est idéale pour toutes personnes souhaitant se former à la rédaction de contenu. Si vous souhaitez devenir rédacteur web, la formation vous aidera à acquérir des compétences pertinentes en seulement six heures.
-
-Vous suivrez un **programme** constitué de plusieurs chapitres tels que l’inbound marketing, le content marketing (marketing de contenu), la stratégie éditoriale, la stratégie de contenu, la stratégie digitale, l’optimisation de contenu ainsi que quelques notions sur des extensions de CMS tel que Elementor sur Wordpress.
-
-Cette formation aborde en détails le côté opérationnel de la rédaction web. Elle ne vous apprendra pas à faire de belles phrases mais à rédiger du contenu et trouver un contenu pertinent en optimisant votre temps. Cette formation a été créée par un web marketeur qui se concentre principalement sur les aspects marketing de la rédaction : le webmarketing. Un gain de temps quand l’on débute.
-
-Déterminés à réussir avec ce métier, vous avez également la possibilité de devenir **autoentrepreuneur**. Pour cela, il faudra d'abord comprendre le métier et disposer des compétences pour l'exercer. Mais il est tout à fait possible de se former en autodidacte, en **s’exerçant**.
-
-Un rédacteur web freelance (ou une rédactrice web freelance) se doit d'avoir des **outils de travail**. Les bons outils font aussi de bons rédacteurs. Il existe quelques logiciels indispensables qu'un rédacteur doit avoir à disposition, notamment « Antidote » pour contrôler l’orthographe et la grammaire de votre contenu. Et bien évidemment, vous devez avoir le matériel indispensable, en l'occurrence un ordinateur connecté à internet. À ce stade, vous êtes pratiquement prêt à faire partis des **freelances rédacteur web**.
-
-![](https://happy-wallaby-3f6f4.netlify.app/images/logo%20digitalbootcamp.png)
-
-![](https://happy-wallaby-3f6f4.netlify.app/images/Capture%20d%E2%80%99e%CC%81cran%202021-03-16%20a%CC%80%2016.24.20.png)
-
 ## Les métiers liés à la rédaction seo
 
 Quand vous possédez les capacités de rédactions nécessaires pour être rédactrice ou rédacteur de contenu vous vous ouvrez à un large panel de métiers intéressants. En effet, vous pouvez faire du blogging, être **journaliste web**, **digital nomad**, **community manager** ou encore rédacteur indépendant. Il est possible aussi de se lancer dans d'autre chose comme le e-commerce et tout le domaine du digital.
