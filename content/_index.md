@@ -196,6 +196,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
+        image: images/lien-champ-semantique.svg
       - title: Contenu exclusif
         title_align: center
         content: "Je m'engage à produire pour vous, du\_**contenue unique**.\n\nLe plagiat ne fait pas partie de mes façons de travailler.\n"
