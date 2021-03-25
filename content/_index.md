@@ -245,7 +245,7 @@ sections:
       - type: feature
         template: feature
         title: 'Enchanté, moi c''est Mary !'
-        subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu, n'hésitez à venir me découvrir dans ma page \"À propos\"."
+        subtitle: "Rédactrice web et en freelance depuis peu. Je suis ravis de vous proposer mes services pour déployer votre stratégie éditoriale, en produisant des contenus optimisé SEO.,\_ n'hésitez à venir me découvrir dans ma page \"À propos\"."
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
