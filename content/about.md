@@ -93,7 +93,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Ici
+        label: N'hésitez pas
         url: /contact
         style: primary
     align: center
