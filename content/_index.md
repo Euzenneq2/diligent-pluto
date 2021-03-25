@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Page d'accueil
 sections:
   - type: hero_section
     template: hero_section
