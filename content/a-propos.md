@@ -71,7 +71,7 @@ sections:
         has_icon: true
         icon: linkedin
         icon_position: center
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
         label: Linkedin Mary-marketing
