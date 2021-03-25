@@ -1,5 +1,5 @@
 ---
-title: Publicité adwords
+title: Publicité et adwords
 sections:
   - type: hero_section
     title: Inbound marketing
