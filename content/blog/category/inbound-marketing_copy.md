@@ -49,7 +49,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Inbound marketing
+      value: Posts in Actualité marketing digital
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
