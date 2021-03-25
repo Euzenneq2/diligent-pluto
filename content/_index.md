@@ -255,7 +255,7 @@ sections:
           vous produisant du contenu optimisé SEO.
         actions:
           - label: En savoir plus
-            url: /
+            url: /a-propos
             style: primary
             has_icon: false
             icon: arrow-left
