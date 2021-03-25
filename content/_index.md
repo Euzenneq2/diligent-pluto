@@ -473,9 +473,7 @@ sections:
     background_color: secondary
   - type: cta_section
     template: cta_section
-    title: >-
-      Besoin de créer du contenu pour dévellopper votre notoriété ?
-      Contactez-moi !
+    title: Besoin de bâtir une stratégie de contenu pour développer votre notoriété ?
     actions:
       - type: action
         template: action
