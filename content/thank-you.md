@@ -5,8 +5,8 @@ sections:
     template: hero_section
     title: Merci !
     subtitle: >-
-      Merci de nous avoir cont. We will get back in touch with you soon. Have a
-      great day!
+      Merci de nous avoir contacté. Nous revenons vers toi très bientôt. Bonne
+      journée !
     actions:
       - type: action
         template: action
