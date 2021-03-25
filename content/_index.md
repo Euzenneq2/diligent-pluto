@@ -477,7 +477,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Prendre rendez-vous
+        label: Contactez-moi !
         url: /contact
         style: primary
     actions_position: right
