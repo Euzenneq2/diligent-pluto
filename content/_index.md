@@ -254,7 +254,7 @@ sections:
           proposer mes services pour déployer votre stratégie éditoriale, en
           vous produisant du contenu optimisé SEO.          
         actions:
-          - label: lorem-ipsum
+          - label: En savoir plus
             url: '#'
             style: link
             has_icon: false
