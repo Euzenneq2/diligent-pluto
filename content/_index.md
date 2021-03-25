@@ -565,7 +565,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Décourvir !
+        label: Découvrir !
         url: /pricing
         style: primary
     actions_position: bottom
