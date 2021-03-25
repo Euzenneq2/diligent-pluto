@@ -227,7 +227,7 @@ sections:
         image: images/Fichier 12.svg
     grid_cols: three
     grid_gap_vert: large
-    grid_gap_horiz: large
+    grid_gap_horiz: medium
     enable_cards: false
     align: center
     padding_top: medium
