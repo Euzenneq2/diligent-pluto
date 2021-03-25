@@ -7,7 +7,7 @@ sections:
       - type: feature
         template: feature
         title: 'Bonjour, moi c''est Mary'
-        subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu."
+        subtitle: "Je suis\_rédactrice web SEO et travailleuse indépendante en freelance\_depuis peu."
         image: /images/Mary-marketing-redactrice.png
         image_alt: Mary-marketing-redactrice
         media_position: right
