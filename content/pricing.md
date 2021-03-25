@@ -69,7 +69,7 @@ sections:
     features:
       - content: "Dans le monde de la rédaction web, le\_**volume de travail**, la\_**veille**\_à effectuer, les\_**outils**\_et\_**techniques**\_de rédaction de contenu nécessaires ainsi que les\_**délais de réalisation**\_varient beaucoup. Pour cela, il est difficile de s'arrêter sur un seul et unique tarif conforme à toutes les demandes.\n\nMes tarifs sont donc passible\_**d’évoluer**\_en fonction de la demande, de sa complexité, de son volume ou encore du délai à respecter.\n\nLe\_**référencement naturel**\_et\_**l’optimisation SEO**\_sont aux coeur de tous mes contenus. Néanmoins, mon but est avant tout de satisfaire l’intérêt des lecteurs et ces besoins d’informations avec des textes simples et plaisant à lire.\n\nN'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet.\n\nJe serais ravie\_**d'échanger**\_avec vous.\n"
         actions: []
-        image_alt: lorem-ipsum
+        image_alt:
         media_position: top
         media_width: fifty
         align: center
