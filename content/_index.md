@@ -188,7 +188,7 @@ sections:
         content: "Après avoir trouvée des\_**mots clés**\_et des\_**longues traines**, j'utilise le logiciel \"**1.fr\".**\n\nCela permet d'enrichir le champ lexical du contenu.\n"
         content_align: center
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lien-champ-semantique
         image_position: top
