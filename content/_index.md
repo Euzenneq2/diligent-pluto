@@ -8,7 +8,7 @@ sections:
       C'est important en tant que rédactrice web d'être à jour des bonnes
       pratiques du référencement naturel...
     content: >
-      Vous avez besoin d'atteindre les 10 premiers résultat de recherche de
+      Vous avez besoin d'atteindre les 10 premiers résultats de recherche de
       Google pour promouvoir votre activité ?
     actions:
       - type: action
