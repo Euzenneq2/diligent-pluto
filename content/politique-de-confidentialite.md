@@ -22,6 +22,9 @@ seo:
     - name: 'twitter:description'
       value: This is the privacy policy page
 layout: page
+padding_top: large
+padding_bottom: large
+align: left
 ---
 ## Objet du traitement
 
