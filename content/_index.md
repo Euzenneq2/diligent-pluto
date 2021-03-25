@@ -369,8 +369,8 @@ sections:
       - title: Community management
         title_align: center
         content: >
-          La création d'une stratégie social média est devenue nécessaire pour
-          élaborer une communauté sur les réseaux sociaux.
+          La création d'une **stratégie social média** est devenue nécessaire
+          pour élaborer une **communauté** sur les réseaux sociaux.
         content_align: center
         actions:
           - label: En savoir plus
