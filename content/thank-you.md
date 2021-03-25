@@ -1,5 +1,5 @@
 ---
-title: Thank You
+title: Remerciement
 sections:
   - type: hero_section
     template: hero_section
