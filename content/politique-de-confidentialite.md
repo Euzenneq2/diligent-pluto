@@ -36,7 +36,7 @@ Ce fichier permet de :
 
     *   Sur d’autres produits ou services proposés par la société.
 
-### Catégories de données
+## Catégories de données
 
 *   Identité : civilité, nom, prénom, numéro de téléphone, adresse électronique, données relatives à l’enregistrement sur des listes d’opposition.
 
@@ -44,7 +44,7 @@ Ce fichier permet de :
 
 *   Données nécessaires à la réalisation des actions de fidélisation et de prospection : historique des navigation sur notre site internet.
 
-### Destinataires des données
+## Destinataires des données
 
 *   Les services clients de la société Mary Marketing sont destinataires de l’ensemble des catégories de données.
 
