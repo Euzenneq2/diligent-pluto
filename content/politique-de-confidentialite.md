@@ -48,7 +48,7 @@ Ce fichier permet de :
 
 *   Les services clients de la société Mary Marketing sont destinataires de l’ensemble des catégories de données.
 
-### Durée de conservation des données
+## Durée de conservation des données
 
 *   Données nécessaires à la réalisation des actions de fidélisation et à la prospection : pendant toute la durée de la relation commerciale et trois (3) ans à compter de la validation du formulaire de contact.
 
@@ -56,7 +56,7 @@ Ce fichier permet de :
 
 *   Données concernant les listes d'opposition à recevoir de la prospection\*\* :\*\* trois (3) ans.
 
-### Vos droits
+## Vos droits
 
 Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), [**contactez-nous**](https://happy-wallaby-3f6f4.netlify.app/contact)*.*
 
