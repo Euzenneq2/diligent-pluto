@@ -157,7 +157,7 @@ sections:
     features:
       - content: "C’est assez simple : il se charge de tout le contenue du site internet. Une\_**fiche produit**, un\_**article de blog**, une\_**page de vente**\_et bien d’autres. Je suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenue\_**unique**\_et de\_**qualité**.\n"
         actions: []
-        image_alt: engrenage-page-redaction-*web
+        image_alt: engrenage-page-redaction-web
         media_position: right
         media_width: fifty
         align: left
