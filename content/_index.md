@@ -41,7 +41,7 @@ sections:
         image_align: center
         title: Stratégie de contenu
         title_align: center
-        content_align: left
+        content_align: center
         content: |
           Étude de l'environnement
 
