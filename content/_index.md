@@ -369,9 +369,8 @@ sections:
       - title: Community management
         title_align: center
         content: >
-          La **gestion** d'une marque ou d'une entreprise sur les **réseaux**
-          **sociaux** est devenue nécessaire aujourd'hui. C'est aussi mon rôle
-          en tant que **CM**.
+          La création d'une stratégie social média est devenue nécessaire pour
+          élaborer une communauté sur les réseaux sociaux.
         content_align: center
         actions:
           - label: En savoir plus
