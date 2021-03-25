@@ -577,7 +577,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Découvrir !
+        label: 'Prendre '
         url: /about
         style: primary
     actions_position: bottom
