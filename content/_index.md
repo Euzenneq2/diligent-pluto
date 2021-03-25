@@ -473,7 +473,9 @@ sections:
     background_color: secondary
   - type: cta_section
     template: cta_section
-    title: Besoin d'un article SEO ? Contactez-moi !
+    title: >-
+      Besoin de créer du contenu pour dévellopper votre notoriété ?
+      Contactez-moi !
     actions:
       - type: action
         template: action
