@@ -17,7 +17,7 @@ image: images/blog-tendances-content-marketing-2021
 image_alt: blog-tendances-content-marketing-2021
 image_position: right
 seo:
-  title:
+  title: Vos
 image_alt: blog-tendances-content-marketing-2021
 image_position: right
 seo:
