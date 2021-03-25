@@ -24,7 +24,7 @@ sections:
 
           **Possibilité de forfait sur demande**
         actions: []
-        image_alt: lorem-ipsum
+        image_alt:
         media_position: top
         media_width: fifty
         align: center
