@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: data/categories/freelancing.json
+    category: data/categories/e-commerce.json
     show_date: true
     show_categories: true
     show_author: true
