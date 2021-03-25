@@ -42,7 +42,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in Tutorials
+  title: Posts in Inbound-marketing
   description: This is the author archive page
   extra:
     - name: 'og:type'
