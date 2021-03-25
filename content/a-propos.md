@@ -6,7 +6,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: 'Bonjour, moi c''est Mary'
+        title: 'Bonjour, moi c''est Mary !'
         subtitle: "Je suis\_rédactrice web SEO et travailleuse indépendante\_ depuis peu."
         image: /images/Mary-marketing-redactrice.png
         image_alt: Mary-marketing-redactrice
