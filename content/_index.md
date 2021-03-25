@@ -184,7 +184,6 @@ sections:
     actions: []
     grid_items:
       - title: Champ sémantique
-        subtitle: lorem-ipsum
         title_align: left
         content: |2
            
