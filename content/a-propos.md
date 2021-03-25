@@ -65,7 +65,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-        label: Facebook
+        label: Facebook Mary-marketing
       - url: '#'
         style: primary
         has_icon: true
