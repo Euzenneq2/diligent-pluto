@@ -1,8 +1,8 @@
 ---
-title: Inbound marketing
+title: Réseaux sociaux et social selling
 sections:
   - type: hero_section
-    title: Inbound marketing
+    title: Réseaux sociaux et social selling
     subtitle: The optional subtitle
     align: center
     padding_top: medium
