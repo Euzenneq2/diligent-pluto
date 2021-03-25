@@ -61,15 +61,17 @@ sections:
         title_align: center
         content_align: left
         content: |
-          *   Définition du champ sémantique
 
-          *   Création d'une ligne éditoriale
 
-          *   Rédaction de contenu unique
+          Définition du champ sémantique
 
-          *   Balises HTML
+          Création d'une ligne éditoriale
 
-          *   Méthode AIDA
+          Rédaction de contenu unique
+
+          Balises HTML
+
+          Méthode AIDA
       - type: grid_item
         template: grid_item
         image: /images/Référencement-seo.svg
