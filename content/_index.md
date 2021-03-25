@@ -249,6 +249,7 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
+        subtitle: Réd
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
