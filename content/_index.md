@@ -170,7 +170,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/Moteur-de-recherche.png
-        image_alt: Feature 2 placeholder image
+        image_alt: Moteur-de-recherche
         media_position: left
         media_width: fifty
         subtitle: >-
