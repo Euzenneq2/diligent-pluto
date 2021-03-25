@@ -89,6 +89,7 @@ sections:
           Longue traine
 
           Stratégie netlinking
+        content_align: center
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
