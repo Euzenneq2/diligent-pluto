@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Tarifs
 sections:
   - type: hero_section
     template: hero_section
