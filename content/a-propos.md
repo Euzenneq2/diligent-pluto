@@ -58,7 +58,7 @@ sections:
     template: grid_section
     actions:
       - url: '#'
-        style: link
+        style: primary
         has_icon: true
         icon: facebook
         icon_position: center
