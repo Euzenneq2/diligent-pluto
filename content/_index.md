@@ -192,7 +192,7 @@ sections:
         actions_width: auto
         image_alt: lien-champ-semantique
         image_position: top
-        image_width: fourty
+        image_width: twenty-five
         image_align: center
         image_has_padding: false
         type: grid_item
