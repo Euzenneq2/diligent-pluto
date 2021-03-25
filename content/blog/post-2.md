@@ -17,7 +17,7 @@ excerpt: >-
 thumb_image: images/blog-guide-seo.png
 thumb_image_alt: blog-guide-seo
 image: images/blog-guide-seo.png
-image_alt: Post 2 placeholder image
+image_alt: blog-guide-seo
 image_position: left
 seo:
   title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
