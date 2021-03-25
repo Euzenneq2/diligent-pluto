@@ -1,5 +1,5 @@
 ---
-title: "SEO\_ : quelles différences entre les liens Do follow et No follow\_ ?"
+title: "Quelles est la différence entre un lien \"Do follow\" et \"No follow\"\_ ?"
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
