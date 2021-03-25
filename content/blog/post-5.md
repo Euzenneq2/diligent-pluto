@@ -11,7 +11,7 @@ excerpt: >-
   Vous souhaitez changer de vie professionnelle et devenir rédacteur ou
   rédactrice web ? Dans cet article vous trouverez toutes les réponses à vos
   questions !
-thumb_image: /images/remarkable-plankton.png
+thumb_image: /images/article-devenir-redacteur-web.png
 thumb_image_alt: Post 5 placeholder image
 image: /images/remarkable-plankton.png
 image_alt: Post 5 placeholder image
