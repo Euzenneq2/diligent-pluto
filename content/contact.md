@@ -15,7 +15,7 @@ sections:
       Rassurez-vous, je ne mords pas et je ne vous ferai pas signer de devis dès
       notre premier contact. Choisissez une relation de confiance et ça sans
       engagement !
-    image_alt: page-contact
+    image_alt: contact-redactrice-web.png
   - type: features_section
     template: features_section
     features:
