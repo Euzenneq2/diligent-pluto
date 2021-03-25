@@ -14,7 +14,7 @@ excerpt: >-
   vitium consuetudo Latina traduceret.
 thumb_image: images/blog-tendances-content-marketing-2021.png
 thumb_image_alt: blog-tendances-content-marketing-2021
-image: images/blog-tendances-content-marketing-2021.png
+image: images/classic/post-2.png
 image_alt: blog-tendances-content-marketing-2021
 image_position: right
 seo:
