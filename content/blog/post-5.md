@@ -4,7 +4,6 @@ date: '2021-03-25'
 author: data/team/gustav-purpleson.json
 categories:
   - data/categories/freelancing.json
-  - data/categories/google-adwords-publicite-ligne.json
 tags:
   - data/tags/stackbit.json
   - data/tags/netlify.json
