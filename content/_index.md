@@ -22,7 +22,7 @@ sections:
         url: /blog
         style: primary
     image: /images/redacteur-web-seo-friendly.png
-    image_alt: redacteur-web-seo-friendly
+    image_alt: Redacteur-web-seo-friendly
     media_position: left
     media_width: fifty
     align: left
