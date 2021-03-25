@@ -95,7 +95,7 @@ params:
       - type: action
         template: action
         label: "Politique de\_ confidentialité"
-        url: /privacy-policy
+        url: /politique-de-confidentialite
         style: link
     has_social: true
     social_links:
