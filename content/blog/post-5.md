@@ -12,9 +12,9 @@ excerpt: >-
   rédactrice web ? Dans cet article vous trouverez toutes les réponses à vos
   questions !
 thumb_image: /images/article-devenir-redacteur-web.png
-thumb_image_alt: Post 5 placeholder image
+thumb_image_alt: article-devenir-redacteur-web.png
 image: /images/article-devenir-redacteur-web.png
-image_alt: Post 5 placeholder image
+image_alt: article-devenir-redacteur-web.png
 image_position: right
 seo:
   type: stackbit_page_meta
