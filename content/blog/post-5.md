@@ -13,7 +13,7 @@ excerpt: >-
   questions !
 thumb_image: /images/article-devenir-redacteur-web.png
 thumb_image_alt: Post 5 placeholder image
-image: /images/remarkable-plankton.png
+image: /images/article-devenir-redacteur-web.png
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
