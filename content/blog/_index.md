@@ -23,7 +23,7 @@ sections:
     image: /images/blog-redac-web.png
     media_position: right
     media_width: fifty
-    image_alt: blog-redac
+    image_alt: blog-redac-web
   - type: blog_feed_section
     template: blog_feed_section
     blog_feed_cols: three
