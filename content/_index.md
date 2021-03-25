@@ -412,6 +412,7 @@ sections:
     align: center
     background_color: none
     actions: []
+    padding_top: small
   - type: grid_section
     template: grid_section
     title: "Témoignages\_clients"
