@@ -8,7 +8,7 @@ sections:
         template: feature
         title: 'Bonjour, moi c''est Mary'
         subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu."
-        image: /images/Messaging fun-pana.png
+        image: /images/Mary-marketing-redactrice.png
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fourty
