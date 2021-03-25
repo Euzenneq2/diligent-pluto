@@ -43,15 +43,15 @@ sections:
         title_align: center
         content_align: left
         content: |
-          *   Étude de l'environnement
+          Étude de l'environnement
 
-          *   Recherche des mots clés pertinent
+          Recherche des mots clés pertinent
 
-          *   Identification de votre audience
+          Identification de votre audience
 
-          *   Définir vos objectifs
+          Définir vos objectifs
 
-          *   Élaborer une stratégie marketing
+          Élaborer une stratégie marketing
       - type: grid_item
         template: grid_item
         image: /images/Rédaction-web-seo.svg
