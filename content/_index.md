@@ -186,7 +186,7 @@ sections:
       - title: Champ sémantique
         title_align: center
         content: "Après avoir trouvée des\_**mots clés**\_et des\_**longues traines**, j'utilise le logiciel \"**1.fr\".**\n\nCela permet d'enrichir le champ lexical du contenu.\n"
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
