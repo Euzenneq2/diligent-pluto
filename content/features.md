@@ -123,7 +123,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-        image: /images/Going up-pana.svg
+        image: /images/Booster-votre-seo.svg
     feature_padding_vert: medium
     align: center
     padding_top: medium
