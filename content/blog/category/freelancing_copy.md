@@ -1,5 +1,5 @@
 ---
-title: Freelancing
+title: E-commerce
 sections:
   - type: hero_section
     title: Freelancing
