@@ -1,5 +1,5 @@
 ---
-title: Les grandes tendances du Content Marketing en 2012
+title: Les grandes tendances du Content Marketing en 2021
 date: '2020-05-30'
 author: data/team/dianne-ameter.json
 categories:
