@@ -275,7 +275,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: Par ici
+        label: Contactez-moi !
     actions_position: right
     actions_width: fourty
     align: left
