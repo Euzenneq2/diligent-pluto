@@ -42,7 +42,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in Inbound marketing
+  title: Posts in Réseaux sociaux et social selling
   description: This is the author archive page
   extra:
     - name: 'og:type'
