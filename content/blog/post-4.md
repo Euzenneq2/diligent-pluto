@@ -4,6 +4,7 @@ date: '2020-05-30'
 author: data/team/dianne-ameter.json
 categories:
   - data/categories/actualite-marketing-digital.json
+  - data/categories/publicite-adwords.json
 tags:
   - data/tags/jamstack.json
   - data/tags/sourcebit.json
