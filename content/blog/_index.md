@@ -22,7 +22,7 @@ sections:
         type: action
     image: /images/Windows-pana.png
     media_position: right
-    media_width: sixty
+    media_width: fifty
   - type: blog_feed_section
     template: blog_feed_section
     blog_feed_cols: three
