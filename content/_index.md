@@ -59,7 +59,7 @@ sections:
         image_align: center
         title: Rédaction web
         title_align: center
-        content_align: left
+        content_align: center
         content: |
 
 
