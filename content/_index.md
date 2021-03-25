@@ -212,17 +212,7 @@ sections:
       - title: Optimisation SEO
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Tout le contenu crée ou amélioré passe par l'optimisation SEO.\n\nLes\_**balises**, les\_**liens**, l'arborescence de votre site (H1, H2...), tout y passe.\n"
         content_align: left
         actions: []
         actions_align: left
