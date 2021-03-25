@@ -1,5 +1,5 @@
 ---
-title: Inbound marketing
+title: marketing-automation
 sections:
   - type: hero_section
     title: Inbound marketing
