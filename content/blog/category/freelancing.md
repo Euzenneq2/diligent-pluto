@@ -2,7 +2,7 @@
 title: Freelancing
 sections:
   - type: hero_section
-    title: Inbound marketing
+    title: Freelancing
     subtitle: The optional subtitle
     align: center
     padding_top: medium
