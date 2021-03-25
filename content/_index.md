@@ -577,7 +577,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Organiser un rendez-vous
+        label: Organiser un rendez-vous téléphonique
         url: /about
         style: primary
     actions_position: bottom
