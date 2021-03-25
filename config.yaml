@@ -122,7 +122,7 @@ params:
        &copy; Mary-Marketing rédactrice web freelance. Tous les droits 
       réservés. Ne pas utiliser le contenus et les photos sans autorisations.
   domain: 'https://diligent-pluto-bbfe2.netlify.app'
-  favicon: /images/Fichier 4@4x.png
+  favicon: /images/logo-favicon.png
 taxonomies:
   stub: stub
 disableKinds:
