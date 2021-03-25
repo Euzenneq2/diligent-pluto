@@ -1,5 +1,5 @@
 ---
-title: Inbound marketing
+title: Adwords et publicité en ligne
 sections:
   - type: hero_section
     title: Inbound marketing
