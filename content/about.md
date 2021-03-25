@@ -64,7 +64,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: Facebook
       - url: '#'
         style: primary
         has_icon: true
