@@ -2,7 +2,7 @@
 title: Publicité et adwords
 sections:
   - type: hero_section
-    title: Inbound marketing
+    title: Publicité et adwords
     subtitle: The optional subtitle
     align: center
     padding_top: medium
