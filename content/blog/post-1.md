@@ -7,6 +7,7 @@ date: '2020-04-16'
 author: data/team/dianne-ameter.json
 categories:
   - data/categories/general.json
+  - data/categories/freelancing.json
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
