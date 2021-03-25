@@ -222,6 +222,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/Fichier 12.svg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
