@@ -142,7 +142,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Découvrir
+        label: Me contacter
         url: /contact
         style: primary
         icon_position: left
