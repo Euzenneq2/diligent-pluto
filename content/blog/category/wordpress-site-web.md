@@ -1,5 +1,5 @@
 ---
-title: wordpress-site-web
+title: wordpress
 sections:
   - type: hero_section
     title: Inbound marketing
