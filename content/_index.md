@@ -566,7 +566,7 @@ sections:
       - type: action
         template: action
         label: Découvrir !
-        url: /a
+        url: /about
         style: primary
     actions_position: bottom
     align: center
