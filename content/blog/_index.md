@@ -20,7 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image: /images/Windows-pana.png
+    image: /images/blog-redac-web.png
     media_position: right
     media_width: fifty
   - type: blog_feed_section
