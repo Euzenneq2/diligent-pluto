@@ -555,10 +555,13 @@ sections:
   - type: cta_section
     template: cta_section
     title: Travaillons ensemble !
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      J'aide les entreprises dans la création ou dans la refonte du contenu
+      rédactionnel de leur site internet grâce à mes techniques de rédactrice
+      web et d'optimisation seo. 
+
+
+      N'hésitez pas à me contactez, un bon positionnement à la clé !
     actions:
       - type: action
         template: action
