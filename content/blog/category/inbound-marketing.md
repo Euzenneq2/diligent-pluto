@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: Inbound-marketing
 sections:
   - type: hero_section
     title: Tutorials
