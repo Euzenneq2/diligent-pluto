@@ -16,7 +16,6 @@ thumb_image_alt: blog-tendances-content-marketing-2021
 image: images/
 image_alt: blog-tendances-content-marketing-2021
 image_position: right
-image_position: right
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
