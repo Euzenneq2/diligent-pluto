@@ -53,7 +53,7 @@ sections:
         media_width: fifty
         align: center
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: none
   - type: grid_section
     template: grid_section
     actions:
