@@ -406,7 +406,7 @@ sections:
         type: grid_item
         image: /images/Formation.svg
     grid_cols: two
-    grid_gap_vert: small
+    grid_gap_vert: large
     grid_gap_horiz: large
     enable_cards: false
     align: center
