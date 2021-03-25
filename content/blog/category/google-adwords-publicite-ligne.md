@@ -2,7 +2,7 @@
 title: Adwords et publicité en ligne
 sections:
   - type: hero_section
-    title: Inbound marketing
+    title: Adwords et publicité en ligne
     subtitle: The optional subtitle
     align: center
     padding_top: medium
