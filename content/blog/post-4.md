@@ -3,7 +3,6 @@ title: Les grandes tendances du Content Marketing en 2021
 date: '2020-05-30'
 author: data/team/dianne-ameter.json
 categories:
-  - data/categories/inbound-marketing.json
   - data/categories/actualite-marketing-digital.json
 tags:
   - data/tags/jamstack.json
