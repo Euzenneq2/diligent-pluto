@@ -22,8 +22,8 @@ seo:
     - name: 'twitter:description'
       value: This is the privacy policy page
 sections:
-  - type: hero_section
-    template: hero_section
+- type: hero_section
+template: hero_section
 layout: page
 padding_top: large
 padding_bottom: large
