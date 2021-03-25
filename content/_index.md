@@ -281,6 +281,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        actions_width: full-width
       - type: grid_item
         template: grid_item
         title: Rédaction web
