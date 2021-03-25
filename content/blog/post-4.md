@@ -5,6 +5,7 @@ author: data/team/dianne-ameter.json
 categories:
   - data/categories/tutorials.json
   - data/categories/news.json
+  - data/categories/inbound-marketing.json
 tags:
   - data/tags/jamstack.json
   - data/tags/sourcebit.json
