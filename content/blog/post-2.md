@@ -6,7 +6,6 @@ subtitle: >-
 date: '2020-05-25'
 author: data/team/hilary-ouse.json
 categories:
-  - data/categories/general.json
   - data/categories/referencement-naturel-seo.json
 tags:
   - data/tags/jamstack.json
