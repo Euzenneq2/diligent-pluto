@@ -162,7 +162,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/Processing-pana.png
+        image: images/engrenage-page-redaction-web.png
         title: En quoi consiste le job d'une rédactrice freelance ?
     feature_padding_vert: medium
     align: center
