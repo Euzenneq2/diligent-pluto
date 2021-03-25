@@ -73,7 +73,7 @@ sections:
       - type: grid_item
         template: grid_item
         image: /images/Référencement-seo.svg
-        image_alt:Référencement-seo
+        image_alt: Référencement-seo
         image_align: center
         title: Référencement
         title_align: center
