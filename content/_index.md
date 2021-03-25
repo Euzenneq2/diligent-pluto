@@ -196,6 +196,11 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/lien-champ-semantique.svg
+        content: >
+          Après avoir trouvée vos mots clés et vos longues traines, j'utilise le
+          logiciel "1.fr".
+
+          Cela me permet d'enrichir le champ lexical du contenu.
       - title: Contenu exclusif
         title_align: center
         content: "Je m'engage à produire pour vous, du\_**contenue unique**.\n\nLe plagiat ne fait pas partie de mes façons de travailler.\n"
