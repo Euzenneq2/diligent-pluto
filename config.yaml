@@ -55,7 +55,7 @@ params:
   footer:
     type: footer
     template: footer
-    logo: /images/logo-footer.png
+    logo: /images/logo-footer-mary-marketing.png
     logo_alt: DIY logo
     has_primary_nav: true
     primary_nav_title: Entreprise
