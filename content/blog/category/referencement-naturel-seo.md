@@ -1,5 +1,5 @@
 ---
-title: Réferencement-naturel-seo
+title: Référencement-naturel-seo
 sections:
   - type: hero_section
     title: Inbound marketing
