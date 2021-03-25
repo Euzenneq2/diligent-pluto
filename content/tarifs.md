@@ -8,7 +8,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    image: /images/page-tarif.png
+    image: /images/tarif.png
     media_position: right
     image_alt: tarif-redaction-web
   - type: features_section
