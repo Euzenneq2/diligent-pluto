@@ -10,7 +10,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Back to homepage
+        label: Retour à l'accueil
         url: /
         style: primary
     align: center
