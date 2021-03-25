@@ -254,7 +254,7 @@ sections:
         template: feature
         title: 'Enchanté, moi c''est Mary !'
         image: images/portrait-mary-marketing_2.png
-        image_alt: Brandon Guidelines
+        image_alt: portrait-mary-marketing
         media_position: right
         media_width: thirty-three
         subtitle: >-
