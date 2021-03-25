@@ -73,14 +73,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - url: '#'
-        style: primary
-        has_icon: true
-        icon: youtube
-        icon_position: center
-        new_window: false
-        no_follow: false
-        type: action
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
