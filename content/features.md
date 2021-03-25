@@ -118,7 +118,7 @@ sections:
           la mise à jour de votre site internet.
         content: "Le\_**contenue éditorial**\_est aussi important car sans cela,\_**vous ne pourrez pas vendre**\_correctement vos produits ou services.\n\nVous pouvez vous débrouillez et essayer d'optimiser votre contenue SEO. Mais en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
         actions: []
-        image_alt: Booster-votre-contenu-seo
+        image_alt: Booster votre contenu seo
         media_position: left
         media_width: fourty
         align: left
