@@ -12,7 +12,7 @@ excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
   Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
   vitium consuetudo Latina traduceret.
-thumb_image: images/classic/post-4.png
+thumb_image: images/blog-tendances-content-marketing-2021.png
 thumb_image_alt: Post 4 placeholder image
 image: images/blog-tendances-content-marketing-2021.png
 image_alt: blog-tendances-content-marketing-2021
