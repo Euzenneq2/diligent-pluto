@@ -210,7 +210,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/opti-seo-home.svg
+        image: images/contenu-exclusif.svg
       - title: Optimisation SEO
         title_align: center
         content: "Tout le contenu crée ou amélioré passe par l'optimisation SEO.\n\nLes\_**balises**, les\_**liens**, l'arborescence de votre site (H1, H2...), tout y passe.\n"
