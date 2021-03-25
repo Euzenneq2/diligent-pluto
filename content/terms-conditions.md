@@ -25,10 +25,10 @@ layout: page
 ---
 ## Identité
 
-Nom du site web : < Nom du site >
+Nom du site web : Mary Marketing
 Adresse : < http://nomdusite.domaine >
-Propriétaire : < propriétaire >
-Responsable de publication : < nom du contact >
+Propriétaire : Marylène LOUIS
+Responsable de publication : Marylène LOUIS
 
 Conception et réalisation : < concepteur >
 Animation : < animateur >
@@ -83,7 +83,7 @@ Le propriétaire du site se réserve le droit de demander la suppression d’un 
 
 Tout utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une preuve d’identité. 
 
-Le site ne recueille pas d’informations personnelles, et n’est pas assujetti à déclaration à la CNIL.
+Pour connaitre la politique de confidentialité, veuillez vous référer à cette [page](/policy-privacy).
 
 ## Crédits
 
