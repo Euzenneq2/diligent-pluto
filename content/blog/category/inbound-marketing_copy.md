@@ -1,5 +1,5 @@
 ---
-title: informatique-technologie-outils
+title: Inbound marketing
 sections:
   - type: hero_section
     title: Inbound marketing
