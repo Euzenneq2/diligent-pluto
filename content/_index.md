@@ -179,7 +179,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Les 3 piliers indispensables
     subtitle: Comment vous serais-je utile ?
     actions: []
     grid_items: []
