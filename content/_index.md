@@ -198,17 +198,7 @@ sections:
         type: grid_item
       - title: Contenu exclusif
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Je m'engage à produire pour vous, du\_**contenue unique**.\n\nLe plagiat ne fait pas partie de mes façons de travailler.\n"
         content_align: left
         actions: []
         actions_align: left
