@@ -1,8 +1,5 @@
 ---
 title: Politique de confidentialité
-padding_top: large
-padding_bottom: large
-align: left
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
