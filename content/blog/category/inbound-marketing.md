@@ -2,7 +2,7 @@
 title: Inbound marketing
 sections:
   - type: hero_section
-    title: Tutorials
+    title: Inbound-marketing
     subtitle: The optional subtitle
     align: center
     padding_top: medium
