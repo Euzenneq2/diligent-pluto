@@ -6,7 +6,8 @@ sections:
     title: Rédactrice web SEO friendly
     subtitle: >-
       C'est important en tant que rédactrice web d'être à jour des bonnes
-      pratiques du référencement naturel...
+      pratiques du référencement naturel...Vous avez besoin d'atteindre les 10 premiers résultats de recherche de
+      Google pour promouvoir votre activité ?
     content: >
       Vous avez besoin d'atteindre les 10 premiers résultats de recherche de
       Google pour promouvoir votre activité ?
