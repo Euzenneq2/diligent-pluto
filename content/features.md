@@ -23,7 +23,7 @@ sections:
     padding_top: large
     padding_bottom: large
     align: left
-    image_alt: Redaction web in
+    image_alt: Redaction web internet
   - type: grid_section
     template: grid_section
     actions: []
