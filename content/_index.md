@@ -210,7 +210,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Optimisation SEO
-        title_align: left
+        title_align: center
         content: "Tout le contenu crée ou amélioré passe par l'optimisation SEO.\n\nLes\_**balises**, les\_**liens**, l'arborescence de votre site (H1, H2...), tout y passe.\n"
         content_align: center
         actions: []
