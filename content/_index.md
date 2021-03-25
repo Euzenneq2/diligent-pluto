@@ -244,7 +244,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: 'Enchanté, moi c''est Mary !'
+        title: 'Enchanté, moi c'est Mary !'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
