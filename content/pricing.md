@@ -8,7 +8,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    image: /images/Startup life-pana.png
+    image: /images/page-tarif.png
     media_position: right
   - type: features_section
     template: features_section
