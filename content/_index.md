@@ -253,6 +253,16 @@ sections:
           Rédactrice web et en freelance depuis peu. Je suis ravis de vous
           proposer mes services pour déployer votre stratégie éditoriale, en
           vous produisant du contenu optimisé SEO.          
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
