@@ -226,7 +226,7 @@ sections:
         type: grid_item
         image: images/Fichier 12.svg
     grid_cols: three
-    grid_gap_vert: small
+    grid_gap_vert: medium
     grid_gap_horiz: small
     enable_cards: false
     align: center
