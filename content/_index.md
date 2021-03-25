@@ -22,7 +22,7 @@ sections:
         url: /blog
         style: primary
     image: /images/redacteur-web-seo-friendly.png
-    image_alt: Hero section placeholder image
+    image_alt: redacteur-web-seo-friendly
     media_position: left
     media_width: fifty
     align: left
