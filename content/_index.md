@@ -577,7 +577,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: 'Prendre '
+        label: Prendre rendez-vous
         url: /about
         style: primary
     actions_position: bottom
