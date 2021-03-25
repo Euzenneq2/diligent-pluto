@@ -252,8 +252,7 @@ sections:
         subtitle: >-
           Rédactrice web et en freelance depuis peu. Je suis ravis de vous
           proposer mes services pour déployer votre stratégie éditoriale, en
-          vous produisant du contenu optimisé SEO.
-          
+          vous produisant du contenu optimisé SEO.          
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
