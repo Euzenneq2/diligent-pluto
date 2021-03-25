@@ -566,12 +566,14 @@ sections:
     template: cta_section
     title: Travaillons ensemble !
     content: >
-      J'aide les entreprises dans la création ou dans la refonte du contenu
-      rédactionnel de leur site internet grâce à mes techniques de rédactrice
-      web et mes outils d'optimisation seo.
+      Vous êtes à la recherche d'une collaboratrice pour vous accompagner dans
+      la création et la refonte de votre contenus rédactionnel ? Vous cherchez à
+      positionner votre site web sur des mots clés spécifique ? Vous avez besoin
+      de quelqu'un pour animer et gérer vos réseaux sociaux ? 
 
 
-      N'hésitez pas à me contactez, un bon positionnement à la clé !
+      Planifions un rendez-vous afin d'échanger sur vos attentes et vous
+      proposer des solutions adaptés.
     actions:
       - type: action
         template: action
