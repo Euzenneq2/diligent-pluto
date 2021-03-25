@@ -249,7 +249,10 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
-        subtitle: Réd
+        subtitle: >-
+          Rédactrice web et en freelance depuis peu. Je suis ravis de vous
+          proposer mes services pour déployer votre stratégie éditoriale, en
+          vous produisant du contenu optimisé SEO.
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
