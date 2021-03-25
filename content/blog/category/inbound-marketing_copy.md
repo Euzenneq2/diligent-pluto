@@ -2,7 +2,7 @@
 title: Actualité marketing digital
 sections:
   - type: hero_section
-    title: Inbound marketing
+    title: Actualité marketing digital
     subtitle: The optional subtitle
     align: center
     padding_top: medium
