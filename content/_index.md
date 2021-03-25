@@ -55,7 +55,7 @@ sections:
       - type: grid_item
         template: grid_item
         image: /images/Rédaction-web-seo.svg
-        image_alt: Netlify logo
+        image_alt: Rédaction-web-seo
         image_align: center
         title: Rédaction web
         title_align: center
