@@ -180,7 +180,7 @@ sections:
     align: center
     background_color: secondary
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Comment vous serais-je utile ?
     actions: []
     grid_items: []
     grid_cols: three
