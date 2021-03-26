@@ -82,7 +82,7 @@ params:
         template: action
         url: /blog/category/tutorials
         style: link
-        label: Réf
+        label: Référencement naturel
     has_tertiary_nav: true
     tertiary_nav_title: Liens utiles
     tertiary_nav_links:
