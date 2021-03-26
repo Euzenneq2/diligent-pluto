@@ -7,7 +7,7 @@ sections:
     image_alt: Mary-marketing-redactrice
     media_position: right
     media_width: fifty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
