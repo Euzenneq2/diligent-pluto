@@ -76,7 +76,7 @@ params:
       - type: action
         template: action
         label: Actualité marketing
-        url: /blog/category/actualite-marketing-digital
+        url: /blog/categor/actualite-marketing-digital
         style: link
       - type: action
         template: action
