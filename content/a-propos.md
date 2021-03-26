@@ -54,7 +54,7 @@ sections:
     padding_bottom: none
     title: 'Bonjour, moi c''est Mary !'
     subtitle: Rédactrice web SEO et travailleuse indépendante depuis peu.
-  - title: 'Bonjour, moi c''est Mary'
+  - title: 'Bonjour, moi c''est Mary !'
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
