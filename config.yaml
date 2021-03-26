@@ -70,7 +70,7 @@ params:
     secondary_nav_links:
       - type: action
         template: action
-        label: News
+        label: Tout les articles
         url: /blog
         style: link
       - type: action
