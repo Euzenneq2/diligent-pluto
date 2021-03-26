@@ -71,7 +71,7 @@ params:
       - type: action
         template: action
         label: News
-        url: /blog/category/news
+        url: /blog
         style: link
       - type: action
         template: action
