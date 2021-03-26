@@ -80,7 +80,7 @@ params:
         style: link
       - type: action
         template: action
-        url: /blog/category/referencement-naturel
+        url: /blog/categorie/referencement-naturel
         style: link
         label: Référencement naturel
     has_tertiary_nav: true
