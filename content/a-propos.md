@@ -55,6 +55,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     title: 'Bonjour, moi c''est Mary !'
+    subtitle: Rédactrice web SEO et travailleuse indépendante depuis peu.
   - type: grid_section
     template: grid_section
     actions:
