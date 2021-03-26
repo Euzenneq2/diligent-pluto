@@ -5,7 +5,7 @@ sections:
     subtitle: Rédactrice web SEO et travailleuse indépendante depuis peu.
     actions: []
     image_alt: Mary-marketing-redactrice
-    media_position: top
+    media_position: right
     media_width: fifty
     align: left
     padding_top: medium
