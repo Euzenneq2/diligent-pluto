@@ -6,7 +6,6 @@ sections:
     features:
       - type: feature
         template: feature
-        subtitle: Rédactrice web SEO et travailleuse indépendante depuis peu.
         image: /images/Mary-marketing-redactrice.png
         image_alt: Mary-marketing-redactrice
         media_position: right
