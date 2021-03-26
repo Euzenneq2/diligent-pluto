@@ -54,7 +54,7 @@ sections:
         align: center
     padding_top: medium
     padding_bottom: none
-    title: A propos
+    title: 'Bonjour, moi c''est Mary !'
   - type: grid_section
     template: grid_section
     actions:
