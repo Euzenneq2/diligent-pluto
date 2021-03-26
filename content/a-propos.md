@@ -6,7 +6,6 @@ sections:
     features:
       - type: feature
         template: feature
-        title: 'Bonjour, moi c''est Mary !'
         subtitle: Rédactrice web SEO et travailleuse indépendante depuis peu.
         image: /images/Mary-marketing-redactrice.png
         image_alt: Mary-marketing-redactrice
