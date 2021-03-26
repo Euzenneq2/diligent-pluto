@@ -7,10 +7,7 @@ categories:
 tags:
   - data/tags/jamstack.json
   - data/tags/sourcebit.json
-excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+excerpt: Vous avez besoin deconnaitre les tendances
 thumb_image_alt: blog-tendances-content-marketing-2021
 image: images/blog-tendances-content-marketing-2021.png
 image_alt: blog-tendances-content-marketing-2021
