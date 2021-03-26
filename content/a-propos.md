@@ -18,8 +18,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Mary-marketing-redactrice.png
-  - title: lorem-ip
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
