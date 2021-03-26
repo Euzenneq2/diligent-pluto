@@ -19,17 +19,39 @@ sections:
     type: hero_section
     image: images/Mary-marketing-redactrice.png
   - features:
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          Je m’appelle Marylène, j’ai 25 ans et j’habite depuis toujours en
+          Normandie. Je suis une jeune femme simple, curieuse, généreuse,
+          chaleureuse et organisée. Mon quotidien est rythmé par de la lecture,
+          de l’écriture, des balades à la mer et un peu de sport (un peu…).
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Plus jeune, je souhaits être vétérinaire, comédienne puis arrivée au
+          lycée, journaliste. Je me souviens de cette passion naissante et très
+          intense pour ce métier. Ma première année fut rythmée et driver par
+          cette envie. Puis après quelques remises en question, très courantes à
+          cet âge, je me suis tournée vers un milieu plus commun : le marketing.
 
 
-          - Lorem ipsum
+          Quelques années plus tard j’ai réalisé un BTS assistant-manager puis
+          un Bachelor en marketing événementiel dans lequel je me suis
+          véritablement épanouie tout en restant, personnellement, dans le web.
 
-          - dolor sit amet
+
+          À présent, je me lance dans ce domaine si familier pour moi et je vous
+          propose mes services.
+
+
+          Ce site est fait pour vous aider dans votre besoin de faire évoluer
+          votre contenu seo. Ensemble nous pourrons atteindre la première page
+          des moteurs de recherches !
+
+
+          Alors si vous voulez travailler avec moi, n’hésitez pas à me contacter
+          !
+
+
+          À bientôt !
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
