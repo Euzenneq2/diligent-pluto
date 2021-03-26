@@ -19,8 +19,7 @@ sections:
     type: hero_section
     image: images/Mary-marketing-redactrice.png
   - features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
