@@ -9,7 +9,7 @@ tags:
   - data/tags/sourcebit.json
 excerpt: >-
   Découvrez les tendances 2021 du marketing de contenu ! Dans cet articles nous
-  aborderons les 7 plus grandes tendances
+  aborderons les 7 plus grandes trends.
 thumb_image_alt: blog-tendances-content-marketing-2021
 image: images/blog-tendances-content-marketing-2021.png
 image_alt: blog-tendances-content-marketing-2021
