@@ -75,7 +75,7 @@ params:
         style: link
       - type: action
         template: action
-        label: General
+        label: Actualité marketing
         url: /blog/category/general
         style: link
       - type: action
