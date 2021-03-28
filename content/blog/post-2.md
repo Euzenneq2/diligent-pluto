@@ -1,8 +1,5 @@
 ---
 title: "Le guide\_ : tout comprendre du SEO technique"
-subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
 date: '2020-05-25'
 author: data/team/hilary-ouse.json
 categories:
