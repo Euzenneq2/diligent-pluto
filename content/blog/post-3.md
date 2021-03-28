@@ -1,8 +1,5 @@
 ---
 title: Comment mettre un lien en Nofollow ou Dofollow ?
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
 date: '2020-05-28'
 author: data/team/gustav-purpleson.json
 categories:
