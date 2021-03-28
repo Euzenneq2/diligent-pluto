@@ -8,8 +8,8 @@ tags:
   - data/tags/jamstack.json
   - data/tags/netlify.json
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  Vous souhaitez vous former au SEO ? Dans cet article vous aller découvrir les
+  bases du référencement !
 thumb_image: images/blog-guide-seo.png
 thumb_image_alt: blog-guide-seo
 image: images/blog-guide-seo.png
