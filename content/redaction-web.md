@@ -268,7 +268,7 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    title: Demandez un devis
+    title: 'Réorganisez votre site web,'
     actions:
       - url: /contact
         style: primary
