@@ -41,6 +41,7 @@ seo:
       value: images/classic/post-2.png
       relativeUrl: true
 layout: post
+author: data/team/mary-marketing.json
 ---
 ## Qu'est-ce que le référencement ?
 
