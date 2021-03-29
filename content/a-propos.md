@@ -72,7 +72,7 @@ sections:
   - actions: []
     grid_items:
       - title_align: center
-        content_align: left
+        content_align: center
         actions:
           - url: 'https://www.linkedin.com/company/mary-marketing'
             style: primary
