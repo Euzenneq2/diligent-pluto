@@ -92,7 +92,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Combien de temps faut-il pour écrire un article ?
-        content: "Tout dépend de sa\_**thématique**, de la\_**profondeur d'analyse sémantique**, de l'**optimisation SEO**\_à effectuer, du travail de\_**netlinking**\_et de la\_**taille de l'article**. Toutes ces variable peuvent influer sur la durée de ma prestation. Cependant\_**la durée moyenne de rédaction d'un article de 1000 mots varie entre une matinée à deux jours**.\n"
+        content: "Tout dépend de sa\_**thématique**, de la\_**profondeur d'analyse sémantique**, de l'**optimisation SEO**\_à effectuer, du travail de\_**netlinking**\_et de la\_**taille de l'article**. Toutes ces variables peuvent influer sur la durée de ma prestation. Cependant\_**la durée moyenne de rédaction d'un article de 1000 mots varie entre une matinée à deux jours**.\n"
       - type: grid_item
         template: grid_item
         title: Quels sont vos diplômes ?
