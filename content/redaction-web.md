@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Rédaction web pour tout vos site internet
-    subtitle: Soyez sur les première pages des moteurs de recherche !
+    subtitle: Soyez sur les premières pages des moteurs de recherche !
     background_color: primary
     actions:
       - label: Contactez-moi
