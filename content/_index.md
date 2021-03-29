@@ -558,7 +558,7 @@ sections:
         label: Voir tout mes articles
         url: /blog
         style: primary
-    blog_feed_cols: three
+    blog_feed_cols: two
     enable_cards: true
     show_recent: true
     recent_count: 3
