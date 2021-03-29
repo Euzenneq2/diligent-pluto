@@ -268,7 +268,7 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    title: 'Réorganisez votre site web,'
+    title: 'Réorganisez votre site web, gagnez en visibilité et'
     actions:
       - url: /contact
         style: primary
