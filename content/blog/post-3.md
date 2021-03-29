@@ -1,7 +1,6 @@
 ---
 title: Comment mettre un lien en Nofollow ou Dofollow ?
 date: '2021-02-03'
-author: data/team/gustav-purpleson.json
 categories:
   - data/categories/referencement-naturel-seo.json
 tags:
