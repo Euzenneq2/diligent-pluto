@@ -15,7 +15,7 @@ sections:
     template: features_section
     features:
       - content: |
-          **Rédaction web : à partir de 0,08 €/mot**
+          **Rédaction web : à partir de 0,10 €/mot**
 
           **Délais urgent (sous 24 h) : + 50 %**
 
