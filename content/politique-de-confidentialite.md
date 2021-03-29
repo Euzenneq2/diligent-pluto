@@ -1,6 +1,5 @@
 ---
 title: Politique de confidentialité
-
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
@@ -23,7 +22,7 @@ seo:
     - name: 'twitter:description'
       value: This is the privacy policy page
 sections:
-- type: hero_section
+  - type: hero_section
 template: hero_section
 layout: page
 padding_top: large
@@ -58,15 +57,15 @@ Ce fichier permet de :
 
 <!---->
 
-*   Données concernant les listes d'opposition à recevoir de la prospection\*\* :\*\* trois (3) ans.
+*   Données concernant les listes d'opposition à recevoir de la prospection : trois (3) ans.
 
 ## Vos droits
 
-Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), [**contactez-nous**](https://happy-wallaby-3f6f4.netlify.app/contact)*.*
+Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), [**contactez-nous**](/contact)*.*
 
 Vous pouvez accéder aux données vous concernant, les rectifier ou les faire effacer. Vous disposez également d'un droit à la portabilité et d’un droit à la limitation du traitement de vos données (Consultez le site cnil.fr pour plus d’informations sur vos droits).
 
-Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez [**contactez-nous**](https://happy-wallaby-3f6f4.netlify.app/contact).
+Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez [**contactez-nous**](/contact).
 
 Société Mary Marketing
 
