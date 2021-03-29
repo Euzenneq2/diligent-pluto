@@ -530,7 +530,7 @@ sections:
         title: Marylène Louis
         subtitle: Rédactrice Web
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/russell-sprout.jpg
         image_position: top
       - type: grid_item
         template: grid_item
