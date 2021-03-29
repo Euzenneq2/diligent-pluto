@@ -136,7 +136,7 @@ sections:
     background_image_repeat: no-repeat
   - type: cta_section
     template: cta_section
-    title: 'Rédaction de contenu à partir de 0,8€/mot'
+    title: 'À partir de 0,8€/mot, vous pouvez avoir un contenu SEO optimisé'
     content: |
       N'hésite plus
     actions:
