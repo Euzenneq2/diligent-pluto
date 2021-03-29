@@ -132,7 +132,7 @@ sections:
           - type: action
             template: action
             label: Plus de détails
-            url: /features
+            url: /redaction-web
             style: primary
             has_icon: true
             icon: arrow-right
