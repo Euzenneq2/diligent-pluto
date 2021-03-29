@@ -113,7 +113,6 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Tarifs
-  description: This is the pricing page
   extra:
     - name: 'og:type'
       value: website
