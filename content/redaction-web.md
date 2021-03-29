@@ -331,7 +331,6 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Rédaction web
-  description: This is the features page
   extra:
     - name: 'og:type'
       value: website
