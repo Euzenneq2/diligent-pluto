@@ -8,8 +8,8 @@ tags:
   - data/tags/stackbit.json
   - data/tags/jamstack.json
 excerpt: >-
-  Apprenez comment utiliser ces liens qui peuvent vous être très utile et rendre
-  votre site plus visible !
+  Apprenez à comment utiliser ces liens qui peuvent vous être très utile et
+  rendre votre site plus visible !
 thumb_image: images/blog-do-follow-no-follow.png
 thumb_image_alt: vignette-lien-do-follow-no-follow
 image: images/blog-do-follow-no-follow.png
