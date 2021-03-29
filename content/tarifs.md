@@ -96,7 +96,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Quels sont vos diplômes ?
-        content: "Diplômé d'une licence en\_**marketing événementiel**\_en 2018 et ayant un attrait pour les métiers du digital pendant mon cursus scolaire. J'ai décidé de suivre des\_**formations complémentaire pour mieux comprendre la communication sur internet**.\n\n\nJ'ai suivi\_**plusieurs certifications**\_sur la\_**rédaction web**, l'**optimisation SEO**\_et l'**UX design**.\n\nJe suis une grande curieuse et donc en\_**veille constante des innovations web**. C'est pourquoi je me forme en continu sur\_**les nouvelles stratégies et outils de demain**.\n"
+        content: "Diplômé d'une licence en\_**marketing événementiel**\_en 2018 et ayant un attrait pour les métiers du digital pendant mon cursus scolaire. J'ai décidé de suivre des\_**formations complémentaires pour mieux comprendre la communication sur internet**.\n\nJ'ai suivi\_**plusieurs certifications**\_sur la\_**rédaction web**, l'**optimisation SEO**\_et l'**UX design**.\n\nJe suis une grande curieuse et donc en\_**veille constante des innovations web**. C'est pourquoi je me forme en continu sur\_**les nouvelles stratégies et outils de demain**.\n"
       - type: grid_item
         template: grid_item
         title: Pourquoi faire appel à une rédactrice web ?
