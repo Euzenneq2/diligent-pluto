@@ -41,6 +41,10 @@ seo:
       relativeUrl: true
 layout: post
 author: data/team/mary-marketing.json
+excerpt: >-
+  Vous souhaitez changer de vie professionnelle et devenir rédacteur ou
+  rédactrice web ? Dans cet article vous trouverez toutes les réponses à vos
+  questions !
 ---
 Comment devenir rédacteur web ? Qu'est-ce qu'une rédactrice web ? 
 
