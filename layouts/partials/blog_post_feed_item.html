@@ -46,7 +46,7 @@
 						{{ end }}
 					{{ end }}
 					{{ if $blog_feed_section.show_date }}
-						<span class="item__date"><time datetime="{{ $post.Date | dateFormat "02-01-2006 15:04" }}">{{ $post.Date | dateFormat "{" }}</time></span>
+						<span class="item__date"><time datetime="{{ $post.Date | dateFormat "02-01-2006 15:04" }}">{{ $post.Date | dateFormat "02 Janvier 2006" }}</time></span>
 					{{ end }}
 				</div>
 				{{ end }}
