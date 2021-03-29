@@ -349,7 +349,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Feat
+      value: Rédaction web
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
