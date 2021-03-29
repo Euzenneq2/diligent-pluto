@@ -529,7 +529,7 @@ sections:
         title: Marylène Louis
         subtitle: Rédactrice Web
         title_align: center
-        image: images/portrait-mary-marketing_2.png
+        image: images/dianne-ameter.jpg
         image_position: top
       - type: grid_item
         template: grid_item
