@@ -113,7 +113,7 @@ sections:
 
 
           De plus, ce texte doit être rédigé selon des standards de
-          référencement préétablis dans **l'objectif de ce positionner sur des
+          référencement préétablis dans **l'objectif de se positionner sur des
           requêtes de mots clés ciblés**.
 
           C'est pourquoi il est impératif de savoir **optimiser son contenu**.
