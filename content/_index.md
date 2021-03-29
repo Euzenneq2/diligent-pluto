@@ -478,7 +478,7 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          Je me suis formé à la rédaction web avec Mary. Formation en quelques
+          Je me suis formé à la rédaction web grâce Mary. Formation en quelques
           heures, tout était très bien expliqué.
 
 
