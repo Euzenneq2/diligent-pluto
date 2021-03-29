@@ -44,6 +44,7 @@ seo:
       value: images/classic/post-5.png
       relativeUrl: true
 layout: post
+author: data/team/mary-marketing.json
 ---
 Comment devenir rédacteur web ? Qu'est-ce qu'une rédactrice web ? 
 
