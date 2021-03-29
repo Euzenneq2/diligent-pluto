@@ -5,8 +5,8 @@ sections:
     template: hero_section
     title: Blog rédactrice web SEO
     subtitle: >-
-      Chaque semaines, retrouvez mes conseils et stratégies qui fonctionnent
-      pour bâtir et optimiser votre contenu sur le web.
+      Chaque semaine, retrouvez mes conseils et stratégies qui fonctionnent pour
+      bâtir et optimiser votre contenu sur le web.
     align: center
     padding_top: medium
     padding_bottom: none
