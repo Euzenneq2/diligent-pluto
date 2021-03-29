@@ -69,49 +69,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - actions: []
-    grid_items:
-      - title_align: center
-        content_align: center
-        actions:
-          - url: 'https://www.linkedin.com/company/mary-marketing'
-            style: primary
-            has_icon: true
-            icon: linkedin
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
-          - url: 'https://www.facebook.com/marymarketing.pro'
-            style: primary
-            has_icon: true
-            icon: facebook
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-    grid_cols: two
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: none
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
   - actions:
       - style: primary
         has_icon: true
