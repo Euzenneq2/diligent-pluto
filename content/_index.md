@@ -309,8 +309,8 @@ sections:
         title_align: center
         content: >
           Que ce soit des **articles** de blog, des **fiches produit**, des
-          **pages web** ou des **livres blanc**... Rédiger ces supports est de
-          mon quotidien.
+          **pages web** ou des **livres blanc**... Rédiger ces supports est mon
+          quotidien.
         content_align: center
         actions:
           - type: action
