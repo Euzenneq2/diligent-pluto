@@ -243,7 +243,7 @@ sections:
         template: grid_item
         title: Des livres blancs
         title_align: left
-        content: "Le\_**livre blanc**\_ou l'**e-book**\_est un des outils du content marketing : l'**Asset Marketing**\_est un support que vous proposez en téléchargement à votre lead.\n\nÇa peut être un guide,\_**offert**\_à vos visiteurs, qui va apporter une expertise sur un produit, une problématique ou une technique. Il est destiné à vos prospects.\n\nMontrer à vos prospects vos\_**compétences**\_dans un domaine vie pourra être critère de décision d’achat.\n"
+        content: "Le\_**livre blanc**\_ou l'**e-book**\_est un des outils du content marketing : l'**Asset Marketing**\_est un support que vous proposez en téléchargement à votre lead.\n\nÇa peut être un guide,\_**offert**\_à vos visiteurs, qui va apporter une expertise sur un produit, une problématique ou une technique. Il est destiné à vos prospects.\n\nMontrer à vos prospects vos\_**compétences**\_dans un domaine peut être un critère de décision d’achat.\n"
         content_align: left
         actions:
           - type: action
