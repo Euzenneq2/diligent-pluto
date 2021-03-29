@@ -30,25 +30,26 @@ sections:
           lycée, journaliste. Je me souviens de cette passion naissante et très
           intense pour ce métier. Ma première année fut rythmée et driver par
           cette envie. Puis après quelques remises en question, très courantes à
-          cet âge, je me suis tournée vers un milieu plus commun : le marketing.
+          cet âge. Je me suis tournée vers un milieu plus commun : le marketing.
 
 
           Quelques années plus tard j’ai réalisé un BTS assistant-manager puis
           un Bachelor en marketing événementiel dans lequel je me suis
-          véritablement épanouie tout en restant, personnellement, dans le web.
+          véritablement épanouie car mes missions était orientées vers la
+          communication digitale.
 
 
-          À présent, je me lance dans ce domaine si familier pour moi et je vous
-          propose mes services.
+          À présent, je me lance dans ce domaine qui m'est si familier en je
+          vous propose mes services.
 
 
-          Ce site est fait pour vous aider dans votre besoin de faire évoluer
-          votre contenu seo. Ensemble nous pourrons atteindre la première page
-          des moteurs de recherches !
+          Mon objectif est de vous accompagner dans votre besoin de création ou
+          d'évolution de vos contenus web. Notre collaboration aura pour
+          ambition d'atteindre les premières pages des moteurs de recherches.
 
 
-          Alors, si vous voulez travailler avec moi, n’hésitez pas à me
-          contacter !
+          C'est pourquoi, si vous voulez travailler avec moi, n’hésitez pas à me
+          contacter.
 
 
           À bientôt !
