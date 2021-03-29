@@ -137,7 +137,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: >-
-      À partir de 0,08€/mot, vous pouvez avoir un contenu SEO optimisé pour
+      À partir de 0,10€/mot, vous pouvez avoir un contenu SEO optimisé pour
       Google
     content: |
       Grâce à des techniques bien définies, soyez meilleur que vos concurrents !
