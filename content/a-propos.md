@@ -113,8 +113,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - actions:
-      - url: 'https://www.facebook.com/marymarketing.pro'
-        style: primary
+      - style: primary
         has_icon: true
         icon: linkedin
         icon_position: center
