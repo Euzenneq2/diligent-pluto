@@ -46,6 +46,8 @@ layout: post
 ## Qu'est-ce que le référencement ?
 
 SEO signifie Search engine optimization (optimisation des moteurs de recherche). Il s'agit d'un ensemble de règles permettant d'optimiser votre site Web afin qu'il obtienne un meilleur classement dans les résultats organiques des moteurs de recherche. C'est le processus à suivre pour augmenter la visibilité de votre site web dans les moteurs de recherche et obtenir plus de trafic.
+
+
 Le référencement a deux objectifs principaux. Le premier est de vous aider à comprendre ce que les utilisateurs recherchent en ligne afin que vous puissiez créer un contenu de haute qualité pour satisfaire leurs intentions. Le second est de vous aider à créer un site Web que les moteurs de recherche peuvent trouver, indexer et comprendre son contenu.
 En outre, le respect des bonnes pratiques de référencement est un excellent moyen d'améliorer la qualité d'un site Web en le rendant plus convivial, plus rapide et plus facile à naviguer.
 Les tâches de référencement les plus importantes sont les suivantes :
@@ -93,13 +95,13 @@ Référencement technique : Avec le référencement technique, vous pouvez vous 
 Référencement sur site : Règles à appliquer sur votre site et son contenu pour qu'il soit adapté aux moteurs de recherche.
 Référencement hors site : Moyens de promouvoir votre site Web ou votre blog afin qu'il soit mieux classé dans les résultats de recherche.
 
-### SEO technique
+### Technique SEO
 
 La première étape du processus de référencement est appelée référencement technique. Comme son nom l'indique, le référencement technique n'a rien à voir avec le contenu réel d'un site Web ou avec les méthodes de promotion du site.
 Il s'agit plutôt de paramètres à configurer pour faciliter le travail des robots d'exploration des moteurs de recherche. En général, une fois que votre référencement technique est correct, vous n'avez plus besoin de vous en occuper.
 En revanche, si vous avez des problèmes d'exploration et d'indexation, cela peut avoir un impact négatif sur votre classement.
 
-### SEO sur site
+### SEO on-site
 
 La deuxième étape est le référencement sur site. Le référencement sur site concerne principalement le contenu et les autres éléments présents sur une page.
 Contrairement au référencement technique et au référencement hors page, l'objectif principal du référencement sur page est de fournir aux robots d'exploration des moteurs de recherche suffisamment de signaux pour qu'ils puissent comprendre la signification et le contexte de votre contenu.
@@ -108,13 +110,13 @@ C'est à ce stade que vous aborderez la structure du site Web, les mots-clés de
 S'il est suivi correctement, le référencement sur page améliorera également la convivialité et la crédibilité d'un site Web ou d'un blog.
 Notez que l'optimisation du contenu fait partie du référencement sur page, mais on parle parfois de référencement de contenu.
 
-### SEO hors site
+### SEO off-site
 
 La troisième étape est le référencement hors site. Outre les modifications que vous pouvez apporter à votre site Web (référencement sur site) pour qu'il soit mieux classé dans les SERPs, l'autre moyen d'améliorer le classement de votre site Web est d'utiliser des techniques de référencement hors site.
 
 #### Pourquoi le référencement hors site est-il important ?
 
-En général, lorsqu'un utilisateur tape une requête de recherche, les algorithmes des moteurs de recherche consultent leur index et essaient de trouver les meilleures pages qui peuvent satisfaire l'intention de l'utilisateur. Les pages qui sont de bons candidats apparaissent dans les premières positions des résultats de recherche. 
+En général, lorsqu'un utilisateur tape une requête de recherche, les algorithmes des moteurs de recherche consultent leur index et essaient de trouver les meilleures pages qui peuvent satisfaire l'intention de l'utilisateur. Les pages qui sont de bons candidats apparaissent dans les premières positions des résultats de recherche.
 
 L'un des facteurs permettant de déterminer la position d'une page web dans les résultats est le nombre de liens entrants (backlinks). Les backlinks sont un signal de confiance et, selon leur provenance, ils peuvent grandement affecter votre position dans le classement. Si les liens proviennent de sites connus et dignes de confiance, votre classement en sera positivement affecté. S'il s'agit de liens payants, de liens dans des annuaires d'articles, de fermes de liens ou du résultat d'un échange, votre classement sera affecté négativement. L'obtention de liens de cette manière constitue une violation des directives de Google et entraînera très probablement une pénalité de Google.
 
