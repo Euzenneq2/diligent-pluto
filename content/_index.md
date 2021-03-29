@@ -527,7 +527,7 @@ sections:
         image_position: top
       - type: grid_item
         template: grid_item
-        title: Marylène Louis
+        title: Etienne Lecaudey
         subtitle: Rédactrice Web
         title_align: center
         image: images/russell-sprout.jpg
