@@ -21,7 +21,7 @@
 						{{ partial "blog_post_categories.html" $include_dict }}
 						<span class="post__meta-sep"> &middot; </span>
 					{{ end }}
-					<span class="post__date"><time datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time></span>
+					<span class="post__date"><time datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{ .Date | dateFormat "January 02, 2006" }</time></span>
 				</div>
 				<h1 class="post__title mt-0">{{ .Params.title }}</h1>
 				{{ if .Params.subtitle }}
