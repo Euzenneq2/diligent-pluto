@@ -111,7 +111,7 @@ params:
       - type: action
         template: action
         label: YouTube
-        url: 'https://www.facebook.com/'
+        url: 'https://www.facebook.com/marymarketing.pro'
         style: link
         has_icon: true
         icon: facebook
