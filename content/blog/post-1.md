@@ -1,8 +1,5 @@
 ---
 title: 'Rédaction web : 6 pièges qui vous font perdre du temps'
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
 date: '2020-04-16'
 author: data/team/dianne-ameter.json
 categories:
