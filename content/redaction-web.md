@@ -330,7 +330,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: 
+  title: Rédaction web
   description: This is the features page
   extra:
     - name: 'og:type'
