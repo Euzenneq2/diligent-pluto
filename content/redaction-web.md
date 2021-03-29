@@ -223,7 +223,7 @@ sections:
         template: grid_item
         title: Des pages web
         title_align: left
-        content: "Les pages web doivent répondre à une problématique de\_**référencement naturel**.\n\n\nQu'est ce que le référencement naturel ? Il s'agit de soumettre du\_**contenu de qualité**, avec un champ lexical et sémantique riche et un nombre de mots conséquent afin de répondre aux exigence de Google et ainsi être dans le top 10 des apparition après une recherche.\n\nTout ceci s'améliore grâce en partie à la\_**pyramide inversée**\_(type de rédaction qui consiste à aller droit au but) ainsi que toute l’**optimisation SEO**\_(Balise META : balise TITRE et méta description).\n"
+        content: "Les pages web doivent répondre à une problématique de\_**référencement naturel**.\n\nQu'est-ce que le référencement naturel ? Il s'agit de soumettre du\_**contenu de qualité**, avec un champ lexical et sémantique riche et un nombre de mots conséquent afin de répondre aux exigences de Google et ainsi être dans le top 10 des apparition après une recherche.\n\nTout ceci s'améliore grâce en partie à la\_**pyramide inversée**\_(type de rédaction qui consiste à aller droit au but) ainsi que toute l’**optimisation SEO**\_(Balise META : balise TITRE et méta description).\n"
         content_align: left
         actions:
           - type: action
