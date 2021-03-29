@@ -1,7 +1,6 @@
 ---
 title: Comment devenir rédactrice web ?
 date: '2021-03-25'
-author: data/team/gustav-purpleson.json
 categories:
   - data/categories/freelancing.json
 tags:
