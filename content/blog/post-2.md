@@ -1,5 +1,5 @@
 ---
-title: "Le guide\_ : tout comprendre du SEO technique"
+title: "Le guide\_ : tout comprendre des\_ techniques SEO"
 date: '2020-05-25'
 author: data/team/hilary-ouse.json
 categories:
