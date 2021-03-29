@@ -33,11 +33,11 @@ Propriétaire : Marylène LOUIS
 
 Responsable de publication : Marylène LOUIS
 
-Conception et réalisation : < concepteur >
+Conception et réalisation : Marylène LOUIS
 
-Animation : < animateur >
+Animation : Marylène LOUIS
 
-Hébergement : < hébergeur >
+Hébergement : Netlify
 
 ## Personne morale
 
@@ -89,8 +89,4 @@ Le propriétaire du site se réserve le droit de demander la suppression d’un 
 
 Tout utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une preuve d’identité. 
 
-Pour connaitre la politique de confidentialité, veuillez vous référer à cette [page](/policy-privacy).
-
-## Crédits
-
-< crédits photo, icones, etc. >
+Pour connaitre la politique de confidentialité, veuillez vous référer à cette [page](/politique-confidentialite).
