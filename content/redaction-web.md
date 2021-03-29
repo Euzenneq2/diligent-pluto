@@ -290,6 +290,8 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
+    content: |
+      réserver un rendez-vous téléphonique 
   - type: features_section
     template: features_section
     features:
