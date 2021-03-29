@@ -65,7 +65,6 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Blog
-  description: This is the blog page
   extra:
     - name: 'og:type'
       value: website
