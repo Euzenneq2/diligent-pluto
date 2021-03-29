@@ -41,6 +41,7 @@ seo:
       value: images/classic/post-3.png
       relativeUrl: true
 layout: post
+author: data/team/mary-marketing.json
 ---
 ## Liens Nofollow et Dofollow : Que sont-ils ?
 
