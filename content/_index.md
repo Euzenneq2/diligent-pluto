@@ -258,7 +258,7 @@ sections:
         media_position: right
         media_width: thirty-three
         subtitle: >-
-          "Rédactrice web et en freelance depuis peu. Je suis ravis de vous
+          "Rédactrice web et en freelance depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre stratégie éditoriale, en
           vous produisant du contenu optimisé SEO."
         actions:
