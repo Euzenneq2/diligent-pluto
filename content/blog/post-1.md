@@ -5,8 +5,8 @@ author: data/team/dianne-ameter.json
 categories:
   - data/categories/freelancing.json
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  Dans cet articles vous aller pouvoir connaître les pièges qu'il faut éviter
+  dans la rédaction de contenu pour être dans les temps.
 thumb_image: images/blog-piege-temps.png
 thumb_image_alt: blog-piege-temps
 image: images/blog-piege-temps.png
