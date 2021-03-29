@@ -5,8 +5,8 @@ sections:
     template: hero_section
     title: Tarifs
     subtitle: >-
-      Faites vous une idées du budget qu'il vous faut ! Mes tarifs peuvent être
-      dégressifs selon la commande
+      Contactez-moi pour en savovir plus !Mes tarifs peuvent être dégressifs
+      selon la commande
     align: center
     padding_top: large
     padding_bottom: small
