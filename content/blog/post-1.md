@@ -1,6 +1,6 @@
 ---
 title: 'Rédaction web : 6 pièges qui vous font perdre du temps'
-date: '2021-01-17'
+date: '2021-01-04'
 author: data/team/dianne-ameter.json
 categories:
   - data/categories/freelancing.json
