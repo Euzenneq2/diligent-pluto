@@ -622,5 +622,6 @@ seo:
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
+  description: 'Mary Marketing : Rédacteur web SEO friendly, '
 layout: advanced
 ---
