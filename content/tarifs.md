@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Tarifs
-    subtitle: 'Par mot, feuillet ou à la journée, c''est vous qui choississez !'
+    subtitle: 'Par mot, feuillet ou à la journée, c''est vous qui choisissez !'
     align: center
     padding_top: large
     padding_bottom: small
