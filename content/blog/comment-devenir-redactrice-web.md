@@ -1,5 +1,5 @@
 ---
-title: Comment devenir rédactrice web ?
+title: Comment devenir rédacteur web ?
 date: '2021-03-25'
 categories:
   - data/categories/freelancing.json
