@@ -140,7 +140,7 @@ sections:
       À partir de 0,8€/mot, vous pouvez avoir un contenu SEO optimisé pour
       Google
     content: |
-      N'hésite plus
+      Soyez meilleurs que vos concurrents !
     actions:
       - type: action
         template: action
