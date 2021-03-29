@@ -623,7 +623,7 @@ seo:
       value: images/diy-preview.png
       relativeUrl: true
   description: >-
-    Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale, Social
-    média, Netlinking, 
+    Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale,
+    Netlinking, Social média, Google analytics
 layout: advanced
 ---
