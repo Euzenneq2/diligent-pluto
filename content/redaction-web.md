@@ -230,7 +230,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /style-guide
+            url: /redaction-web
             style: link
             has_icon: true
             icon: arrow-right
