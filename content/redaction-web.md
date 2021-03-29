@@ -145,7 +145,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Me contacter
+        label: Allons-y !
         url: /contact
         style: primary
         icon_position: left
