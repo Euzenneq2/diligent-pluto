@@ -75,7 +75,7 @@ sections:
         content_align: left
         actions:
           - url: 'https://www.linkedin.com/company/mary-marketing'
-            style: secondary
+            style: primary
             has_icon: true
             icon: linkedin
             icon_position: center
