@@ -117,7 +117,6 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: À propos
-  description: This is the about us page
   extra:
     - name: 'og:type'
       value: website
