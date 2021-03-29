@@ -83,7 +83,7 @@ sections:
             no_follow: false
             type: action
           - url: 'https://www.facebook.com/marymarketing.pro'
-            style: secondary
+            style: primary
             has_icon: true
             icon: facebook
             icon_position: center
