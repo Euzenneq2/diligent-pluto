@@ -77,7 +77,7 @@ sections:
           - url: '#'
             style: secondary
             has_icon: true
-            icon: facebook
+            icon: linkedin
             icon_position: right
             new_window: false
             no_follow: false
