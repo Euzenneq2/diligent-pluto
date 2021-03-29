@@ -1,5 +1,5 @@
 ---
-title: 6 pièges qui vous font perdre du temps
+title: 6 pièges qui vous font perdre du temps en rédaction web
 date: '2021-01-04'
 categories:
   - data/categories/freelancing.json
