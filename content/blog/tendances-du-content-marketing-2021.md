@@ -1,6 +1,6 @@
 ---
 title: Les grandes tendances du Content Marketing en 2021
-date: '2021-03-02'
+date: '02-03-2021'
 categories:
   - data/categories/actualite-marketing-digital.json
 tags:
