@@ -537,7 +537,7 @@ sections:
         title: Maxime Louis
         subtitle: Dévelopeur Web
         title_align: center
-        image: images/Maxime-Louis.jpg
+        image: images/russell-sprout.jpg
         image_position: top
       - type: grid_item
         template: grid_item
