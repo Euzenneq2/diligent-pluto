@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Tarifs
-    subtitle: 'Par mot, feuillet ou à la journée quel est votre préférence ?'
+    subtitle: Faites vous une idées du budget qu'il vous faut
     align: center
     padding_top: large
     padding_bottom: small
