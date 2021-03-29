@@ -403,8 +403,8 @@ sections:
       - title: Formation
         title_align: center
         content: >
-          Vous avez la possibilité de me demander une formation **clair et
-          concise** pour que vous soyez votre propre **rédacteur web** !
+          Je propose des formations pour vous et vos équipes afin de vous rendre
+          autonome en rédaction SEO ! vous aurez les compétences en interne
         content_align: center
         actions:
           - label: En savoir plus
