@@ -114,8 +114,8 @@ sections:
     title: 'Faire appel à une professionnelle du contenu web, c''est primordial !'
     features:
       - subtitle: >-
-          Aujourd'hui, la rédaction web est primordiale lors de la création ou
-          la mise à jour de votre site internet.
+          Aujourd'hui, la rédaction web est obligatoire lors du développement du
+          positionnement de votre site internet.
         content: "Le\_**contenue éditorial**\_est aussi important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherches pour vendre vos produits ou services.\n\nVous pouvez le faire vous même et essayer d'optimiser votre contenue SEO. Mais en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
         actions: []
         image_alt: Booster votre contenu seo
