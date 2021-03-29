@@ -624,7 +624,7 @@ seo:
       relativeUrl: true
   description: >-
     Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale,
-    Netlinking, Social média, Google Analytics. Une alliée pour améliorer votre
-    visibilité !
+    Netlinking, Social média, Google Analytics. Une alliée pour booster votre
+    référencement !
 layout: advanced
 ---
