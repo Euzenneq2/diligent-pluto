@@ -112,7 +112,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Pricing
+  title: Tarifs
   description: This is the pricing page
   extra:
     - name: 'og:type'
