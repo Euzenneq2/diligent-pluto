@@ -38,6 +38,7 @@ seo:
       value: images/classic/post-1.png
       relativeUrl: true
 layout: post
+author: data/team/mary-marketing.json
 ---
 Sur le Web, le public a une durée d'attention assez courte. Cela signifie que vous devez aller droit au but et les accrocher avant qu'ils ne reçoivent une notification Facebook, un SMS ou ne s'éloignent tout simplement de votre page. Avant de perdre une minute de plus à rédiger un contenu qui sera ignoré, voici 6 erreurs à éviter.
 
