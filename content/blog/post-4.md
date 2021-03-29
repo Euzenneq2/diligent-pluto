@@ -41,6 +41,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: images/blog-tendances-content-marketing-2021.png
+author: data/team/mary-marketing.json
 ---
 Le chaos de 2020 étant désormais derrière nous, il est temps de se tourner vers ce que nous pouvons attendre des 12 prochains mois.
 
