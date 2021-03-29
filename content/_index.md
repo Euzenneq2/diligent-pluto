@@ -598,7 +598,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Mary Marketing - Rédactrice web  SEO - Gagnez en visibilité !
+  title: Mary Marketing - Rédactrice web  SEO - Gagnez en visibilité
   extra:
     - name: 'og:type'
       value: website
