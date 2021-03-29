@@ -268,7 +268,7 @@ sections:
   - type: cta_section
     template: cta_section
     title: >-
-      Réorganisez votre site web, gagnez en visibilité et retrouvez une
+      Réorganiser votre site web, gagnez en visibilité et retrouver une
       croissance
     actions:
       - url: /contact
