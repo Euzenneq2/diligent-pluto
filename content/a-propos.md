@@ -26,7 +26,7 @@ sections:
           de l’écriture, des balades à la mer et un peu de sport (un peu…).
 
 
-          Plus jeune, je souhaits être vétérinaire, comédienne puis arrivée au
+          Plus jeune, je souhaitais être vétérinaire, comédienne puis arrivée au
           lycée, journaliste. Je me souviens de cette passion naissante et très
           intense pour ce métier. Ma première année fut rythmée et driver par
           cette envie. Puis après quelques remises en question, très courantes à
@@ -47,8 +47,8 @@ sections:
           des moteurs de recherches !
 
 
-          Alors si vous voulez travailler avec moi, n’hésitez pas à me contacter
-          !
+          Alors, si vous voulez travailler avec moi, n’hésitez pas à me
+          contacter !
 
 
           À bientôt !
