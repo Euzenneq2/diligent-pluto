@@ -49,7 +49,7 @@ Sur le Web, le public a une durée d'attention assez courte. Cela signifie que v
 
 L'écriture est autant un art qu'une compétence et tous les artistes aiment se montrer. Le problème avec les blogs, les articles et autres textes Web, c'est que la plupart des lecteurs n'ont pas envie de rester assez longtemps pour déchiffrer des métaphores complexes et lire de longs passages. Allez droit au but et restez simple pour que les lecteurs puissent entrer, obtenir les informations dont ils ont besoin et passer à autre chose.
 
-## Se concentrer sur le référencement seo
+## Se concentrer sur le référencement
 
 Par le passé, pour améliorer le classement d'un site dans les moteurs de recherche, le rédacteur devait insérer des mots clés maladroits, utiliser des orthographes différentes et répéter un mot jusqu'à ce que vous en ayez marre. Google en a assez et privilégie désormais les textes bien écrits, qui se veulent informatifs et utiles. Si l'on vous attribue un ou deux mots clés, veillez à les utiliser de manière stratégique, mais concentrez-vous d'abord sur la production d'un contenu exceptionnel. Sinon, vous ne ferez que produire des mots que personne ne perdra son temps à lire.
 
