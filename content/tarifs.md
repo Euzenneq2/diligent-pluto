@@ -17,10 +17,6 @@ sections:
       - content: |
           **Rédaction web : à partir de 0,08 €/mot**
 
-          **Relecture et correction : 50 €/heure**
-
-          **Tarif à la journée : 300€**
-
           **Délais urgent (sous 24 h) : + 50 %**
 
           **Possibilité de forfait sur demande**
