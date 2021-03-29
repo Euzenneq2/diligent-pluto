@@ -528,7 +528,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Etienne Lecaudey
-        subtitle: Rédactrice Web
+        subtitle: Sécurité & Réseaux
         title_align: center
         image: images/russell-sprout.jpg
         image_position: top
