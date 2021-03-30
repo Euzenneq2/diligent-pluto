@@ -77,6 +77,13 @@ seo:
         vous.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Besoins de contenu rédactionnel ? Vous désirez collaborer avec moi ?
+        Remplissez le formulaire de contact, je serais ravie d'échanger avec
+        vous.
+      keyName: name
+      relativeUrl: false
   description: >-
     Besoins de contenu rédactionnel ? Vous désirez collaborer avec moi ?
     Remplissez le formulaire de contact, je serais ravie d'échanger avec vous.
