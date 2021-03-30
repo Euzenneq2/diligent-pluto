@@ -120,9 +120,6 @@ seo:
     - name: 'og:title'
       value: Tarifs - Mary Marketing
       keyName: property
-    - name: 'og:description'
-      value: This is the pricing page
-      keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
       keyName: property
