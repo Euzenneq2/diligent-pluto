@@ -43,7 +43,7 @@ seo:
         Suivez les grandes tendances du Content Marketing ! Les live-stream, les
         commandes vocales... Que nous réserve 2021 ? 
     - name: 'twitter:image'
-      value: images/classic/post-4.png
+      value: /images/blog-tendances-content-marketing-2021.png
       relativeUrl: true
 layout: post
 thumb_image: images/blog-tendances-content-marketing-2021.png
