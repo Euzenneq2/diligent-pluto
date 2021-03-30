@@ -112,7 +112,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Tarifs
+  title: Tarifs - Mary Marketing
   extra:
     - name: 'og:type'
       value: website
