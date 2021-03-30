@@ -70,5 +70,6 @@ seo:
       value: /images/square-coriander.png
       keyName: property
       relativeUrl: true
+  description: 'Vous désirez collaborer avec moi ? '
 layout: advanced
 ---
