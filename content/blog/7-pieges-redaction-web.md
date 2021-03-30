@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Les pièges dans la rédaction web - Blog - Mary Marketing
+      value: Les pièges dans la rédaction web - Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
