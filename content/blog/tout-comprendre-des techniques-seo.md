@@ -24,7 +24,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: Tout comprendre des techniques SEO
       keyName: property
     - name: 'og:description'
       value: Quae diligentissime contra Aristonem dicuntur a Chryippo
