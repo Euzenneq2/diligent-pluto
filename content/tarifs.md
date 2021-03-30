@@ -129,7 +129,9 @@ seo:
     - name: 'twitter:title'
       value: Tarifs - Mary Marketing
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: >-
+        Rédaction web SEO à partir de 0,10€ - Délais urgent (sous 24H) + 50 % -
+        Possibilité de forfait sur devis.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
