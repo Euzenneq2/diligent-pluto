@@ -14,7 +14,7 @@ image_position: right
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Blog Mary Marketing - Devenir un rédacteur web ?
+  title: Devenir un rédacteur web ? - Mary Marketing
   extra:
     - name: 'og:type'
       value: article
