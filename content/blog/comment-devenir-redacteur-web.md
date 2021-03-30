@@ -28,7 +28,7 @@ seo:
         avantages, les missions ainsi que les formations à avoir pour ce lancer.
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/article-devenir-redacteur-web.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
