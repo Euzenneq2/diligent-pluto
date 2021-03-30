@@ -25,7 +25,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /images/blog-piege-temps.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
