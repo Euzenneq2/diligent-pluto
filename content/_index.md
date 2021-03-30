@@ -604,7 +604,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Mary Marketing - Rédacteur web SEO - Gagnez en visibilité !
       keyName: property
     - name: 'og:description'
       value: The preview of the DIY theme
