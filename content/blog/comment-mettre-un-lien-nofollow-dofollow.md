@@ -32,7 +32,7 @@ seo:
         article vous apprendrez où ? quand ? et comment les utiliser ?
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-3.png
+      value: /images/blog-do-follow-no-follow.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
