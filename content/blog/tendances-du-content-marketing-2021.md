@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+      value: Les tendances du content marketing 2021 - Mary Marketing
     - name: 'twitter:description'
       value: >-
         Suivez les grandes tendances du Content Marketing ! Les live-stream, les
