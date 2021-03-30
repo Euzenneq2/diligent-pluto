@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: ' Devenir un rédacteur web ? - Blog - Mary Marketing'
+      value: ' Devenir un rédacteur web ? - Mary Marketing'
     - name: 'twitter:description'
       value: >-
         Envie de devenir rédacteur web ? Dans cet articles nous dévoilons les
