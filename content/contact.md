@@ -62,9 +62,6 @@ seo:
     - name: 'og:title'
       value: Contact - Mary Marketing - Rédacteur web
       keyName: property
-    - name: 'og:description'
-      value: This is the contact page
-      keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
