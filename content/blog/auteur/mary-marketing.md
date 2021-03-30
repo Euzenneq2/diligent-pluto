@@ -54,7 +54,10 @@ seo:
       value: Blog - Article de Mary Marketing
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Vous trouverez sur cette page tous les articles rédigés par Mary
+        Marketing. Les sujets sont divers et variés, n'hésitez pas à tous les
+        consulter.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
