@@ -38,6 +38,7 @@ seo:
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
+  description: 'Envie de devenir rédacteur web ? Dans cet articles vous trouverez les '
 layout: post
 author: data/team/mary-marketing.json
 excerpt: >-
