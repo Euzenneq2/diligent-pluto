@@ -44,7 +44,7 @@ seo:
         Vous souhaitez tout comprendre des différentes techniques SEO ? Dans cet
         articles nous les décortiquons !
     - name: 'twitter:image'
-      value: images/classic/post-2.png
+      value: /images/blog-guide-seo.png
       relativeUrl: true
 layout: post
 author: data/team/mary-marketing.json
