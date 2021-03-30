@@ -358,7 +358,7 @@ seo:
       value: images/about-3.jpg
       relativeUrl: true
   description: >
-    Ce que je vous propose en rédaction web : étude de la thématique, production
-    de contenu, optimisation SEO. Tout pour séduire vos visiteurs.
+    Ce que je vous propose en rédaction web : Étude de la thématique, Production
+    de contenu, Optimisation SEO. Tout pour séduire vos visiteurs.
 layout: advanced
 ---
