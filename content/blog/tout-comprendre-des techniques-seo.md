@@ -40,7 +40,9 @@ seo:
     - name: 'twitter:title'
       value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
     - name: 'twitter:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Vous souhaitez tout comprendre des différentes techniques SEO ? Dans cet
+        articles nous les décortiquons !
     - name: 'twitter:image'
       value: images/classic/post-2.png
       relativeUrl: true
