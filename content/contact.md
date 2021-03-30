@@ -70,6 +70,8 @@ seo:
       value: /images/square-coriander.png
       keyName: property
       relativeUrl: true
-  description: 'Besoins de Vous désirez collaborer avec moi ? '
+  description: >-
+    Besoins de contenu rédactionnel ? Vous désirez collaborer avec moi ?
+    Remplissez le formulaire de contact, je serais ravie d'échanger avec vous.
 layout: advanced
 ---
