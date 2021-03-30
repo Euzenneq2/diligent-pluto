@@ -42,7 +42,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts by Mary-marketing
+  title: Blog - Article de Mary Marketing
   description: This is the author archive page
   extra:
     - name: 'og:type'
