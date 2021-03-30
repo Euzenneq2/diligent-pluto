@@ -16,7 +16,7 @@ image_alt: lien-do-follow-no-follow
 image_position: right
 seo:
   title: Mettre un lien en Nofollow ou Dofollow - Mary Marketing
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: 'Connaissez vous l''importances des liens Nofollow et '
   extra:
     - name: 'og:type'
       value: article
