@@ -24,7 +24,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Tout comprendre des techniques SEO
+      value: Tout comprendre des techniques SEO - Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
