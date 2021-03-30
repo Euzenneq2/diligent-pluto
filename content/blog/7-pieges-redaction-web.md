@@ -40,7 +40,7 @@ seo:
         temps c'est de l'argent. Découvrez les points à éviter pour ne pas
         perdre de temps.
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /images/blog-piege-temps.png
       relativeUrl: true
   description: >-
     Dans la rédaction web comment dans d'autres domaines d'activités : le temps
