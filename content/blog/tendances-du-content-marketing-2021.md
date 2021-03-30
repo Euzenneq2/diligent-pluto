@@ -14,7 +14,7 @@ image: images/blog-tendances-content-marketing-2021.png
 image_alt: blog-tendances-content-marketing-2021
 image_position: right
 seo:
-  title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+  title: Les tendances du content marketing 2021 - Mary Marketing
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
   extra:
     - name: 'og:type'
