@@ -35,7 +35,10 @@ seo:
     - name: 'twitter:title'
       value: Les pièges dans la rédaction web - Blog - Mary Marketing
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Dans la rédaction web comment dans d'autres domaines d'activités : le
+        temps c'est de l'argent. Découvrez les points à éviter pour ne pas
+        perdre de temps.
     - name: 'twitter:image'
       value: images/classic/post-1.png
       relativeUrl: true
