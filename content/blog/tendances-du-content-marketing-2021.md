@@ -26,7 +26,9 @@ seo:
       value: Les tendances du content marketing 2021 - Mary Marketing
       keyName: property
     - name: 'og:description'
-      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+      value: >-
+        Suivez les grandes tendances du Content Marketing ! Les live-stream, les
+        commandes vocales... Que nous réserve 2021 ? 
       keyName: property
     - name: 'og:image'
       value: images/classic/post-4.png
