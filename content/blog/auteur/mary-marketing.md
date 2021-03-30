@@ -68,7 +68,10 @@ seo:
     - name: 'twitter:title'
       value: Blog - Article de Mary Marketing
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: >-
+        Vous trouverez sur cette page tous les articles rédigés par Mary
+        Marketing. Les sujets sont divers et variés, n'hésitez pas à tous les
+        consulter.
     - name: 'twitter:image'
       value: /images/square-coriander.png
       relativeUrl: true
