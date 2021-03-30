@@ -36,6 +36,12 @@ seo:
     - name: 'twitter:image'
       value: images/classic/post-1.png
       relativeUrl: true
+  description: >-
+    Dans la rédaction web comment dans la plus part des domaine d'activité : le
+    temps c'est de l'argent. Découvrez les points à éviter pour ne pas perdre de
+    temps dans la 
+
+    .
 layout: post
 author: data/team/mary-marketing.json
 ---
