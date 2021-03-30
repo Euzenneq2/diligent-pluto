@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Tout comprendre des techniques SEO
+      value: Tout comprendre des techniques SEO - Mary Marketing
     - name: 'twitter:description'
       value: >-
         Vous souhaitez tout comprendre des différentes techniques SEO ? Dans cet
