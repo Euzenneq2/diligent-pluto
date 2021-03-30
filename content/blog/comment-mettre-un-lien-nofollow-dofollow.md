@@ -40,7 +40,9 @@ seo:
     - name: 'twitter:title'
       value: Mettre un lien en Nofollow ou Dofollow - Mary Marketing
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        Connaissez vous l'importances des liens Nofollow et Dofollow ? Dans cet
+        article vous apprendrez où ? quand ? et comment les utiliser ?
     - name: 'twitter:image'
       value: images/classic/post-3.png
       relativeUrl: true
