@@ -612,10 +612,6 @@ seo:
         Netlinking, Social média, Google Analytics. Une alliée pour booster
         votre visibilité !
       keyName: property
-    - name: 'og:image'
-      value: images/diy-preview.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
