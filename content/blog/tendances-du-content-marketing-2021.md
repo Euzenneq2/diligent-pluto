@@ -31,7 +31,7 @@ seo:
         commandes vocales... Que nous réserve 2021 ? 
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-4.png
+      value: /images/blog-tendances-content-marketing-2021.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
