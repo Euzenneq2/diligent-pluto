@@ -354,7 +354,7 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
-  description: >-
+  description: >
     Ce que je vous propose en rédaction web : étude de la thématique, production
     de contenu, optimisation SEO. Tout pour séduire vos visiteurs.
 layout: advanced
