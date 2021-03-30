@@ -618,9 +618,6 @@ seo:
       value: Stackbit DIY Theme
     - name: 'twitter:description'
       value: The preview of the DIY theme
-    - name: 'twitter:image'
-      value: images/diy-preview.png
-      relativeUrl: true
   description: >-
     Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale,
     Netlinking, Social média, Google Analytics. Une alliée pour booster votre
