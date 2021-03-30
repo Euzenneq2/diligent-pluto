@@ -15,7 +15,7 @@ image: images/blog-do-follow-no-follow.png
 image_alt: lien-do-follow-no-follow
 image_position: right
 seo:
-  title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+  title: Mettre un lien en Nofollow ou Dofollow - Mary Marketing
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
