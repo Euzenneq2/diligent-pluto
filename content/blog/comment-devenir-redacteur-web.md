@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Blog Mary Marketing - Devenir un rédacteur web ?
+      value: ' Devenir un rédacteur web ? - Blog - Mary Marketing'
       keyName: property
     - name: 'og:description'
       value: >-
