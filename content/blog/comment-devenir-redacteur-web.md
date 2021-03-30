@@ -14,7 +14,7 @@ image_position: right
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Amet Nulla Facilisi Morbi Tempus
+  title: Blog - Comment devenir rédacteur web ?
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
