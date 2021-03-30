@@ -23,7 +23,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+      value: Les tendances du content marketing 2021 - Mary Marketing
       keyName: property
     - name: 'og:description'
       value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
