@@ -125,7 +125,9 @@ seo:
       value: Àpropos
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Rédactrice web SEO en freelance. Découvrez moi au travers de cette
+        page. 
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
