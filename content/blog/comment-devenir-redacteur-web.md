@@ -40,7 +40,7 @@ seo:
         Envie de devenir rédacteur web ? Dans cet articles nous dévoilons les
         avantages, les missions ainsi que les formations à avoir pour ce lancer.
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/article-devenir-redacteur-web.png
       relativeUrl: true
   description: >-
     Envie de devenir rédacteur web ? Dans cet articles nous dévoilons les
