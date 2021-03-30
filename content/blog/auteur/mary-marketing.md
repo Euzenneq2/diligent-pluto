@@ -43,7 +43,9 @@ sections:
     background_color: secondary
 seo:
   title: Blog - Article de Mary Marketing
-  description: This is the author archive page
+  description: >-
+    Vous trouverez sur cette page tous les articles rédigés par Mary Marketing.
+    Les sujets sont divers et variés, n'hésitez pas à tous les consulter.
   extra:
     - name: 'og:type'
       value: website
