@@ -64,7 +64,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Blog
+  title: Blog rédactrice web SEO - Mary Marketing
   extra:
     - name: 'og:type'
       value: website
