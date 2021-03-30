@@ -24,7 +24,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Mettre un lien en Nofollow ou Dofollow - Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
