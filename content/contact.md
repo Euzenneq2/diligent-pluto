@@ -71,5 +71,9 @@ seo:
       value: Contact - Mary Marketing - Rédacteur web
     - name: 'twitter:description'
       value: This is the contact page
+    - name: 'og:image'
+      value: /images/square-coriander.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
