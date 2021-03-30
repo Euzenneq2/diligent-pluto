@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Les pièges dans la rédaction web - Blog - Mary Marketing
+      value: Les pièges dans la rédaction web - Mary Marketing
     - name: 'twitter:description'
       value: >-
         Dans la rédaction web comment dans d'autres domaines d'activités : le
