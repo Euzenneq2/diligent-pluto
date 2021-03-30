@@ -16,7 +16,9 @@ image_alt: lien-do-follow-no-follow
 image_position: right
 seo:
   title: Mettre un lien en Nofollow ou Dofollow - Mary Marketing
-  description: 'Connaissez vous l''importances des liens Nofollow et Dofollow ? '
+  description: >-
+    Connaissez vous l'importances des liens Nofollow et Dofollow ? Dans cet
+    article vous apprendrez où ? quand ? et comment les utiliser ?
   extra:
     - name: 'og:type'
       value: article
