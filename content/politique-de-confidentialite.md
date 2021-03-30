@@ -4,7 +4,6 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Politique de confidentialité
-  description: This is the privacy policy page
   extra:
     - name: 'og:type'
       value: website
