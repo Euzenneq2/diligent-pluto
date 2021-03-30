@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: v
+      value: Blog Mary Marketing - Devenir un rédacteur web ?
     - name: 'twitter:description'
       value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
     - name: 'twitter:image'
