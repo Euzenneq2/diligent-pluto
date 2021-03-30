@@ -116,7 +116,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: À propos
+  title: À propos - Mary Marketing
   extra:
     - name: 'og:type'
       value: website
