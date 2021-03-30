@@ -136,5 +136,8 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
+  description: >-
+    Rédaction web SEO à partir de 0,10€ - Délais urgent (sous 24H) + 50 % -
+    Possibilité de forfait sur devis.
 layout: advanced
 ---
