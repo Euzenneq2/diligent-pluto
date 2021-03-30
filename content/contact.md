@@ -60,7 +60,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact - Mary Marketing - Rédacteur web
       keyName: property
     - name: 'og:description'
       value: This is the contact page
