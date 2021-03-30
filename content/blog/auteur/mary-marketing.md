@@ -5,7 +5,7 @@ sections:
     title: Mary Marketing
     align: center
     padding_top: medium
-    padding_bottom: none
+    padding_bottom: medium
     background_color: none
   - type: blog_feed_section
     blog_feed_cols: three
