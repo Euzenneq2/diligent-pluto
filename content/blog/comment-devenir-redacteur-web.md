@@ -15,7 +15,6 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Blog - Comment devenir rédacteur web ?
-  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
       value: article
