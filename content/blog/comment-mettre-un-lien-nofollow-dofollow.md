@@ -27,7 +27,9 @@ seo:
       value: Cur Ipse Pythagoras Et Aegyptum Lustravit
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        Connaissez vous l'importances des liens Nofollow et Dofollow ? Dans cet
+        article vous apprendrez où ? quand ? et comment les utiliser ?
       keyName: property
     - name: 'og:image'
       value: images/classic/post-3.png
