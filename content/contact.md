@@ -54,7 +54,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Contact
+  title: Contact - Mary Marketing - Rédacteur web
   extra:
     - name: 'og:type'
       value: website
