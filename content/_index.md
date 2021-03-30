@@ -617,7 +617,10 @@ seo:
     - name: 'twitter:title'
       value: Mary Marketing - Rédacteur web SEO - Gagnez en visibilité !
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: >-
+        Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale,
+        Netlinking, Social média, Google Analytics. Une alliée pour booster
+        votre visibilité !
   description: >-
     Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale,
     Netlinking, Social média, Google Analytics. Une alliée pour booster votre
