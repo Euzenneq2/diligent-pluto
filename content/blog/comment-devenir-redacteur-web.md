@@ -36,7 +36,9 @@ seo:
     - name: 'twitter:title'
       value: Blog Mary Marketing - Devenir un rédacteur web ?
     - name: 'twitter:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: >-
+        Envie de devenir rédacteur web ? Dans cet articles nous dévoilons les
+        avantages, les missions ainsi que les formations à avoir pour ce lancer.
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
