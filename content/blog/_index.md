@@ -73,7 +73,10 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: >-
+        Grâce au blog Mary marketing, restez à l'écoutes des dernières nouvelle
+        dans le domaine du marketing, de la rédaction web ou plus généralement,
+        du digital ! 
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
