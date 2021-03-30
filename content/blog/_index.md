@@ -70,7 +70,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog rédactrice web SEO - Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
