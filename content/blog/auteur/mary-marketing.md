@@ -51,7 +51,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by Mary-marketing
+      value: Blog - Article de Mary Marketing
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
