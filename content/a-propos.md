@@ -140,6 +140,6 @@ seo:
     - name: 'twitter:image'
       value: images/about-1.jpg
       relativeUrl: true
-  description: 'Découvrez moi au travers de cette page. '
+  description: Rédactrice web SEO en freelance
 layout: advanced
 ---
