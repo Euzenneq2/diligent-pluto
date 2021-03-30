@@ -21,7 +21,10 @@ seo:
       value: Les pièges dans la rédaction web - Blog - Mary Marketing
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Dans la rédaction web comment dans d'autres domaines d'activités : le
+        temps c'est de l'argent. Découvrez les points à éviter pour ne pas
+        perdre de temps.
       keyName: property
     - name: 'og:image'
       value: /images/blog-piege-temps.png
