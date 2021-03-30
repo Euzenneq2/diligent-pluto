@@ -2,7 +2,7 @@
 title: Mary-marketing
 sections:
   - type: hero_section
-    title: Mary-marketing
+    title: Mary Marketing
     subtitle: The optional subtitle
     align: center
     padding_top: medium
