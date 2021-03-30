@@ -88,5 +88,9 @@ seo:
     - name: 'twitter:image'
       value: /images/square-coriander.png
       relativeUrl: true
+  description: >-
+    Grâce au blog Mary marketing, restez à l'écoutes des dernières nouvelle dans
+    le domaine du marketing, de la rédaction web ou plus généralement, du
+    digital ! 
 layout: advanced
 ---
