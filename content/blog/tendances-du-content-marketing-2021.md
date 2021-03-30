@@ -39,7 +39,9 @@ seo:
     - name: 'twitter:title'
       value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
     - name: 'twitter:description'
-      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+      value: >-
+        Suivez les grandes tendances du Content Marketing ! Les live-stream, les
+        commandes vocales... Que nous réserve 2021 ? 
     - name: 'twitter:image'
       value: images/classic/post-4.png
       relativeUrl: true
