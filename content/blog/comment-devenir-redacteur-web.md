@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: Blog Mary Marketing - Devenir un rédacteur web ?
       keyName: property
     - name: 'og:description'
       value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
