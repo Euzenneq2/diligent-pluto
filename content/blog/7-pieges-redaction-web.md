@@ -13,7 +13,6 @@ image_alt: blog-piege-temps
 image_position: right
 seo:
   title: Les pièges dans la rédaction web - Blog - Mary Marketing
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
       value: article
