@@ -15,7 +15,7 @@ image: images/blog-guide-seo.png
 image_alt: blog-guide-seo
 image_position: left
 seo:
-  title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+  title: Tout comprendre des techniques SEO
   description: Quae diligentissime contra Aristonem dicuntur a Chryippo
   extra:
     - name: 'og:type'
