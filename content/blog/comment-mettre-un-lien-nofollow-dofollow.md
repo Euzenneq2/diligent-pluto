@@ -44,7 +44,7 @@ seo:
         Connaissez vous l'importances des liens Nofollow et Dofollow ? Dans cet
         article vous apprendrez où ? quand ? et comment les utiliser ?
     - name: 'twitter:image'
-      value: images/classic/post-3.png
+      value: /images/blog-do-follow-no-follow.png
       relativeUrl: true
 layout: post
 author: data/team/mary-marketing.json
