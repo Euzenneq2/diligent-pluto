@@ -138,7 +138,9 @@ seo:
     - name: 'twitter:title'
       value: Àpropos
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Rédactrice web SEO en freelance. Découvrez moi au travers de cette
+        page. 
     - name: 'twitter:image'
       value: /images/square-coriander.png
       relativeUrl: true
