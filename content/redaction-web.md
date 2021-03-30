@@ -356,6 +356,8 @@ seo:
       relativeUrl: true
   description: >-
     Ce que je vous propose en rédaction web : étude de la thématique, production
-    de contenu, optimisation SEO... Tout pour 
+    de contenu, optimisation SEO.
+
+    Tout pour séduir vos visiteurs
 layout: advanced
 ---
