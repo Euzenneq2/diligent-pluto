@@ -354,6 +354,6 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
-  description: 'Rédactrice web seo, je vous propose mes service afin de'
+  description: 'Rédactrice web SEO, je vous propose mes service afin de'
 layout: advanced
 ---
