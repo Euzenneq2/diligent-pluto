@@ -15,7 +15,7 @@ image_alt: blog-tendances-content-marketing-2021
 image_position: right
 seo:
   title: Les tendances du content marketing 2021 - Mary Marketing
-  description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+  description: 'Suivez les tendances 2021 du Content Marketing ! '
   extra:
     - name: 'og:type'
       value: article
