@@ -339,7 +339,10 @@ seo:
       value: Rédaction web
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: >-
+        Ce que je vous propose en rédaction web : étude de la thématique,
+        production de contenu, optimisation SEO. Tout pour séduire vos
+        visiteurs.
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
