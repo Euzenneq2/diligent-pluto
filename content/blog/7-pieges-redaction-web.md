@@ -12,7 +12,7 @@ image: images/blog-piege-temps.png
 image_alt: blog-piege-temps
 image_position: right
 seo:
-  title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: Les pièges dans la rédaction web - Blog - Mary Marketing
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
