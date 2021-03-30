@@ -16,7 +16,9 @@ image_alt: blog-guide-seo
 image_position: left
 seo:
   title: Tout comprendre des techniques SEO
-  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
+  description: >-
+    Vous souhaitez tout comprendre des différentes techniques SEO ? Dans cet
+    articles nous les décortiquons !
   extra:
     - name: 'og:type'
       value: article
