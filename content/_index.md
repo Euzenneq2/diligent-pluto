@@ -607,7 +607,10 @@ seo:
       value: Mary Marketing - Rédacteur web SEO - Gagnez en visibilité !
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >-
+        Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale,
+        Netlinking, Social média, Google Analytics. Une alliée pour booster
+        votre visibilité !
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
