@@ -23,7 +23,9 @@ seo:
       value: Blog Mary Marketing - Devenir un rédacteur web ?
       keyName: property
     - name: 'og:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: >-
+        Envie de devenir rédacteur web ? Dans cet articles nous dévoilons les
+        avantages, les missions ainsi que les formations à avoir pour ce lancer.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
