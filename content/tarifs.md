@@ -127,7 +127,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Pricing
+      value: Tarifs - Mary Marketing
     - name: 'twitter:description'
       value: This is the pricing page
     - name: 'twitter:image'
