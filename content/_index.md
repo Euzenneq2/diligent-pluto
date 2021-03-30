@@ -621,10 +621,6 @@ seo:
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
-    - name: 'og:image'
-      value: /images/Vignette%20fb.png
-      keyName: property
-      relativeUrl: true
   description: >-
     Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale,
     Netlinking, Social média, Google Analytics. Une alliée pour booster votre
