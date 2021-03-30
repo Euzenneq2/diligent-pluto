@@ -38,7 +38,9 @@ seo:
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
-  description: 'Envie de devenir rédacteur web ? Dans cet articles vous trouverez les '
+  description: >-
+    Envie de devenir rédacteur web ? Dans cet articles nous dévoilons les
+    avantages, les missions ainsi que les formations à avoir pour ce lancer.
 layout: post
 author: data/team/mary-marketing.json
 excerpt: >-
