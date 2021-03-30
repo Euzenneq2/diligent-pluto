@@ -342,7 +342,7 @@ seo:
       value: This is the features page
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /images/square-coriander.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
