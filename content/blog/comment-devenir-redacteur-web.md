@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: v
     - name: 'twitter:description'
       value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
     - name: 'twitter:image'
