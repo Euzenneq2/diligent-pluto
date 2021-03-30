@@ -140,7 +140,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: /images/square-coriander.png
       relativeUrl: true
   description: 'Rédactrice web SEO en freelance. Découvrez moi au travers de cette page. '
 layout: advanced
