@@ -27,7 +27,9 @@ seo:
       value: Tout comprendre des techniques SEO
       keyName: property
     - name: 'og:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Vous souhaitez tout comprendre des différentes techniques SEO ? Dans cet
+        articles nous les décortiquons !
       keyName: property
     - name: 'og:image'
       value: /images/blog-guide-seo.png
