@@ -49,9 +49,9 @@ seo:
 layout: post
 author: data/team/mary-marketing.json
 ---
-## Qu'est-ce que le référencement ?
+## Qu'est-ce que le SEO ?
 
-SEO signifie Search engine optimization (optimisation des moteurs de recherche). Il s'agit d'un ensemble de règles permettant d'optimiser votre site internet afin qu'il obtienne un meilleur classement dans les résultats naturels des moteurs de recherche. C'est le processus à suivre pour augmenter la visibilité de votre site web dans les moteurs de recherche et obtenir plus de trafic.
+SEO signifie Search engine optimization (optimisation des moteurs de recherche). Il s'agit d'un ensemble de règles permettant d'optimiser votre site internet afin qu'il obtienne un meilleur classement dans les résultats naturels des moteurs de recherche. C'est le processus à suivre pour augmenter la visibilité de votre site web dans les moteurs de recherche et obtenir plus de trafic. On l'appel aussi "le référencement".
 
 Le référencement a deux objectifs principaux. Le premier est de vous aider à comprendre ce que les utilisateurs recherchent en ligne afin que vous puissiez créer un contenu de haute qualité pour satisfaire leurs intentions. Le second est de vous aider à créer un site internet que les moteurs de recherche peuvent trouver, indexer et comprendre son contenu.
 En outre, le respect des bonnes pratiques de référencement est un excellent moyen d'améliorer la qualité d'un site en le rendant plus convivial, plus rapide et plus facile à naviguer.
@@ -67,7 +67,6 @@ Les tâches de référencement les plus importantes sont les suivantes :
 
 *   Fournir les bons signaux aux robots d'exploration et aux algorithmes des moteurs de recherche par le biais de diverses techniques de référencement.
 
-
 Le référencement peut être considéré comme un cadre complet, car l'ensemble du processus comporte un certain nombre de règles (ou directives), un certain nombre d'étapes et un ensemble de contrôles.
 
 ## Pourquoi le référencement est-il important ?
@@ -75,7 +74,6 @@ Le référencement peut être considéré comme un cadre complet, car l'ensemble
 Dans le marché concurrentiel d'aujourd'hui, le marketing SEO est plus important que jamais.
 Les moteurs de recherche servent des millions d'utilisateurs par jour qui cherchent des réponses à leurs questions ou des solutions à leurs problèmes.
 Si vous avez un site Web, un blog ou une boutique en ligne, le référencement peut vous aider à obtenir du trafic ciblé gratuit à partir des moteurs de recherche.
-
 
 Le référencement est important car :
 
