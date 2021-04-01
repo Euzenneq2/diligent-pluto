@@ -51,8 +51,7 @@ author: data/team/mary-marketing.json
 ---
 ## Qu'est-ce que le référencement ?
 
-SEO signifie Search engine optimization (optimisation des moteurs de recherche). Il s'agit d'un ensemble de règles permettant d'optimiser votre site Web afin qu'il obtienne un meilleur classement dans les résultats organiques des moteurs de recherche. C'est le processus à suivre pour augmenter la visibilité de votre site web dans les moteurs de recherche et obtenir plus de trafic.
-
+SEO signifie Search engine optimization (optimisation des moteurs de recherche). Il s'agit d'un ensemble de règles permettant d'optimiser votre site internet afin qu'il obtienne un meilleur classement dans les résultats naturels des moteurs de recherche. C'est le processus à suivre pour augmenter la visibilité de votre site web dans les moteurs de recherche et obtenir plus de trafic.
 
 Le référencement a deux objectifs principaux. Le premier est de vous aider à comprendre ce que les utilisateurs recherchent en ligne afin que vous puissiez créer un contenu de haute qualité pour satisfaire leurs intentions. Le second est de vous aider à créer un site Web que les moteurs de recherche peuvent trouver, indexer et comprendre son contenu.
 En outre, le respect des bonnes pratiques de référencement est un excellent moyen d'améliorer la qualité d'un site Web en le rendant plus convivial, plus rapide et plus facile à naviguer.
