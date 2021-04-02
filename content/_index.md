@@ -172,7 +172,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/Moteur-de-recherche.jpg
+        image: /images/Moteur-de-recherche.png
         image_alt: Moteur-de-recherche
         media_position: left
         media_width: fifty
