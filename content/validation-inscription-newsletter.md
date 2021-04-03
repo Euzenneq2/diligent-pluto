@@ -18,18 +18,7 @@ sections:
     background_color: none
 layout: advanced
 ---
-
-    <div></div>
-    <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid;">
-      <form id="sib-form" method="POST" action="https://b749b5e7.sibforms.com/serve/MUIEADglVqaqQPszWOLN05AruxHiMeH-zOHaUFDpHvq0lQa28Vvjrzw-eA24Y7T5mFPBSM3_i_TDWW9J3uS2acrgLeAsicOdt5v7SdHl5f7UHBdHz3JkIyDe31l_9Ssp8ipvqomB-kYRKwdTd9-JRz6TqvVbcK6CnnxeusMUEVZ9wd1vOdGFzUWSqJ9a2U1RQePGywIR-kTEOZHg"
-        data-type="subscription">
-        <div style="padding: 8px 0;">
-          <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:&quot;Trebuchet MS&quot;, sans-serif; color:#000000; background-color:transparent;">
-            <p>Newsletter</p>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
-          <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&quot;Georgia&quot;, serif; color:#000000; background-color:transparent;">
+ign:left; font-family:&quot;Georgia&quot;, serif; color:#000000; background-color:transparent;">
             <div class="sib-text-form-block">
               <p>Inscrivez-vous à notre newsletter pour suivre nos actualités.</p>
             </div>
