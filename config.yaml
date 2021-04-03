@@ -35,7 +35,7 @@ params:
         url: /blog
         style: primary
       - label: lorem-ipsum
-        url: '#'
+        url: /validation
         style: link
         has_icon: false
         icon: arrow-left
