@@ -18,21 +18,7 @@ sections:
     background_color: none
 layout: advanced
 ---
-iary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
-              </label>
-              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Georgia&quot;, serif; color:#3c3c3c;">
-                Veuillez renseigner votre adresse e-mail pour vous inscrire. Ex. : abc@xyz.com
-              </label>
-            </div>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
-          <div class="sib-optin sib-form-block" data-required="true">
-            <div class="form__entry entry_mcq">
-              <div class="form__label-row ">
-                <div class="entry__choice">
-                  <label>
-                    <input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" required />
+id="OPT_IN" name="OPT_IN" required />
                     <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Georgia&quot;, serif; color:#000000; background-color:transparent;"><p>J'accepte de recevoir vos e-mails et confirme avoir pris connaissance de votre politique de confidentialité et mentions légales.</p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span>
                   </label>
                 </div>
