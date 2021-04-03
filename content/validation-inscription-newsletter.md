@@ -18,15 +18,7 @@ sections:
     background_color: none
 layout: advanced
 ---
-id="OPT_IN" name="OPT_IN" required />
-                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Georgia&quot;, serif; color:#000000; background-color:transparent;"><p>J'accepte de recevoir vos e-mails et confirme avoir pris connaissance de votre politique de confidentialité et mentions légales.</p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span>
-                  </label>
-                </div>
-              </div>
-              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
-              </label>
-              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Georgia&quot;, serif; color:#3c3c3c;">
-                Vous pouvez vous désinscrire à tout moment en cliquant sur le lien présent dans nos emails.
+out moment en cliquant sur le lien présent dans nos emails.
               </label>
             </div>
           </div>
