@@ -18,44 +18,7 @@ sections:
     background_color: none
 layout: advanced
 ---
-ign:left; font-family:&quot;Georgia&quot;, serif; color:#000000; background-color:transparent;">
-            <div class="sib-text-form-block">
-              <p>Inscrivez-vous à notre newsletter pour suivre nos actualités.</p>
-            </div>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
-          <div class="sib-input sib-form-block">
-            <div class="form__entry entry_block">
-              <div class="form__label-row ">
-                <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Trebuchet MS&quot;, sans-serif; color:#000000;" for="PRENOM" data-required="*">
-                  Entrez votre prénom
-                </label>
-
-                <div class="entry__field">
-                  <input class="input" maxlength="200" type="text" id="PRENOM" name="PRENOM" autocomplete="off" placeholder="Prénom" data-required="true" required />
-                </div>
-              </div>
-
-              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
-              </label>
-            </div>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
-          <div class="sib-input sib-form-block">
-            <div class="form__entry entry_block">
-              <div class="form__label-row ">
-                <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Trebuchet MS&quot;, sans-serif; color:#000000;" for="EMAIL" data-required="*">
-                  et renseigner votre adresse e-mail pour vous inscrire
-                </label>
-
-                <div class="entry__field">
-                  <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="E-mail" data-required="true" required />
-                </div>
-              </div>
-
-              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+iary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Georgia&quot;, serif; color:#3c3c3c;">
                 Veuillez renseigner votre adresse e-mail pour vous inscrire. Ex. : abc@xyz.com
