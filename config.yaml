@@ -36,7 +36,7 @@ params:
         style: primary
       - label: lorem-ipsum
         url: /validation-inscription-newsletter
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
