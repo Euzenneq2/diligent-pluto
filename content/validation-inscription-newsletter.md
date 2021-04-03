@@ -26,13 +26,4 @@ layout: advanced
           </div>
         </div>
 
-        <input type="text" name="email_address_check" value="" class="input--hidden">
-        <input type="hidden" name="locale" value="fr">
-      </form>
-    </div>
-  </div>
-</div>
-<!-- END - We recommend to place the below code where you want the form in your website html  -->
-
-<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
-<script>
+        <input type="text" 
