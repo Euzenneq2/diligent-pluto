@@ -19,29 +19,6 @@ sections:
 layout: advanced
 ---
 
-  @font-face {
-    font-display: fallback;
-    font-family: Roboto;
-    font-weight: 700;
-    src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
-  }
-
-  #sib-container input:-ms-input-placeholder {
-    text-align: left;
-    font-family: "Georgia", serif;
-    color: #c0ccda;
-  }
-
-  #sib-container input::placeholder {
-    text-align: left;
-    font-family: "Georgia", serif;
-    color: #c0ccda;
-  }
-
-  #sib-container textarea::placeholder {
-    text-align: left;
-    font-family: "Georgia", serif;
-    color: #c0ccda;
   }
 </style>
 <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
