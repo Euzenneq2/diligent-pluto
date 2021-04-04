@@ -591,6 +591,7 @@ sections:
       src="https://b749b5e7.sibforms.com/serve/MUIEAGpKGawtT4fhdMP0mHDKh3GcUizN3Mjq-YdNdOgn45M6-x3HcwNdd_VgFXs3I6PDoJdd00NTXkTO75QyEZogNsZmWPDNf4NIHwqVaHwbPAL01jypKP7C4RHyNvjG_ANRXC4t-UJ0sSs6lDP22M2WNL4rSj840gLK7OODW7FW_vsuW-fdxgNp1iu6sz5waZheuRwHidZ4Ut8Q"
       frameborder="0" scrolling="auto" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+    image: images/Booster-votre-seo.svg
   - type: cta_section
     template: cta_section
     title: Travaillons ensemble !
