@@ -34,7 +34,7 @@ params:
         label: Blog
         url: /blog
         style: primary
-      - label: lorem-ipsum
+      - label: Ma newsletter
         url: /validation-inscription-newsletter
         style: primary
         has_icon: false
