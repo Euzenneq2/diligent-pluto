@@ -35,7 +35,7 @@ sections:
 
           Quelques années plus tard j’ai réalisé un BTS assistant-manager puis
           un Bachelor en marketing événementiel dans lequel je me suis
-          véritablement épanouie car mes missions était orientées vers la
+          véritablement épanouie car mes missions étaient orientées vers la
           communication digitale.
 
 
