@@ -575,7 +575,7 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     media_position: right
-    image_position
+    image_position: right
     media_width: fifty
     align: left
     padding_top: medium
