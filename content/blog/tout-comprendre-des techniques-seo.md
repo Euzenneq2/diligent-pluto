@@ -11,7 +11,7 @@ excerpt: >-
   bases du référencement !
 thumb_image: images/blog-guide-seo.png
 thumb_image_alt: blog-guide-seo
-image: images/good-coriander.png
+image: images/blog-guide-seo.png
 image_alt: blog-guide-seo
 image_position: left
 seo:
