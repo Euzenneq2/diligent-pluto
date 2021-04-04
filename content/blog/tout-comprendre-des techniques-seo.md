@@ -9,7 +9,7 @@ tags:
 excerpt: >-
   Vous souhaitez vous former au SEO ? Dans cet article vous allez découvrir les
   bases du référencement !
-thumb_image: images/good-coriander.png
+thumb_image: images/blog-guide-seo.png
 thumb_image_alt: blog-guide-seo
 image: images/good-coriander.png
 image_alt: blog-guide-seo
