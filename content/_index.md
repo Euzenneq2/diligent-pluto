@@ -465,6 +465,7 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
+        image_align: center
       - type: grid_item
         template: grid_item
         content: >
