@@ -256,7 +256,7 @@ sections:
         title: 'Enchanté, moi c''est Mary !'
         image: images/portrait-mary-marketing-v2.png
         image_alt: portrait-mary-marketing
-        media_position: right
+        media_position: top
         media_width: thirty-three
         subtitle: >-
           "Rédactrice web et en freelance depuis peu. Je suis ravi de vous
