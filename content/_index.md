@@ -561,7 +561,9 @@ sections:
     actions:
       - type: action
         template: action
-        label: Voir tout mes articles
+        label: ### <a name="head1234"></a>A Heading in this SO entry!
+
+Source: https://prograide.com/pregunta/5868/-comment-creer-un-lien-vers-une-ancre-nommee-dans-multimarkdown--Voir tout mes articles
         url: /blog
         style: primary
     blog_feed_cols: three
