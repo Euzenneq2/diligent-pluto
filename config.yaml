@@ -115,7 +115,7 @@ params:
     tertiary_nav_links:
       - type: action
         template: action
-        label: Mentions légales
+        label: S'inscrire
         url: /mentions-legales
         style: link
         no_follow: true
