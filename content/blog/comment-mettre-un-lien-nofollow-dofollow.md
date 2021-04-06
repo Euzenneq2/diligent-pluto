@@ -117,9 +117,9 @@ Il est donc préférable de comprendre quels types de liens sont généralement 
 
 Pour ajouter l'attribut nofollow aux liens contenus dans un article, vous devez modifier le code.
 
-Dans l'éditeur de votre blog, passez à l'affichage HTML afin de pouvoir modifier le code directement. Trouvez le lien que vous voulez rendre nofollow. Ajoutez l'attribut « nofollow ».
+Dans l'éditeur de votre blog, passez à l'affichage HTML afin de pouvoir modifier le code directement. Trouvez le lien que vous voulez rendre nofollow. Ajoutez l'attribut « nofollow » pour qu'il apparaisse tel que :
 
-
+\<a href="https://test.fr/contact" rel="nofollow">Ceci est un test\</a>
 
 ## &#xD;Quand utiliser des liens nofollow ou dofollow sur votre propre site ?&#xD;
 
