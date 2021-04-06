@@ -10,7 +10,6 @@ params:
     type: header
     template: header
     title: Mary-Marketing
-    logo: images/logo-header-mary-marketing.jpg
     logo_alt: Logo Mary Marketing
     has_primary_nav: true
     primary_nav_links:
