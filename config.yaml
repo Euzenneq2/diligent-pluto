@@ -120,6 +120,7 @@ params:
         no_follow: true
         icon: arrow-right
         has_icon: true
+        url: '#'
     has_social: true
     social_links:
       - type: action
