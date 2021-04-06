@@ -116,7 +116,6 @@ params:
       - type: action
         template: action
         label: S'inscrire
-        url: /mentions-legales
         style: secondary
         no_follow: true
         icon: arrow-right
