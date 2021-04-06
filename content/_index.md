@@ -573,20 +573,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - actions:
-      - label: lorem-ipsum
-        url: >-
-          <iframe width="540" height="650"
-          src="https://b749b5e7.sibforms.com/serve/MUIEAGpKGawtT4fhdMP0mHDKh3GcUizN3Mjq-YdNdOgn45M6-x3HcwNdd_VgFXs3I6PDoJdd00NTXkTO75QyEZogNsZmWPDNf4NIHwqVaHwbPAL01jypKP7C4RHyNvjG_ANRXC4t-UJ0sSs6lDP22M2WNL4rSj840gLK7OODW7FW_vsuW-fdxgNp1iu6sz5waZheuRwHidZ4Ut8Q"
-          frameborder="0" scrolling="auto" allowfullscreen style="display:
-          block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+  - actions: []
     image_alt: lorem-ipsum
     media_position: right
     media_width: fifty
