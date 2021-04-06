@@ -257,7 +257,7 @@ sections:
         image: images/portrait-mary-marketing-v2.png
         image_alt: portrait-mary-marketing
         media_position: center
-        media_width: fourty
+        media_width: sixty
         subtitle: >-
           "Rédactrice web et en freelance depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre stratégie éditoriale, en
