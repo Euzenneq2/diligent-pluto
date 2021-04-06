@@ -131,9 +131,10 @@ Par conséquent, tout contenu qui pourrait être considéré comme "non fiable" 
 
 ## Y-a-t-il un meilleur rapport entre les liens Nofollow et Dofollow ?
 
-Certaines personnes disent que pour garder un profil de backlinks « naturel » aux yeux de Google, il est recommandé d’avoir un ratio liens nofollow et follow équilibré. Pour d’autre, ce ne serait qu’un mythe.
+Certaines personnes disent qu'il est recommandé d’avoir un ratio liens nofollow et follow équilibré pour garder un profil de backlinks « naturel » face à Google. Pour d’autre, ce ne serait qu’un mythe.
 
-Cette affirmation est contradictoire, car cela veut dire que l’on trafique artificiellement ses backlinks pour garder une répartition spécifique entre les nofollow et dofollow. Il n’y a donc rien de « naturel ».
+Cette allégation est contradictoire, car cela veut dire que l’on fait en sorte de modifier notre ration de backlinks pour garder un quota spécial entre les nofollow et dofollow. C'est n'est donc pas « naturel ».
 
-Afin d’y voir plus clair, John Mueller de chez Google a confirmé sur Twitter que cette affirmation était fausse.
+Pour taire ces rumeurs, John Mueller de chez Google a confirmé que cette affirmation était fausse, sur Twitter.
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">That&#39;s not true.</p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1289223963931897856?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
