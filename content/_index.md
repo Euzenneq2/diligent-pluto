@@ -574,10 +574,10 @@ sections:
     has_border: false
     background_color: none
   - actions: []
-    image_alt:
+    image_alt: null
     media_position: right
     media_width: fifty
-    align: center
+    align: left
     padding_top: medium
     padding_bottom: large
     has_border: false
@@ -593,7 +593,7 @@ sections:
       frameborder="0" scrolling="auto" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     background_image: images/Newsletter-Mary-marketing.png
-    title:
+    title: null
   - type: cta_section
     template: cta_section
     title: Travaillons ensemble !
