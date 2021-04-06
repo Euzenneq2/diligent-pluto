@@ -543,7 +543,7 @@ sections:
         title: Maxime Louis
         subtitle: Dévelopeur Web
         title_align: center
-        image: images/maxim.jpg
+        image: images/maxime-louis.jpg
         image_position: top
       - type: grid_item
         template: grid_item
