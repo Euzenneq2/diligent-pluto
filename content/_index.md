@@ -598,6 +598,8 @@ sections:
       frameborder="0" scrolling="no" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     background_image: images/newsletter-mary-marketing-background.jpg
+    content: |
+      \#newsletter
   - type: cta_section
     template: cta_section
     title: Travaillons ensemble !
