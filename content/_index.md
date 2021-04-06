@@ -593,7 +593,7 @@ sections:
       frameborder="0" scrolling="no" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     title: null
-    content: |2
+    content: 
        
   - type: cta_section
     template: cta_section
