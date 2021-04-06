@@ -583,7 +583,7 @@ sections:
     media_position: right
     media_width: fifty
     align: left
-    <a name="haut>
+    <a name="haut">
     padding_top: none
     padding_bottom: none
     has_border: true
