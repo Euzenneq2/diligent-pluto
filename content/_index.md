@@ -600,6 +600,7 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
     content: |
       \#Newsletter
+    title: '#Newsletter'
   - type: cta_section
     template: cta_section
     title: Travaillons ensemble !
