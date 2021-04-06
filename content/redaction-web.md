@@ -267,9 +267,7 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    title: >-
-      Réorganiser votre site web, gagnez en visibilité et retrouver une
-      croissance
+    title: 'Réorganiser votre site web, gagnez en visibilité et retrouver un trafic'
     actions:
       - url: /contact
         style: primary
