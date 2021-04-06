@@ -33,15 +33,6 @@ params:
         label: Blog
         url: /blog
         style: primary
-      - label: Ma newsletter
-        url: /validation-inscription-newsletter
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
     has_secondary_nav: true
     secondary_nav_links:
       - type: action
