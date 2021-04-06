@@ -594,7 +594,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     video_embed_html: >-
-      <iframe width="540" height="720"
+      <a name="newsletter"><iframe width="540" height="720"
       src="https://b749b5e7.sibforms.com/serve/MUIEAItORIVlfyHY8C-89IfT27t2i0i4F9RqnVE_2FftfQ3wHbb_e96whocY5-xxprl2aDgkgRgM4XOZ7XuCrS_RiVCcjxmTd5nGtxJ_YplsoTLyEf54PK4TCnM6WbjvCcatUwdWnyR4HYFYHS_tO47-HF3-CHgb_7WV97yIbGZiKKMH169OVB34jVi2mpjZdhOvbBBWOJ8EYZIg"
       frameborder="0" scrolling="no" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
