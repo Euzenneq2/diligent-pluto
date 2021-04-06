@@ -117,7 +117,7 @@ params:
         template: action
         label: S'inscrire
         url: /mentions-legales
-        style: link
+        style: primary
         no_follow: true
     has_social: true
     social_links:
