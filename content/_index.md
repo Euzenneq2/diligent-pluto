@@ -561,7 +561,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Voir 
+        label: Découvrir mon blog
         url: /blog
         style: primary
     blog_feed_cols: three
