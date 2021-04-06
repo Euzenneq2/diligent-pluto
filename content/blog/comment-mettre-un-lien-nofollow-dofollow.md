@@ -136,5 +136,3 @@ Certaines personnes disent que pour garder un profil de backlinks « naturel » 
 Cette affirmation est contradictoire, car cela veut dire que l’on trafique artificiellement ses backlinks pour garder une répartition spécifique entre les nofollow et dofollow. Il n’y a donc rien de « naturel ».
 
 Afin d’y voir plus clair, John Mueller de chez Google a confirmé sur Twitter que cette affirmation était fausse.
-
-\<blockquote class="twitter-tweet">\<p lang="en" dir="ltr">That\&#39;s not true.\</p>\&mdash; 🍌 John 🍌 (@JohnMu) \<a href="https://twitter.com/JohnMu/status/1289223963931897856?ref_src=twsrc%5Etfw">July 31, 2020\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
