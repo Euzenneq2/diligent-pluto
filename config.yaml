@@ -83,7 +83,7 @@ params:
         new_window: false
         no_follow: false
         type: action
-      - label: Politique de confidential
+      - label: Politique de confidentialité
         url: '#'
         style: link
         has_icon: false
