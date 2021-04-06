@@ -84,7 +84,7 @@ params:
         no_follow: false
         type: action
       - label: Politique de confidentialité
-        url: '#'
+        url: /politique-de-confidentialite
         style: link
         has_icon: false
         icon: arrow-left
