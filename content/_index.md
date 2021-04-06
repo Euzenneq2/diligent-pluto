@@ -16,6 +16,7 @@ sections:
         label: Contactez-moi
         url: /contact
         style: secondary
+        no_follow: true
       - type: action
         template: action
         label: Découvrez mon blog
@@ -598,7 +599,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        type: grid_item   
+        type: grid_item
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
