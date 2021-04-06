@@ -599,7 +599,6 @@ sections:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     background_image: images/newsletter-mary-marketing-background.jpg
     title: Inscrivez-vous !
-    subtitle: Pour recevoir nos actualités
   - type: cta_section
     template: cta_section
     title: Travaillons ensemble !
