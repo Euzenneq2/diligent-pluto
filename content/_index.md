@@ -585,7 +585,7 @@ sections:
     background_image_opacity: 100
     background_image_size: auto
     background_image_position: center center
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     type: hero_section
     video_embed_html: >-
       <iframe width="540" height="720"
