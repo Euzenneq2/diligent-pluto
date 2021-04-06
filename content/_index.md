@@ -574,6 +574,7 @@ sections:
     has_border: false
     background_color: none
   - actions: []
+    image: images/Booster-votre-seo.svg
     image_alt: lorem-ipsum
     media_position: right
     media_width: fifty
