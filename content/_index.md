@@ -561,7 +561,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: 
+        label: Voir 
         url: /blog
         style: primary
     blog_feed_cols: three
