@@ -561,7 +561,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Découvrir mes articles
+        label: Voir plus d'articles
         url: /blog
         style: primary
     blog_feed_cols: three
