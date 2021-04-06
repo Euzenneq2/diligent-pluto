@@ -60,6 +60,7 @@ params:
     anncmnt_is_home_only: true
     anncmnt_has_close: true
     anncmnt_id: Banner Cookies
+    logo: images/logo-header-mary-marketing.jpg
   footer:
     type: footer
     template: footer
