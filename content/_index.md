@@ -275,6 +275,7 @@ sections:
         align: center
     feature_padding_vert: small
     background_color: primary
+    background_image_position: right center
   - type: grid_section
     template: grid_section
     title: Des solutions précises pour votre projet de création de contenu SEO
