@@ -254,7 +254,7 @@ sections:
       - type: feature
         template: feature
         title: 'Enchanté, moi c''est Mary !'
-        image: images/portrait-mary-marketing2 (1).png
+        image: images/purple-whale.png
         image_alt: portrait-mary-marketing
         media_position: right
         media_width: thirty-three
