@@ -550,7 +550,7 @@ sections:
         title: Valérie Hausknost
         subtitle: Designer Graphique
         title_align: center
-        image: images/ursula-gurnmeister.jpg
+        image: images/Valérie-Hausknost.jpg
         image_position: top
     grid_cols: four
     align: center
