@@ -6,7 +6,7 @@ sections:
     title: Merci !
     subtitle: >-
       Merci de vous êtes inscrit à ma newsletter. Vous recevrez très bientôt nos
-      nouvelles publications !
+      nouvelles publications directement par e-mail !
     actions:
       - type: action
         template: action
