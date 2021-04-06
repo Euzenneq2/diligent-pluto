@@ -5,8 +5,8 @@ sections:
     template: hero_section
     title: Merci !
     subtitle: >-
-      Merci de nous avoir contacté. Nous revenons vers toi très bientôt. Bonne
-      journée !
+      Merci de vous êtes inscrit à ma newsletter. Vous recevrez très bientôt nos
+      nouvelles publications !
     actions:
       - type: action
         template: action
