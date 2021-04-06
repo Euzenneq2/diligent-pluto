@@ -256,7 +256,6 @@ sections:
         title: 'Enchanté, moi c''est Mary !'
         image: images/portrait-mary-marketing-v2.png
         image_alt: portrait-mary-marketing
-        image_align: center
         media_position: center
         media_width: thirty-three
         subtitle: >-
