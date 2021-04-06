@@ -585,7 +585,6 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: '#newsletter'
-    form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
