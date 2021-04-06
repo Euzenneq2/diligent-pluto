@@ -115,7 +115,7 @@ params:
         new_window: false
         no_follow: false
         type: action
-    has_social: true
+    has_social: false
     social_links:
       - type: action
         template: action
