@@ -120,6 +120,7 @@ params:
         style: primary
         no_follow: true
         icon: arrow-right
+        has_icon: true
     has_social: true
     social_links:
       - type: action
