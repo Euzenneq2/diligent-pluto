@@ -268,8 +268,8 @@ sections:
   - type: cta_section
     template: cta_section
     title: >-
-      Réorganiser votre site web, gagnez en visibilité et augmenter votre nombre
-      de visiteurs
+      Réorganiser votre site web, améliorer votre visibilité et gagner des
+      visiteurs
     actions:
       - url: /contact
         style: primary
