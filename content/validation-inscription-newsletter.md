@@ -16,5 +16,6 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
+    image: images/smart-strawberry.png
 layout: advanced
 ---
