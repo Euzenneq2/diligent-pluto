@@ -536,7 +536,7 @@ sections:
         title: Etienne Lecaudey
         subtitle: Sécurité & Réseaux
         title_align: center
-        image: images/Maxime-Louis.jpg
+        image: images/etienne-lecaudey.jpg
         image_position: top
       - type: grid_item
         template: grid_item
