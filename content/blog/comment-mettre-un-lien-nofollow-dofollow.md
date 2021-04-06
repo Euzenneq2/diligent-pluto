@@ -49,73 +49,104 @@ seo:
 layout: post
 author: data/team/mary-marketing.json
 ---
-## Liens Nofollow et Dofollow : Que sont-ils ?
 
-Les liens sont la façon dont les robots des moteurs de recherche voient les relations entre les sites Web. Ils se déplacent d'un site Web à l'autre via des liens dofollow, en passant par des liens nofollow. Mais les liens nofollow peuvent également ajouter de la valeur à votre site Web. Comprendre comment les autres sites Web se lient à vous est une première étape importante dans la création d'un profil de liens retour sain pour votre site Web.
 
-Pourquoi s'en préoccuper ? Considérez ceci : Un plus grand nombre de liens externes de haute qualité pointant vers votre site Web génère plus de trafic, non seulement de la part des personnes qui cliquent sur ces liens, mais aussi via les moteurs de recherche.
+## Qu’est-ce que les liens Nofollow et Dofollow ?
 
-## La valeur d'un backlink
 
-Les moteurs de recherche, en particulier Google, considèrent la qualité et la quantité des liens entrants comme une mesure de la valeur de votre site Web. Depuis 2005, Google utilise un système de points pondérés - le PageRank - pour déterminer la valeur d'une page et, par conséquent, l'endroit où elle doit apparaître dans les résultats de recherche. Ce système tient compte de la valeur des liens pointant vers une page ou un site Web. Les liens de grande valeur peuvent faire remonter votre site dans la liste des résultats de recherche.
+Les liens permettent aux algorithmes des moteurs de recherches de voir les relations entre les sites internet. Ces robots passent de site web à l'autre via des liens dofollow ainsi que par des liens nofollow.
 
-Alors, que devez-vous faire pour vous assurer que vous obtenez les bons types de backlinks ? Comment pouvez-vous être sûr d'utiliser correctement les liens dofollow et nofollow sur votre site Web ? Tout commence par la compréhension de la différence et de la manière dont vous pouvez faire en sorte que les deux types de liens jouent en faveur de votre site.
+Pour avoir un bon profil de backlink sur votre site internet il est nécessaire de comprendre comment les autres sites internet se lient au votre.
 
-## Qu'est-ce qu'un lien dofollow ?
+Pourquoi est-ce si important ? C’est simple : si vous avez un grand nombre de liens externes de haute qualité qui pointent vers votre site web cela va générer plus de trafic, de la part des visiteurs qui cliquent sur ces liens et via les moteurs de recherche.
 
-À proprement parler, un lien dofollow n'est pas une chose. Dofollow est simplement l'état par défaut d'un lien. En d'autres termes, tout lien sans l'attribut nofollow est un lien dofollow.
+## &#xD;&#xA;La valeur d'un backlink
 
-Lorsqu'un autre site Web établit un lien vers le vôtre avec un lien standard (aka dofollow), cela peut affecter directement le classement des moteurs de recherche.
+Les moteurs de recherche, en particulier Google mesure la valeur de votre site internet avec la qualité et la quantité des liens entrants.
 
-## Comment les liens dofollow affectent-ils le classement des sites ?
+Depuis 2005, Google utilise un système de points pondérés - le PageRank - pour déterminer la valeur d'une page et, ainsi, l'endroit où elle doit se positionner dans les résultats de recherche. Ce système analyse la valeur des liens qui pointent vers une page ou un site. Les liens de grande valeur peuvent faire remonter votre site dans les résultats de recherche.
 
-Les robots des moteurs de recherche parcourent le Web à travers les liens dofollow, en enregistrant qui est lié à qui. Ces relations transmettent un type d'autorité que les pros du référencement appellent "jus de lien" d'un site à l'autre.
+Que faire pour s’assurer d’obtenir les bons types de backlinks ? Comment être sûr d'utiliser correctement les liens dofollow et nofollow sur votre site internet ?
 
-Par exemple, disons qu'un site réputé avec un PageRank élevé établit un lien vers vous. Les moteurs de recherche considèrent alors que votre site est plus réputé et peuvent augmenter votre PageRank. Cela peut améliorer votre classement dans les résultats des moteurs de recherche. (Pour en savoir plus sur le PageRank et plus encore, consultez la section Comment fonctionnent les moteurs de recherche).
+Il est nécessaire de comprendre la différence entre les deux type de lien et la manière de les utiliser pour qu’ils jouent en faveur de votre site.
 
-## Comment rendre un lien dofollow ?
 
-Lorsque vous créez un nouveau lien sur votre site Web, par exemple dans un nouvel article de blog, il est généralement en dofollow par défaut.
+## Qu'est-ce qu'un lien nofollow ?&#xD;
 
-Avez-vous repéré un lien en nofollow pointant vers votre site Web et que vous souhaiteriez voir en dofollow ? Vous ne pouvez pas changer un lien nofollow en dofollow lorsqu'il se trouve sur le site de quelqu'un d'autre. Il est préférable de comprendre quels types de liens sont généralement des liens nofollow avant de demander au propriétaire du site s'il peut suivre le lien (supprimer la balise nofollow du lien) vers votre site Web.
+Pour la plupart des utilisateurs d'un site internet, les liens dofollow et nofollow ont la même apparence. Cependant, les liens nofollow ont un morceau de code, appelé attribut, qui signale aux algorithmes des moteurs de recherche qu'ils ne doivent pas suivre le lien. Cela ressemble à ceci : rel="nofollow".
 
-Gardez à l'esprit qu'il existe des cas où les liens nofollow sont courants - et ce n'est pas nécessairement une mauvaise chose.
 
-## Qu'est-ce qu'un lien nofollow ?
+Les liens nofollow ne transmettent aucun PageRank au site lié, selon Google. C’est-à-dire, que les liens nofollow qui pointent vers votre site internet n'affectent pas la position de votre site dans les pages de résultats de Google, par exemple.
 
-Pour l'utilisateur moyen d'un site Web, les liens dofollow et nofollow ont exactement la même apparence. Toutefois, les liens nofollow comprennent un petit morceau de code, appelé attribut, qui indique aux robots des moteurs de recherche qu'ils ne doivent pas suivre le lien. Cela ressemble à ceci : rel="nofollow".
+Historiquement, c’est en 2005 que les Googlers Matt Cutts et Jason Shellen ont introduit l'option nofollow pour lutter contre les « spammeurs » de commentaires.
 
-Selon Google, les liens nofollow ne transmettent aucun PageRank au site Web lié. Cela signifie que les liens nofollow pointant vers votre site Web n'affectent pas directement la position de votre site dans les pages de résultats des moteurs de recherche. Cela remonte à 2005, lorsque les célèbres Googlers Matt Cutts et Jason Shellen ont introduit l'option nofollow pour lutter contre le spam de commentaires. Les liens nofollow empêchent les spécialistes du référencement clandestin de tirer profit des liens placés dans les commentaires des sites à forte autorité.
+Il existe des spécialistes du référencement clandestin. Les liens nofollow les empêchent de tirer profit des liens placés dans les commentaires des sites à forte audience.
 
 Les liens provenant des types de contenu suivants sont généralement des liens nofollow :
 
-Commentaires de blog
-Médias sociaux
-Forums
-Communiqués de presse
-Contenu sponsorisé
-Widgets
-Ainsi, si vous cherchez à accroître l'autorité de votre site Web grâce à la création de liens, n'investissez pas la majeure partie de votre temps à laisser des commentaires sur des blogs ou à soumettre des communiqués de presse gratuits, par exemple.
+*    Commentaires de blog
 
-Cela dit, même si les liens nofollow n'augmentent pas directement votre PageRank, ne les écartez pas trop vite.
+*    Médias sociaux Forums
 
-## Quand utiliser des liens nofollow ou dofollow sur votre propre site ?
+*   Communiqués de presse
 
-Jusqu'à présent, nous avons discuté des liens nofollow et dofollow en termes de liens de tiers vers votre site. Mais il arrive que vous souhaitiez utiliser l'attribut nofollow lorsque vous créez des liens vers des sites tiers.
+*   Contenu sponsorisé Widgets
 
-Par exemple, les publicités, les articles de blog sponsorisés, les annonces par liens textuels et les autres liens résultant de relations payantes doivent utiliser l'attribut nofollow. Ainsi, il est clair pour Google que vous n'essayez pas de manipuler le système avec un système de liens.
 
-En outre, tout contenu qui pourrait être considéré comme "non fiable" doit également utiliser l'attribut nofollow pour les liens. Cela devrait inclure les commentaires, si vous les autorisez sur votre site. (Un plugin WordPress peut vous aider à gérer les liens nofollow pour les sites WordPress).
+Donc si vous cherchez à accroître l'audimat de votre site internet grâce à la création de liens, ne perdez pas votre temps à laisser des commentaires sur des blogs, par exemple.
 
-## Comment rendre un lien nofollow
+Cependant, même si les liens nofollow n'augmentent pas directement votre PageRank, ils peuvent tout de même vous être très utiles.
 
-Disons que vous avez accepté un article sponsorisé sur votre blog. Pour ajouter l'attribut nofollow aux liens contenus dans l'article, vous devez modifier le code :
+## &#xD;&#xA;Qu'est-ce qu'un lien dofollow ?
 
-Dans l'éditeur de votre blog, passez à l'affichage HTML afin de pouvoir modifier le code directement.
-Trouvez le lien que vous voulez rendre nofollow.
-Ajoutez l'attribut nofollow pour qu'il ressemble à ceci :
-Exemple de texte d'ancrage
+Un lien dofollow est simplement l'état par défaut d'un lien. Plus simplement, tout lien sans l'attribut « nofollow » est un lien dofollow.
 
-## Quel est le meilleur rapport entre les liens Nofollow et Dofollow ?
+Lorsqu'un autre site établit un lien vers le vôtre avec un lien standard (aka dofollow), cela peut affecter directement le classement des moteurs de recherche.
 
-Il n'y a pas de "meilleur" ratio de liens nofollow/dofollow pour les liens pointant vers votre site. Certaines personnes pensent que 50/50 est un bon mélange, d'autres disent 40/60, et d'autres encore visent 30/70 liens nofollow/dofollow. Si l'on observe les sites Web les plus performants en fonction de leur classement Alexa aux États-Unis, le rapport peut être plus proche de 25/75, ce qui signifie que les sites Web les plus performants ont un plus grand nombre de liens dofollow.
+## &#xD;&#xA;Comment les liens dofollow jouent-ils dans le classement des sites ?
+
+
+Les robots des moteurs de recherche parcourent le Web à travers les liens dofollow, en notant qui est lié à qui. Ces relations sont, que les pros du SEO appellent "jus de lien".
+
+Par exemple, imaginons qu'un site réputé avec un PageRank élevé établit un lien le vôtre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors augmenter votre PageRank.
+
+Cela peut faire progresser votre classement dans les résultats des moteurs de recherche.
+
+
+## Comment rendre un lien dofollow ?
+
+Nous l’avons vu précédemment, lorsque vous créez un nouveau lien sur votre site, il est généralement en dofollow par défaut.
+
+Vous ne pouvez pas changer un lien nofollow en dofollow lorsqu'il se trouve sur le site de quelqu'un d'autre. Si cela est le cas, il vous faudra demander au propriétaire du site s'il peut suivre le lien (supprimer la balise nofollow du lien) vers votre site.
+
+Il est donc préférable de comprendre quels types de liens sont généralement des liens nofollow ou dofollow.
+
+## Comment rendre un lien nofollow ?
+
+
+Pour ajouter l'attribut nofollow aux liens contenus dans un article, vous devez modifier le code.
+
+Dans l'éditeur de votre blog, passez à l'affichage HTML afin de pouvoir modifier le code directement. Trouvez le lien que vous voulez rendre nofollow. Ajoutez l'attribut « nofollow » pour qu'il ressemble à ceci :
+
+
+IMAGE CODE NOFOLLOW
+
+## &#xD;&#xA;Quand utiliser des liens nofollow ou dofollow sur votre propre site ?&#xD;&#xA;
+
+Jusqu'à maintenant, nous avons abordé des liens nofollow et dofollow en termes de lien vers votre site par quelqu'un d’autre. Mais, vous voudrez peut-être tirer parti de l'attribut nofollow lorsque vous créez un lien vers des sites tiers.
+
+Par exemple, les publicités, les articles de blog sponsorisés, les annonces par liens textuels et les autres liens résultant de relations payantes (liens d’affiliation) doivent utiliser l'attribut nofollow. Ainsi, vous respecter les règles de Google et vous n’essayez pas de gagner de la PageRank grâce à un système de liens.
+
+Par conséquent, tout contenu qui pourrait être considéré comme "non fiable" doit utiliser l'attribut nofollow pour les liens. Tel que les commentaires, si vous les autorisez sur votre site. (Un plugin WordPress peut vous aider à gérer les liens nofollow).
+
+
+## Y-a-t-il un meilleur rapport entre les liens Nofollow et Dofollow ?
+
+
+Certaines personnes disent que pour garder un profil de backlinks « naturel » aux yeux de Google, il est recommandé d’avoir un ratio liens nofollow et follow équilibré. Pour d’autre, ce ne serait qu’un mythe.
+
+Cette affirmation est contradictoire, car cela veut dire que l’on trafique artificiellement ses backlinks pour garder une répartition spécifique entre les nofollow et dofollow. Il n’y a donc rien de « naturel ».
+
+Afin d’y voir plus clair, John Mueller de chez Google a confirmé sur Twitter que cette affirmation était fausse.
+
+\<blockquote class="twitter-tweet">\<p lang="en" dir="ltr">That\&#39;s not true.\</p>\&mdash; 🍌 John 🍌 (@JohnMu) \<a href="https://twitter.com/JohnMu/status/1289223963931897856?ref_src=twsrc%5Etfw">July 31, 2020\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
