@@ -477,6 +477,7 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
+        image_align: center
       - type: grid_item
         template: grid_item
         content: >
