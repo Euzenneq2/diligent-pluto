@@ -589,7 +589,7 @@ sections:
     type: hero_section
     video_embed_html: >-
       <iframe width="540" height="720"
-      src="https://b749b5e7.sibforms.com/serve/MUIEAJPpQyZuq3rGiDO4BxUD2CWPublnOV8adz_0xa_yWrWL4EASxRtwgKZGtM5x0Kf-KzYGzsY37pixHmKbYbB64AT6U7RSTQzI8xjqL_XWr2qDf-Jb5MTR3bjYTumxi14LJUI8SA5eN-BJu5QkXt-rnI5q3f7b4evblrI8svwUuL50C6zeLj985HSOgBsxETmo_MEmlLUPOuG9"
+      src="https://b749b5e7.sibforms.com/serve/MUIEAFG4W3Vr9nO5Hhk8BDLUsjejRkTtSjtUcTiKSkkaxnPUYQ-x7MLO9w3i88-QW3e0BHSutEOBma_PDW2b7ikccqmHM91u0gDgU_8FNUV5WO5wAAIQFUTnDaP8a4VgIZRhCkASJLihh8rGbMDHM__8k01JAYlbp0c1Ca4_CFbbabCHZw05jusPbo896YUtG6KKWdngDa1XB1LX"
       frameborder="0" scrolling="no" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     background_image: images/Newsletter-redactrice-web.jpg
