@@ -64,7 +64,7 @@ params:
   footer:
     type: footer
     template: footer
-    logo: /images/logo-footer-mary-marketing.png
+    logo: images/marvelous-wallaby.png
     logo_alt: logo footer Mary Marketing
     has_primary_nav: true
     primary_nav_title: Entreprise
