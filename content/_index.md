@@ -576,7 +576,7 @@ sections:
   - actions: []
     image_alt: null
     media_position: right
-    media_width: sixty
+    media_width: fourty
     align: left
     padding_top: none
     padding_bottom: none
