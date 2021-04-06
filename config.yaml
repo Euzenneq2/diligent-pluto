@@ -93,7 +93,7 @@ params:
         style: link
         label: Référencement naturel
     has_tertiary_nav: true
-    tertiary_nav_title: Inscription newsletter
+    tertiary_nav_title: Newsletter
     tertiary_nav_links:
       - type: action
         template: action
