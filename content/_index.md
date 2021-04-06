@@ -600,6 +600,7 @@ sections:
     image_alt: null
     media_position: right
     media_width: fifty
+    form_id: '#newsletter'
     align: left
     padding_top: none
     padding_bottom: none
