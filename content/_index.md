@@ -593,7 +593,6 @@ sections:
       frameborder="0" scrolling="auto" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     image: images/Booster-votre-seo.svg
-    subtitle: test
   - type: cta_section
     template: cta_section
     title: Travaillons ensemble !
