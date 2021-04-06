@@ -74,7 +74,7 @@ params:
         label: À propos
         url: /a-propos
         style: link
-      - label: lorem-ipsum
+      - label: Mentions légales
         url: '#'
         style: link
         has_icon: false
