@@ -119,11 +119,6 @@ params:
         url: /mentions-legales
         style: link
         no_follow: true
-      - type: action
-        template: action
-        label: "Politique de\_ confidentialité"
-        url: /politique-de-confidentialite
-        style: link
     has_social: true
     social_links:
       - type: action
