@@ -39,7 +39,7 @@ sections:
           communication digitale.
 
 
-          À présent, je me lance dans ce domaine qui m'est si familier en je
+          À présent, je me lance dans ce domaine qui m'est si familier et je
           vous propose mes services.
 
 
