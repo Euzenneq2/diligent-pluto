@@ -113,7 +113,7 @@ sections:
           l'attention** du lecteur.
 
 
-          De plus, ce texte doit être rédigé selon des standards de
+          De plus, ce contenu web doit être rédigé selon des standards de
           référencement préétablis dans **l'objectif de se positionner sur des
           requêtes de mots clés ciblés**.
 
