@@ -83,7 +83,7 @@ sections:
         content: |
           Audit de votre site web
 
-          Balise Méta/Alt
+          Balise méta et Alt
 
           Structure des titres H1, H2...
 
