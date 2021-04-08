@@ -272,7 +272,7 @@ sections:
             no_follow: false
             type: action
         align: center
-        image: images/Portait site internet.png
+        image: images/smiling-spruce.png
     feature_padding_vert: small
     background_color: primary
     background_image_position: right center
