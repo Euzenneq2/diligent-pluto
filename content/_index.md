@@ -311,9 +311,10 @@ sections:
         title: Rédaction web
         title_align: center
         content: >
-          Que ce soit des **articles** de blog, des **fiches produits**, des
-          **pages web** ou des **livres blancs**... Rédiger ces supports et
-          proposer du contenu de qualité est mon quotidien.
+          Que ce soit un **article** de blog, une **fiche produit**, des **pages
+          web** ou un **livre blanc**... Rédiger ces supports et proposer du
+          contenu de qualité est mon quotidien en tant que rédacteur web
+          freelance.
         content_align: center
         actions:
           - type: action
