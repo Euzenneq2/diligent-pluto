@@ -257,7 +257,7 @@ sections:
         image: images/royal-mahogany.png
         image_alt: portrait-mary-marketing
         media_position: top
-        media_width: sixty
+        media_width: thirty-three
         subtitle: >-
           "Rédactrice web et en freelance depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre stratégie éditoriale, en
