@@ -471,8 +471,8 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          J'ai fais appelle à Mary pour une rédaction de quelques mots. Très
-          satisfaite du travail.
+          J'ai fais appelle à Mary Marketing pour une rédaction de quelques
+          mots. Très satisfaite du travail.
 
 
           **Claire Lebrun**, *Responsable communication*
