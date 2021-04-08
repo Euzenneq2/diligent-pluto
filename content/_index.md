@@ -287,7 +287,7 @@ sections:
         title_align: center
         content: >
           Mettre en avant votre contenu, **vos produit** et **vos points fort**
-          en créant du **contenu orienté** vers votre persona cible.
+          en créant du **contenu orienté** vers votre public-cible.
         content_align: center
         actions:
           - type: action
