@@ -272,7 +272,7 @@ sections:
             no_follow: false
             type: action
         align: center
-        image: images/portrait mary v7.jpg
+        image: images/portrait mary v7.png
     feature_padding_vert: small
     background_color: primary
     background_image_position: right center
