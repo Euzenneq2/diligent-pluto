@@ -335,7 +335,7 @@ sections:
         title: Cocon sémantique
         title_align: center
         content: >
-          Pour un référencement de qualité. L'optimisation des** contenus SEO**
+          Pour un référencement de qualité. L'optimisation des **contenus SEO**
           : maillage interne et contenu éditorial, c'est primordial.
         content_align: center
         actions:
