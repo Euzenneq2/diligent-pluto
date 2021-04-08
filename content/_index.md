@@ -87,7 +87,7 @@ sections:
 
           Structure des titres H1, H2...
 
-          Longue traine
+          Longue traîne
 
           Stratégie netlinking
         content_align: center
