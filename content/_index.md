@@ -46,7 +46,7 @@ sections:
         content: |
           Étude de l'environnement
 
-          Recherche des mots clés pertinent
+          Recherche des mots clés pertinents
 
           Identification de votre audience
 
