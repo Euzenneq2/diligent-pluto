@@ -407,7 +407,7 @@ sections:
         title_align: center
         content: >
           Je propose des **formations** pour vous et vos équipes afin de vous
-          rendre **autonome** en rédaction SEO ! vous aurez les compétences en
+          rendre **autonome** en rédaction SEO ! Vous aurez les compétences en
           interne
         content_align: center
         actions:
