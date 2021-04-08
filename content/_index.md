@@ -335,8 +335,8 @@ sections:
         title: Cocon sémantique
         title_align: center
         content: >
-          Pour un référencement de qualité. L'optimisation de **l'architecture
-          SEO** : maillage interne et contenu éditorial, c'est primordial.
+          Pour un référencement de qualité. L'**optimisation des contenus SEO**
+          : maillage interne et contenu éditorial, c'est primordial.
         content_align: center
         actions:
           - type: action
