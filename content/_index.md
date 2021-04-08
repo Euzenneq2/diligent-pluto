@@ -104,8 +104,8 @@ sections:
         content: >
           Si je devais résumer très succinctement le métier des rédacteurs web.
 
-          Je dirais qu'il consiste à **produire du contenu textuel pour un site
-          web ou tout autre support digital**.
+          Je dirais qu'il consiste à **créer du contenu textuel pour un site web
+          ou tout autre support digital**.
 
           Cependant, ce n'est pas si simple.
 
