@@ -357,8 +357,8 @@ sections:
         title_align: center
         content: >
           Pour améliorer le **référencement**, votre image, la popularité et
-          l'audience de votre site web, développons le nombre de vos
-          **backlinks**.
+          l'audience de votre site web, développons le nombre de vos **backlinks
+          **(liens internes et externes).
         content_align: center
         actions:
           - label: En savoir plus
