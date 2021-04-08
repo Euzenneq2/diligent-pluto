@@ -179,7 +179,8 @@ sections:
         media_width: fifty
         subtitle: >-
           Vous l'avez compris, il vous est impossible de vous retrouver dans les
-          premiers résultats de recherche sans rédiger du contenu optimisé SEO.
+          premières pages de résultats de recherche sans rédiger du contenu
+          optimisé SEO.
     feature_padding_vert: large
     align: center
     background_color: secondary
