@@ -382,7 +382,7 @@ sections:
         title_align: center
         content: >
           La création d'une **stratégie social média** est devenue nécessaire
-          pour élaborer une **communauté** sur les réseaux sociaux.
+          pour élaborer une **communauté** sur vos médias sociaux.
         content_align: center
         actions:
           - label: En savoir plus
