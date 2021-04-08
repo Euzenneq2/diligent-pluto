@@ -445,8 +445,8 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          Mary m'a apportée son analyse de contenu SEO et à corriger quelques
-          problème d'optimisation. Merci à elle, mon site est plus visible.
+          Mary Marketing m'a apportée son analyse de contenu SEO et à corriger
+          quelques problème d'optimisation. Mon site internet est plus visible.
 
 
           **Romane Lapresse**, *Cheffe de projet digital*
