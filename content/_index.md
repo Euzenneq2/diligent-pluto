@@ -254,7 +254,6 @@ sections:
       - type: feature
         template: feature
         title: 'Enchanté, moi c''est Mary !'
-        image: images/royal-mahogany.png
         image_alt: portrait-mary-marketing
         media_position: top
         media_width: sixty
