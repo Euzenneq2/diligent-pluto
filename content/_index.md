@@ -388,7 +388,6 @@ sections:
         content_align: center
         actions:
           - label: En savoir plus
-            url: '#'
             style: link
             has_icon: false
             icon: arrow-left
