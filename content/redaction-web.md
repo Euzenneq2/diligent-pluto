@@ -116,7 +116,7 @@ sections:
       - subtitle: >-
           Aujourd'hui, la rédaction web est obligatoire lors du développement de
           votre site internet.
-        content: "Le\_**contenu éditorial**\_est important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherches pour vendre vos produits ou services.\n\nVous pouvez tenter de créer ce contenu par vos propre moyen et essayer d'optimiser votre SEO. Cependant, en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
+        content: "Le\_**contenu éditorial**\_est important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherches pour vendre vos produits ou services.\n\nVous pouvez tenter de créer ce contenu par vos propres moyens et essayer d'optimiser votre SEO. Cependant, en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
         actions: []
         image_alt: Booster votre contenu seo
         media_position: left
@@ -157,7 +157,7 @@ sections:
   - type: features_section
     template: features_section
     features:
-      - content: "C’est assez simple : il se charge de tout le contenue du site internet. Une\_**fiche produit**, un\_**article de blog**, une\_**page de vente**\_et bien d’autres. Je suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenue\_**unique**\_et de\_**qualité**.\n"
+      - content: "C’est assez simple : il se charge de tout le contenu du site internet. Une\_**fiche produit**, un\_**article de blog**, une\_**page de vente**\_et bien d’autres. Je suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenu\_**unique**\_et de\_**qualité**.\n"
         actions: []
         image_alt: engrenage-page-redaction-web
         media_position: right
@@ -183,7 +183,7 @@ sections:
         template: grid_item
         title: Des fiches produits
         title_align: left
-        content: "Une fiche produit, c'est toute la description et les caractéristiques du produit que vous vendez. Ayant de l'expérience en terme de\_**content marketing**\_(marketing de contenu) et en copywriting, je saurais\_**captiver**\_les utilisateurs via une qualité de rédaction.\n\nPlusieurs\_**techniques de rédaction SEO**\_sont utilisés afin de\_**convertir vos prospects**\_et de les conduire jusqu'à l’acte d’achat. Une fois séduite, votre public-cible ne pourra qu’amorcer l'achat du produit convoité.\n"
+        content: "Une fiche produit, c'est toute la description et les caractéristiques du produit que vous vendez. Ayant de l'expérience en termes de\_**content marketing**\_(marketing de contenu) et en copywriting, je saurais\_**captiver**\_les utilisateurs via une qualité rédactionnelle.\n\nPlusieurs\_**techniques de rédaction SEO**\_sont utilisées afin de\_**convertir vos prospects**\_et de les conduire jusqu'à l’acte d’achat. Une fois séduit, votre public-cible ne pourra qu’amorcer l'achat du produit convoité.\n"
         content_align: left
         actions:
           - type: action
@@ -203,7 +203,7 @@ sections:
         template: grid_item
         title: Des articles de blog
         title_align: left
-        content: "Trouver un bon sujet pour\_**un article de blog**, c’est crucial.\n\nGrâce à des\_**outils sémantiques**, il m'est possible de vous concocter un ou plusieurs articles avec des sujets pertinents.\n\nEffectivement, une bonne position est assuré par Google pour les sites qui répondent avec concordance à un sujet ou à un thème recherché par les visiteurs (les\_**requêtes**).\n"
+        content: "Trouver un bon sujet pour\_**un article de blog**, c’est crucial.\n\nGrâce à des\_**outils sémantiques**, il m'est possible de vous produire du contenu avec des sujets pertinents.\n\nEffectivement, une bonne position est assurée par Google pour les sites qui répondent avec concordance à un sujet ou à un thème recherché par les visiteurs (les\_**requêtes**).\n"
         content_align: left
         actions:
           - type: action
@@ -223,7 +223,7 @@ sections:
         template: grid_item
         title: Des pages web
         title_align: left
-        content: "Les pages web doivent répondre à une problématique de\_**référencement naturel**.\n\nQu'est-ce que le référencement naturel ? Il s'agit de soumettre du\_**contenu de qualité**, avec un champ lexical et sémantique riche et un nombre de mots conséquent afin de répondre aux exigences de Google et ainsi être dans le top 10 des apparition après une recherche.\n\nTout ceci s'améliore grâce en partie à la\_**pyramide inversée**\_(type de rédaction qui consiste à aller droit au but) ainsi que toute l’**optimisation SEO**\_(Balise META : balise TITRE et méta description).\n"
+        content: "Les pages web doivent répondre à une problématique de\_**référencement naturel**.\n\nQu'est-ce que le référencement naturel ? Il s'agit de soumettre du\_**contenu rédactionnel de qualité**, avec un champ lexical et sémantique riche, un nombre de mots conséquent afin de répondre aux exigences de Google et ainsi être dans le top 10 des apparitions après une recherche.\n\nTout ceci s'améliore grâce en partie à la\_**pyramide inversée**\_(type de rédaction qui consiste à aller droit au but) ainsi que toute l’**optimisation SEO**\_(Balise meta : balise TITRE et méta description).\n"
         content_align: left
         actions:
           - type: action
@@ -243,7 +243,7 @@ sections:
         template: grid_item
         title: Des livres blancs
         title_align: left
-        content: "Le\_**livre blanc**\_ou l'**e-book**\_est un des outils du content marketing : l'**asset marketing**.\_Ce dernier est un support que vous pouvez proposez en téléchargement aux visiteurs de votre site internet.\n\nÇa peut être un guide,\_**offert**, qui va apporter une expertise sur un produit, une problématique ou une technique. Il est destiné à vos leads qui vont, grâce à cet outil, potentiellement devenir des prospects.\n\nMontrer à vos prospects vos\_**compétences**\_dans un domaine peut être un critère de décision d’achat. Vos prospects deviendrons des clients.\n"
+        content: "Le\_**livre blanc**\_ou l'**e-book**\_est un des outils du content marketing : l'**asset marketing**.\_Ce dernier est un support que vous pouvez proposer en téléchargement aux visiteurs de votre site internet.\n\nÇa peut être un guide,\_**offert**, qui va apporter une expertise sur un produit, une problématique ou une technique. Il est destiné à vos leads qui vont, grâce à cet outil, potentiellement devenir des prospects.\n\nMontrer à vos prospects vos\_**compétences**\_dans un domaine peut être un critère de décision d’achat. Vos prospects deviendront des clients.\n"
         content_align: left
         actions:
           - type: action
@@ -297,7 +297,7 @@ sections:
       - type: feature
         template: feature
         title: Stratégie des mots clé
-        content: "Certains critères sont important à connaitre pour trouver des **mots clés** pertinents.\n\nEn effet, il faut être attentif aux\_**nombre de recherches mensuel**\_du mot, au\_**type de trafic**\_qu'il génère et au\_**nombre de concurrent**\_qui le convoitise.\n"
+        content: "Certains critères sont importants à connaître pour trouver des **mots-clés** pertinents.\n\nEn effet, il faut être attentif aux\_**nombres de recherches mensuel**\_du mot, au\_**type de trafic**\_qu'il génère et au\_**nombre de concurrent**\_qui le convoitise.\n"
         image: /images/Stratégie-de-mots-clés.png
         image_alt: Stratégie de mots clés Mary marketing
         media_position: right
@@ -305,7 +305,7 @@ sections:
       - type: feature
         template: feature
         title: La production de contenue
-        content: "Ensuite, place à la\_**création du contenu web**. Je rédige mon contenu unique en utilisant des mots clés secondaires qui complètent les mots clés principaux. J’arborise mon contenue avec des\_**balises HTML**,  comme le le\_**titre éditorial H1**, des sous-titres H2, H3 et H4, ainsi que des paragraphes enrichis.\n\n\nLe\_**nombre de mots**\_est fondamental pour un référencement naturel efficace.\n"
+        content: "Ensuite, place à la\_**création du contenu web**. Je rédige mon contenu unique en utilisant des mots-clés secondaires qui complètent le mot clé principal. J’arborise mon contenu avec des\_**balises HTML**, comme le\_**titre éditorial H1**, des sous-titres H2, H3 et H4, ainsi que des paragraphes enrichis.\n\nLe\_**nombre de mots**\_est fondamental pour un référencement naturel efficace.\n"
         media_position: left
         media_width: thirty-three
         image: /images/Production-de-contenue.png
