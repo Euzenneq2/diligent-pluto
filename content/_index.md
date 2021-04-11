@@ -287,7 +287,8 @@ sections:
         title_align: center
         content: >
           Mettre en avant votre contenu, **vos produits** et **vos points
-          forts** en créant du **contenu orienté** vers votre public-cible.
+          forts** en créant du **contenu orienté** vers votre public-cible. Une
+          stratégie journalistique de pyramide inversée peut être utilisée.
         content_align: center
         actions:
           - type: action
