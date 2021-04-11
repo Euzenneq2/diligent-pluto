@@ -279,7 +279,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Des solutions précises pour votre projet de création de contenu SEO
-    subtitle: Que puis-je vous apporter ?
+    subtitle: Que puis-je vous apporter en tant que bon rédacteur ?
     grid_items:
       - type: grid_item
         template: grid_item
