@@ -3,7 +3,20 @@ title: Actualité marketing digital
 sections:
   - type: hero_section
     title: Actualité marketing digital
-    subtitle: The optional subtitle
+    subtitle: |-
+      Les professionnels du digital se doivent d’être à la pointe dans de 
+      nombreux domaines : réseaux sociaux, webmarketing, développement, 
+      graphisme… Quelle que soit leur spécialité, il est important de 
+      comprendre les spécificités de toutes les parties prenantes des projets 
+      numériques. De Facebook à Google en passant par Microsoft et Twitter, 
+      nous partageons ici toutes les informations utiles au quotidien. Nous 
+      décryptons l’actualité du web et ne focalisons pas notre veille sur les 
+      GAFA : les innovations proposées par les start-up sont également 
+      présentées. Toujours en avance, elle permettent de faire bouger les 
+      lignes et inspirent souvent les grands groupes. Retrouvez ici toutes les
+       informations, les études et les nouveautés du digital qui vous 
+      permettront d’être à jour vis-à-vis du référencement, du SEA, du 
+      community management, du e-commerce, etc.
     align: center
     padding_top: medium
     padding_bottom: none
