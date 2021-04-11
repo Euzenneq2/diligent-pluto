@@ -503,7 +503,7 @@ sections:
     background_color: secondary
   - type: cta_section
     template: cta_section
-    title: Besoin de bâtir une stratégie de contenu pour développer votre notoriété ?
+    title: Besoin de bâtir une stratégie digitale pour développer votre notoriété ?
     actions:
       - type: action
         template: action
