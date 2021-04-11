@@ -3,8 +3,7 @@ title: Comment mettre un lien en Nofollow ou Dofollow ?
 date: '2021-02-17'
 categories:
   - data/categories/referencement-naturel-seo.json
-tags:
-  - data/tags/jamstack.json
+tags: []
 excerpt: >-
   Apprenez à comment utiliser ces liens qui peuvent vous être très utile et
   rendre votre site plus visible !
