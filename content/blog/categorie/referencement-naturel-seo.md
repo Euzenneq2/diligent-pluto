@@ -3,12 +3,12 @@ title: Référencement naturel
 sections:
   - type: hero_section
     title: Référencement naturel
-    subtitle: |-
-      Un
-       site internet n’est utile à votre entreprise que s’il est visible sur 
-      les moteurs de recherche. Être référencé dans les premières positions 
-      sur Google est compliqué mais le content marketing va grandement y 
-      contribuer. Vous trouverez ici des centaines de contenus pour vous aider
+    subtitle: >-
+      Un site web est utile à votre activité, seulement si il est visible sur
+      Google. Il n'est pas facile d'être bien positionné sur les moteurs de
+      recherche. Cependant, établir une stratégie de contenu efficace vous
+      aidera à atteindre les premières résultat de recherche Google. Vous
+      trouverez ici des centaines de contenus pour vous aider
        à booster votre SEO grâce au content marketing
     align: center
     padding_top: medium
