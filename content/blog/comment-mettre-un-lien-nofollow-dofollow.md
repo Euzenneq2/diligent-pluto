@@ -4,7 +4,6 @@ date: '2021-02-17'
 categories:
   - data/categories/referencement-naturel-seo.json
 tags:
-  - data/tags/stackbit.json
   - data/tags/jamstack.json
 excerpt: >-
   Apprenez à comment utiliser ces liens qui peuvent vous être très utile et
