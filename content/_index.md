@@ -410,7 +410,7 @@ sections:
         content: >
           Je propose des **formations** pour vous et vos équipes afin de vous
           rendre **autonome** en rédaction SEO ! Vous aurez les compétences en
-          interne afin d'écrirepour le web.
+          interne afin d'écrire pour le web.
         content_align: center
         actions:
           - label: En savoir plus
