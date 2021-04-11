@@ -260,7 +260,7 @@ sections:
         subtitle: >-
           "Rédactrice web et en freelance depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre stratégie éditoriale, en
-          vous produisant des contenus de qualité et optimisé SEO."
+          vous produisant des contenus de qualités et optimisés SEO."
         actions:
           - label: En savoir plus
             url: /a-propos
