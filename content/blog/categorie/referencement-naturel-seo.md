@@ -7,9 +7,9 @@ sections:
       Un site web est utile à votre activité, seulement si il est visible sur
       Google. Cependant, il n'est pas simple d'être bien positionné sur les
       moteurs de recherche. C'est pourquoi, j'ai décidé de partager avec vous
-      les bonnes pratique du référencement naturel. Ces conseils vous aiderons
-      considérablement à booster vos contenus éditoriaux, dans l'objectif
-      d'atteindre les premières résultat de recherche Google.
+      les bonnes pratique du référencement naturel (SEO). Ces conseils vous
+      aiderons considérablement à booster vos contenus éditoriaux, dans
+      l'objectif d'atteindre les premières résultat de recherche Google.
     align: center
     padding_top: medium
     padding_bottom: none
