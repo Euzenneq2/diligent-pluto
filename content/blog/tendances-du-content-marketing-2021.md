@@ -4,7 +4,6 @@ date: '2021-03-02'
 categories:
   - data/categories/actualite-marketing-digital.json
 tags:
-  - data/tags/jamstack.json
   - data/tags/sourcebit.json
 excerpt: >-
   Découvrez les tendances 2021 du marketing de contenu ! Dans cet article nous
