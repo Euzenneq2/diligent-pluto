@@ -5,7 +5,7 @@ categories:
   - data/categories/referencement-naturel-seo.json
 tags: []
 excerpt: >-
-  Vous souhaitez compléter votre stratégie d'Inbound Marketing ? Formez-vous au
+  Vous souhaitez compléter votre stratégie d'Inbound marketing ? Formez-vous au
   SEO ! Dans cet article vous allez découvrir les bases du référencement !
 thumb_image: images/blog-guide-seo.png
 thumb_image_alt: blog-guide-seo
