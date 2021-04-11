@@ -31,9 +31,7 @@ sections:
       - title: Étude de la thématique
         title_align: left
         content: |
-
-
-          *   Identification des mots clés cible
+          *   Identification des mots clés cibles
 
           <!---->
 
@@ -116,7 +114,7 @@ sections:
       - subtitle: >-
           Aujourd'hui, la rédaction web est obligatoire lors du développement de
           votre site internet.
-        content: "Le\_**contenu éditorial**\_est important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherches pour vendre vos produits ou services.\n\nVous pouvez tenter de créer ce contenu par vos propres moyens et essayer d'optimiser votre SEO. Cependant, en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
+        content: "Le\_**contenu éditorial**\_est important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherches pour vendre vos produits ou services.\n\nVous pouvez tenter la création de contenu par vos propres moyens et essayer d'optimiser votre SEO. Cependant, en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
         actions: []
         image_alt: Booster votre contenu seo
         media_position: left
@@ -157,7 +155,7 @@ sections:
   - type: features_section
     template: features_section
     features:
-      - content: "C’est assez simple : il se charge de tout le contenu du site internet. Une\_**fiche produit**, un\_**article de blog**, une\_**page de vente**\_et bien d’autres. Je suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenu\_**unique**\_et de\_**qualité**.\n"
+      - content: "C’est assez simple : le rédacteur web se charge de tout le contenu du site internet. Une\_**fiche produit**, un\_**article de blog**, une\_**page de vente**\_et bien d’autres. Je suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenu\_**unique**\_et de\_**qualité**.\n"
         actions: []
         image_alt: engrenage-page-redaction-web
         media_position: right

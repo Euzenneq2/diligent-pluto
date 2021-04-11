@@ -27,27 +27,26 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - type: form_section
-    title: Inscrivez-vous
-    title_align: center
-    content: |
-      Pour ne pas louper un seul article, abonne-toi à ma newsletter !
-    content_align: center
-    form_position: bottom
-    form_layout: inline
-    form_id: subscribeForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Votre adresse mail
-        is_required: true
-    submit_label: S'abonner
+  - actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      <iframe width="700" height="600"
+      src="https://b749b5e7.sibforms.com/serve/MUIEAM0pkvbQinFOixEkW-rF_LkKDOef_kUfJGtk7R9-UfYGPAJ_DiiVnVBksDThZYDqnmeVL4MnotsgclA_AehybCmA3NKcWHLbbvdkKvG0n34T7OuHuIsL2dj3-o197_s8hEpdP9x5L2dDoMQzA-iDTR8VKjJg43Ng3XjNLA8_kzDtFQqaWLGl0KlowvrzGYQ-eObrny3EASDU"
+      frameborder="0" scrolling="no" allowfullscreen style="display:
+      block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+    media_position: top
+    media_width: fifty
+    align: left
     padding_top: medium
     padding_bottom: medium
-    has_border: true
-    background_color: secondary
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: auto
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: Posts in Référencement naturel
   description: This is the author archive page
