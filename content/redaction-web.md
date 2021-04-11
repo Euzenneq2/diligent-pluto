@@ -312,7 +312,7 @@ sections:
       - type: feature
         template: feature
         title: La richesse sémantique
-        content: "Le sens d’une page web est\_**déterminé en fonction des mots contenus**\_sur celle-ci. Si sur votre page, un article parle de rédaction web, il faut absolument qu'il contienne des mots clés en corrélation avec le thème tel que : netlinking, référenceur, charte éditoriale, digitale, etc.\n\nEn résumé : il faut enrichir le contenu avec les mots du\_**champ**\_**lexical**\_pour atteindre les premières pages de Google.\n"
+        content: "Le sens d’une page web est\_**déterminé en fonction des mots contenus**\_sur celle-ci. Si sur votre page, un article parle de rédaction web, il faut absolument qu'il contienne des mots clés en corrélation avec le thème tel que : netlinking, référenceur, stratégie éditoriale, digitale, etc.\n\nEn résumé : il faut enrichir le contenu avec les mots du\_**champ**\_**lexical**\_pour atteindre les premières pages de Google.\n"
         image: /images/Richesse-sémantique.png
         image_alt: Richesse-sémantique Mary marketing
         media_position: right
