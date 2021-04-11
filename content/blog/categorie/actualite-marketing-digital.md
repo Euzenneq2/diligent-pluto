@@ -1,5 +1,5 @@
 ---
-title: Actualité digital
+title: Actualité du digital
 sections:
   - type: hero_section
     title: Actualité du digital
