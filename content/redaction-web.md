@@ -31,9 +31,7 @@ sections:
       - title: Étude de la thématique
         title_align: left
         content: |
-
-
-          *   Identification des mots clés cible
+          *   Identification des mots clés cibles
 
           <!---->
 
