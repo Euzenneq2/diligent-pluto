@@ -459,7 +459,7 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          Très professionnelle, Mary est à l'écoute, sais s'adapter au projet et
+          Très professionnelle, Mary est à l'écoute, sait s'adapter au projet et
           nos attentes.
 
 
