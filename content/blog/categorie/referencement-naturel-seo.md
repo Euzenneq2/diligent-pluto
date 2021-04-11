@@ -5,11 +5,11 @@ sections:
     title: Référencement naturel
     subtitle: >-
       Un site web est utile à votre activité, seulement si il est visible sur
-      Google. Il n'est pas facile d'être bien positionné sur les moteurs de
-      recherche. Cependant, connaitre les bonnes pratique du SEO vous aidera à
-      atteindre les premières résultat de recherche Google. Vous trouverez ici
-      des centaines de contenus pour vous aider
-       à booster votre SEO grâce au content marketing
+      Google. Cependant, il n'est pas simple d'être bien positionné sur les
+      moteurs de recherche. C'est pourquoi, j'ai décidé de partager avec vous
+      les bonnes pratique du référencement naturel (SEO). Ces conseils vous
+      aiderons considérablement à booster vos contenus éditoriaux, dans
+      l'objectif d'atteindre les premières résultat de recherche Google.
     align: center
     padding_top: medium
     padding_bottom: none
