@@ -43,7 +43,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Actualité du marketing digital
+  title: Actualité du digital
   description: This is the author archive page
   extra:
     - name: 'og:type'
