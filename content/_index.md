@@ -606,7 +606,7 @@ sections:
     content: >
       Vous êtes à la recherche d'une collaboratrice pour vous accompagner dans
       la création et la refonte de votre contenu rédactionnel ? Vous cherchez à
-      positionner votre site web sur des mots clés spécifiques ? Vous avez
+      positionner votre site web sur des mots-clés spécifiques ? Vous avez
       besoin de quelqu'un pour animer et gérer vos réseaux sociaux ?
 
 
