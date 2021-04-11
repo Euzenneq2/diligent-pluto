@@ -1,5 +1,5 @@
 ---
-title: Actualité marketing digital
+title: Actualité digital
 sections:
   - type: hero_section
     title: Actualité marketing digital
