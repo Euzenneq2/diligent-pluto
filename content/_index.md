@@ -5,7 +5,7 @@ sections:
     template: hero_section
     title: Rédactrice web SEO friendly
     subtitle: >-
-      Vous avez besoin d'atteindre les 10 premiers résultats de recherche de
+      Vous avez besoin d'atteindre les 10 pages de résultats de recherche de
       Google pour promouvoir votre activité ?
     content: >
       C'est important en tant que rédactrice web d'être à jour dans les bonnes
@@ -46,7 +46,7 @@ sections:
         content: |
           Étude de l'environnement
 
-          Recherche des mots clés pertinent
+          Recherche des mots clés pertinents
 
           Identification de votre audience
 
@@ -113,7 +113,7 @@ sections:
           l'attention** du lecteur.
 
 
-          De plus, ce texte doit être rédigé selon des standards de
+          De plus, ce contenu web doit être rédigé selon des standards de
           référencement préétablis dans **l'objectif de se positionner sur des
           requêtes de mots clés ciblés**.
 
@@ -149,7 +149,7 @@ sections:
           C'est ici que mon expertise marketing intervient.
 
 
-          En perpétuelle évolution tant les métiers du web ce développe
+          En perpétuelle évolution tant les métiers du web ce développent
           rapidement, je me suis formé au marketing digital.
 
 
@@ -222,7 +222,7 @@ sections:
         image: images/contenu-exclusif.svg
       - title: Optimisation SEO
         title_align: center
-        content: "Tout le contenu crée ou amélioré passe par l'optimisation SEO.\n\nLes\_**balises**, les\_**liens**, l'arborescence de votre site (H1, H2...), tout y passe.\n"
+        content: "Tout le contenu crée ou amélioré passe par l'optimisation SEO.\n\nLes\_**balises**, les\_**liens**, l'arborescence de votre site (H1, sous-titres...), tout y passe.\n"
         content_align: center
         actions: []
         actions_align: left
@@ -260,7 +260,7 @@ sections:
         subtitle: >-
           "Rédactrice web et en freelance depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre stratégie éditoriale, en
-          vous produisant du contenu optimisé SEO."
+          vous produisant des contenus de qualité et optimisé SEO."
         actions:
           - label: En savoir plus
             url: /a-propos
@@ -287,7 +287,7 @@ sections:
         title_align: center
         content: >
           Mettre en avant votre contenu, **vos produit** et **vos points fort**
-          en créant du **contenu adapté** à votre persona cible.
+          en créant du **contenu orienté** vers votre public-cible.
         content_align: center
         actions:
           - type: action
@@ -311,9 +311,10 @@ sections:
         title: Rédaction web
         title_align: center
         content: >
-          Que ce soit des **articles** de blog, des **fiches produits**, des
-          **pages web** ou des **livres blancs**... Rédiger ces supports est mon
-          quotidien.
+          Que ce soit un **article** de blog, une **fiche produit**, des **pages
+          web** ou un **livre blanc**... Rédiger ces supports et proposer du
+          contenu de qualité est mon quotidien en tant que rédacteur web
+          freelance.
         content_align: center
         actions:
           - type: action
@@ -335,8 +336,8 @@ sections:
         title: Cocon sémantique
         title_align: center
         content: >
-          Pour un référencement de qualité. L'optimisation de **l'architecture
-          SEO** : maillage interne et contenu éditorial, c'est primordial.
+          Pour un référencement de qualité. L'optimisation des **contenus SEO**
+          : maillage interne et contenu éditorial, c'est primordial.
         content_align: center
         actions:
           - type: action
@@ -356,8 +357,9 @@ sections:
       - title: Netlinking
         title_align: center
         content: >
-          Pour améliorer le **référencement**, la popularité et l'audience de
-          votre site web, développons le nombre de vos **backlinks**.
+          Pour améliorer le **référencement**, votre image, la popularité et
+          l'audience de votre site web, développons le nombre de vos
+          **backlinks** (liens internes et externes).
         content_align: center
         actions:
           - label: En savoir plus
@@ -386,7 +388,6 @@ sections:
         content_align: center
         actions:
           - label: En savoir plus
-            url: '#'
             style: link
             has_icon: false
             icon: arrow-left
