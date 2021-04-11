@@ -48,7 +48,7 @@ sections:
     type: hero_section
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
-  title: Articles Référencement naturel
+  title: Articles sur le Référencement naturel
   description: This is the author archive page
   extra:
     - name: 'og:type'
