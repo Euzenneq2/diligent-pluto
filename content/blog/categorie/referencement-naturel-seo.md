@@ -6,9 +6,10 @@ sections:
     subtitle: >-
       Un site web est utile à votre activité, seulement si il est visible sur
       Google. Cependant, il n'est pas simple d'être bien positionné sur les
-      moteurs de recherche. C'est pourquoi, connaitre les bonnes pratique du SEO
-      vous aidera à atteindre les premières résultat de recherche Google. Vous
-      trouverez ici des centaines de contenus pour vous aider
+      moteurs de recherche. C'est pourquoi, j'ai décidé de partager avec vous
+      les bonnes pratique du SEO. Cela vous aidera considérablement à atteindre
+      les premières résultat de recherche Google. Vous trouverez ici des
+      centaines de contenus pour vous aider
        à booster votre SEO grâce au content marketing
     align: center
     padding_top: medium
