@@ -203,7 +203,7 @@ sections:
         template: grid_item
         title: Des articles de blog
         title_align: left
-        content: "Trouver un bon sujet pour\_**un article de blog**, c’est crucial.\n\nGrâce à des\_**outils sémantiques**, il m'est possible de vous concocter un ou plusieurs articles avec des sujets pertinents.\n\nEffectivement, une bonne position est assuré par Google pour les sites qui répondent avec concordance à un sujet ou à un thème recherché par les visiteurs (les\_**requêtes**).\n"
+        content: "Trouver un bon sujet pour\_**un article de blog**, c’est crucial.\n\nGrâce à des\_**outils sémantiques**, il m'est possible de vous produire du contenu avec des sujets pertinents.\n\nEffectivement, une bonne position est assurée par Google pour les sites qui répondent avec concordance à un sujet ou à un thème recherché par les visiteurs (les\_**requêtes**).\n"
         content_align: left
         actions:
           - type: action
