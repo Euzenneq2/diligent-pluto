@@ -208,7 +208,7 @@ sections:
           Cela me permet d'enrichir le **champ lexical** du **contenu rédigé**.
       - title: Contenu exclusif
         title_align: center
-        content: "Je m'engage à produire pour vous, du\_**contenue unique**.\n\nLe plagiat ne fait pas partie de mes façons de travailler.\n"
+        content: "Je m'engage à produire pour vous, du\_**contenu unique**.\n\nLe plagiat ne fait pas partie de mes façons de travailler.\n"
         content_align: center
         actions: []
         actions_align: left
