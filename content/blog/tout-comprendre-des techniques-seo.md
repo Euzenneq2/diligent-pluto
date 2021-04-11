@@ -4,7 +4,6 @@ date: '2021-03-18'
 categories:
   - data/categories/referencement-naturel-seo.json
 tags:
-  - data/tags/jamstack.json
   - data/tags/netlify.json
 excerpt: >-
   Vous souhaitez compléter votre stratégie d'Inbound Marketing ? Formez-vous au
