@@ -6,9 +6,9 @@ sections:
     subtitle: >-
       Un site web est utile à votre activité, seulement si il est visible sur
       Google. Il n'est pas facile d'être bien positionné sur les moteurs de
-      recherche. Cependant, établir une stratégie de contenu efficace vous
-      aidera à atteindre les premières résultat de recherche Google. Vous
-      trouverez ici des centaines de contenus pour vous aider
+      recherche. Cependant, connaitre les bonnes pratique du SEO vous aidera à
+      atteindre les premières résultat de recherche Google. Vous trouverez ici
+      des centaines de contenus pour vous aider
        à booster votre SEO grâce au content marketing
     align: center
     padding_top: medium
