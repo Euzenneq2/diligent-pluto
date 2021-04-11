@@ -30,9 +30,9 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      <iframe width="700" height="500"
-      src="https://b749b5e7.sibforms.com/serve/MUIEAF5r1JTEkqHTEJQVw6ab8vQucaAF6nZMk-JK6nAtUiXUWns39OVi9a0mELXPI7kXEfym1c58bGIvHsiv0LQYjh4r8EF_XPDsOqtUUGxDCeeiaymP1JWxjDvulEGqoFETVUebd6xK2drEGI--fxowKtp6vZGp9jROyenptiThZMnYDH0jEh18_Xhrp-metKZJjMQkQU6QtKgy"
-      frameborder="0" scrolling="auto" allowfullscreen style="display:
+      <iframe width="750" height="600"
+      src="https://b749b5e7.sibforms.com/serve/MUIEANw9vOdjL8T9GgJoGHDmiBXt9EnP4GzoDrWFO2Aj2V9VH01WOUR9BRXQr_oxus4kb9E0tG4uy9aVwvkCRNMtquGauot44ozwsqG7KUGyhlfJpus6_h2kMLVmzedcYLbn57GwMjCSTwMFfWgx13L1iBeej3khJvzxoRegpnh6z3vfa_LucxpJ_odRX-OqjKXTOvItsrRugOQz"
+      frameborder="0" scrolling="no" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     media_position: top
     media_width: fifty
