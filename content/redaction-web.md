@@ -116,7 +116,7 @@ sections:
       - subtitle: >-
           Aujourd'hui, la rédaction web est obligatoire lors du développement de
           votre site internet.
-        content: "Le\_**contenu éditorial**\_est important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherches pour vendre vos produits ou services.\n\nVous pouvez tenter de créer ce contenu par vos propre moyen et essayer d'optimiser votre SEO. Cependant, en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
+        content: "Le\_**contenu éditorial**\_est important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherches pour vendre vos produits ou services.\n\nVous pouvez tenter de créer ce contenu par vos propres moyens et essayer d'optimiser votre SEO. Cependant, en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
         actions: []
         image_alt: Booster votre contenu seo
         media_position: left
