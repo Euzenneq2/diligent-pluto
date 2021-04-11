@@ -30,7 +30,7 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      <iframe width="540" height="600"
+      <iframe width="700" height="500"
       src="https://b749b5e7.sibforms.com/serve/MUIEAF5r1JTEkqHTEJQVw6ab8vQucaAF6nZMk-JK6nAtUiXUWns39OVi9a0mELXPI7kXEfym1c58bGIvHsiv0LQYjh4r8EF_XPDsOqtUUGxDCeeiaymP1JWxjDvulEGqoFETVUebd6xK2drEGI--fxowKtp6vZGp9jROyenptiThZMnYDH0jEh18_Xhrp-metKZJjMQkQU6QtKgy"
       frameborder="0" scrolling="auto" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
