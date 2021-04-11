@@ -305,7 +305,7 @@ sections:
       - type: feature
         template: feature
         title: La production de contenue
-        content: "Ensuite, place à la\_**création du contenu web**. Je rédige mon contenu unique en utilisant des mots clés secondaires qui complètent les mots clés principaux. J’arborise mon contenue avec des\_**balises HTML**,  comme le le\_**titre éditorial H1**, des sous-titres H2, H3 et H4, ainsi que des paragraphes enrichis.\n\n\nLe\_**nombre de mots**\_est fondamental pour un référencement naturel efficace.\n"
+        content: "Ensuite, place à la\_**création du contenu web**. Je rédige mon contenu unique en utilisant des mots-clés secondaires qui complètent le mot clé principal. J’arborise mon contenu avec des\_**balises HTML**, comme le\_**titre éditorial H1**, des sous-titres H2, H3 et H4, ainsi que des paragraphes enrichis.\n\nLe\_**nombre de mots**\_est fondamental pour un référencement naturel efficace.\n"
         media_position: left
         media_width: thirty-three
         image: /images/Production-de-contenue.png
