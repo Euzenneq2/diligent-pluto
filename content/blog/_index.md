@@ -20,6 +20,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        url: '#newsletter'
     image: /images/blog-redac-web.png
     media_position: right
     media_width: fifty
