@@ -3,8 +3,7 @@ title: Tout comprendre des techniques SEO
 date: '2021-03-18'
 categories:
   - data/categories/referencement-naturel-seo.json
-tags:
-  - data/tags/netlify.json
+tags: []
 excerpt: >-
   Vous souhaitez compléter votre stratégie d'Inbound Marketing ? Formez-vous au
   SEO ! Dans cet article vous allez découvrir les bases du référencement !
