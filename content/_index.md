@@ -383,7 +383,7 @@ sections:
       - title: Community management
         title_align: center
         content: >
-          La création d'une **stratégie social média** est devenue nécessaire
+          La création d'une **stratégie social media** est devenue nécessaire
           pour élaborer une **communauté** sur vos médias sociaux.
         content_align: center
         actions:
