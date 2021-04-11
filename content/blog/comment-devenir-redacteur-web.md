@@ -4,7 +4,6 @@ date: '2021-01-25'
 categories:
   - data/categories/freelancing.json
 tags:
-  - data/tags/stackbit.json
   - data/tags/netlify.json
 thumb_image: /images/article-devenir-redacteur-web.png
 thumb_image_alt: article-devenir-redacteur-web.png
