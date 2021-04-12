@@ -59,7 +59,7 @@ Pourquoi est-ce si important ? C’est simple : si vous avez un grand nombre de 
 
 Les moteurs de recherche, en particulier Google mesure la valeur de votre site internet avec la qualité et la quantité des liens entrants.
 
-Depuis 2005, Google utilise un système de points pondérés - le PageRank - pour déterminer la valeur d'une page et, ainsi, l'endroit où elle doit se positionner dans les résultats de recherche. Ce système analyse la valeur des liens qui pointent vers une page ou un site. Les liens de grande valeur peuvent faire remonter votre site dans les résultats de recherche.
+Depuis 2005, Google utilise un système de points pondérés, le Page-rank, pour déterminer la valeur d'une page et, ainsi, l'endroit où elle doit se positionner dans les résultats du moteur de recherche. Ce système analyse la valeur d'un lien qui pointe vers une page ou un site. Les liens de qualité peuvent faire remonter votre site dans les résultats de recherche.
 
 Que faire pour s’assurer d’obtenir les bons types de backlinks ? Comment être sûr d'utiliser correctement les liens dofollow et nofollow sur votre site internet ?
 
@@ -69,7 +69,7 @@ Il est nécessaire de comprendre la différence entre les deux type de lien et l
 
 Pour la plupart des utilisateurs d'un site internet, les liens dofollow et nofollow ont la même apparence. Cependant, les liens nofollow ont un morceau de code, appelé attribut, qui signale aux algorithmes des moteurs de recherche qu'ils ne doivent pas suivre le lien. Cela ressemble à ceci : rel="nofollow".
 
-Les liens nofollow ne transmettent aucun PageRank au site lié, selon Google. C’est-à-dire, que les liens nofollow qui pointent vers votre site internet n'affectent pas la position de votre site dans les pages de résultats de Google, par exemple.
+Les liens nofollow ne transmettent aucun Page-rank au site lié, selon Google. C’est-à-dire, que les liens nofollow qui pointent vers votre site internet n'affectent pas la position de votre site dans les pages de résultats de Google, par exemple.
 
 Historiquement, c’est en 2005 que les Googlers Matt Cutts et Jason Shellen ont introduit l'option nofollow pour lutter contre les « spammeurs » de commentaires.
 
@@ -99,7 +99,7 @@ Lorsqu'un autre site établit un lien vers le vôtre avec un lien standard (aka 
 
 Les robots des moteurs de recherche parcourent le Web à travers les liens dofollow, en notant qui est lié à qui. Ces relations sont, que les pros du SEO appellent "jus de lien".
 
-Par exemple, imaginons qu'un site réputé avec un PageRank élevé établit un lien le vôtre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors augmenter votre PageRank.
+Par exemple, imaginons qu'un site réputé avec un Page-rank élevé établit un lien le vôtre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors augmenter votre Pagerank.
 
 Cela peut faire progresser votre classement dans les résultats des moteurs de recherche.
 
