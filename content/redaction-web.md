@@ -295,7 +295,7 @@ sections:
       - type: feature
         template: feature
         title: Stratégie des mots clé
-        content: "Sur le web, la conception-rédaction de contenu doit être associée à la stratégie des mots-clés. En amont, réaliser une charte éditoriale permet de garder en mémoire les attentes du client.\n\nCertains critères sont importants à connaître pour trouver des **mots-clés** pertinents.\n\nEn effet, il faut être attentif aux\_**nombres de recherches mensuel**\_du mot, au\_**type de trafic**\_qu'il génère et au\_**nombre de concurrent**\_qui le convoitise. En amont, réaliser une charte éditoriale permet de garder en mémoire les attentes du client\n"
+        content: "Sur le web, la conception-rédaction de contenu doit être associée à la **stratégie des mots-clés**. En amont, réaliser une charte éditoriale permet de garder en mémoire les attentes du client.\n\nCertains critères sont importants à connaître pour trouver des **mots-clés** pertinents.\n\nEn effet, il faut être attentif aux\_**nombres de recherches mensuel**\_du mot, au\_**type de trafic**\_qu'il génère et au\_**nombre de concurrent**\_qui le convoitise. En amont, réaliser une charte éditoriale permet de garder en mémoire les attentes du client\n"
         image: /images/Stratégie-de-mots-clés.png
         image_alt: Stratégie de mots clés Mary marketing
         media_position: right
