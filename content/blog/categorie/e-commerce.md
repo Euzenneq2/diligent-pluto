@@ -3,7 +3,13 @@ title: E-commerce
 sections:
   - type: hero_section
     title: E-commerce
-    subtitle: The optional subtitle
+    subtitle: >-
+      Ici je vais vous parler de ecommerce et vous donner des
+       conseils pour développer votre boutique, notamment d'un point de vue 
+      stratégique. Je vais vous donner des tips pour améliorer votre taix de 
+
+      conversion. Car en e-commerce, l'augmentation d'1% du taux de conversion
+      peut représenter beaucoup d'argent ...
     align: center
     padding_top: medium
     padding_bottom: none
