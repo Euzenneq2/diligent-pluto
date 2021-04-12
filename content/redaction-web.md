@@ -181,7 +181,7 @@ sections:
         template: grid_item
         title: Des fiches produits
         title_align: left
-        content: "Une fiche produit, c'est toute la description et les caractéristiques du produit que vous vendez. Ayant de l'expérience en termes de\_**content marketing**\_(marketing de contenu) et en copywriting, je saurais\_**captiver**\_les utilisateurs via une qualité rédactionnelle.\n\nPlusieurs\_**techniques de rédaction SEO**\_sont utilisées afin de\_**convertir vos prospects**\_et de les conduire jusqu'à l’acte d’achat. Une fois séduit, votre public-cible ne pourra qu’amorcer l'achat du produit convoité.\n"
+        content: "Une fiche produit, c'est toute la description et les caractéristiques du produit que vous vendez. Ayant de l'expérience en termes de\_**content marketing**\_(marketing de contenu) et en copywriting, je saurais\_**captiver**\_les utilisateurs via une qualité rédactionnelle.\n\nPlusieurs\_**techniques de rédaction SEO**\_sont utilisées afin de\_**convertir vos prospects**\_et de les conduire sur vos sites internet, jusqu'à l’acte d’achat. Une fois séduit grâce à votre stratégie marketing, votre public-cible ne pourra qu’amorcer l'achat du produit convoité.\n"
         content_align: left
         actions:
           - type: action
