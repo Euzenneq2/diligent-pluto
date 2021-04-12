@@ -316,7 +316,7 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: L'optimisation SEO
-        content: "**L’optimisation SEO de vos textes**\_est la dernière étape pour optimiser votre positionnement dans la SERP en partie grâce au language HTML.\n\nCette étape s'effectue en partie lors de la création de\_**balise TITLE**,\_**meta description**\_ainsi que des\_**balises ALT**\_(balises qui permettent d’associer des mots-clés à vos images).\n"
+        content: "**L’optimisation SEO de vos textes**\_est la dernière étape pour optimiser votre positionnement dans la SERP en partie grâce au langage HTML.\n\nCette étape s'effectue en partie lors de la création de\_**balise TITLE**,\_**meta description**\_ainsi que des\_**balises ALT**\_(balises qui permettent d’associer des mots-clés à vos images).\n"
         actions: []
         image_alt: optimisation SEO Mary marketing
         media_position: left
