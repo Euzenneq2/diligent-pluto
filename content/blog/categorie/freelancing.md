@@ -3,7 +3,7 @@ title: Freelancing
 sections:
   - type: hero_section
     title: Freelancing
-    subtitle: The optional subtitle
+    subtitle: "J'ai lancé mon activité de Freelance en 2020 et j'ai puÉtant Freelance depuis 2015, j'ai testé pas mal de choses. Les joies de la paperasse (malgré le statut d'auto-entrepreneur), les galères pour trouver des missions Freelance et des clients. Quel compte en banque choisir ? Comment se différencier de la masse ? Comment vivre convenablement ?  Ici vous trouverez divers articles traitant de l'entrepreneuriat et du Freelancing : Mes avis sur les plateformes Freelance\n que j'ai testé par exemple. Vous retrouverez également mes conseils et \nmes retours d'expérience. J'essaye d'aider au maximum et je reste \ndisponible si vous avez des questions sur le métier de Freelance.  Je ne\n suis pas devenu Freelance du jour au lendemain, je vais donc également \nvous parler de mon parcours et de mes études \U0001F642 !"
     align: center
     padding_top: medium
     padding_bottom: none
