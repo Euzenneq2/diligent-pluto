@@ -155,7 +155,7 @@ sections:
   - type: features_section
     template: features_section
     features:
-      - content: "C’est assez simple : le rédacteur web se charge de tout le contenu du site internet. De la rédaction d'articles, d'une\_**fiche-produit**, d'une\_**page de vente**\_ou bien d’autres. Un rédacteur web freelance est en capacité de vous livrer votre article web directement sur votre wordpress.\n\nJe suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenu\_**unique**\_et de\_**qualité**.\n"
+      - content: "C’est assez simple : le rédacteur web se charge de tout le contenu du site internet.\n\nDe la rédaction d'articles, d'une\_**fiche produit**, d'une\_**page de vente**\_ou bien d’autres. Un rédacteur web freelance est en capacité de vous livrer votre article web directement sur votre wordpress.\n\nJe suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenu\_**unique**\_et de\_**qualité**.\n"
         actions: []
         image_alt: engrenage-page-redaction-web
         media_position: right
