@@ -155,7 +155,7 @@ sections:
   - type: features_section
     template: features_section
     features:
-      - content: "C’est assez simple : le rédacteur web se charge de tout le contenu du site internet. Une\_**fiche produit**, un\_**article de blog**, une\_**page de vente**\_et bien d’autres. Je suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenu\_**unique**\_et de\_**qualité**.\n"
+      - content: "C’est assez simple : le rédacteur web se charge de tout le contenu du site internet.\n\nDe la rédaction d'articles, d'une\_**fiche produit**, d'une\_**page de vente**\_ou bien d’autres. Un rédacteur web freelance est en capacité de vous livrer votre article web directement sur votre wordpress.\n\nJe suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenu\_**unique**\_et de\_**qualité**.\n"
         actions: []
         image_alt: engrenage-page-redaction-web
         media_position: right
@@ -181,7 +181,7 @@ sections:
         template: grid_item
         title: Des fiches produits
         title_align: left
-        content: "Une fiche produit, c'est toute la description et les caractéristiques du produit que vous vendez. Ayant de l'expérience en termes de\_**content marketing**\_(marketing de contenu) et en copywriting, je saurais\_**captiver**\_les utilisateurs via une qualité rédactionnelle.\n\nPlusieurs\_**techniques de rédaction SEO**\_sont utilisées afin de\_**convertir vos prospects**\_et de les conduire jusqu'à l’acte d’achat. Une fois séduit, votre public-cible ne pourra qu’amorcer l'achat du produit convoité.\n"
+        content: "Une fiche produit, c'est toute la description et les caractéristiques du produit que vous vendez. Ayant de l'expérience en termes de\_**content marketing**\_(marketing de contenu) et en copywriting, je saurais\_**captiver**\_les utilisateurs via une qualité rédactionnelle.\n\nPlusieurs\_**techniques de rédaction SEO**\_sont utilisées afin de\_**convertir vos prospects**\_et de les conduire sur vos sites internet, jusqu'à l’acte d’achat. Une fois séduit grâce à votre stratégie marketing, votre public-cible ne pourra qu’amorcer l'achat du produit convoité.\n"
         content_align: left
         actions:
           - type: action
@@ -201,7 +201,7 @@ sections:
         template: grid_item
         title: Des articles de blog
         title_align: left
-        content: "Rédiger un article nécessite des connaissances en Inbound marketing.\n\nTrouver un bon sujet pour\_**un article de blog**, c’est crucial.\n\nGrâce à des\_**outils sémantiques**, il m'est possible de vous produire du contenu avec des sujets pertinents.\n\nEffectivement, une bonne position est assurée par Google pour les sites qui répondent avec concordance à un sujet ou à un thème recherché par les visiteurs (les\_**requêtes**).\n"
+        content: "Rédiger un article nécessite des connaissances en Inbound marketing. C'est une stratégie de création de contenus.\n\nTrouver un bon sujet pour\_**un article de blog**, c’est crucial.\n\nGrâce à des\_**outils sémantiques**, il m'est possible de vous produire du contenu avec des sujets pertinents.\n\nEffectivement, une bonne position est assurée par Google pour les sites qui répondent avec concordance à un sujet ou à un thème recherché par les visiteurs (les\_**requêtes**).\n"
         content_align: left
         actions:
           - type: action
