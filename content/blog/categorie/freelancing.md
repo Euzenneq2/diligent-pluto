@@ -14,13 +14,16 @@ sections:
       plaisir pour autant. Les difficultés à trouver mes premières missions
       freelances et mes clients réguliers.  Comment se différencier de vos
       concurrents ? Quelle solution bancaire choisir ? Comment améliorer
-      environnement de travail ? Dans cette catégorie Freelancing, vous
-      découvrirez une multitude d'articles traitant de divers sujets liés à
-      l’entrepreneuriat vous trouverez divers articles traitant de
-      l'entrepreneuriat. Je vous partage mes conseils de vie et vous fais un
-      retour d’expérience des différentes plateformes de micro-services que j’ai
-      pu tester. Je vais vous partage également mon parcours professionnel et
-      les formations avec lequel je me suis formé.
+      environnement de travail ?
+
+
+      Dans cette catégorie Freelancing, vous découvrirez une multitude
+      d'articles traitant de divers sujets liés à l’entrepreneuriat vous
+      trouverez divers articles traitant de l'entrepreneuriat. Je vous partage
+      mes conseils de vie et vous fais un retour d’expérience des différentes
+      plateformes de micro-services que j’ai pu tester. Je vais vous partage
+      également mon parcours professionnel et les formations avec lequel je me
+      suis formé.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
