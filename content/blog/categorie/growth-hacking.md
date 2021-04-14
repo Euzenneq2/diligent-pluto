@@ -7,15 +7,17 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: >+
-      Comment ne pas parler de Growth Hacking ou de Growth Marketing. Termes à
-      la mode qui sonnent bien et que j'affectionne. On pourrait définir le 
+    content: >
+      Depuis quelques années maintenant le Growth Hacking ou Growth Marketing
+      intrigue et dérange en même temps. Sont principe consiste à générer un
+      maximum de rendement avec un faible investissement (en termes de temps et
+      financier). C'est un état d'esprit et un ensemble de techniques, d'outils,
+      et méthodologies dont l’objectif est l'accélération de croissance, par
+      tous les moyens possible , d’un service ou d’un produit.
 
-      Growth Hacking en une phrase : générer un maximum de revenu avec un
-      minimum d'investissement (en temps et en argent). Je vais donc vous donner
-      un maximum de tips, notamment pour optimiser le taux de conversion de
-      votre site web et comment générer du trafic à bas coût !
-
+      Je vais donc vous donner  les meilleurs astuces pour notamment optimiser
+      votre taux de conversion de votre site internet et comment générer du
+      trafic à moindre coût.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
