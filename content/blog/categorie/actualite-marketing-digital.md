@@ -17,10 +17,12 @@ sections:
       large ! Je ne me focalise pas uniquement sur les GAFAM, les solutions
       innovantes développées par les startups vous sont également partagées.
       Disruptives, elles inspirent les acteurs déjà présents et font très
-      souvent évoluer leur marché.  Vous trouverez dans cette veille
-      informationnelle, les nouveautés du numérique et les études vous
-      permettant d’être à la pointe du référencement naturelle, des réseaux
-      sociaux, du e-commerce, etc.
+      souvent évoluer leur marché.
+
+
+      Vous trouverez dans cette veille informationnelle, les nouveautés du
+      numérique et les études vous permettant d’être à la pointe du
+      référencement naturelle, des réseaux sociaux, du e-commerce, etc.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
