@@ -3,7 +3,6 @@ title: Actualité du digital
 sections:
   - type: hero_section
     title: Actualité du digital
-    subtitle: "En\ntant que professionnels du numérique, on se doit d’être à jours sur l’actualité\ndu web : SEO, réseaux sociaux, marketing, graphisme et nouveau langage de\ndéveloppement… Qu'importe votre domaine d'expertise, il est impératif de\ncomprendre les missions de toutes les parties prenantes présentes dans un\nprojet digital. Je décrypte et partage pour vous toutes les informations utiles\nà votre quotidien. De plus, ma veille ratisse large ! Je ne me focalise pas\nuniquement sur les GAFAM, les solutions innovantes développées par les startups\nvous sont également partagées. Disruptives, elles inspirent les acteurs déjà\nprésents et font très souvent évoluer leur marché.\_ Vous trouverez dans\ncette veille informationnelle, les nouveautés du numérique et les études vous\npermettant d’être à la pointe du référencement naturelle, des réseaux sociaux,\ndu e-commerce, etc."
     align: center
     padding_top: medium
     padding_bottom: none
