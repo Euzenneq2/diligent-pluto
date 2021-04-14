@@ -23,6 +23,13 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
+    content: >
+      Un site web est utile à votre activité, seulement s’il est visible sur
+      Google. Cependant, il n'est pas simple d'être bien positionné sur les
+      moteurs de recherche. C'est pourquoi j'ai décidé de partager avec vous les
+      bonnes pratiques du référencement naturel (SEO). Ces conseils vous
+      aideront considérablement à booster vos contenus éditoriaux, dans
+      l'objectif d'atteindre les premiers résultats de recherche Google.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
