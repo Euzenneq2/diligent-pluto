@@ -3,22 +3,6 @@ title: Référencement naturel
 sections:
   - type: hero_section
     title: Référencement naturel
-    subtitle: >-
-      Un site web est utile à votre activité, seulement s’il est
-
-      visible sur Google. Cependant, il n'est pas simple d'être bien positionné
-      sur
-
-      les moteurs de recherche. C'est pourquoi j'ai décidé de partager avec vous
-      les
-
-      bonnes pratiques du référencement naturel (SEO). Ces conseils vous
-      aideront
-
-      considérablement à booster vos contenus éditoriaux, dans l'objectif
-      d'atteindre
-
-      les premiers résultats de recherche Google.
     align: center
     padding_top: medium
     padding_bottom: none
