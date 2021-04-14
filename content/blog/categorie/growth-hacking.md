@@ -16,6 +16,15 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
+    content: >+
+      Comment ne pas parler de Growth Hacking ou de Growth Marketing. Termes à
+      la mode qui sonnent bien et que j'affectionne. On pourrait définir le 
+
+      Growth Hacking en une phrase : générer un maximum de revenu avec un
+      minimum d'investissement (en temps et en argent). Je vais donc vous donner
+      un maximum de tips, notamment pour optimiser le taux de conversion de
+      votre site web et comment générer du trafic à bas coût !
+
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
