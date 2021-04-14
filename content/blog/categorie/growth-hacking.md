@@ -9,13 +9,13 @@ sections:
     background_color: none
     content: >
       Depuis quelques années maintenant le Growth Hacking ou Growth Marketing
-      intrigue et dérange en même temps. Sont principe consiste à générer un
+      intrigue et dérange en même temps. Son principe consiste à générer un
       maximum de rendement avec un faible investissement (en termes de temps et
       financier). C'est un état d'esprit et un ensemble de techniques, d'outils,
       et méthodologies dont l’objectif est l'accélération de croissance, par
-      tous les moyens possible , d’un service ou d’un produit.
+      tous les moyens possible, d’un service ou d’un produit.
 
-      Je vais donc vous donner  les meilleurs astuces pour notamment optimiser
+      Je vais donc vous donner les meilleures astuces pour notamment optimiser
       votre taux de conversion de votre site internet et comment générer du
       trafic à moindre coût.
   - type: blog_feed_section
