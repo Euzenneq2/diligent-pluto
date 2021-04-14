@@ -9,9 +9,9 @@ sections:
     background_color: none
     content: >
       J'ai lancé mon activité de Freelance en 2020 et j'ai été confronté à un
-      certain nombre de barrières depuis. Les démarches administratives qui sont
-      allégés avec le statut d'auto-entrepreneur mais ce n'est pas une partie de
-      plaisir pour autant. Les difficultés à trouver mes premières missions
+      certain nombre de barrières depuis. Les démarches administratives sont
+      allégés avec le statut d'auto-entrepreneur, mais ce n'est pas une partie
+      de plaisir pour autant. Les difficultés à trouver mes premières missions
       freelances et mes clients réguliers.  Comment se différencier de vos
       concurrents ? Quelle solution bancaire choisir ? Comment améliorer
       environnement de travail ?
