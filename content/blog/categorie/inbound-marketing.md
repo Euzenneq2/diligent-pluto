@@ -7,7 +7,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: >+
+    content: >
       J'ai découvert l'Inbound Marketing en 2016 : quelle révélation ! L'Inbound
       Marketing est un concept assez jeune, en France en tout cas. On le
       définirait comme un Marketing entrant, en opposition au marketing sortant
@@ -22,6 +22,23 @@ sections:
       permettant d'automatiser certaines tâches Marketing comme l'envoi d'email.
       Je vous parle de tout ça ici.
 
+
+
+
+      L'Inbound marketing est aussi appelé marketing entrant en France. Il est
+      l'inverse de l'Outbound Marketing (marketing sortant), qui est la
+      publicité standard que vous recevez au quotidien dans votre boite aux
+      lettres, boite mail ou fil d'actualité de vos réseaux sociaux. L'Inbound à
+      pour objectif d'amener les visiteurs vers nous plutôt que de lui envoyer
+      de la publicité via des bannières, des appel téléphonique, ou des
+      campagnes d'emalilling. Tout ces pratiques impact notre quotidiens et
+      notre expérience utilisateur. D'ailleurs il sont devenue invisible au yeux
+      de beaucoup d'entre nous, en partie grâce au extension anti-pub. En terme
+      de retour sur investissement l'Inbound Marketing et très intéréssante pour
+      vos clients BtoB. Elle servira à nourir sont interet pour vos services ou
+      produits. C'est un stratégie de marketing digital qui fonctionne aussi
+      très bien avec une clientèle BtoC. Un contenu optimisé SEO couplé à une
+      solution de Marketing Automation qui vous permettra d'automatiser 
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
