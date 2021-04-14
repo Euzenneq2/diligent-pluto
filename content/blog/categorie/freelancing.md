@@ -13,7 +13,7 @@ sections:
       allégés avec le statut d'auto-entrepreneur, mais ce n'est pas une partie
       de plaisir pour autant. Les difficultés à trouver mes premières missions
       freelances et mes clients réguliers.  Comment se différencier de vos
-      concurrents ? Quelle solution bancaire choisir ? Comment améliorer
+      concurrents ? Quelle solution bancaire choisir ? Comment améliorer votre
       environnement de travail ?
 
 
