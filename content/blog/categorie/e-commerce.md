@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: E-commerce
     subtitle: >-
-      Ici je vais vous parler de ecommerce et vous donner des
-       conseils pour développer votre boutique, notamment d'un point de vue 
-      stratégique. Je vais vous donner des tips pour améliorer votre taix de 
+      Dans cette catégorie je vais vous donner mes trucs et astuces pour
+      développer votre boutique en ligne, spécifiquement du point de vue 
+
+      stratégique. Je vais vous donner des tips pour améliorer votre taux de 
 
       conversion. Car en e-commerce, l'augmentation d'1% du taux de conversion
       peut représenter beaucoup d'argent ...
