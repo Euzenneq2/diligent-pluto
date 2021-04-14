@@ -3,7 +3,6 @@ title: E-commerce
 sections:
   - type: hero_section
     title: E-commerce
-    subtitle: "L'évolution\nd'internet et la Covid-19 ont accélérer le développement du canal d'achat\ne-commerce. Les acteurs majeurs comme Amazon ou Cdiscount ont grandement\nmodifié les habitudes des consommateurs et réduit les parts de marché du\ncommerce traditionnel. Aujourd'hui notre téléphone mobile influence notre\nmanière d'acheter sur le web. Dans cette catégorie, je vais vous donner mes\ntrucs et astuces pour développer votre boutique en ligne. Du point de vue\nstratégique, les tendances du marché, les chiffres clés, l'importance du\nmobile-first et l'impact de l'expérience utilisateur dans le processus d'achat.\nJe vais vous partager les actualités sur ce secteur qui révolutionne\naujourd'hui le quotidien des consommateurs. Optimiser votre business peut vous permettre\nun gain d’1% de votre taux de conversion. En e-commerce cela peut représenter\nbeaucoup d'argent\_!"
     align: center
     padding_top: medium
     padding_bottom: none
