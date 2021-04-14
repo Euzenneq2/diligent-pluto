@@ -552,7 +552,7 @@ sections:
         template: grid_item
         title: Valérie Hausknost
         subtitle: Designer Graphique
-        title_align: cent-louiser
+        title_align: center
         image: images/Valérie-Hausknost.jpg
         image_position: top
     grid_cols: four
