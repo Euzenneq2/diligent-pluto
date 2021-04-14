@@ -3,23 +3,7 @@ title: E-commerce
 sections:
   - type: hero_section
     title: E-commerce
-    subtitle: >-
-      L'évolution d'internet et la Covid-19 ont accélérer le développement du
-      canal d'achat e-commerce. Avec le développement d’Internet, le e-commerce
-      est peu à peu devenu
-       un canal d’achat prépondérant pour les consommateurs. Les acteurs majeur comme 
-      Amazon ou Cdiscount ont grandement modifié les habitude des consommateurs
-      et réduit la part du commerce traditionnel. Aujourd'hui notre téléphone
-      mobile a lui aussi influencé notre manière d'acheter sur le web. Dans
-      cette catégorie, je vais vous donner mes trucs et astuces pour développer
-      votre boutique en ligne. Du point de vue 
-
-      stratégique, les chiffres clés, les tendances du marché, l'importance du
-      mobile-first et l'impact de l'expérience utilisateur dans le processus
-      d'achat. Je vais vous partager les actualités sur ce secteur qui
-      révolutionne aujourd'hui le quotidien des consommateurs . En e-commerce,
-      l'augmentation d'1% du taux de conversion peut représenter beaucoup
-      d'argent ...
+    subtitle: "L'évolution\nd'internet et la Covid-19 ont accélérer le développement du canal d'achat\ne-commerce. Les acteurs majeurs comme Amazon ou Cdiscount ont grandement\nmodifié les habitudes des consommateurs et réduit les parts de marché du\ncommerce traditionnel. Aujourd'hui notre téléphone mobile influence notre\nmanière d'acheter sur le web. Dans cette catégorie, je vais vous donner mes\ntrucs et astuces pour développer votre boutique en ligne. Du point de vue\nstratégique, les tendances du marché, les chiffres clés, l'importance du\nmobile-first et l'impact de l'expérience utilisateur dans le processus d'achat.\nJe vais vous partager les actualités sur ce secteur qui révolutionne\naujourd'hui le quotidien des consommateurs. Optimiser votre business peut vous permettre\nun gain d’1% de votre taux de conversion. En e-commerce cela peut représenter\nbeaucoup d'argent\_!"
     align: center
     padding_top: medium
     padding_bottom: none
