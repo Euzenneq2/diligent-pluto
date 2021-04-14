@@ -3,7 +3,23 @@ title: E-commerce
 sections:
   - type: hero_section
     title: E-commerce
-    subtitle: "L'évolution d'internet et la Covid-19 ont accélérer le développement du canal d'achat e-commerce. Avec le développement d’Internet, le e-commerce est peu à peu devenu\n un canal d’achat prépondérant pour les consommateurs. Les acteurs majeur comme \nAmazon ou Cdiscount ont grandement modifié les habitude des consommateurs et réduit la part du commerce traditionnel. Aujourd'hui notre téléphone mobile a lui aussi influencé notre manière d'acheter sur le web. Dans cette catégorie, je vais vous donner mes trucs et astuces pour développer votre boutique en ligne. Du point de vue \nstratégique, les chiffres et tendances du marché. Je vais vous donner des tips pour améliorer votre taux de \nconversion. Car en e-commerce, l'augmentation d'1% du taux de conversion peut représenter beaucoup d'argent ...\_ Sur le blog du Modérateur, nous nous intéressons à tous\n les aspects du e-commerce : chiffres, tendances, usages, importance du \nmobile dans le processus d’achat… Nous partageons toutes les actualités \nsur ce secteur, que cela concerne la France ou les acteurs \ninternationaux. Nous vous proposons aussi des décryptages de \nprofessionnels du secteur pour éclairer ce sujet. Les actualités autour \ndu e-commerce sont nombreuses tant ce domaine a révolutionné la façon \nd’acheter et de consommer."
+    subtitle: >-
+      L'évolution d'internet et la Covid-19 ont accélérer le développement du
+      canal d'achat e-commerce. Avec le développement d’Internet, le e-commerce
+      est peu à peu devenu
+       un canal d’achat prépondérant pour les consommateurs. Les acteurs majeur comme 
+      Amazon ou Cdiscount ont grandement modifié les habitude des consommateurs
+      et réduit la part du commerce traditionnel. Aujourd'hui notre téléphone
+      mobile a lui aussi influencé notre manière d'acheter sur le web. Dans
+      cette catégorie, je vais vous donner mes trucs et astuces pour développer
+      votre boutique en ligne. Du point de vue 
+
+      stratégique, les chiffres clés, les tendances du marché, l'importance du
+      mobile-first et l'impact de l'expérience utilisateur dans le processus
+      d'achat. Je vais vous partager les actualités sur ce secteur qui
+      révolutionne aujourd'hui le quotidien des consommateurs . En e-commerce,
+      l'augmentation d'1% du taux de conversion peut représenter beaucoup
+      d'argent ...
     align: center
     padding_top: medium
     padding_bottom: none
