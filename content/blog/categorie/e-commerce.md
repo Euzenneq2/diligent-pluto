@@ -3,33 +3,7 @@ title: E-commerce
 sections:
   - type: hero_section
     title: E-commerce
-    subtitle: >-
-      Dans cette catégorie je vais vous donner mes trucs et astuces pour
-      développer votre boutique en ligne, spécifiquement du point de vue 
-
-      stratégique. Je vais vous donner des tips pour améliorer votre taux de 
-
-      conversion. Car en e-commerce, l'augmentation d'1% du taux de conversion
-      peut représenter beaucoup d'argent ...Avec le développement d’Internet, le
-      e-commerce est peu à peu devenu
-       un canal d’achat prépondérant pour les consommateurs. Les géants comme 
-      Amazon ou Alibaba ont profondément modifié le commerce traditionnel. Le 
-
-      mobile a encore changé les habitudes du e-commerce en changeant notre 
-
-      façon d’acheter. Sur le blog du Modérateur, nous nous intéressons à tous
-       les aspects du e-commerce : chiffres, tendances, usages, importance du 
-      mobile dans le processus d’achat… Nous partageons toutes les actualités 
-
-      sur ce secteur, que cela concerne la France ou les acteurs 
-
-      internationaux. Nous vous proposons aussi des décryptages de 
-
-      professionnels du secteur pour éclairer ce sujet. Les actualités autour 
-
-      du e-commerce sont nombreuses tant ce domaine a révolutionné la façon 
-
-      d’acheter et de consommer.
+    subtitle: "Le développement d'internet à accélerer Avec le développement d’Internet, le e-commerce est peu à peu devenu\n un canal d’achat prépondérant pour les consommateurs. Les géants comme \nAmazon ou Alibaba ont profondément modifié le commerce traditionnel. Le \nmobile a encore changé les habitudes du e-commerce en changeant notre \nfaçon d’acheter.Dans cette catégorie je vais vous donner mes trucs et astuces pour développer votre boutique en ligne, spécifiquement du point de vue \nstratégique. Je vais vous donner des tips pour améliorer votre taux de \nconversion. Car en e-commerce, l'augmentation d'1% du taux de conversion peut représenter beaucoup d'argent ...\_ Sur le blog du Modérateur, nous nous intéressons à tous\n les aspects du e-commerce : chiffres, tendances, usages, importance du \nmobile dans le processus d’achat… Nous partageons toutes les actualités \nsur ce secteur, que cela concerne la France ou les acteurs \ninternationaux. Nous vous proposons aussi des décryptages de \nprofessionnels du secteur pour éclairer ce sujet. Les actualités autour \ndu e-commerce sont nombreuses tant ce domaine a révolutionné la façon \nd’acheter et de consommer."
     align: center
     padding_top: medium
     padding_bottom: none
