@@ -16,10 +16,13 @@ sections:
       vais vous donner mes trucs et astuces pour développer votre boutique en
       ligne. Du point de vue stratégique, les tendances du marché, les chiffres
       clés, l'importance du mobile-first et l'impact de l'expérience utilisateur
-      dans le processus d'achat. Je vais vous partager les actualités sur ce
-      secteur qui révolutionne aujourd'hui le quotidien des consommateurs.
-      Optimiser votre business peut vous permettre un gain d’1% de votre taux de
-      conversion. En e-commerce cela peut représenter beaucoup d'argent !
+      dans le processus d'achat. 
+
+
+      Je vais vous partager les actualités sur ce secteur qui révolutionne
+      aujourd'hui le quotidien des consommateurs. Optimiser votre business peut
+      vous permettre un gain d’1% de votre taux de conversion. En e-commerce
+      cela peut représenter beaucoup d'argent !
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
