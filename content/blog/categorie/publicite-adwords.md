@@ -8,7 +8,26 @@ sections:
     padding_bottom: none
     background_color: none
     content: >
-     Très accès SEO, je ne suis pas la plus grande utilisatrice de publicité adwords. Cependant comme dans tout business, il est important de ne pas «\_mettre tous ces œufs dans le même panier\_». Le SEA doit être considéré dans votre stratégie d’acquisition de trafic. Dans le cas où vous votre positionnement en référencement naturel est impacté sur le moteur de recherche, vos campagnes adwords vous assurerons un minimum de visiteur pour continuer vos activités. De plus selon la configuration et les caractéristiques de votre entreprise, les publicités en ligne peuvent être un allier de taille si elles sont est utilisé intelligemment.\n\nJe vous parlerais ici de Google Adwords et de la publicité sur le moteur de recherche Google. La publicité Display est très intéressante si vous gérez un ecommerce. Elle sera un élément clé de votre stratégie de retargetting. L’objectif étant de convertir les prospects ayant déjà visité votre boutique en ligne.\n\nLors du lancement d’une stratégie d’Inbound marketing, l’adwords peut être un accélérateur.  \n\nSi vous avez pour ambition de développer une nouvelle activité (Lancement d’un produit, d’une startup ou d’une stratégie SEO par exemple), le SEA peut vous être utiles en phase d’étude pour analyser le marché.
+      Très accès SEO, je ne suis pas la plus grande utilisatrice de publicité
+      adwords. Cependant comme dans tout business, il est important de ne pas «
+      mettre tous ces œufs dans le même panier ». Le SEA doit être considéré
+      dans votre stratégie d’acquisition de trafic. Dans le cas où vous votre
+      positionnement en référencement naturel est impacté sur le moteur de
+      recherche, vos campagnes adwords vous assurerons un minimum de visiteur
+      pour continuer vos activités. De plus selon la configuration et les
+      caractéristiques de votre entreprise, les publicités en ligne peuvent être
+      un allier de taille si elles sont est utilisé intelligemment. 
+
+
+      Je vous parlerais ici de Google Adwords et de la publicité sur le moteur
+      de recherche Google. La publicité Display est très intéressante si vous
+      gérez un ecommerce. Elle sera un élément clé de votre stratégie de
+      retargetting. L’objectif étant de convertir les prospects ayant déjà
+      visité votre boutique en ligne. Lors du lancement d’une stratégie
+      d’Inbound marketing, l’adwords peut être un accélérateur.Si vous avez pour
+      ambition de développer une nouvelle activité (Lancement d’un produit,
+      d’une startup ou d’une stratégie SEO par exemple), le SEA peut vous être
+      utiles en phase d’étude pour analyser le marché.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
@@ -21,7 +40,7 @@ sections:
     show_image: true
     padding_top: small
     padding_bottom: large
-    has_border: true     
+    has_border: true
   - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
