@@ -9,8 +9,8 @@ sections:
     background_color: none
     content: >
       Comme vous devez le savoir, **Wordpress est le CMS le plus populaire** et
-      le plus utilisé au monde. Il représente\*\* 34 % de tous les sites sur
-      internet\*\* et chaque jour plus de 500 sites web sont construits avec
+      le plus utilisé au monde. Il représente **34 % de tous les sites sur
+      internet** et chaque jour plus de 500 sites web sont construits avec
       Wordpress (10 fois plus que sur des plateformes comme Shopify). Il vous
       permet de facilement mettre en place de très beaux **sites vitrine, blogs,
       ou sites ecommerce**. Wordpress est un outil avec lequel je travaille
