@@ -8,13 +8,12 @@ sections:
     padding_bottom: none
     background_color: none
     content: >
-      Je suis passionné de nouvelles technologies et notamment d'informatique
-      depuis très longtemps. J'ai d'ailleurs effectué 4 ans d'études dans
-      l'informatique. C'est ici que je vais vous partager divers articles
-      traitant de sujets informatiques qui me passionnent : Sécurité, Cloud
-      Computing, Virtualisation, etc. Je partage ici également mes outils et
-      logiciels préférés. Ainsi que divers sujets plus généralistes autour des
-      nouvelles technologies.
+      C'est assez rare, mais oui il existe des femmes passionnées de nouvelle
+      technologie. Je vais vous partager ici différents articles traitant de
+      l'informatique. Les sujets seront assez larges. De la sécurité
+      informatique, logiciel de virtualisation, cloud computing, etc. Vous y
+      trouverez aussi tous les outils et logiciels que j'utilise dans mon
+      travail au quotidien.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
