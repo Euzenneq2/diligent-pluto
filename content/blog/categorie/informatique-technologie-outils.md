@@ -8,11 +8,12 @@ sections:
     padding_bottom: none
     background_color: none
     content: >
-      C'est assez rare, mais oui il existe des femmes passionnées de nouvelle
-      technologie. Je vais vous partager ici différents articles traitant de
-      l'informatique. Les sujets seront assez larges. Sécurité informatique,
-      logiciel de virtualisation, cloud computing, etc. Vous y trouverez aussi
-      tous les outils et logiciels que j'utilise dans mon travail au quotidien.
+      C'est assez rare, mais oui il existe des femmes passionnées de **nouvelle
+      technologie**. Je vais vous partager ici différents articles traitant de
+      l'**informatique**. Les sujets seront assez larges. **Sécurité
+      informatique**, **logiciel de virtualisation**, **cloud computing**, etc.
+      Vous y trouverez aussi tous les outils et **logiciels** que j'utilise dans
+      mon travail au quotidien.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
