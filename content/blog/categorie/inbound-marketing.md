@@ -7,22 +7,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: >
-      J'ai découvert l'Inbound Marketing en 2016 : quelle révélation ! L'Inbound
-      Marketing est un concept assez jeune, en France en tout cas. On le
-      définirait comme un Marketing entrant, en opposition au marketing sortant
-      : l'Outbound Marketing. L'Inbound consiste à amener le client vers nous
-      plutôt qu'aller le chercher à coup de campagnes emailing, d'appels
-      intempestifs ou de bannières publicitaires qui polluant le web (merci
-      Adblock). L'Inbound Marketing est devenu la stratégie Marketing Digital la
-      plus ROIste et la plus intéressante en BtoB. On peut malgré tout utiliser
-      l'Inbound sur un marché BtoC. On parlera d'ailleurs plutôt de P2P (Person
-      to Person). La plupart du temps, l'Inbound Marketing ne peut se passer du
-      SEO et induit forcément le concept de Marketing Automation : des outils
-      permettant d'automatiser certaines tâches Marketing comme l'envoi d'email.
-      Je vous parle de tout ça ici.
-
-
+    content: >+
       L'Inbound marketing est aussi appelé marketing entrant en France. Il est
       l'inverse de l'Outbound Marketing (marketing sortant), qui est la
       publicité standard que vous recevez au quotidien dans votre boite aux
@@ -33,10 +18,14 @@ sections:
       notre expérience utilisateur. D'ailleurs il sont devenue invisible au yeux
       de beaucoup d'entre nous, en partie grâce au extension anti-pub. En terme
       de retour sur investissement l'Inbound Marketing et très intéressante pour
-      vos clients BtoB. Elle servira à nourir sont interet pour vos services ou
+      vos clients BtoB. Elle servira à nourrir sont interet pour vos services ou
       produits. C'est un stratégie de marketing digital qui fonctionne aussi
-      très bien avec une clientèle BtoC. Un contenu optimisé SEO couplé à une
-      solution de Marketing Automation qui vous permettra d'automatiser
+      très bien avec une clientèle BtoC. Un content marketing optimisé SEO
+      couplé à une solution de Marketing Automation qui vous permettra
+      d'automatiser vos campagne d'email par exemple.
+
+
+
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
