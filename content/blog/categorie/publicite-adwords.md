@@ -3,7 +3,6 @@ title: Publicité et adwords
 sections:
   - type: hero_section
     title: Publicité et adwords
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none
