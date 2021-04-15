@@ -9,15 +9,14 @@ sections:
     background_color: none
     content: >
       **L'évolution d'internet et la Covid-19 ont accélérer le développement du
-      canal d'achat e-commerce**. Les acteurs majeurs comme **Amazon **ou
-      **Cdiscount **ont grandement **modifié les habitudes des consommateurs**
-      et **réduit les parts de marché du commerce traditionnel**. Aujourd'hui
-      notre téléphone **mobile influence notre manière d'acheter sur le web**.
-      Dans cette catégorie, je vais vous donner mes trucs et astuces pour
-      **développer votre boutique en ligne**. Du point de vue **stratégique**,
-      les** tendances du marché**, les **chiffres clés**, l'importance du
-      **mobile-first** et l'impact de **l'expérience utilisateur dans le
-      processus d'achat**.
+      canal d'achat e-commerce**. Les acteurs majeurs comme **Amazon** ou
+      **Cdiscount ont grandement modifié les habitudes des consommateurs et
+      réduit les parts de marché du commerce traditionnel. Aujourd'hui notre
+      téléphone mobile influence notre manière d'acheter sur le web. Dans cette
+      catégorie, je vais vous donner mes trucs et astuces pour développer votre
+      boutique en ligne. Du point de vue stratégique, les tendances du marché**,
+      les **chiffres clés**, l'importance du **mobile-first** et l'impact de
+      **l'expérience utilisateur dans le processus d'achat**.
 
 
       Je vais vous partager les actualités sur ce secteur qui révolutionne
