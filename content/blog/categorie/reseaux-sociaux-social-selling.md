@@ -7,7 +7,36 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: "Actualité autour du Marketing sur les réseaux sociaux : Facebook, Twitter, LinkedIn, Google+, Instagram, YouTube, etc ... Publicité (Facebook Ads, etc). Mes conseils et retours expériences.Personnellement, je pratique le community management depuis plusieurs années. Cependant, ce que je préfère c'est la publicité sur les réseaux sociaux. cette pratique permet de faire de l'acquisition de trafic et surtout d'obtenir énormément de Leads. J'ai déjà testé : **la publicité Facebook Ads, la publicité LinkedIn Ads et la publicité Twitter.** Le\_**Social Selling**\_est une\_**technique de vente très orientée B to B**. Le principe est simple : se servir des réseaux sociaux, notamment\_**LinkedIn**\_qui est le réseau social professionnel n°1 mondial pour démarcher. J’affectionne tout particulièrement le Social Selling pour la simple et bonne raison que le démarchage par email ou le Cold Calling (appel à froid) sont chronophage et ne donnent pas de très bons résultats. **LinkedIn a révolutionné le travail des ingénieur d’affaires et commerciaux ainsi que celui des entrepreneurs.**\n\n****\n\nDans cette article, \n\n****\n\n****\n"
+    content: >
+      Dans cette article, je vais vous parler de l'actualité du Marketing sur
+      les réseaux sociaux : Twitter, Facebook, Linkedin, Instagram, Youtube,
+      TikTok , Snapchat, Clubhouse, etc. Vous retrouverez mes expériences et
+      conseils autours de ces média sociaux. Ils sont très intéréssant pour
+      votre stratégie d'acquisition ou de notoriété, si votre community
+      management est bien établis. De plus, la possibilité de création publicité
+      sur les réseaux sociaux peut être un très bon levier pour l'acquisition de
+      trafic et l'obtenition de Leads qualifié. Les solutions adwords que
+      j'utilise actuellement dans mes activités sont : Linkedin Ads, Facebook
+      Ads et la publicité Twitter. Les campagnes de Social Selling sont des
+      techniques de vente ciblant une audience spécifique, déterminé selon des
+      caractéristiques précise. Exemple sur Linkedin : Utiliser ce réseaux
+      social professionnel très orienté BtoB pour cibler et démarcher des
+      entreprises qui serait potentiellement intéréssé par votre produits ou
+      services. C'est une pratique simple qui viendra compléter vos démarchage
+      par e-mail ou votre Cold calling (appel à froid). Des pratiques
+      chronophage qui vois aujourd'hui ces résultats à la baisse. Les réseaux
+      professionnel comme Twitter ou Linkedin ont révolutionné le travail de
+      beaucoup de corps de métier tel que : Les ressources humaines, les
+      commerciaux et ingénieur d'affaires mais aussi et surtout celui des
+      entrepreneurs !
+
+
+
+
+      ***
+
+
+      ***
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
