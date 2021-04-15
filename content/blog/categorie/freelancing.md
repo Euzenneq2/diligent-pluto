@@ -8,21 +8,21 @@ sections:
     padding_bottom: none
     background_color: none
     content: >
-      J'ai lancé mon activité de Freelance en 2020 et j'ai été confronté à un
-      certain nombre de barrières depuis. Les démarches administratives sont
-      allégés avec le statut d'auto-entrepreneur, mais ce n'est pas une partie
-      de plaisir pour autant. Les difficultés à trouver mes premières missions
-      freelances et mes clients réguliers.  Comment se différencier de vos
-      concurrents ? Quelle solution bancaire choisir ? Comment améliorer votre
-      environnement de travail ?
+      J'ai lancé mon activité de **Freelance **en 2020 et j'ai été confronté à
+      un certain nombre de barrières depuis. Les démarches administratives sont
+      allégées avec le statut d'**auto-entrepreneur**, mais ce n'est pas une
+      partie de plaisir pour autant. Les difficultés à trouver mes premières
+      **missions** freelances et mes **clients réguliers**.  Comment se
+      différencier de vos concurrents ? Quelle solution bancaire choisir ?
+      Comment améliorer votre **environnement de travail** ?
 
 
-      Dans cette catégorie Freelancing, vous découvrirez une multitude
-      d'articles traitant de divers sujets liés à l’entrepreneuriat. Je vous
-      partage mes conseils de vie et vous fais un retour d’expérience des
-      différentes plateformes de micro-services que j’ai pu tester. Je vais vous
-      partage également mon parcours professionnel et les formations avec lequel
-      je me suis formé.
+      Dans cette catégorie **Freelancing**, vous découvrirez une multitude
+      d'articles traitant de divers sujets liés à **l’entrepreneuriat**. Je vous
+      partage mes conseils de vie et vous fais un **retour d’expérience** des
+      différentes plateformes de **micro-services** que j’ai pu tester. Je vais
+      vous partage également mon parcours professionnel et les **formations
+      **que j'ai suivis tout au long de celui-ci.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
