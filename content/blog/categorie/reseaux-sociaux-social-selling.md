@@ -34,7 +34,7 @@ sections:
       Les réseaux professionnels comme Twitter ou Linkedin ont révolutionné le
       travail de beaucoup de corps de métier tel que : Les ressources humaines,
       les commerciaux et ingénieur d'affaires mais aussi et surtout celui des
-      entrepreneurs.
+      **entrepreneurs**.
 
 
       ***
