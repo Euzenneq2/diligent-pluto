@@ -9,20 +9,22 @@ sections:
     background_color: none
     content: >
       En tant que professionnels du numérique, on se doit d’être à jours sur
-      l’actualité du web : SEO, réseaux sociaux, marketing, graphisme et nouveau
-      langage de développement… Qu'importe votre domaine d'expertise, il est
-      impératif de comprendre les missions de toutes les parties prenantes
-      présentes dans un projet digital. Je décrypte et partage pour vous toutes
-      les informations utiles à votre quotidien. De plus, ma veille ratisse
-      large ! Je ne me focalise pas uniquement sur les GAFAM, les solutions
-      innovantes développées par les startups vous sont également partagées.
-      Disruptives, elles inspirent les acteurs déjà présents et font très
-      souvent évoluer leur marché.
+      l’**actualité du web** : **SEO**, **réseaux sociaux**, **marketing**,**
+      graphisme** et nouveau **langage de développement**… Qu'importe votre
+      domaine d'expertise, il est impératif de comprendre les missions de toutes
+      les parties prenantes présentes dans un **projet digital**. **Je décrypte
+      et partage** pour vous toutes les informations utiles à votre quotidien.
+      De plus, ma veille ratisse large ! Je ne me focalise pas uniquement sur
+      les **GAFAM**, les **solutions innovantes** développées par les
+      **startups** vous sont également partagées. **Disruptives**, elles
+      inspirent les acteurs déjà présents et font très souvent **évoluer leur
+      marché**.
 
 
-      Vous trouverez dans cette veille informationnelle, les nouveautés du
-      numérique et les études vous permettant d’être à la pointe du
-      référencement naturelle, des réseaux sociaux, du e-commerce, etc.
+      Vous trouverez dans cette **veille informationnelle**, les **nouveautés du
+      numérique** et les études vous permettant d’être à la pointe du
+      **référencement naturelle**, des **réseaux sociaux**, du **e-commerce**,
+      etc.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
