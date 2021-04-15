@@ -22,7 +22,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true     
-   - actions: []
+  - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
