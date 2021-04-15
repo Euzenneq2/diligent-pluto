@@ -49,94 +49,94 @@ author: data/team/mary-marketing.json
 ---
 En 2020 des tendances qui devaient émergées sont resté dans les tiroirs. D’autre y sont sortis en s’adaptant à la situation mondiale.
 
-Effectivement, les ventes en ligne ont explosé. Les marques ont dû changer la façon de toucher et de se connecter avec ces consommateurs. Car les populations se sont adaptées à la situation en passant plus de temps sur internet et les médias sociaux.
+Effectivement, les ventes en ligne ont augmenté. Les marques ont dû changer la façon de toucher et de se connecter avec ces consommateurs. Car les populations se sont adaptées à la situation en passant plus de temps sur internet.
 
 De plus, les appels en viso sont devenus la norme que ce soit au niveau personnel ou professionnel.
 
-Alors, quelles sont les tendances marketing qui continuent de s’imposer en 2021 ?
+Alors, quelles sont les tendances marketing qui vont s’imposer cette année ?
 
-Voici quelques tendances clés à prendre en compte :
+Nous allons découvrir les tendances clés à connaitre :
 
-## &#xD;&#xA;Les Influenceurs et les Lives&#xD;
+##  Les Influenceurs et les Lives 
 
-Les confinements et les obligations de rester cloitré à la maison ont entraîné l’annulation d’événements. Personne n’a pas pu assister à des événements en physique ni se sociabiliser avec des amis ou de la famille.
+Les confinements et les obligations de rester cloitré à la maison ont engendré la suppression d’événements. Personne n’a pas pu assister à des événements en physique ni se sociabiliser avec des amis ou de la famille.
 
-Cette situation a entraîné une augmentation du nombre de personnes qui regardent les live-streams de marque, de célébrité préférée ou d’atelier en ligne.
+Cette situation a entraîné une croissance du nombre de personnes qui regardent les live-streams de marque, de star préférée ou d’atelier en ligne.
 
-L’utilisation de TikTok a bondi en 2020, et il y a de fortes chances pour que cette trajectoire ascendante se poursuive en 2021. Les visionnages des directs ont augmenté de 50 % sur Facebook, tandis que sur Instagram ils ont grimpé de 70 %.
+TikTok a bondi en 2020, et cette trajectoire ascendante va se poursuive en 2021. Les visionnages des directs ont augmenté de 50 % sur Facebook, tandis que sur Instagram ils ont grimpé de 70 %.
 
 Les live de personnes connus ou d’influenceur « face cam » permet de créer de la proximité et de la confiance avec sa communauté. C’est une tendance que les utilisateurs apprécient. Ils veulent de l’authentique.
 
 ## La transparence des marques
 
-À l’heure où les libertés sont réduites, les utilisateurs ont besoin de transparence de la part des marques.
+À l’heure où les libertés sont réduites, les utilisateurs ont besoin d'authenticité de la part des marques.
 
-Les consommateurs ont du mal à se laisser tenter par l’achat d’un produit d’une marque qu’ils ne trouvent pas fiable. Cela reste logique, quelle idée d’investir dans quelque chose qui ne nous inspire pas ? C’est pourquoi le lien est essentiel pour les marques qui veulent rester de confiance en 2021.
+Les consommateurs ont du mal à se laisser tenter par l’achat d’un produit d’une marque qu’ils ne trouvent pas fiable. Cela reste logique, quelle idée d’investir dans un produit qui ne nous convient pas ? Par conséquent, le lien est essentiel pour les marques qui veulent rester de proche des valeurs des consommateurs en 2021.
 
-Il est nécessaire pour les marques d’être en accord avec leur raison d’être et leur but. Elles devront de plus en plus trouver des moyens de créer ou faire perdurer le lien avec ces consommateurs.
+Il est nécessaire pour les marques d’être en accord avec leurs valeurs et leur but. Elles devront de plus en plus trouver des moyens de créer ou faire perdurer le lien avec ces consommateurs.
 
 Cette tendance s’accentue de plus en plus. C’est le moment de finalisé sa stratégie et la moderniser avec cette tendance de transparence.
 
-## Améliorer l’expérience client grâce au contenu généré par le client (CGC)&#xD;
+## Améliorer l’expérience client grâce au contenu généré par l'utilisateur (CGU) 
 
-L’expérience client n’a jamais été aussi importante.
+Il est important de mettre en avant l'expérience client dans vos stratégies.
 
 L’idée d’apprendre à connaitre une marque avant d’acheter un de ces produits est primordial pour un consommateur. Il souhaite vivre une expérience avec celle-ci pour être rassuré et savoir s’il est en accord avec ces valeurs par exemple.
 
-Le contenu généré par les utilisateurs remplit toutes les conditions pour permettre cela.
+Le CGU remplit toutes les conditions pour permettre cela :
 
-En effet, il permet d’établir un lien avec les utilisateurs, de créer et consolider les communautés. Les marques peuvent ainsi générer beaucoup de contenu et toucher les clients là où ils se trouvent c’est-à-dire : à la maison.
+*   Il permet d’établir un lien avec les utilisateurs,
+
+*   De créer et consolider les communautés.
+
+*   Les marques peuvent ainsi générer beaucoup de contenu
+
+*   Et toucher les consommateurs là où ils sont c’est-à-dire : à la maison.
 
 Cette stratégie perdurera en 2021 car c’est un moyen efficace pour les marques de créer des relations avec leurs clients et de fournir des preuves sociales.
 
-## &#xD;&#xA;Un accent sur la durabilité
+## Se trouver vers la durabilité
 
+La majorité des consommateurs estimes que les entreprises ont l'obligation jouer un rôle positif dans l’amélioration de l’environnement.
 
-La majorité des consommateurs estimes que les entreprises doivent jouer un rôle positif dans l’amélioration de l’environnement.
-
-Ce n’est pas surprenant. Au cours des années 2019 et 2020, nous avons constaté que les marques se sont orientées vers un avenir plus durable, que ce soit pour les matériaux qu’elles utilisent, les emballages, leurs systèmes ou autre.
+Ce n’est pas surprenant. Au cours des années 2019 et 2020, nous avons remarqué que les marques se sont orientées vers un lendemain plus durable, concernant les matériaux qu’elles utilisent, les emballages, leurs systèmes ou autre.
 
 En vue de la demande grandissante des clients à consommer de plus en plus écoresponsable et durable, il est indispensable en 2021 et dans les années qui suivent d’affirmer ou réaffirmer son soutien à la cause environnementale.
 
-Un excellent exemple de marque qui a réussi à le faire : l’organisation Ocean Cleanup. Fin octobre 2020, elle a présenté son premier produit fabriqué uniquement à partir de plastique collecté dans la grande zone d'ordures du Grand Pacifique : des lunettes de soleil.
+Un formidable exemple de marque qui a réussi à l'instaurer : l’organisation Ocean Cleanup. Fin octobre 2020, l'organisation a présenté sa première fabrication réalisée exclusivement avec du plastique collecté dans la grande zone d'ordures du Grand Pacifique : des lunettes de soleil.
 
-Pour partager l’annonce, ils ont utilisé TINT (la meilleure plateforme américaine pour partager tout le CGU d’une entreprise). Ils ont montré comment la marque continuera à utiliser des produits recyclés repêché dans l’océan pour créer des produits esthétique et durables. De plus, ils ont précisé que les revenus générés par les produits seront réinjectés dans la campagne de nettoyage de la marque.
+Pour partager l’annonce, ils ont opté pour TINT (la meilleure plateforme américaine pour partager tout le CGU d’une entreprise). Ils ont montré comment Ocean Cleanup persistera à utiliser des objets recyclés repêché dans l’océan pour fabriquer des produits esthétique et durables. De plus, ils ont précisé que les revenus engendrés par les produits seront réintroduits dans la lutte de nettoyage de la marque.
 
-## &#xD;&#xA;De l’inclusion !
+##  De l’inclusion !
 
+L’un des sujets les plus importants de 2020 est l’inclusivité. Notamment avec Black Lives Matter qui a permis de mettre en lumière des problèmes persistant depuis des siècles au sein des différents pays.
 
-L’un des sujets les plus importants de 2020 est l’inclusivité. Notamment avec le mouvement Black Lives Matter qui a permis de mettre en lumière des problèmes persistant depuis des siècles au sein de la société.
+Accenture, une entreprise internationale de conseil et de technologies a publié une étude montrant que la transformation culturelle en faveur de l’inclusion a un impact sur les habitudes d’achat.
 
-Accenture, une entreprise internationale de conseil et de technologies a publié une étude montrant que le changement culturel en faveur de l’inclusion a un impact sur le comportement d’achat.
+En effet, 41 % des consommateurs ne souhaitent plus acheter dans à des marques qui ne renvoient pas leurs idéaux sur l’identité et la diversité. De plus, 29 % souhaiteront changer totalement de marque si celle-ci ne représente pas assez de diversité.
 
-En effet, 41 % des consommateurs ne souhaitent plus acheter dans à des marques qui ne reflètent pas leurs idéaux sur l’identité et la diversité. De plus, 29 % sont prêts à changer totalement de marque si celle-ci ne représente pas assez de diversité.
+En 2021, il sera compliqué de se présenter sans prendre en compte cette demande d’inclusivité de la part des consommateurs. A contrario, les entreprises qui afficheront publiquement leur engagement dans des causes inclusives seront remerciés et installeront des liens authentique avec leurs consommateurs.
 
-En 2021, il sera compliqué de se présenter sans prendre en compte cette demande d’inclusivité de la part des consommateurs. En revanche, les marques qui afficheront ouvertement leur engagement dans des causes inclusives seront remerciés et installeront des liens authentique avec leurs consommateurs.
+##  La commande vocale et visuelle en augmentation
 
-## &#xD;&#xA;La recherche vocale et visuelle en augmentation
-
-
-Les consommateurs sont de plus en plus nombreux à effectuer des recherches via des outils à commande vocale comme Alexa.
+Les consommateurs sont de plus en plus nombreux à effectuer des recherches via des accessoires à commande vocale tel qu'Alexa.
 
 La cause ? Le fait de rester à la maison et de ne plus pouvoir converser physiquement, ou peut-être parce que ces technologies sont plus accessibles (environ 1,7 million d'enceintes connectées sont entrées dans les foyers français).
 
-En 2021, en plus des outils à commandes vocales, il existe des moyens permettant de faire des recherches avec des images : la recherche visuelle. Par exemple Google Lens, un programme de reconnaissance d'image développé par Google permettra aux consommateurs de copier le texte d’une image par exemple grâce à la reconnaissance optique de caractères (OCR).
+En 2021, en plus des outils à commandes vocales, il existe des moyens permettant de faire des recherches avec des images : la recherche visuelle. Par exemple Google Lens, un programme de reconnaissance d'image développé par Google permettra aux utilisateurs de copier le texte d’une image par exemple grâce à la reconnaissance optique de caractères (OCR).
 
-Pour les spécialistes du marketing, il sera dont important de mettre à jour le texte Alt des images et les sitmaps. Au cours de l’année, les éléments visuels prendront de plus en plus d’importance dans le jeu du référencement.
+Pour les grands marketeurs, il sera dont important de mettre à jour le texte Alt des images et les sitmaps. Durant l’année, les éléments visuels prendront plus d’importance dans le système du référencement.
 
-## &#xD;&#xA;Un contenu facile à consommer
-
+##  Le easy-to-consume
 
 En 2020, les consommateurs se sont penchés sur du contenu easy-to-consume.
 
-Comme, la lecture des newsletters récapitulant des articles de blog qui atterrissent directement dans les boites mails des abonnées ou la lecture de podcasts qui peuvent être écouté n’importe où
+Comme, la lecture des newsletters récapitulant des articles de blog qui arrivent immédiatement dans les boites mails des abonnées ou la lecture de podcasts qui peuvent être écouté n’importe où
 
-Des études montrent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
+Des expérimentations révèlent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
 
-## &#xD;&#xA;Êtes-vous prêt pour 2021 ?
+##  Êtes-vous prêt pour 2021 ?
 
-
-En 2020, les marques étaient obligées de s’adapter à la situation et trouver des moyens de se connecter avec leur clientèle.
-À présent, les gens passent beaucoup plus de temps à la maison et qui plus ai en ligne. Les marques sont obligées de se diversifier et de créer des moyens de vente plus humain.
+En 2020, les marques étaient obligées de s’adapter à la situation et trouver des moyens de se connecter avec leur clientèle. À présent, les gens passent beaucoup plus de temps à la maison et qui plus ai en ligne. Les marques sont obligées de se diversifier et de créer des moyens de vente plus humain.
 
 Cette tendance va poursuivre au cours des prochains mois. Les lives seront encrés dans les habitudes des influenceurs, les marques afficheront clairement leur message écoresponsable et le contenu généré par les utilisateurs s’ancrera dans une nouvelle stratégie marketing.
