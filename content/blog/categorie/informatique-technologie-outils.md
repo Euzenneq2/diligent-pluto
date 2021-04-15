@@ -7,6 +7,14 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
+    content: >
+      Je suis passionné de nouvelles technologies et notamment d'informatique
+      depuis très longtemps. J'ai d'ailleurs effectué 4 ans d'études dans
+      l'informatique. C'est ici que je vais vous partager divers articles
+      traitant de sujets informatiques qui me passionnent : Sécurité, Cloud
+      Computing, Virtualisation, etc. Je partage ici également mes outils et
+      logiciels préférés. Ainsi que divers sujets plus généralistes autour des
+      nouvelles technologies.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
