@@ -49,34 +49,64 @@ seo:
 layout: post
 author: data/team/mary-marketing.json
 ---
-Sur le Web, le publique a une durée d'attention assez courte. Cela signifie que vous devez aller droit au but et les accrocher avant qu'ils ne reçoivent une notification Facebook, un SMS ou ne s'éloignent tout simplement de votre page. Avant de perdre une minute de plus à rédiger un contenu qui sera ignoré, voici 6 erreurs à éviter.
+En ligne, la durée d’attention d’un utilisateur est relativement courte. Aller à l’essentiel pour le captiver avant qu’il ne se concentre sur autre chose est nécessaire.
 
-## Être trop complexe
+Pour éviter de perdre du temps inutilement en rédigeant, voici 7 erreurs à ne pas commettre.
 
-L'écriture est autant un art qu'une compétence et tous les artistes aiment se montrer. Le problème avec les blogs, les articles et autres textes Web, c'est que la plupart des lecteurs n'ont pas envie de rester assez longtemps pour déchiffrer des métaphores complexes et lire de longs passages. Allez droit au but et restez simple pour que les lecteurs puissent entrer, obtenir les informations dont ils ont besoin et passer à autre chose.
+## Utiliser un langage trop soutenu
 
-## Se concentrer sur le référencement
+Le style d'écriture est propre a chacun.
 
-Par le passé, pour améliorer le classement d'un site dans les moteurs de recherche, le rédacteur devait insérer des mots clés maladroits, utiliser des orthographes différentes et répéter un mot jusqu'à ce que vous en ayez marre. Google en a assez et privilégie désormais les textes bien écrits, qui se veulent informatifs et utiles. Si l'on vous attribue un ou deux mots clés, veillez à les utiliser de manière stratégique, mais concentrez-vous d'abord sur la production d'un contenu exceptionnel. Sinon, vous ne ferez que produire des mots que personne ne perdra son temps à lire.
+Le risque avec les articles de blog, les livre blanc et autres rédactions web, c'est que vous devez vous adapter au lecteur et a son envie de comprendre le message directement sans passer par de long paragraphe de métaphores.
 
-## Oublier le référencement seo
+Pour satisfaire vos lecteurs et maquer des points auprès de lui, allez simplement à l'essentielle.
 
-Ce n'est pas parce que les pratiques actuelles en matière de référencement favorisent les rédacteurs web que vous ne devez pas savoir certaines choses sur le placement des mots-clés. Si l'on vous a attribué un mot-clé, faites de votre mieux pour l'intégrer dans le titre de l'article, dans au moins un sous-titre et dans une ou deux autres mentions tout au long de l'article, à condition que chaque mention n'interfère pas avec le flux du texte. Si vous ne prêtez pas un peu d'attention au référencement, vous perdez votre temps à écrire quelque chose qui risque de ne jamais être trouvé.
+## Ne penser qu'au référencement naturel
 
-## Utiliser trop de jargon
+Il y a quelque temps, le référencement sur Google rimait avec : mot clé compliquée, orthographié différemment et surtout répétition a outrance.
 
-Ou, parfois, ne pas utiliser assez de jargon. L'astuce consiste à bien comprendre le public auquel vous vous adressez. Par exemple, si vous êtes chargé d'écrire 600 mots sur l'isolation des habitations, il est important de savoir si vous vous adressez à des installateurs ou à des propriétaires. Si vous écrivez pour les installateurs et que vous vous lancez dans une longue explication de la signification de la valeur R, ils ne perdront pas leur temps à lire votre article et ils seront partis avant même que vous vous en rendiez compte. En revanche, si vous vous adressez à des propriétaires et que vous omettez cette explication, vous risquez d'embrouiller ou d'aliéner le lecteur. Sachez toujours à qui vous vous adressez afin de pouvoir utiliser un langage correct.
+Désormais, les écrit doivent être utile, pertinent et de qualité. De plus, il est nécessaire d'utiliser les mots clés a bon escient en utilisant leurs champs sémantique et lexicaux.
 
-## Se laisser dépasser par les événements
+Il est important de se concentrer en premier lieu au contenu du texte puis aux mots clés, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs.
 
-En tant que rédacteur web, vous êtes probablement conscient du fait qu'il existe des dizaines, voire des centaines d'articles sur chaque sujet sur lequel vous écrivez. Vous avez également probablement écrit pour un grand nombre de clients différents, chacun demandant une voix et un ton qui lui sont propres. Lorsque vous mettez tout cela en commun, vous vous retrouvez peut-être dans le piège de produire un contenu qui aborde tous les points importants et les mots clés et dont la grammaire est irréprochable, mais qui semble tomber à plat.
+## Faire l'impasse sur le SEO
 
-Qu'est-ce qui manque ? Vous. Sans votre point de vue personnel, sans votre personnalité qui transparaît dans les mots, votre travail va se fondre dans tous les autres articles sur le sujet et personne ne prendra le temps de lire votre version. Essayez de trouver un point de vue nouveau sur le sujet, incluez de nouveaux faits intéressants, soyez drôle si c'est approprié, et laissez-vous transparaître dans chaque article que vous produisez.
+Vous devez connaître un maximum de chose concernant le SEO. Il y a des règles à connaitre afin de réellement optimiser votre contenu et surtout pour que ces optimisations soit, aux yeux de Google, parfaite.
 
-## Ne pas laisser de marge de manœuvre pour la conclusion
+Par exemple, vous devez intégrer votre mot clé principale dans la tire, les sous-titre et aussi les paragraphes de l'article. Évidemment, vous devez faire attention à la lisibilité de votre article.
 
-Il peut être facile pour un rédacteur web de se contenter de se féliciter que tous les points importants aient été abordés et que tous les mécanismes soient corrects, et de s'arrêter là. Cependant, gardez toujours un peu d'énergie pour mettre un point d'orgue au petit paquet que vous êtes sur le point de livrer. Insérez une citation intéressante, proposez un appel à l'action inspirant ou incitez le lecteur à faire quelque chose grâce à ce qu'il a lu. Faites savoir au lecteur que vous êtes reconnaissant qu'il ait pris le temps d'aller jusqu'au bout de votre article en lui laissant quelque chose de spécial.
+Même s'il ne faut pas en abuser, vous devez porter une attention particulière au référencement. Ne perdez pas votre temps sur un contenu qui ne sera pas vu.
+
+## Le jargon dans vos écrits
+
+Un bon rédacteur web sait quand utiliser du langage soutenu et quand utiliser du jargon. Pensez à imaginer vos lecteurs pour ajuster votre façon de parler. En effet, il serait dommage d'utiliser trop de jargon pour parler d'un sujet tel que le système économique des État-Unis, par exemple. Sauf si votre but et de vulgariser ce thème qui semble complexe pour une partie de vos lecteurs.
+
+Autre exemple, si vous devez écrire un article de 2000 mots sur la construction d'une maison autosuffisante, il est important de savoir si vous vous adressez à des architectes ou à des propriétaires.
+
+Si vous écrivez pour les propriétaires et que vous partez dans une longue explication des techniques de construction, vous les perdrez à la moitié de votre texte. En revanche, si vous vous adressez à des architectes et que vous oubliez cette explication, vous constaterez que vous n'avez plus beaucoup d'audience.
+
+Apprenez à connaitre vos lecteurs avant même d'écrire votre contenu. Vous saurez adapter votre texte.
+
+## Toujours rédiger de la même façon
+
+Sur le web, il existe des milliers d'articles qui traite le même sujets de façon différentes.
+
+Vous travaillez ou travaillerez avec de nombreuse personnes tout au long de votre carrière. Chaque client vous demande un ton différent pour la rédaction de contenu. Mais malgré cela vous constater que vous avez toujours le même style d'écriture ? 
+
+La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger un contenu plus unique. Grace a votre point de vue personnel que vous pourrez modeler vous  donnerez a votre travail une chance d'émerger parmi les autres rédactions.
+
+Apprenez à laisser votre touche personnelle dans vos récits.
+
+## Ne négligez pas la conclusion
+
+Une des plus grandes erreurs est celle-ci : pensez que le contenu de notre article est suffisant pour le lecteur. Or, il est impossible de terminer un article sans conclusion.
+
+Ayez toujours en tête qu'un bon article doit être conclu par une petite phrase, une citation, un appel à l'action ou par une incitation à utiliser ce que le lecteur vient de lire.
+
+Remercier le lecteur pour son temps passer à lire votre rédaction, de façon plus ou moins subtile.
 
 ## Le temps, c'est de l'argent
 
-N'oubliez pas qu'en tant que rédacteur web, vous êtes aussi là pour gagner de l'argent. Ne perdez pas votre temps à écrire une prose fantaisiste qui ne sera pas remarquée ou un texte ennuyeux qui ne sera jamais lu. Tirez le meilleur parti de votre temps et de votre talent en évitant ces erreurs qui font perdre du temps et en donnant à chaque lecteur ce dont il a besoin.
+Vous faites ce métier pour gagner votre vie. Ne perdez pas votre temps à écrire un roman littéraire qui ne sera pas vue ou un texte fatigant qui ne sera jamais lu.
+
+Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction de contenu.
