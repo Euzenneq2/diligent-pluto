@@ -28,7 +28,12 @@ sections:
       compléter vos démarchages par email ou votre Cold calling (appel à froid).
       Des pratiques chronophages qui vois aujourd'hui ces résultats à la baisse.
 
-       Les réseaux professionnels comme Twitter ou Linkedin ont révolutionné le travail de beaucoup de corps de métier tel que : Les ressources humaines, les commerciaux et ingénieur d'affaires mais aussi et surtout celui des entrepreneurs !
+
+      Les réseaux professionnels comme Twitter ou Linkedin ont révolutionné le
+      travail de beaucoup de corps de métier tel que : Les ressources humaines,
+      les commerciaux et ingénieur d'affaires mais aussi et surtout celui des
+      entrepreneurs.
+
 
       ***
   - type: blog_feed_section
