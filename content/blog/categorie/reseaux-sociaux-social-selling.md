@@ -7,34 +7,10 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: >
-      Dans cette article, je vais vous parler de l'actualité du Marketing sur
-      les réseaux sociaux : Twitter, Facebook, Linkedin, Instagram, Youtube,
-      TikTok , Snapchat, Clubhouse, etc. Vous retrouverez mes expériences et
-      conseils autours de ces média sociaux. Ils sont très intéréssant pour
-      votre stratégie d'acquisition ou de notoriété, si votre community
-      management est bien établis. De plus, la possibilité de création publicité
-      sur les réseaux sociaux peut être un très bon levier pour l'acquisition de
-      trafic et l'obtenition de Leads qualifié. Les solutions adwords que
-      j'utilise actuellement dans mes activités sont : Linkedin Ads, Facebook
-      Ads et la publicité Twitter. Les campagnes de Social Selling sont des
-      techniques de vente ciblant une audience spécifique, déterminé selon des
-      caractéristiques précise. Exemple sur Linkedin : Utiliser ce réseaux
-      social professionnel très orienté BtoB pour cibler et démarcher des
-      entreprises qui serait potentiellement intéréssé par votre produits ou
-      services. C'est une pratique simple qui viendra compléter vos démarchage
-      par e-mail ou votre Cold calling (appel à froid). Des pratiques
-      chronophage qui vois aujourd'hui ces résultats à la baisse. Les réseaux
-      professionnel comme Twitter ou Linkedin ont révolutionné le travail de
-      beaucoup de corps de métier tel que : Les ressources humaines, les
-      commerciaux et ingénieur d'affaires mais aussi et surtout celui des
-      entrepreneurs !
-
-
+    content: |
 
 
       ***
-
 
       ***
   - type: blog_feed_section
