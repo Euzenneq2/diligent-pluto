@@ -12,7 +12,7 @@ sections:
       technologie**. Je vais vous partager ici différents articles traitant de
       l'**informatique**. Les sujets seront assez larges. **Sécurité
       informatique**, **logiciel de virtualisation**, **cloud computing**, etc.
-      Vous y trouverez aussi tous les **outils **et **logiciels** que j'utilise
+      Vous y trouverez aussi tous les **outils** et **logiciels** que j'utilise
       dans mon travail au quotidien.
   - type: blog_feed_section
     blog_feed_cols: three
