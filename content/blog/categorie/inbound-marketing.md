@@ -7,25 +7,22 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: >+
+    content: >
       L'Inbound marketing est aussi appelé marketing entrant en France. Il est
       l'inverse de l'Outbound Marketing (marketing sortant), qui est la
       publicité standard que vous recevez au quotidien dans votre boite aux
-      lettres, boite mail ou fil d'actualité de vos réseaux sociaux. L'Inbound à
+      lettres, boite mail ou fil d'actualité de vos réseaux sociaux. L'Inbound a
       pour objectif d'amener les visiteurs vers nous plutôt que de lui envoyer
-      de la publicité via des bannières, des appel téléphonique, ou des
-      campagnes d'emalilling. Tout ces pratiques impact notre quotidiens et
-      notre expérience utilisateur. D'ailleurs il sont devenue invisible au yeux
-      de beaucoup d'entre nous, en partie grâce au extension anti-pub. En terme
-      de retour sur investissement l'Inbound Marketing et très intéressante pour
-      vos clients BtoB. Elle servira à nourrir sont interet pour vos services ou
-      produits. C'est un stratégie de marketing digital qui fonctionne aussi
-      très bien avec une clientèle BtoC. Un content marketing optimisé SEO
-      couplé à une solution de Marketing Automation qui vous permettra
-      d'automatiser vos campagne d'email par exemple.
-
-
-
+      de la publicité via des bannières, des appels téléphoniques, ou des
+      campagnes d'emalilling. Tous ces pratiques impacts notre quotidien et
+      notre expérience utilisateur. D'ailleurs ils sont devenus invisibles aux
+      yeux de beaucoup d'entre nous, en partie grâce aux extensions antipubs. En
+      termes de retour sur investissement l'Inbound Marketing et très
+      intéressante pour vos clients BtoB. Elle servira à nourrir son intérêt
+      pour vos services ou produits. C'est une stratégie de marketing digital
+      qui fonctionne aussi très bien avec une clientèle BtoC. Un content
+      marketing optimisé SEO couplé à une solution de Marketing Automation qui
+      vous permettra d'automatiser vos campagnes d'emails par exemple.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
