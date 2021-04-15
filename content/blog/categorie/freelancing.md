@@ -21,8 +21,8 @@ sections:
       d'articles traitant de divers sujets liés à **l’entrepreneuriat**. Je vous
       partage mes conseils de vie et vous fais un **retour d’expérience** des
       différentes plateformes de **micro-services** que j’ai pu tester. Je vais
-      vous partage également mon parcours professionnel et les **formations
-      **que j'ai suivis tout au long de celui-ci.
+      vous partage également mon parcours professionnel et les **formations**
+      que j'ai suivis tout au long de celui-ci.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
