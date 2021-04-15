@@ -3,7 +3,6 @@ title: Réseaux sociaux et social selling
 sections:
   - type: hero_section
     title: Réseaux sociaux et social selling
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none
