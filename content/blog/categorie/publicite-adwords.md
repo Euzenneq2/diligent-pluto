@@ -21,9 +21,7 @@ sections:
     show_image: true
     padding_top: small
     padding_bottom: large
-    has_border: true
-  - content: >-
-     
+    has_border: true     
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
