@@ -21,8 +21,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
