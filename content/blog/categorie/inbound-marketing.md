@@ -36,8 +36,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
