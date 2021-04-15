@@ -3,7 +3,6 @@ title: Informatique et outils technologique
 sections:
   - type: hero_section
     title: Informatique et outils technologique
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none
