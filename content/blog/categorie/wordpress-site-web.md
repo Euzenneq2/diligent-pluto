@@ -8,18 +8,18 @@ sections:
     padding_bottom: none
     background_color: none
     content: >
-      Comme vous devez le savoir, Wordpress est le CMS le plus populaire et le
-      plus utilisé au monde. Il représente 34 % de tous les sites sur internet
-      et chaque jour plus de 500 sites web sont construits avec Wordpress (10
-      fois plus que sur des plateformes comme Shopify). Il vous permet de
-      facilement mettre en place de très beaux sites vitrine, blogs, ou sites
-      ecommerce. Wordpress est un outil avec lequel je travaille depuis de
-      nombreuses années maintenant et je m’en sers pour développer mes propres
-      sites et ceux de mes clients. Je vais vous livrer dans cette catégorie mes
-      tips sur CMS plein de ressources. Je me servirais aussi de cette catégorie
-      pour vous parler d’autre façon de créer des sites web comme la Jamstack
-      (ce site statique à était développé avec le framework Hugo) ou d’autre CMS
-      comme Prestashop ou Drupal.
+      Comme vous devez le savoir, **Wordpress est le CMS le plus populaire** et
+      le plus utilisé au monde. Il représente** 34 % de tous les sites sur
+      internet** et chaque jour plus de 500 sites web sont construits avec
+      Wordpress (10 fois plus que sur des plateformes comme Shopify). Il vous
+      permet de facilement mettre en place de très beaux **sites vitrine, blogs,
+      ou sites ecommerce**. Wordpress est un outil avec lequel je travaille
+      depuis de nombreuses années maintenant et je m’en sers pour développer mes
+      propres sites et ceux de mes clients. Je vais vous livrer dans cette
+      catégorie mes tips sur CMS plein de ressources. Je me servirais aussi de
+      cette catégorie pour vous parler d’autre façon de créer des sites web
+      comme la **Jamstack **(ce site **statique** à était développé avec le
+      framework **Hugo**) ou d’autre CMS comme **Prestashop** ou** Drupal**.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
