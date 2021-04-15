@@ -9,8 +9,8 @@ sections:
     background_color: none
     content: >
       En tant que professionnels du numérique, on se doit d’être à jours sur
-      l’**actualité du web** : **SEO**, **réseaux sociaux**, **marketing**,**
-      graphisme** et nouveau **langage de développement**… Qu'importe votre
+      l’**actualité du web** : **SEO**, **réseaux sociaux**, **marketing**,
+      **graphisme** et nouveau **langage de développement**… Qu'importe votre
       domaine d'expertise, il est impératif de comprendre les missions de toutes
       les parties prenantes présentes dans un **projet digital**. **Je décrypte
       et partage** pour vous toutes les informations utiles à votre quotidien.
