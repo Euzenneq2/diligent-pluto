@@ -8,7 +8,7 @@ sections:
     padding_bottom: none
     background_color: none
     content: >
-      J'ai lancé mon activité de **Freelance **en 2020 et j'ai été confronté à
+      J'ai lancé mon activité de **Freelance** en 2020 et j'ai été confronté à
       un certain nombre de barrières depuis. Les démarches administratives sont
       allégées avec le statut d'**auto-entrepreneur**, mais ce n'est pas une
       partie de plaisir pour autant. Les difficultés à trouver mes premières
