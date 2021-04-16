@@ -56,7 +56,7 @@ sections:
         type: feature
         image: /images/Booster-votre-seo.svg
     feature_padding_vert: medium
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
