@@ -97,7 +97,28 @@ sections:
         template: grid_item
         title: Recherche des mots clés
         title_align: left
-        content: "Une fiche produit, c'est toute la description et les caractéristiques du produit que vous vendez sur votre e-commerce. Ayant de l'expérience en termes de\_**content marketing**\_(marketing de contenu) et en copywriting, je saurais\_**captiver**\_les utilisateurs via une qualité rédactionnelle et du storytelling adapté.\n\nLes rédacteurs web utilisent plusieurs\_**techniques de rédaction SEO** afin de\_**convertir vos prospects**\_et de les conduire sur vos sites internet, jusqu'à l’acte d’achat. Une fois séduit grâce à votre stratégie marketing, votre public-cible ne pourra qu’amorcer l'achat du produit convoité.\n"
+        content: >+
+          Avant de débuter mon travail de **rédaction SEO**, je m'assure que les
+          requêtes sur lesquels vous souhaitez vous placer sont intéressante.
+          Cibler un mot sans savoir s’il est pertinent ou si vos utilisateurs
+          tapent sur Google ça n'a aucun intérêt. Être positionné sur un mot clé
+          qui n'a aucun trafic non plus.
+
+
+          Le plus compliqué est de trouver les **bons mots clés** sur lesquels
+          nous pourrions intégrer les premiers **résultats de recherche**, avec
+          un **volume de trafic** conséquent. Cela demande un travail d'analyse
+          et de réflexion exigeant.
+
+
+          Je vous conseille de choisir un mot clé et celui-ci correspondra à une
+          page précise de votre site. C'est une règle primordiale avant de
+          commencer votre **rédaction de contenu optimisé**. L'objectif est
+          d'établir une base saine dans votre **stratégie de référencement
+          naturel**.
+
+
+
         content_align: left
         actions:
           - type: action
