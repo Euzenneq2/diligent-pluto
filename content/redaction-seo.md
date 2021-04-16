@@ -197,8 +197,8 @@ sections:
 
 
           Il n'est déjà pas chose aisée de **rédiger du contenu exclusif sur le
-          web**, cela se complique d'autant plus quand il s'agit d'établir une**
-          structure en silo** dans votre **stratégie SEO**.
+          web**, cela se complique d'autant plus quand il s'agit d'établir une
+          **structure en silo** dans votre **stratégie SEO**.
         content_align: left
         actions: []
         actions_align: left
