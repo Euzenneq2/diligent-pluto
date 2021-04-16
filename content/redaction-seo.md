@@ -285,8 +285,8 @@ sections:
   - type: cta_section
     template: cta_section
     title: >-
-      Restructurer votre site pour améliorer votre visibilité et accroître le
-      nombre de visiteurs
+      La rédaction SEO peut vous aider à accroître votre visibilité et par
+      conséquent le taux de trafic sur votre site
     actions:
       - url: /contact
         style: primary
