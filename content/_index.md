@@ -534,7 +534,7 @@ sections:
           vos qualités. Pour ma part, je ne laisse rien au hasard.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: En savoir plus
             url: '#'
             style: primary
             has_icon: false
