@@ -13,13 +13,13 @@ sections:
     padding_bottom: large
     align: center
     content: >
-      Le métier de rédacteur web SEO ne laisse aucune part au hasard. Beaucoup
-      se lance dans l'aventure avec peu de connaissance, cependant des
-      techniques exigeantes et un large panel d'outils articulent ces métiers
-      autour de la rédaction SEO. Le prix d'un rédacteur web est justifié par
-      ces compétences qui vous permettront d'acquérir des contenus de qualité.
-      C'est pourquoi, je vous propose sur cette page l'ensemble des éléments
-      détaillé.
+      Le métier de **rédacteur web SEO** ne laisse aucune part au hasard.
+      Beaucoup se lance dans l'aventure avec peu de connaissance, cependant des
+      **techniques exigeantes** et un **large panel d'outils** articulent ces
+      métiers autour de la rédaction SEO. Le prix d'un **rédacteur web** est
+      justifié par ces compétences qui vous permettront d'acquérir des
+      **contenus de qualité**. C'est pourquoi, je vous propose sur cette page
+      l'ensemble des éléments détaillé.
   - type: cta_section
     template: cta_section
     title: >-
