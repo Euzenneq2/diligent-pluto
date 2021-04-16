@@ -1,5 +1,5 @@
 ---
-title: Rédaction web
+title: Rédaction SEO
 sections:
   - type: hero_section
     template: hero_section
