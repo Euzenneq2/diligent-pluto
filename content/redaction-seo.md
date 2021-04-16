@@ -188,7 +188,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Structure en silo
+      - title: structure en silo thématique
         title_align: left
         content: >-
           ## Lorem ipsum
