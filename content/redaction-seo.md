@@ -230,17 +230,20 @@ sections:
         type: grid_item
       - title: Audit sémantique
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Il est impératif de réaliser un **audit SEO** de votre site internet,
+          avant de mettre en application l'une des **techniques de rédaction de
+          contenu SEO** préalablement cité.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+          Dans cet audit, je vais faire un check-up complet de votre contenu. En
+          commençant par analyser la richesse sémantique, la lisibilité et la
+          structure de vos textes, vérifier vos balises, la qualité de vos
+          **liens entrants** et **liens sortants** (netlinking),
+          l'**optimisation SEO** de vos pages et le **nombre de mots** que
+          contient votre article.
 
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
