@@ -551,10 +551,10 @@ sections:
           cas.
 
 
-          L'optimisation technique de vos textes, la création de contenus
-          optimisé et l'implantation de backlink sont des actions SEO réelles
-          dont j'ai les  compétences dont je dispose pour vous permettre
-          d'atteindre les premiers résultat de recherche Google.
+          L'optimisation technique de vos textes, la création de **contenus
+          optimisé** et l'implantation de **backlink** sont des actions SEO
+          réelles dont j'ai les  compétences dont je dispose pour vous permettre
+          d'atteindre les premiers **résultat de recherche** Google.
         content_align: left
         actions: []
         actions_align: left
