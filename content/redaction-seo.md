@@ -211,17 +211,13 @@ sections:
         type: grid_item
       - title: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Concept initié par **Laurent Bourrelly** (référenceur français), le
+          **cocon sémantique** est basé sur une structure de site web en silo,
+          traitant des différents sujets liés à la thématique. Créer du contenu
+          optimisé autour de celle-ci. Ajoutez à ça un **maillage interne
+          efficace** pour obtenir une **arborescence intuitive** répondant aux
+          besoins des visiteurs.
         content_align: left
         actions: []
         actions_align: left
