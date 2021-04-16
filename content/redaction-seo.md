@@ -30,7 +30,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Contacté moi !!
+        label: Contacter moi !!
         url: /contact
         style: primary
         icon_position: left
