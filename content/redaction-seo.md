@@ -167,7 +167,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Des livres blancs
+        title: Intention de recherche
         title_align: left
         content: "Vous souhaitez placer votre site web sur le mot clé «\_huile à barbe\_» ? Ok, c’est normal. Mais savez-vous au moins quel **type de résultats Google** souhaite afficher sur ce type de requête ?\n\nVa-t-il privilégier un **article de blog** ? Une **fiche produit e-commerce** ? Un guide d’achat ? En analysant les **intentions de recherche** de votre mot clé, nous saurons quel contenu éditorial produire !\n"
         content_align: left
