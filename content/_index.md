@@ -533,7 +533,16 @@ sections:
           Très similaire au métier de référencer, la rigueur doit être une de
           vos qualités. Pour ma part, je ne laisse rien au hasard.
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
