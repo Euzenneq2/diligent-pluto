@@ -285,8 +285,8 @@ sections:
   - type: cta_section
     template: cta_section
     title: >-
-      La rédaction SEO peut vous aider à accroître votre visibilité et par
-      conséquent le taux de trafic sur votre site
+      La rédaction SEO augmente votre visibilité sur Google et par conséquent le
+      nombre de visiteurs sur votre site web
     actions:
       - url: /contact
         style: primary
