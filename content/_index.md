@@ -594,17 +594,19 @@ sections:
         type: grid_item
       - title: Techniques de rédaction web
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Là, on parle de journalisme et de **webmarketing**. On parle de
+          technique qui fait vendre et convertit vos clients : la **pyramide
+          inversée**,
+           le découpage de contenu, le parcours AIDA, la granularité de 
+          l’information, l’écriture persuasive ou encore la méthode des 5W (ou 
+
+          QQOQCPC).
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Autant de **techniques de rédaction de contenu** qui vont booster les
+          ventes d’un site e-commerce ou inciter les internautes à choisir votre
+          prestation !
         content_align: left
         actions: []
         actions_align: left
