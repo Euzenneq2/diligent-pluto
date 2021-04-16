@@ -621,10 +621,11 @@ sections:
         type: grid_item
       - title: Techniques de rédaction web
         title_align: left
-        content: >+
+        content: >
           Les **techniques de rédaction** sont un mélange de travaux
           journalistique avec une vision **marketing**. Un ensemble de méthode
           qui ont pour objectif de convertir vos clients et générer des ventes :
+
           L'écriture persuasive, la méthode des 5W, la **pyramide inversée**, le
           parcours AIDA, la granularité de l'information ou encore le découpage
           de contenu.
@@ -633,7 +634,6 @@ sections:
           C'est un ensemble de **technique de rédacteur** de contenu qui
           permettra d'augmenter considérablement les ventes de votre site
           ecommerce, ou inciter vos visiteurs à choisir votre prestation !
-
         content_align: left
         actions:
           - label: En savoir plus
