@@ -6,16 +6,7 @@ sections:
     title: 'La rédaction SEO, c''est quoi ?'
     subtitle: Soyez sur les premières pages des moteurs de recherche !
     background_color: none
-    actions:
-      - label: Contactez-moi
-        url: /contact
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     media_position: right
     background_image_position: left center
     media_width: fifty
