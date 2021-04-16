@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: Rédaction web pour tout vos site internet
+    title: 'La rédaction SEO, c''est quoi ?'
     subtitle: Soyez sur les premières pages des moteurs de recherche !
     background_color: none
     actions:
