@@ -524,10 +524,10 @@ sections:
           Savoir rédiger pour le web et délivrer des messages impactant pour
           convertir vos visiteurs ne s'improvise pas.
 
-          Un rédacteur web se doit de maitriser le copywriting, connaitre les
-          techniques de référencement naturel, analyser les intentions de
-          recherche, développer le champ sémantique ou encore optimiser le
-          maillage interne d'un article.
+          Un **rédacteur web** se doit de maitriser le **copywriting**,
+          connaitre les techniques de référencement naturel, analyser les
+          intentions de recherche, développer le **champ sémantique** ou encore
+          optimiser le maillage interne d'un article.
 
 
           Très similaire au métier de référencer, la rigueur doit être une de
