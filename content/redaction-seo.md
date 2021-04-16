@@ -296,7 +296,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: 'Demandez un devis, c''est gratuit'
+        label: 'Demandez votre devis, c''est gratuit'
     actions_position: bottom
     actions_width: fourty
     align: center
