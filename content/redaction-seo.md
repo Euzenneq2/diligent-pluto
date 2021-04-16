@@ -142,14 +142,14 @@ sections:
         template: grid_item
         title: Des pages web
         title_align: left
-        content: >+
+        content: >
           Saviez vous que pour la majorité des sites internet seulement 20% de
-          leurs** trafic organique** provient de mots clés génériques (exemple :
+          leurs **trafic organique** provient de mots clés génériques (exemple :
           garage Caen).
 
 
           Les 80% restant du trafic organique provient de requêtes dîte de
-          **longue traine** ! Les **expressions **de "longue traîne" sont très
+          **longue traine** ! Les **expressions** de "longue traîne" sont très
           souvent composés d’au moins 3 ou 4 mots clés. Il sont très spécifiques
           à une information ou un produit proposez sur votre site internet.
 
@@ -158,11 +158,6 @@ sections:
           **moteurs de recherche** Google. Il est donc important de ne pas
           négliger leurs efficacité, que ce soit pour vos produits, vos pages,
           ou vous article de blog.
-
-
-
-
-
         content_align: left
         actions: []
         actions_align: left
