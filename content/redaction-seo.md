@@ -256,17 +256,18 @@ sections:
         type: grid_item
       - title: Réécriture de texte SEO
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Vous avez pris les devants en réalisant et publiant vos textes et
+          c'est une bonne chose ! L'avez-vous adaptée et optimisée pour le
+          **référencement web** ? Vous n'avez pas d'augmentation signification
+          sur votre **acquisition de trafic** ?
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+          Pas d'inquiétude, après avoir réalisé un **audit SEO**, je pourrai
+          réaliser un plan d'action pour réécrire et structurer efficacement
+          votre** contenu rédactionnel**.
 
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
