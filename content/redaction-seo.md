@@ -23,8 +23,8 @@ sections:
   - type: cta_section
     template: cta_section
     title: >-
-      Obtenez votre rédaction SEO avec la balise méta pour 0,10€/mot. Texte
-      rédigé et optimisé pour Google !
+      Obtenez votre rédaction SEO optimisé pour Google, balise méta comprise
+      pour 0,10€/mot.
     content: |
       Grâce à des techniques bien définies, soyez meilleur que vos concurrents !
     actions:
