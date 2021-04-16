@@ -188,7 +188,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: structure en silo thématique
+      - title: Structure en silo thématique
         title_align: left
         content: >
           Pour faire la différence sur les moteurs de recherche avec vos
