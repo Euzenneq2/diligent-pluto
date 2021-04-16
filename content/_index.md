@@ -623,10 +623,11 @@ sections:
         title_align: left
         content: >
           Les **techniques de rédaction** sont un mélange de travaux
-          journalistique avec une vision **marketing**. Un ensemble de méthode
-          qui ont pour objectif de convertir vos clients et générer des ventes :
+          journalistique avec une vision **marketing**. 
 
 
+          Un ensemble de méthode qui ont pour objectif de convertir vos clients
+          et générer des ventes :
 
           L'écriture persuasive, la méthode des 5W, la **pyramide inversée**, le
           parcours AIDA, la granularité de l'information ou encore le découpage
