@@ -132,15 +132,7 @@ sections:
         title_align: left
         content: "Rédiger un article nécessite des connaissances en **Inbound marketing**. C'est une stratégie de création de contenus.\n\nTrouver un bon sujet pour\_**un article de blog**, c’est crucial.\n\nGrâce à des\_**outils sémantiques**, il m'est possible de vous produire du contenu de qualité avec des sujets pertinents.\n\nEffectivement, une bonne position est assurée par Google pour les sites qui répondent avec concordance à un sujet ou à un thème recherché par les visiteurs (les\_**requêtes**).\n"
         content_align: left
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /redaction-web
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 2 icon
         image_position: top
