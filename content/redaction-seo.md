@@ -209,7 +209,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: Cocon sémantique
         title_align: left
         content: >
           Concept initié par **Laurent Bourrelly** (référenceur français), le
