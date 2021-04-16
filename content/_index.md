@@ -439,6 +439,83 @@ sections:
     background_color: none
     actions: []
     padding_top: large
+  - type: cta_section
+    template: cta_section
+    title: Besoin de bâtir une stratégie digitale pour développer votre notoriété ?
+    actions:
+      - type: action
+        template: action
+        label: Contactez-moi !
+        url: /contact
+        style: primary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+  - type: grid_section
+    template: grid_section
+    title: "Témoignages\_clients"
+    subtitle: Quelques retours d'expériences et satisfaction de mes clients
+    grid_items:
+      - type: grid_item
+        template: grid_item
+        content: >
+          Mary Marketing m'a apportée son analyse de contenu SEO et à corriger
+          quelque problème d'optimisation. Mon site internet est plus visible.
+
+
+          **Romane Lapresse**, *Cheffe de projet digital*
+        image: /images/Tem1.png
+        image_alt: Hanson Deck
+        image_position: left
+        image_width: twenty-five
+        image_align: center
+      - type: grid_item
+        template: grid_item
+        content: >
+          Très professionnelle, Mary est à l'écoute, sait s'adapter au projet et
+          nos attentes.
+
+
+          **Frédéric Gauvin**, *Web designer*
+        image: /images/Tem2.png
+        image_alt: Miles Tone
+        image_position: left
+        image_width: twenty-five
+        image_align: center
+      - type: grid_item
+        template: grid_item
+        content: >
+          J'ai fait appel à Mary Marketing pour une rédaction de quelques mots.
+          Très satisfaite du travail.
+
+
+          **Claire Lebrun**, *Responsable communication*
+        image: /images/Tem4.png
+        image_alt: Eleanor Carr
+        image_position: left
+        image_width: twenty-five
+        image_align: center
+      - type: grid_item
+        template: grid_item
+        content: >
+          Je me suis formé à la rédaction web grâce Mary Marketing. Formation en
+          quelques heures, tout était très bien expliqué.
+
+
+          **Anthony Lazure**, *Auto-entrepreneur*
+        image: /images/Tem3.png
+        image_alt: Gordon Norman
+        image_position: left
+        image_width: twenty-five
+        image_align: center
+    grid_cols: two
+    grid_gap_vert: large
+    grid_gap_horiz: medium
+    align: center
+    background_color: secondary
   - actions: []
     grid_items:
       - title: Rédaction web
@@ -547,83 +624,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: cta_section
-    template: cta_section
-    title: Besoin de bâtir une stratégie digitale pour développer votre notoriété ?
-    actions:
-      - type: action
-        template: action
-        label: Contactez-moi !
-        url: /contact
-        style: primary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-  - type: grid_section
-    template: grid_section
-    title: "Témoignages\_clients"
-    subtitle: Quelques retours d'expériences et satisfaction de mes clients
-    grid_items:
-      - type: grid_item
-        template: grid_item
-        content: >
-          Mary Marketing m'a apportée son analyse de contenu SEO et à corriger
-          quelque problème d'optimisation. Mon site internet est plus visible.
-
-
-          **Romane Lapresse**, *Cheffe de projet digital*
-        image: /images/Tem1.png
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-        image_align: center
-      - type: grid_item
-        template: grid_item
-        content: >
-          Très professionnelle, Mary est à l'écoute, sait s'adapter au projet et
-          nos attentes.
-
-
-          **Frédéric Gauvin**, *Web designer*
-        image: /images/Tem2.png
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-        image_align: center
-      - type: grid_item
-        template: grid_item
-        content: >
-          J'ai fait appel à Mary Marketing pour une rédaction de quelques mots.
-          Très satisfaite du travail.
-
-
-          **Claire Lebrun**, *Responsable communication*
-        image: /images/Tem4.png
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-        image_align: center
-      - type: grid_item
-        template: grid_item
-        content: >
-          Je me suis formé à la rédaction web grâce Mary Marketing. Formation en
-          quelques heures, tout était très bien expliqué.
-
-
-          **Anthony Lazure**, *Auto-entrepreneur*
-        image: /images/Tem3.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-        image_align: center
-    grid_cols: two
-    grid_gap_vert: large
-    grid_gap_horiz: medium
-    align: center
-    background_color: secondary
   - type: grid_section
     template: grid_section
     title: Mes collaborateurs
