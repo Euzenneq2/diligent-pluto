@@ -22,7 +22,6 @@ sections:
     padding_top: large
     padding_bottom: large
     align: left
-    image_alt: Rédaction seointernet
   - type: cta_section
     template: cta_section
     title: >-
