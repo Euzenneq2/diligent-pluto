@@ -626,7 +626,7 @@ sections:
     background_color: secondary
   - actions: []
     grid_items:
-      - title: Rédaction web.
+      - title: Rédaction web
         title_align: left
         content: >-
           ## Lorem ipsum
