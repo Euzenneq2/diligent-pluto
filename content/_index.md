@@ -580,7 +580,7 @@ sections:
           Pour atteindre vos objectifs, je met en place une **stratégie de mots
           clés**, structure vos textes avec des balises HTML (h1, h2, h3, etc.),
           travail vos la balise TITLE, balise ALT, méta description et
-          réécriture d'URL . Je me charge aussi d**'optimiser vos images** et
+          réécriture d'URL . Je me charge aussi d'**optimiser vos images** et
           autres média pour **accélérer le chargement de vos pages**.
         content_align: left
         actions: []
