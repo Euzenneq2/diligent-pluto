@@ -544,22 +544,17 @@ sections:
         type: grid_item
       - title: Référencement naturel
         title_align: left
-        content: >+
-          Là encore, attention ! Beaucoup de rédacteurs vous diront connaitre le
-          **référencement naturel**, et c’est rarement le cas.
+        content: >
+          Vous trouverez sur les plateformes de micro-service des rédacteurs à
+          moindre coût qui vont diront connaitre le **référencement naturel**.
+          Pour avoir collaboré avec ce type de prestataire, c'est rarement le
+          cas.
 
 
-          Chez Rcweb, c’est bien une réelle compétence dont nous disposons. J’ai
-          travaillé dans le SEO bien avant de devenir **rédacteur web et
-          copywriter**.
-           Parce que le SEO, c’est quoi ? De l’optimisation technique, des 
-          contenus optimisés et du backlink. Je vulgarise, mais c’est
-          exactement 
-
-          ce que mon équipe sait faire !
-
-
-
+          L'optimisation technique de vos textes, la création de contenus
+          optimisé et l'implantation de backlink sont des actions SEO réelles
+          dont j'ai les  compétences dont je dispose pour vous permettre
+          d'atteindre les premiers résultat de recherche Google.
         content_align: left
         actions: []
         actions_align: left
