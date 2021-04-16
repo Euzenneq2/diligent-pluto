@@ -545,17 +545,22 @@ sections:
         type: grid_item
       - title: Référencement naturel
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Là encore, attention ! Beaucoup de rédacteurs vous diront connaitre le
+          **référencement naturel**, et c’est rarement le cas.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Chez Rcweb, c’est bien une réelle compétence dont nous disposons. J’ai
+          travaillé dans le SEO bien avant de devenir **rédacteur web et
+          copywriter**.
+           Parce que le SEO, c’est quoi ? De l’optimisation technique, des 
+          contenus optimisés et du backlink. Je vulgarise, mais c’est
+          exactement 
+
+          ce que mon équipe sait faire !
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
