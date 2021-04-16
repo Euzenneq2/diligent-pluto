@@ -672,7 +672,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Contenu SEO.
+      - title: Contenu SEO
         title_align: left
         content: >-
           ## Lorem ipsum
