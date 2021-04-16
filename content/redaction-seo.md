@@ -120,15 +120,7 @@ sections:
 
 
         content_align: left
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /redaction-web
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 1 icon
         image_position: top
