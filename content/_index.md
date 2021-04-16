@@ -520,17 +520,19 @@ sections:
     grid_items:
       - title: Rédaction web
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Écrire pour le web ne s'improvise pas, savoir rédiger et délivrer des
+          messages impactant pour convertir vos visiteurs ne s'improvise pas.
+
+          Un rédacteur web se doit de maitriser le copywriting, connaitre les
+          techniques de référencement naturel, analyser les intentions de
+          recherche, développer le champ sémantique ou encore l'optimiser le
+          maillage interne d'un article.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Très similaire au métier de référencer, la rigueur doit être une de
+          vos qualités. Rien ne doit être laissé au hasard.
         content_align: left
         actions: []
         actions_align: left
