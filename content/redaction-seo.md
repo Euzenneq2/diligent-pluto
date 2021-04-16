@@ -174,7 +174,7 @@ sections:
         template: grid_item
         title: Des livres blancs
         title_align: left
-        content: "Le\_**livre blanc**\_ou l'**e-book**\_est un des outils du content marketing : l'**asset marketing**.\_Ce dernier est un support que vous pouvez proposer en téléchargement aux visiteurs de votre site internet.\n\nÇa peut être un guide,\_**offert**, qui va apporter une expertise sur un produit, une problématique ou une technique. Il est destiné à vos leads qui vont, grâce à cet outil, potentiellement devenir des prospects.\n\nMontrer à vos prospects vos\_**compétences**\_dans un domaine peut être un critère de décision d’achat. Vos prospects deviendront des clients.\n"
+        content: "Vous souhaitez placer votre site web sur le mot clé «\_huile à barbe\_» ? Ok, c’est normal. Mais savez-vous au moins quel **type de résultats Google** souhaite afficher sur ce type de requête ?\n\nVa-t-il privilégier un **article de blog** ? Une **fiche produit e-commerce** ? Un guide d’achat ? En analysant les **intentions de recherche** de votre mot clé, nous saurons quel contenu éditorial produire !\n"
         content_align: left
         actions: []
         actions_align: left
