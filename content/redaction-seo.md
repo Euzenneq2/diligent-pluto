@@ -47,16 +47,15 @@ sections:
 
 
       Premièrement, vous devez vous assurer de la bonne **architecture de votre
-      site** internet. En commençant par **optimiser vos image**s, **minifier et
+      site** internet. En commençant par **optimiser vos images**, **minifier et
       compiler les fichiers** CSS et JS et vous vérifier la bonne
       **structuration de vos pages web**.
 
       La seconde partie correspond à la rédaction, vous devez travailler votre
       **stratégie éditoriale** afin de créer du contenu qualifié.
 
-      Et la dernière est lié **backlink **qui correspond à créer des liens de
+      Et la dernière est lié **backlink** qui correspond à créer des liens de
       qualité et de les faire pointer vers votre site internet.
-
 
 
       C’est technique auront pour but de répondre aux exigences de
