@@ -21,7 +21,7 @@ sections:
     media_width: fifty
     padding_top: large
     padding_bottom: large
-    align: left
+    align: center
   - type: cta_section
     template: cta_section
     title: >-
