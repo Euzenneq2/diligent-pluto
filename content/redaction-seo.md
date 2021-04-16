@@ -26,7 +26,7 @@ sections:
       Obtenez votre rédaction SEO optimisé pour Google, balise méta comprise
       pour 0,10€/mot.
     content: |
-      Grâce à des techniques bien définies, soyez meilleur que vos concurrents !
+      Soyez meilleur que vos concurrents, l'inaction à un coût !
     actions:
       - type: action
         template: action
