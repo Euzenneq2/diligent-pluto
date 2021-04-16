@@ -142,7 +142,27 @@ sections:
         template: grid_item
         title: Des pages web
         title_align: left
-        content: "Les pages web doivent répondre à une problématique de\_**référencement naturel**.\n\nQu'est-ce que le référencement naturel ? Il s'agit de soumettre du\_**contenu rédactionnel de qualité**, avec un champ lexical et sémantique riche, un nombre de mots conséquent afin de répondre aux exigences de Google et ainsi être dans le top 10 des apparitions après une recherche.\n\nTout ceci s'améliore grâce à une stratégie de contenu et en partie à la\_**pyramide inversée**\_(type de rédaction qui consiste à aller droit au but) ainsi que toute l’**optimisation SEO**\_(Balise meta : balise TITRE et méta description).\n"
+        content: >+
+          Saviez vous que pour la majorité des sites internet seulement 20% de
+          leurs** trafic organique** provient de mots clés génériques (exemple :
+          garage Caen).
+
+
+          Les 80% restant du trafic organique provient de requêtes dîte de
+          **longue traine** ! Les **expressions **de "longue traîne" sont très
+          souvent composés d’au moins 3 ou 4 mots clés. Il sont très spécifiques
+          à une information ou un produit proposez sur votre site internet.
+
+
+          25% des recherches des internautes sont nouvelles, inconnues par le
+          **moteurs de recherche** Google. Il est donc important de ne pas
+          négliger leurs efficacité, que ce soit pour vos produits, vos pages,
+          ou vous article de blog.
+
+
+
+
+
         content_align: left
         actions: []
         actions_align: left
