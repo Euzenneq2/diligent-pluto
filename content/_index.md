@@ -568,20 +568,20 @@ sections:
       - title: Contenu SEO
         title_align: left
         content: >
-          Un rédacteur web ne ce contente pas uniquement d'écrire pour le web,
-          il doit connaitre toutes le bonne pratique pour adapter vos contenus
-          aux exigences des **algorithmes des moteurs de recherche** et vous
-          positionner sur les premieres pages de Google.
+          Un rédacteur web ne se contente pas d'écrire pour le web, il doit
+          connaitre toutes les bonnes pratiques pour adapter vos contenus aux
+          exigences des **algorithmes des moteurs de recherche** et vous
+          positionner sur les premières pages de Google.
 
 
-          Je connais la majeur partie des **techniques de référencement** SEO.
+          Je connais la majeure partie des **techniques de référencement** SEO.
 
 
-          Pour atteindre vos objectifs, je met en place une **stratégie de mots
+          Pour atteindre vos objectifs, je mets en place une **stratégie de mots
           clés**, structure vos textes avec des balises HTML (h1, h2, h3, etc.),
           travail vos la balise TITLE, balise ALT, méta description et
           réécriture d'URL . Je me charge aussi d'**optimiser vos images** et
-          autres média pour **accélérer le chargement de vos pages**.
+          autres médias pour **accélérer le chargement de vos pages**.
         content_align: left
         actions: []
         actions_align: left
