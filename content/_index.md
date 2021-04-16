@@ -594,19 +594,19 @@ sections:
         type: grid_item
       - title: Techniques de rédaction web
         title_align: left
-        content: >
-          Là, on parle de journalisme et de **webmarketing**. On parle de
-          technique qui fait vendre et convertit vos clients : la **pyramide
-          inversée**,
-           le découpage de contenu, le parcours AIDA, la granularité de 
-          l’information, l’écriture persuasive ou encore la méthode des 5W (ou 
+        content: >+
+          Les **techniques de rédaction** sont un mélange de travaux
+          journalistique avec une vision **marketing**. Un ensemble de méthode
+          qui ont pour objectif de convertir vos clients et générer des ventes :
+          L'écriture persuasive, la méthode des 5W, la **pyramide inversée**, le
+          parcours AIDA, la granularité de l'information ou encore le découpage
+          de contenu.
 
-          QQOQCPC).
 
+          C'est un ensemble de **technique de rédacteur** de contenu qui
+          permettra d'augmenter considérablement les ventes de votre site
+          ecommerce, ou inciter vos visiteurs à choisir votre prestation !
 
-          Autant de **techniques de rédaction de contenu** qui vont booster les
-          ventes d’un site e-commerce ou inciter les internautes à choisir votre
-          prestation !
         content_align: left
         actions: []
         actions_align: left
