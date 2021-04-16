@@ -79,31 +79,6 @@ sections:
     type: hero_section
   - type: features_section
     template: features_section
-    title: 'Faire appel à une professionnelle du contenu web, c''est primordial !'
-    features:
-      - subtitle: >-
-          Aujourd'hui, la rédaction web est obligatoire lors du développement de
-          votre site internet.
-        content: "Le\_**contenu éditorial**\_est important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherche pour vendre vos produits ou services.\n\nVous pouvez tenter la création de contenu par vos propres moyens et essayer d'optimiser votre web SEO. Cependant, en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
-        actions: []
-        image_alt: Booster votre contenu seo
-        media_position: left
-        media_width: fourty
-        align: left
-        type: feature
-        image: /images/Booster-votre-seo.svg
-    feature_padding_vert: medium
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-  - type: features_section
-    template: features_section
     features:
       - content: "C’est assez simple : le rédacteur web se charge de tout le contenu du site internet.\n\nDe la rédaction d'articles, d'une\_**fiche produit**, d'une\_**page de vente**\_ou bien d’autres. Un rédacteur web freelance est en capacité de vous livrer votre article web directement sur votre wordpress.\n\nJe suis une professionnelle de la\_**rédaction**\_de\_**contenu SEO**. Ici, vous vous assurez un contenu\_**unique**\_et un contenu\_**qualité**.\n"
         actions: []
