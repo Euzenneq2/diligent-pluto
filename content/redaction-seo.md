@@ -169,7 +169,18 @@ sections:
         template: grid_item
         title: Intention de recherche
         title_align: left
-        content: "Vous souhaitez placer votre site web sur le mot clé «\_huile à barbe\_» ? Ok, c’est normal. Mais savez-vous au moins quel **type de résultats Google** souhaite afficher sur ce type de requête ?\n\nVa-t-il privilégier un **article de blog** ? Une **fiche produit e-commerce** ? Un guide d’achat ? En analysant les **intentions de recherche** de votre mot clé, nous saurons quel contenu éditorial produire !\n"
+        content: >
+          Vous avez pour ambition de vous positionner sur le mot clé "huile
+          essentielle" ? Seulement avez-vous une idée du type de résultats que
+          Google souhaite proposer sur cette **requête cible** ?
+
+
+
+          Un guide d'achat ? Une **fiche produit** ? Un **article de blog** ou
+          une **vidéo YouTube** ? En analysant les **intentions de recherche**
+          de votre requête cible, nous apprendrons précisément quel contenu
+          éditorial est le plus adapté pour se positionner dans les premiers
+          résultats de la **SERP**.
         content_align: left
         actions: []
         actions_align: left
