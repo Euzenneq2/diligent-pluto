@@ -4,7 +4,6 @@ sections:
   - type: hero_section
     template: hero_section
     title: 'La rédaction SEO, c''est quoi ?'
-    subtitle: Soyez sur les premières pages des moteurs de recherche !
     background_color: none
     actions: []
     media_position: right
