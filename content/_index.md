@@ -624,8 +624,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items:
       - title: Rédaction web.
         title_align: left
