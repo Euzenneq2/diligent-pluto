@@ -191,26 +191,13 @@ sections:
       - title: structure en silo thématique
         title_align: left
         content: >
-          En **rédaction de contenu SEO**, seuls ceux qui connaissent les
-          **techniques de référencement** applicables au **maillage interne**
-          savent tirer leur épingle du jeu dans les moteurs de recherche.
-
-
-          Parce que **rédiger du contenu unique pour le web** n’est déjà pas
-          chose facile, il en est encore moins question quand il s’agit de la
-          méthode du **silo SEO**.
-
-
-
-
           Pour faire la différence sur les moteurs de recherche avec vos
-          **rédaction de contenu SEO**, il est important de connaitres les
+          **rédactions de contenu SEO**, il est important de connaître les
           **techniques de référencement** lié au **maillage interne**.
 
-
-          Il n'est déjà pas chose aisé de **rédiger du contenu exclusif** sur le
-          web, cela ce complique d'autant plus quand il s'agit d'établir une
-          **structure en silo** dans votre **stratégie SEO**
+          Il n'est déjà pas chose aisée de **rédiger du contenu exclusif sur le
+          web**, cela se complique d'autant plus quand il s'agit d'établir **une
+          structure en silo** dans votre **stratégie SEO**.
         content_align: left
         actions: []
         actions_align: left
