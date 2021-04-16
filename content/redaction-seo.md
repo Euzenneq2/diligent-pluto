@@ -24,6 +24,26 @@ sections:
     padding_bottom: large
     align: left
     image_alt: Rédaction web internet
+  - type: cta_section
+    template: cta_section
+    title: >-
+      À partir de 0,10€/mot, vous pouvez avoir un contenu SEO optimisé pour
+      Google
+    content: |
+      Grâce à des techniques bien définies, soyez meilleur que vos concurrents !
+    actions:
+      - type: action
+        template: action
+        label: Je me lance !
+        url: /contact
+        style: primary
+        icon_position: left
+    actions_position: bottom
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
   - type: grid_section
     template: grid_section
     actions: []
@@ -132,26 +152,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-  - type: cta_section
-    template: cta_section
-    title: >-
-      À partir de 0,10€/mot, vous pouvez avoir un contenu SEO optimisé pour
-      Google
-    content: |
-      Grâce à des techniques bien définies, soyez meilleur que vos concurrents !
-    actions:
-      - type: action
-        template: action
-        label: Je me lance !
-        url: /contact
-        style: primary
-        icon_position: left
-    actions_position: bottom
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
   - type: features_section
     template: features_section
     features:
