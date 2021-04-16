@@ -521,18 +521,17 @@ sections:
       - title: Rédaction web
         title_align: left
         content: >
-          Écrire pour le web ne s'improvise pas, savoir rédiger et délivrer des
-          messages impactant pour convertir vos visiteurs ne s'improvise pas.
+          Savoir rédiger pour le web et délivrer des messages impactant pour
+          convertir vos visiteurs ne s'improvise pas.
 
           Un rédacteur web se doit de maitriser le copywriting, connaitre les
           techniques de référencement naturel, analyser les intentions de
-          recherche, développer le champ sémantique ou encore l'optimiser le
+          recherche, développer le champ sémantique ou encore optimiser le
           maillage interne d'un article.
 
 
-
           Très similaire au métier de référencer, la rigueur doit être une de
-          vos qualités. Rien ne doit être laissé au hasard.
+          vos qualités. Pour ma part, je ne laisse rien au hasard.
         content_align: left
         actions: []
         actions_align: left
