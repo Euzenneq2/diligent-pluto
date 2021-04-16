@@ -30,7 +30,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Je me lance !
+        label: '!'
         url: /contact
         style: primary
         icon_position: left
