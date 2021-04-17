@@ -18,6 +18,7 @@ sections:
         align: left
         type: feature
         title: Techniques de rédaction SEO
+        subtitle: d
     feature_padding_vert: medium
     align: center
     padding_top: medium
