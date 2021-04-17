@@ -1,7 +1,7 @@
 ---
 title: Rédaction SEO
 sections:
-  - title: lorem-ipsum
+  - title: T
     subtitle: Je vous propose de découvrir mes
     features: []
     feature_padding_vert: medium
