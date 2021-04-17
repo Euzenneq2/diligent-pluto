@@ -1,7 +1,7 @@
 ---
 title: Rédaction SEO
 sections:
-  - title: lorem-ipsum
+  - title: 'La rédaction SEO, c''est quoi ?'
     content: >-
       ## Lorem ipsum
 
