@@ -315,8 +315,11 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      La rédaction SEO augmente votre visibilité sur Google et par conséquent le
-      nombre de visiteurs sur votre site web.
+      ## La rédaction SEO est un ensemble de techniques qui augmente votre
+      visibilité sur Google
+
+
+      et par conséquent le nombre de visiteurs sur votre site web...
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
