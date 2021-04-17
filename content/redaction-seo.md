@@ -128,6 +128,29 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
+        title: Intention de recherche
+        title_align: left
+        content: >
+          Vous avez pour ambition de vous positionner sur le mot clé "huile
+          essentielle" ? Seulement avez-vous une idée du type de résultats que
+          Google souhaite proposer sur cette **requête cible** ?
+
+
+
+          Un guide d'achat ? Une **fiche produit** ? Un **article de blog** ou
+          une **vidéo YouTube** ? En analysant les **intentions de recherche**
+          de votre requête cible, nous apprendrons précisément quel contenu
+          éditorial est le plus adapté pour se positionner dans les premiers
+          résultats de la **SERP**.
+        content_align: left
+        actions: []
+        actions_align: left
+        image_alt: Item 4 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - type: grid_item
+        template: grid_item
         title: Champ sémantique
         title_align: left
         content: "Pour comprendre le sens et l’intérêt de vos contenus, les moteurs de recherche ont besoin que votre texte dispose d’un **champ lexical** enrichi.\n\nC’est pourquoi il est important d’**enrichir la sémantique** autour de votre mot clé cible, dans l’objectif d’indiquer avec précision au crawler Google le thème de votre contenu.\n\nPar exemple dans le cas où votre texte parle de maquillage, le **champ sémantique** de votre article comprendra alors des mots tels que «\_fard à paupières\_», «\_pinceaux\_»,\_«\_miroir\_», etc.\n"
@@ -162,29 +185,6 @@ sections:
         actions: []
         actions_align: left
         image_alt: Item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - type: grid_item
-        template: grid_item
-        title: Intention de recherche
-        title_align: left
-        content: >
-          Vous avez pour ambition de vous positionner sur le mot clé "huile
-          essentielle" ? Seulement avez-vous une idée du type de résultats que
-          Google souhaite proposer sur cette **requête cible** ?
-
-
-
-          Un guide d'achat ? Une **fiche produit** ? Un **article de blog** ou
-          une **vidéo YouTube** ? En analysant les **intentions de recherche**
-          de votre requête cible, nous apprendrons précisément quel contenu
-          éditorial est le plus adapté pour se positionner dans les premiers
-          résultats de la **SERP**.
-        content_align: left
-        actions: []
-        actions_align: left
-        image_alt: Item 4 icon
         image_position: top
         image_align: left
         image_has_padding: true
