@@ -257,10 +257,7 @@ sections:
         image_alt: portrait-mary-marketing
         media_position: right
         media_width: thirty-three
-        subtitle: >-
-          "Rédactrice web et en freelance depuis peu. Je suis ravi de vous
-          proposer mes services pour déployer votre stratégie éditoriale, en
-          vous produisant des contenus de qualités et optimisés SEO."
+        subtitle: 'Enchanté, moi c''est Mary !'
         actions:
           - label: En savoir plus
             url: /a-propos
