@@ -267,9 +267,6 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    title: >-
-      Restructurer votre site pour améliorer votre visibilité et accroître le
-      nombre de visiteurs
     actions:
       - url: /contact
         style: primary
