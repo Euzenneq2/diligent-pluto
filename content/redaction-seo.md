@@ -1,8 +1,7 @@
 ---
 title: Rédaction SEO
 sections:
-  - title: Techniques de rédaction SEO
-    subtitle: Je vous propose de découvrir mes
+  - subtitle: Je vous propose de découvrir mes
     features:
       - content: >
           Le métier de **rédacteur web SEO** ne laisse aucune part au hasard.
