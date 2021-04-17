@@ -290,9 +290,6 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    title: >-
-      La rédaction SEO augmente votre visibilité sur Google et par conséquent le
-      nombre de visiteurs sur votre site web
     actions:
       - url: /contact
         style: primary
