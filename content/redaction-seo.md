@@ -1,7 +1,7 @@
 ---
 title: Rédaction SEO
 sections:
-  - title: T
+  - title: Techniques de rédaction SEO
     subtitle: Je vous propose de découvrir mes
     features: []
     feature_padding_vert: medium
