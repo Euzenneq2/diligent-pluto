@@ -29,24 +29,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - type: hero_section
-    template: hero_section
-    background_color: none
-    actions: []
-    media_position: right
-    background_image_position: left center
-    media_width: fifty
-    padding_top: large
-    padding_bottom: large
-    align: center
-    content: >
-      Le métier de **rédacteur web SEO** ne laisse aucune part au hasard.
-      Beaucoup se lance dans l'aventure avec peu de connaissance, cependant des
-      **techniques exigeantes** et un **large panel d'outils** articulent ces
-      métiers autour de la rédaction SEO. Le prix d'un **rédacteur web** est
-      justifié par ces compétences qui vous permettront d'acquérir des
-      **contenus de qualité**. C'est pourquoi, je vous propose sur cette page
-      l'ensemble des éléments détaillé.
   - type: cta_section
     template: cta_section
     title: >-
