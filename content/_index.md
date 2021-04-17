@@ -456,6 +456,8 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    content: |
+      Besoin de bâtir une stratégie digitale pour développer votre notoriété ?
   - type: grid_section
     template: grid_section
     title: "Témoignages\_clients"
