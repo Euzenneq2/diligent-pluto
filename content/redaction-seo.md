@@ -17,7 +17,6 @@ sections:
     type: features_section
   - type: hero_section
     template: hero_section
-    title: 'La rédaction SEO, c''est quoi ?'
     background_color: none
     actions: []
     media_position: right
