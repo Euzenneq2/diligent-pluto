@@ -760,7 +760,6 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
   - type: cta_section
     template: cta_section
-    title: Travaillons ensemble !
     content: >
       **Travaillons ensemble !**
 
