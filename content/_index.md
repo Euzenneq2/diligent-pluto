@@ -443,7 +443,6 @@ sections:
     padding_top: large
   - type: cta_section
     template: cta_section
-    title: Besoin de bâtir une stratégie digitale pour développer votre notoriété ?
     actions:
       - type: action
         template: action
