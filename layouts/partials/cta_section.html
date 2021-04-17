@@ -47,7 +47,7 @@
 			{{ if $has_text }}
 			<div class="cta__body my-1 cell-12{{ if and (and $is_horiz $has_actions) (eq $actions_width "fourty") }} cell-md-7{{ end }}{{ if and (and $is_horiz $has_actions) (eq $actions_width "fifty") }} cell-md-6{{ end }}{{ if and (and $is_horiz $has_actions) (eq $actions_width "sixty") }} cell-md-5{{ end }}{{ if eq $align_x "center" }} text-center{{ end }}{{ if eq $align_x "right" }} text-right{{ end }}">
 				{{ if $section.title }}
-				<h1 class="cta__title">{{ $section.title }}</h1>
+				<p class="cta__title">{{ $section.title }}</h1>
 				{{ end }}
 				{{ if $section.content }}
 				<div class="cta__copy">
