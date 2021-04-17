@@ -519,7 +519,7 @@ sections:
     background_color: secondary
   - actions: []
     grid_items:
-      - title: Rédaction web
+      - title: Rédaction SEO
         title_align: left
         content: >
           Savoir rédiger pour le web et délivrer des messages impactant pour
