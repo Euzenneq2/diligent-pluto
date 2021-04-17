@@ -3,7 +3,7 @@ title: Page d'accueil
 sections:
   - type: hero_section
     template: hero_section
-    title: Rédactrice web SEO friendly
+    title: Copywriter et rédacteur web SEO friendly
     subtitle: >-
       Vous avez besoin d'atteindre les 10 pages de résultats de recherche de
       Google pour promouvoir votre activité ?
