@@ -4,17 +4,14 @@ sections:
   - title: Techniques de rédaction SEO
     subtitle: Je vous propose de découvrir mes
     features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: >
+          Le métier de **rédacteur web SEO** ne laisse aucune part au hasard.
+          Beaucoup se lance dans l'aventure avec peu de connaissance, cependant
+          des **techniques exigeantes** et un **large panel d'outils**
+          articulent ces métiers autour de la rédaction SEO. Le prix d'un
+          **rédacteur web** est justifié par ces compétences qui vous
+          permettront d'acquérir des **contenus de qualité**. C'est pourquoi, je
+          vous propose sur cette page l'ensemble des éléments détaillé.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
