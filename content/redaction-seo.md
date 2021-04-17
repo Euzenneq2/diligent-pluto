@@ -27,9 +27,6 @@ sections:
     image: images/Redaction-SEO.png
   - type: cta_section
     template: cta_section
-    title: >-
-      Obtenez votre rédaction SEO optimisé pour Google, balise méta comprise
-      pour 0,10€/mot.
     content: |
       Soyez meilleur que vos concurrents, l'inaction à un coût !
     actions:
