@@ -24,7 +24,7 @@
 				{{ if and $.Site.Params.footer.has_primary_nav $.Site.Params.footer.primary_nav_links }}
 				<div class="site-footer__menu cell-12 cell-md my-3 my-md-4">
 					{{ if $.Site.Params.footer.primary_nav_title }}
-					<p class="h4 mb-3 mb-md-4">{{ $.Site.Params.footer.primary_nav_title }}</h2>
+					<p class="h4 mb-3 mb-md-4">{{ $.Site.Params.footer.primary_nav_title }}</p>
 					{{ end }}
 					{{ $include_dict := dict "footer_menu" $.Site.Params.footer.primary_nav_links }}
 					{{ partial "footer_menu.html" $include_dict }}
