@@ -761,7 +761,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      **Travaillons ensemble !**
+      ## **Travaillons ensemble !**
 
 
       Vous êtes à la recherche d'une collaboratrice pour vous accompagner dans
