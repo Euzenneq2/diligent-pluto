@@ -762,6 +762,9 @@ sections:
     template: cta_section
     title: Travaillons ensemble !
     content: >
+      **Travaillons ensemble !**
+
+
       Vous êtes à la recherche d'une collaboratrice pour vous accompagner dans
       la création et la refonte de votre contenu rédactionnel ? Vous cherchez à
       positionner votre site web sur des mots-clés spécifiques ? Vous avez
