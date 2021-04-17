@@ -291,6 +291,9 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
+    content: >
+      ## Restructurer votre site pour améliorer votre visibilité et accroître le
+      nombre de visiteurs&#xA;
   - type: features_section
     template: features_section
     features:
