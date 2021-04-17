@@ -4,8 +4,7 @@ sections:
   - title: Techniques de rédaction SEO
     subtitle: Je vous propose de découvrir mes
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
