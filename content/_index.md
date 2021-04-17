@@ -253,7 +253,6 @@ sections:
     features:
       - type: feature
         template: feature
-        title: 'Enchanté, moi c''est Mary !'
         image_alt: portrait-mary-marketing
         media_position: right
         media_width: thirty-three
