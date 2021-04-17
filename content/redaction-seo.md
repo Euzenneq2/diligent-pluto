@@ -2,7 +2,7 @@
 title: Rédaction SEO
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Je vous propose de découvrir comment votre
     features: []
     feature_padding_vert: medium
     align: center
