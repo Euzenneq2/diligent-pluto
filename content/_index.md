@@ -269,6 +269,10 @@ sections:
             type: action
         align: center
         image: images/terrific-strawberry.png
+        content: >
+          "Rédactrice web et en **freelance** depuis peu. Je suis ravi de vous
+          proposer mes services pour déployer votre **stratégie éditoriale**, en
+          vous produisant des contenus de qualités et **optimisés SEO**."
     feature_padding_vert: small
     background_color: primary
     background_image_position: right center
