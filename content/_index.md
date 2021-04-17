@@ -258,8 +258,6 @@ sections:
         media_position: right
         media_width: thirty-three
         subtitle: >-
-          Enchanté, moi c'est Mary !
-
           "Rédactrice web et en freelance depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre stratégie éditoriale, en
           vous produisant des contenus de qualités et optimisés SEO."
