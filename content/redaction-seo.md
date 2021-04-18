@@ -329,17 +329,14 @@ sections:
         type: grid_item
       - title: Stratégie de contenu
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Le marketing de contenu, ça vous parle ? Si vous voulez être connu sur
+          le web, c’est le genre de stratégie éditoriale qu’il vous faut.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          En effet, le content marketing va optimiser la diffusion de vos
+          textes, pour s’adresser efficacement à votre cible et atteindre les
+          objectifs fixés. Prêt pour l’aventure ?
         content_align: left
         actions: []
         actions_align: left
