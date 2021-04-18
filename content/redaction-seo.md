@@ -230,8 +230,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Audit sémantique
-        title_align: left
+      - title_align: left
         content: >+
           Il est impératif de réaliser un **audit SEO** de votre site internet,
           avant de mettre en application l'une des **techniques de rédaction de
