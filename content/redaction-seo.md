@@ -406,6 +406,9 @@ sections:
         type: grid_item
       - title_align: left
         content: >
+          ### **Référencement naturel**
+
+
           En tant que rédactrice web je connais toutes les bonnes pratiques pour
           l'**optimisation SEO** pour votre site internet. L'utilisation des
           meilleurs outils SEO pour votre **optimisation on-page**, la
