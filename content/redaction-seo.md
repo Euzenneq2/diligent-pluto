@@ -425,6 +425,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/Competence-mary-marketing.png
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
