@@ -345,7 +345,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ### **Méthodes de rédaction**
+          ### Méthodes de rédaction
 
 
           Pour être une bonne **rédactrice web**, je me dois de maitriser toutes
