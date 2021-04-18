@@ -368,7 +368,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Référencement naturel
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Optimisation on-page, utilisation des outils SEO, compréhension des
