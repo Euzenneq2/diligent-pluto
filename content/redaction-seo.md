@@ -48,6 +48,10 @@ sections:
     background_color: primary
   - title: Qu'est ce que la rédaction SEO Friendly ?
     content: >
+      ## Qu'est ce que la rédaction SEO Friendly ?
+
+
+
       Tout d’abord, vous devez comprendre que le **référencement naturel** est
       composé de **3 grandes parties** :
 
