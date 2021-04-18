@@ -600,10 +600,9 @@ sections:
     subtitle: >-
       Il est important pour moi d'être entouré d'expert pour
 
-      répondre du mieux possible aux besoins de mes clients. Je me spécialise
-      sur le
-
-      SEO et ne prétends pas disposer de toutes les connaissances sur le web.
+      répondre du mieux possible aux besoins de mes clients. Spécialisé sur la
+      rédaction, je ne prétends pas disposer de toutes les connaissances sur le
+      web.
     actions:
       - type: action
         template: action
