@@ -259,11 +259,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      ## La rédaction SEO est un ensemble de techniques qui augmente votre
-      visibilité sur Google
+      ## Le référencement naturel est un ensemble de techniques qui vous
+      aideront à atteindre les premiers résultats de recherche Google
 
 
-      et par conséquent le nombre de visiteurs sur votre site web...
+      Et ainsi augmentera considérablement le taux de trafic de votre site
+      internet !
   - actions: []
     image_alt: Compétence rédaction seo
     media_position: bottom
