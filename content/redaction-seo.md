@@ -84,19 +84,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Redaction-seo-frendly.png
-  - type: features_section
-    template: features_section
-    features: []
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
   - type: grid_section
     template: grid_section
     grid_items:
