@@ -292,7 +292,7 @@ sections:
           stratégie journalistique de pyramide inversée peut être utilisée.
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir
             url: '#'
             style: link
             has_icon: false
