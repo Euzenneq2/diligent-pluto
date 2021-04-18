@@ -127,7 +127,18 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: "### Champ sémantique\n\nPour comprendre le sens et l’intérêt de vos contenus, les moteurs de recherche ont besoin que votre texte dispose d’un **champ lexical** enrichi.\n\nC’est pourquoi il est important d’**enrichir la sémantique** autour de votre mot clé cible, dans l’objectif d’indiquer avec précision au crawler Google le thème de votre contenu.\n\nPar exemple dans le cas où votre texte parle de maquillage, le **champ sémantique** de votre article comprendra alors des mots tels que «\_fard à paupières\_», «\_pinceaux\_»,\_«\_miroir\_», etc.\n"
+        content: >
+          ### Position zéro
+
+
+          Vous avez toujours rêvé de vous classer dans les premières places ? Je
+          vous suggère d'augmenter encore la visibilité de votre site, avec des
+          références locales et nationales.
+
+          Nous essaierons de positionner votre site avant la première position :
+          la position zéro, également appelée featured snippet. Vous voulez
+          connaître ma technique ? Alors entrez et je vous ferai une visite
+          guidée !
         content_align: left
         actions: []
         actions_align: left
