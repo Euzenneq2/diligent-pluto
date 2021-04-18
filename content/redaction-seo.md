@@ -409,7 +409,7 @@ sections:
     type: grid_section
     title: Mes compétences complémentaire à la rédaction SEO
   - actions: []
-    image_alt: lorem-ipsum
+    image_alt: 'Compétence '
     media_position: top
     media_width: fifty
     align: left
