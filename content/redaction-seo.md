@@ -383,6 +383,9 @@ sections:
         type: grid_item
       - title_align: left
         content: >
+          ### Contenu SEO
+
+
           **Balise TITLE**, méta description, sous-titres, réécriture d'URL, le
           **nombre de mots** dans votre texte, balise ALT, etc. Autant de
           critères à comprendre et à travailler avec rigueur, car il influence
