@@ -543,16 +543,7 @@ sections:
           réécriture d'URL . Je me charge aussi d'**optimiser vos images** et
           autres médias pour **accélérer le chargement de vos pages**.
         content_align: left
-        actions:
-          - label: En savoir plus
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
