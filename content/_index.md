@@ -256,7 +256,7 @@ sections:
         image_alt: portrait-mary-marketing
         media_position: right
         media_width: thirty-three
-        subtitle: 'Enchanté, moi c''est Mary !'
+        subtitle: '**Enchanté, moi c''est Mary !'
         actions:
           - label: En savoir plus
             url: /a-propos
