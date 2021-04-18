@@ -279,7 +279,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    content: >+
+    content: >
       ## Vous souhaitez avoir davantage d'informations sur mes compétences liées
       à la rédaction web ?
 
@@ -290,7 +290,6 @@ sections:
       Cependant, j'ai décidé de ne pas m'arrêter la en élargissant mon champ mon
       expertise. L'objectif est de proposer à ma clientèle un large éventail de
       solution pour augmenter leurs visibilités sur internet.
-
     image: images/Competence-mary-marketing.png
   - actions: []
     grid_items:
