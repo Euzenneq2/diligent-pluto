@@ -104,19 +104,19 @@ sections:
         template: grid_item
         title_align: left
         content: >
-          ### Intention de recherche
+          ### Optimisation on page
 
 
-          Vous avez pour ambition de vous positionner sur le mot clé "huile
-          essentielle" ? Seulement avez-vous une idée du type de résultats que
-          Google souhaite proposer sur cette **requête cible** ?
+          Pour que votre page web se positionne correctement sur le moteur de
+          recherche elle doit répondre aux **exigences des robots** crawler.
 
 
-          Un guide d'achat ? Une **fiche produit** ? Un **article de blog** ou
-          une **vidéo YouTube** ? En analysant les **intentions de recherche**
-          de votre requête cible, nous apprendrons précisément quel contenu
-          éditorial est le plus adapté pour se positionner dans les premiers
-          résultats de la **SERP**.
+          C'est pourquoi lors de mes **audits SEO**, je vérifie que vos pages
+          répondre à ces normes en commençant par la bonne structuration de
+          votre contenu avec les balises HTML (h1,h2,h3...). Que vous ayez
+          rédiger des paragraphes bien distincts, que celui comporte des liens
+          internes et externes, l'enrichissement de votre champ sémantique et
+          l'**optimisation des médias** présents.
         content_align: left
         actions: []
         actions_align: left
