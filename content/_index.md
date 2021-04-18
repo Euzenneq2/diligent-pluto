@@ -309,7 +309,16 @@ sections:
           contenu de qualité est mon quotidien en tant que rédacteur web
           freelance.
         content_align: center
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: center
         image: /images/rédaction-web.svg
         image_alt: Rédaction web
