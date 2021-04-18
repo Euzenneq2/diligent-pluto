@@ -353,15 +353,7 @@ sections:
           La création d'une **stratégie social media** est devenue nécessaire
           pour élaborer une **communauté** sur vos médias sociaux.
         content_align: center
-        actions:
-          - label: En savoir plus
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: Community management
