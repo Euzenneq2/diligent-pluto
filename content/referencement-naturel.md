@@ -206,15 +206,19 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ### Cocon sémantique
+          ### Outils SEO
 
 
-          Concept initié par **Laurent Bourrelly** (référenceur français), le
-          **cocon sémantique** est basé sur une structure de site web en silo,
-          traitant des différents sujets liés à la thématique. Créer du contenu
-          optimisé autour de celle-ci. Ajoutez à ça un **maillage interne
-          efficace** pour obtenir une **arborescence intuitive** répondant aux
-          besoins des visiteurs.
+          Le SEO demande beaucoup de patience et de rigueur. Pour réussir à
+          acquérir des résultats, vous avez tout intérêt à être équipé des bons
+          outils.
+
+
+
+          Du logiciel d'**optimisation de vos textes**, aux **outils
+          d'indexation** et autres **solutions d'analyse concurrentielle**. Je
+          vous liste mes outils pour mener à bien ma **stratégie de
+          référencement** sur votre site internet.
         content_align: left
         actions: []
         actions_align: left
