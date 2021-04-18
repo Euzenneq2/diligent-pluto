@@ -32,8 +32,8 @@ sections:
       comprise).**
 
 
-      Vos concurrents sont peut-être déjà positionnés... Sachez qu'il n'est
-      jamais trop tard !
+      Vos concurrents sont déjà positionné ? Sachez qu'il n'est jamais trop tard
+      !
     actions:
       - type: action
         template: action
