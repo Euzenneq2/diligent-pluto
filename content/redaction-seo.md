@@ -256,8 +256,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Réécriture de texte SEO
-        title_align: left
+      - title_align: left
         content: >
           Vous avez pris les devants en réalisant et publiant vos textes et
           c'est une bonne chose ! L'avez-vous adaptée et optimisée pour le
