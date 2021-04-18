@@ -263,8 +263,8 @@ sections:
       aideront à atteindre les premiers résultats de recherche Google
 
 
-      Et ainsi augmentera considérablement le taux de trafic de votre site
-      internet !
+      De ce fait, le taux de trafic de votre site sera considérablement augmenté
+      !
   - actions: []
     image_alt: Compétence rédaction seo
     media_position: bottom
