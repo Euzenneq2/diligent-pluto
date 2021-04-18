@@ -48,8 +48,7 @@ sections:
     background_color: primary
   - title: Qu'est ce que la rédaction SEO Friendly ?
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >
           Tout d’abord, vous devez comprendre que le **référencement naturel**
           est composé de **3 grandes parties** :
