@@ -310,7 +310,7 @@ sections:
       et par conséquent le nombre de visiteurs sur votre site web...
   - actions: []
     image_alt: lorem-ipsum
-    media_position: right
+    media_position: bottom
     media_width: sixty
     align: center
     padding_top: none
