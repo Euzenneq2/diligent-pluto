@@ -355,8 +355,11 @@ sections:
           **Balise TITLE**, méta description, sous-titres, réécriture d'URL, le
           **nombre de mots** dans votre texte, balise ALT, etc. Autant de
           critères à comprendre et à travailler avec rigueur, car il influence
-          l'**algorithme de Google**. Ils auront un impact sur le
-          **positionnement** de vos pages web sur les moteurs de recherche.
+          l'**algorithme de Google**.
+
+
+          Ils auront un impact sur le **positionnement** de vos pages web sur
+          les moteurs de recherche.
         content_align: left
         actions: []
         actions_align: left
