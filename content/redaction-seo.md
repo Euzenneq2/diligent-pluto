@@ -322,9 +322,21 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    content: >
-      ## Vous souhaitez en savoir plus concernant mes compétences lié à la
-      rédaction SEO ?&#xA;&#xA;
+    content: >+
+      ## Vous souhaitez en savoir plus concernant mes compétences liées à la
+      rédaction SEO ?
+
+
+
+      Vous devez-vous en douté, la rédaction web est un **ensemble de
+      compétences** qui sont complémentaire les unes aux autres. Savoir écrire
+      ne suffit pas pour être **performant **sur internet. Si vous souhaitez que
+      votre **rédacteur SEO** apporte de véritables changements bénéfiques à
+      votre site web, votre prestataire doit avoir acquis ces principes de
+      bases.
+
+
+
     image: images/Competence-mary-marketing.png
   - actions: []
     grid_items:
