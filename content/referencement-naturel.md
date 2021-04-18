@@ -177,18 +177,17 @@ sections:
         image_align: left
         image_has_padding: true
       - title_align: left
-        content: >
-          ### Structure en silo thématique
+        content: >+
+          ### White Hat SEO
 
 
-          Pour faire la différence sur les moteurs de recherche avec vos
-          **rédactions de contenu SEO**, il est important de connaître les
-          **techniques de référencement** lié au **maillage interne**.
+          Le **White Hat SEO** correspond l'ensemble des techniques de
+          référencement naturel qui respect les règles reconnues et accepté par
+          Google. Tout en restant dans la légalité (à la différence du **Black
+          Hat SEO**), celle-ci permet un meilleur classement du site sur les
+          moteurs de recherche.
 
 
-          Il n'est déjà pas chose aisée de **rédiger du contenu exclusif sur le
-          web**, cela se complique d'autant plus quand il s'agit d'établir une
-          **structure en silo** dans votre **stratégie SEO**.
         content_align: left
         actions: []
         actions_align: left
