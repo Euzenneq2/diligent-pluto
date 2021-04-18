@@ -50,17 +50,28 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Tout d’abord, vous devez comprendre que le **référencement naturel**
+          est composé de **3 grandes parties** :
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Premièrement, vous devez vous assurer de la bonne **architecture de
+          votre site** internet. En commençant par **optimiser vos images**,
+          **minifier et compiler les fichiers** CSS et JS et vous vérifier la
+          bonne **structuration de vos pages web**.
+
+          La seconde partie correspond à la rédaction, vous devez travailler
+          votre **stratégie éditoriale** afin de créer du contenu qualifié.
+
+          Et la dernière est lié **backlink** qui correspond à créer des liens
+          de qualité et de les faire pointer vers votre site internet.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          C’est technique auront pour but de répondre aux exigences de
+          l’**algorithme de Google**. Si les tâches sont effectuées correctement
+          alors vous serez considéré comme référent dans votre domaine
+          d’activité et vos pages web, produits, ou article seront visibles dans
+          les premières pages des **résultats du moteur de recherche** (SERP).
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
