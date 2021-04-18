@@ -185,15 +185,7 @@ sections:
         title_align: left
         content: "Une fiche produit, c'est toute la description et les caractéristiques du produit que vous vendez sur votre e-commerce. Ayant de l'expérience en termes de\_**content marketing**\_(marketing de contenu) et en copywriting, je saurais\_**captiver**\_les utilisateurs via une qualité rédactionnelle et du storytelling adapté.\n\nLes rédacteurs web utilisent plusieurs\_**techniques de rédaction SEO** afin de\_**convertir vos prospects**\_et de les conduire sur vos sites internet, jusqu'à l’acte d’achat. Une fois séduit grâce à votre stratégie marketing, votre public-cible ne pourra qu’amorcer l'achat du produit convoité.\n"
         content_align: left
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /redaction-web
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 1 icon
         image_position: top
