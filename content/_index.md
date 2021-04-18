@@ -367,7 +367,7 @@ sections:
         content_align: center
         actions:
           - label: Découvrir
-            url: '#'
+            url: /netlinking
             style: link
             has_icon: false
             icon: arrow-left
