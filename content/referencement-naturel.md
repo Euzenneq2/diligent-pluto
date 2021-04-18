@@ -1,7 +1,7 @@
 ---
 title: Rédaction SEO
 sections:
-  - title: 'La rédaction SEO, c''est quoi ?'
+  - title: La rédaction SEO pour développer votre activité
     content: >
       Le métier de **rédacteur web SEO** ne laisse aucune part au hasard.
       Beaucoup se lance dans l’aventure avec peu de connaissance, cependant des
