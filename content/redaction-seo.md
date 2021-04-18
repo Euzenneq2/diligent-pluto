@@ -323,7 +323,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
-      ## Vous voulez en savoir plus concernant mes compétences lié à la
+      ## Vous souhaitez en savoir plus concernant mes compétences lié à la
       rédaction SEO ?&#xA;&#xA;
     image: images/Competence-mary-marketing.png
   - actions: []
