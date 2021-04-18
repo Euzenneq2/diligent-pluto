@@ -343,7 +343,7 @@ sections:
           : maillage interne et contenu éditorial, c'est primordial.
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir
             url: '#'
             style: link
             has_icon: false
