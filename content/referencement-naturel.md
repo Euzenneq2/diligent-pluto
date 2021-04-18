@@ -56,7 +56,7 @@ sections:
       votre site web. Une partie technique (par exemple, la vitesse de
       chargement ou la sécurité de votre site), une partie sémantique (la
       stratégie de contenu de votre site) et la partie notoriété (nombre de
-      backlink pointant vers votre site internet). Plus vous serez rigoureux et
+      backlinks pointant vers votre site internet). Plus vous serez rigoureux et
       vous respecterez ces trois axes majeurs du référencement, plus vous aurez
       de chance que Google vous place sur les premiers résultats de recherche
       Google.
