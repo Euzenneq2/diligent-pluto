@@ -9,7 +9,7 @@ sections:
       **moteurs de recherche** sont en évolution constante, ce qui leur donne
       une part de mystère. Toutefois, pas d'inquiétude mes compétences en
       **SEO** améliorons considérablement le positionnement de votre site web
-      dans les **SERP** de Google
+      dans les **SERP** de Google.
     actions: []
     image_alt: rédactrice web SEO
     media_position: right
