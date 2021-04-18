@@ -163,6 +163,8 @@ sections:
           yeux des internautes (5e page des résultats de recherche, voire
           plus...).
 
+
+
           Afin d'être préventif sur le sujet, je vous explique brièvement les
           différentes pénalités appliquées par Google et comment les éviter. Un
           **audit SEO** peut rapidement vous donner une idée de si vous êtes
