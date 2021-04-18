@@ -209,8 +209,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Cocon sémantique
-        title_align: left
+      - title_align: left
         content: >
           Concept initié par **Laurent Bourrelly** (référenceur français), le
           **cocon sémantique** est basé sur une structure de site web en silo,
