@@ -410,7 +410,7 @@ sections:
     title: Mes compétences complémentaire à la rédaction SEO
   - actions: []
     image_alt: Compétence rédacteur web
-    media_position: top
+    media_position: bottom
     media_width: fourty
     align: left
     padding_top: medium
