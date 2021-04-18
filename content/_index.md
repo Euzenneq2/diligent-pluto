@@ -391,7 +391,7 @@ sections:
           pour élaborer une **communauté** sur vos médias sociaux.
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir
             url: '#'
             style: link
             has_icon: false
