@@ -126,7 +126,7 @@ sections:
         template: grid_item
         title_align: left
         content: >
-          ### **Intention de recherche**
+          ### Intention de recherche
 
 
           Vous avez pour ambition de vous positionner sur le mot clé "huile
