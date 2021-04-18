@@ -392,7 +392,7 @@ sections:
         content_align: center
         actions:
           - label: Découvrir
-            url: '#'
+            url: /community-management
             style: link
             has_icon: false
             icon: arrow-left
