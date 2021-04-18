@@ -310,7 +310,7 @@ sections:
           freelance.
         content_align: center
         actions:
-          - url: '#'
+          - url: /redaction-web
             style: link
             has_icon: false
             icon: arrow-left
