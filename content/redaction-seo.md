@@ -371,17 +371,14 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Optimisation on-page, utilisation des outils SEO, compréhension des
+          pénalités SEO et du duplicate content, netlinking (liens externes,
+          ancres et maillage interne)…
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Un bon rédacteur web connait toutes les ficelles du référencement
+          naturel pour une optimisation SEO au top du top !
         content_align: left
         actions: []
         actions_align: left
