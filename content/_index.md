@@ -310,8 +310,7 @@ sections:
           freelance.
         content_align: center
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
