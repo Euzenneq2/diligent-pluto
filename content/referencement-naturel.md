@@ -221,32 +221,6 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ### Audit sémantique
-
-
-          Il est impératif de réaliser un **audit SEO** de votre site internet,
-          avant de mettre en application l'une des **techniques de rédaction de
-          contenu SEO** préalablement cité.
-
-
-          Dans cet audit, je vais faire un check-up complet de votre contenu. En
-          commençant par analyser la richesse sémantique, la lisibilité et la
-          structure de vos textes, vérifier vos balises, la qualité de vos
-          **liens entrants** et **liens sortants** (netlinking),
-          l'**optimisation SEO** de vos pages et le **nombre de mots** que
-          contient votre article.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title_align: left
-        content: >
           ### Réécriture de texte SEO
 
 
