@@ -322,8 +322,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    content: |
-      ## Mes compétences complémentaire à la rédaction SEO&#xA;&#xA;
+    content: >
+      ## Vous voulez en savoir plus concernant mes compétences lié à la
+      rédaction SEO ?&#xA;&#xA;
     image: images/Competence-mary-marketing.png
   - actions: []
     grid_items:
