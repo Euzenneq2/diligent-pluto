@@ -182,11 +182,17 @@ sections:
 
 
           Le **White Hat SEO** correspond l'ensemble des techniques de
-          référencement naturel qui respect les règles reconnues et accepté par
-          Google. Tout en restant dans la légalité (à la différence du **Black
-          Hat SEO**), celle-ci permet un meilleur classement du site sur les
-          moteurs de recherche.
+          référencement naturel qui respecte les règles reconnues et acceptées
+          par Google. Tout en restant dans la légalité (**à la différence du
+          Black Hat SEO**), celle-ci permet un meilleur classement du site sur
+          les moteurs de recherche.
 
+
+
+          C'est une solution pérenne. Les techniques White Hat SEO vous
+          permettront de construire petit à petit une réputation, tout en
+          générant plus de visiteurs sur votre site web. Parfait pour atteindre
+          vos objectifs de **référencement Google**.
 
         content_align: left
         actions: []
