@@ -350,17 +350,14 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Comprendre l’algorithme de Google, c’est comprendre les critères
+          auxquels faire attention pour une visibilité optimisée de votre site
+          internet sur la première page.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Balises meta (balise TITLE et méta description), sous-titres, URL
+          rewriting, balise ALT, nombre de mots… Tout entre en ligne de compte !
         content_align: left
         actions: []
         actions_align: left
