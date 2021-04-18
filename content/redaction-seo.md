@@ -93,7 +93,10 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: >+
+        content: >
+          ### Recherche des mots clés
+
+
           Avant de débuter mon travail de **rédaction SEO**, je m'assure que les
           requêtes sur lesquels vous souhaitez vous placer sont intéressante.
           Cibler un mot sans savoir s’il est pertinent ou si vos utilisateurs
@@ -112,9 +115,6 @@ sections:
           commencer votre **rédaction de contenu optimisé**. L'objectif est
           d'établir une base saine dans votre **stratégie de référencement
           naturel**.
-
-
-
         content_align: left
         actions: []
         actions_align: left
