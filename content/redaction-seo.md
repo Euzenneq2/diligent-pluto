@@ -258,6 +258,9 @@ sections:
         type: grid_item
       - title_align: left
         content: >
+          ### Réécriture de texte SEO
+
+
           Vous avez pris les devants en réalisant et publiant vos textes et
           c'est une bonne chose ! L'avez-vous adaptée et optimisée pour le
           **référencement web** ? Vous n'avez pas d'augmentation signification
