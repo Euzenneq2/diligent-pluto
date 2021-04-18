@@ -126,10 +126,12 @@ sections:
         template: grid_item
         title_align: left
         content: >
+          ### **Intention de recherche**
+
+
           Vous avez pour ambition de vous positionner sur le mot clé "huile
           essentielle" ? Seulement avez-vous une idée du type de résultats que
           Google souhaite proposer sur cette **requête cible** ?
-
 
 
           Un guide d'achat ? Une **fiche produit** ? Un **article de blog** ou
