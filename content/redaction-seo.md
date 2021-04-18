@@ -381,8 +381,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Contenu SEO
-        title_align: left
+      - title_align: left
         content: >
           **Balise TITLE**, méta description, sous-titres, réécriture d'URL, le
           **nombre de mots** dans votre texte, balise ALT, etc. Autant de
