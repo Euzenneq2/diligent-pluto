@@ -309,17 +309,14 @@ sections:
     grid_items:
       - title: Méthodes de rédaction
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Un bon rédacteur ou rédactrice web, c’est un bon journaliste web. Et
+          par conséquent, il doit pouvoir maitriser toutes les règles de
+          rédaction (AIDA, économie de l’attention, pyramide inversée, etc.).
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Vous vous rendrez compte de l’importance du copywriting dans la
+          conversion client !
         content_align: left
         actions: []
         actions_align: left
