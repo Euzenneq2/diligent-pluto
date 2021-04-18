@@ -597,7 +597,10 @@ sections:
   - type: grid_section
     template: grid_section
     title: Mes collaborateurs
-    subtitle: "Il est important d'être entouré d'expert pour répondre le mieux possible au besoin du client. évidement, je ne peux pas disposé de toutes les connaissances sur tout l'ensemble\_ des tâchesimportant de faire adhérer notre\_entourage professionnel\_à nos projets"
+    subtitle: >-
+      Il est important pour moi d'être entouré d'expert pour répondre du mieux
+      possible aux besoins de mes clients. Je me spécialise sur le SEO et ne
+      prêtent pas disposé de toutes les connaissances sur le web
     actions:
       - type: action
         template: action
