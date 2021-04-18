@@ -334,8 +334,10 @@ sections:
         content: >
           Vous a t-ou déjà parlé de **content marketing** ? Cette **stratégie
           éditoriale** vous permettra d'optimiser la distribution de vos
-          contenus, pour qu'il s'adresse efficacement à votre persona cible. Le
-          **marketing de contenu** vous aidera d'atteindre rapidement vos
+          contenus, pour qu'il s'adresse efficacement à votre persona cible.
+
+
+          Le **marketing de contenu** vous aidera d'atteindre rapidement vos
           objectifs et améliora votre **notoriété** sur le web.
         content_align: left
         actions: []
