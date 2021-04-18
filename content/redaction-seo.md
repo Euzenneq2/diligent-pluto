@@ -161,6 +161,9 @@ sections:
         template: grid_item
         title_align: left
         content: >
+          ### Longue traine
+
+
           Saviez vous que pour la majorité des sites internet seulement 20% de
           leurs **trafic organique** provient de mots clés génériques (exemple :
           garage Caen).
