@@ -314,6 +314,8 @@ sections:
           les **techniques de rédaction** telle que : la méthode AIDA, la
           pyramide inversée, ou l'écriture persuasive.
 
+
+
           Celle-ci ont pour objectif de **promouvoir** un produit, une personne,
           une entreprise ou une idée. Le **copywriting** est très important pour
           transformer vos visiteurs en prospects et futurs clients.
