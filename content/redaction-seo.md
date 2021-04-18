@@ -330,13 +330,11 @@ sections:
       - title: Stratégie de contenu
         title_align: left
         content: >
-          Le marketing de contenu, ça vous parle ? Si vous voulez être connu sur
-          le web, c’est le genre de stratégie éditoriale qu’il vous faut.
-
-
-          En effet, le content marketing va optimiser la diffusion de vos
-          textes, pour s’adresser efficacement à votre cible et atteindre les
-          objectifs fixés. Prêt pour l’aventure ?
+          Vous a t-ou déjà parlé de content marketing ? Cette stratégie
+          éditoriale vous permettra d'optimiser la distribution de vos contenus,
+          pour qu'il s'adresse efficacement à votre persona cible. Le marketing
+          de contenu vous aidera d'atteindre rapidement vos objectifs et
+          améliora votre notoriété sur le web.
         content_align: left
         actions: []
         actions_align: left
