@@ -369,7 +369,7 @@ sections:
           - label: Découvrir
             url: /netlinking
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: left
             new_window: false
