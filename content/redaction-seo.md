@@ -11,7 +11,7 @@ sections:
       **contenus de qualité**. C’est pourquoi, je vous propose sur cette page
       l’ensemble des éléments détaillé.
     actions: []
-    image_alt: rédactrice SEO
+    image_alt: rédactrice web SEO
     media_position: right
     media_width: fifty
     align: left
