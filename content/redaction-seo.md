@@ -73,7 +73,7 @@ sections:
       vos pages web, produits, ou article seront visibles dans les premières
       pages des **résultats du moteur de recherche** (SERP).
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: rédaction SEO Friendly
     media_position: bottom
     media_width: fifty
     align: left
