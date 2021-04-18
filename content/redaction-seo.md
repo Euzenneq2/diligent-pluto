@@ -409,7 +409,7 @@ sections:
     type: grid_section
     title: Mes compétences complémentaire à la rédaction SEO
   - actions: []
-    image_alt: 'Compétence '
+    image_alt: Compétence redacteur web
     media_position: top
     media_width: fifty
     align: left
