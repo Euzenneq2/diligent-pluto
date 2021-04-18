@@ -365,7 +365,16 @@ sections:
           l'audience de votre site internet, développons le nombre de vos
           **backlinks** (liens internes et externes).
         content_align: center
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: center
         actions_width: auto
         image_alt: Netlinking
