@@ -359,8 +359,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Stratégie de contenu
-        title_align: left
+      - title_align: left
         content: >
           Vous a t-ou déjà parlé de **content marketing** ? Cette **stratégie
           éditoriale** vous permettra d'optimiser la distribution de vos
