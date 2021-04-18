@@ -368,7 +368,7 @@ sections:
         actions:
           - label: Découvrir
             url: /netlinking
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
