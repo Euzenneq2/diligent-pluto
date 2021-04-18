@@ -86,13 +86,13 @@ sections:
 
 
           La création de **backlinks** a pour but d'augmenter la popularité d'un
-          site web, car si Google détecte que le site est cité et pointé à
-          plusieurs reprises alors il le considéra comme un site référent sur le
-          sujet qu'il traite. Cela peut **favoriser son positionnement dans les
+          site web. Si Google détecte que le site est cité et pointé à plusieurs
+          reprises, alors il le considéra comme un site référent sur le sujet
+          qu'il traite. Cela peut **favoriser son positionnement dans les
           résultats de recherche**, si le site dont provienne les liens sont de
           qualité. C'est une technique très connue et souvent utilisée dans lors
           d'une stratégie de **netlinking**, car moins onéreuse que le
-          déploiement d'une campagne Google AdWords (SEA).
+          déploiement de campagnes Google AdWords (SEA).
         content_align: left
         actions: []
         actions_align: left
