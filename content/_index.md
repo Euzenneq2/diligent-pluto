@@ -417,7 +417,7 @@ sections:
           interne afin d'écrire pour le web.
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: En savoir plus
             url: '#'
             style: link
             has_icon: false
