@@ -82,7 +82,7 @@ sections:
         template: grid_item
         title_align: left
         content: >
-          ### Recherche des mots clés
+          ### Backlinks
 
 
           Avant de débuter mon travail de **rédaction SEO**, je m'assure que les
