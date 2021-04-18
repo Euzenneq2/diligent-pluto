@@ -308,7 +308,6 @@ sections:
   - actions: []
     grid_items:
       - title: Méthodes de rédaction
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
