@@ -455,7 +455,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: Mes compétences complémentaire à la rédaction SEO
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
