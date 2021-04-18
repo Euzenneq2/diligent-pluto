@@ -305,8 +305,7 @@ sections:
 
 
       et par conséquent le nombre de visiteurs sur votre site web...
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
