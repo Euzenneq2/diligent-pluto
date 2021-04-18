@@ -308,15 +308,7 @@ sections:
           contenu de qualité est mon quotidien en tant que rédacteur web
           freelance.
         content_align: center
-        actions:
-          - type: action
-            template: action
-            label: En savoir plus
-            url: /style-guide
-            style: link
-            has_icon: false
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: center
         image: /images/rédaction-web.svg
         image_alt: Rédaction web
