@@ -342,7 +342,16 @@ sections:
           Pour un référencement de qualité. L'optimisation des **contenus SEO**
           : maillage interne et contenu éditorial, c'est primordial.
         content_align: center
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: center
         image: /images/cocon-sémantique.svg
         image_alt: Cocon sémantique
