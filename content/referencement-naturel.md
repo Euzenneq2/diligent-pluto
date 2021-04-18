@@ -219,30 +219,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title_align: left
-        content: >
-          ### Réécriture de texte SEO
-
-
-          Vous avez pris les devants en réalisant et publiant vos textes et
-          c'est une bonne chose ! L'avez-vous adaptée et optimisée pour le
-          **référencement web** ? Vous n'avez pas d'augmentation signification
-          sur votre **acquisition de trafic** ?
-
-
-          Pas d'inquiétude, après avoir réalisé un **audit SEO**, je pourrai
-          réaliser un plan d'action pour réécrire et structurer efficacement
-          votre **contenu rédactionnel**.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
