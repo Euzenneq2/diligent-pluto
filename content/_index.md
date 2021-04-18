@@ -370,16 +370,7 @@ sections:
           rendre **autonome** en rédaction SEO ! Vous aurez les compétences en
           interne afin d'écrire pour le web.
         content_align: center
-        actions:
-          - label: En savoir plus
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         actions_width: auto
         image_alt: Formation web
