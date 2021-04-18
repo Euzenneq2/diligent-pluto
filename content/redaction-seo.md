@@ -307,7 +307,7 @@ sections:
       et par conséquent le nombre de visiteurs sur votre site web...
   - actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Méthodes de rédaction
         subtitle: lorem-ipsum
         title_align: left
         content: >-
