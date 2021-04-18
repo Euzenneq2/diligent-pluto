@@ -48,31 +48,18 @@ sections:
     has_border: false
     background_color: primary
   - content: >
-      ## Qu'est ce que la rédaction SEO Friendly ?
+      ## Qu'est ce que le référencement naturel ?
 
 
-
-      Tout d’abord, vous devez comprendre que le **référencement naturel** est
-      composé de **3 grandes parties** :
-
-
-      Premièrement, vous devez vous assurer de la bonne **architecture de votre
-      site** internet. En commençant par **optimiser vos images**, **minifier et
-      compiler les fichiers** CSS et JS et vous vérifier la bonne
-      **structuration de vos pages web**.
-
-      La seconde partie correspond à la rédaction, vous devez travailler votre
-      **stratégie éditoriale** afin de créer du contenu qualifié.
-
-      Et la dernière est lié **backlink** qui correspond à créer des liens de
-      qualité et de les faire pointer vers votre site internet.
-
-
-      C’est technique auront pour but de répondre aux exigences de
-      l’**algorithme de Google**. Si les tâches sont effectuées correctement
-      alors vous serez considéré comme référent dans votre domaine d’activité et
-      vos pages web, produits, ou article seront visibles dans les premières
-      pages des **résultats du moteur de recherche** (SERP).
+      Essentiel si vous souhaitez utiliser le canal web pour votre activité, le
+      référencement naturel appelé aussi SEO se compose en 3 parties autour de
+      votre site web. Une partie technique (par exemple, la vitesse de
+      chargement ou la sécurité de votre site), une partie sémantique (la
+      stratégie de contenu de votre site) et la partie notoriété (nombre de
+      backlink pointant vers votre site internet). Plus vous serez rigoureux et
+      vous respecterez ces trois axes majeurs du référencement, plus vous aurez
+      de chance que Google vous place sur les premiers résultats de recherche
+      Google.
     actions: []
     image_alt: rédaction SEO Friendly
     media_position: bottom
