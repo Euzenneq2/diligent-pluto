@@ -338,10 +338,12 @@ sections:
     grid_items:
       - title_align: left
         content: >
+          ### **Méthodes de rédaction**
+
+
           Pour être une bonne **rédactrice web**, je me dois de maitriser toutes
           les **techniques de rédaction** telle que : la méthode AIDA, la
           pyramide inversée, ou l'écriture persuasive.
-
 
 
           Celle-ci ont pour objectif de **promouvoir** un produit, une personne,
