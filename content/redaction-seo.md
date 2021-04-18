@@ -188,6 +188,9 @@ sections:
         image_has_padding: true
       - title_align: left
         content: >
+          ### Structure en silo thématique
+
+
           Pour faire la différence sur les moteurs de recherche avec vos
           **rédactions de contenu SEO**, il est important de connaître les
           **techniques de référencement** lié au **maillage interne**.
