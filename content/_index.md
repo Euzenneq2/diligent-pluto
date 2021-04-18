@@ -291,7 +291,16 @@ sections:
           forts** en créant du **contenu orienté** vers votre public-cible. Une
           stratégie journalistique de pyramide inversée peut être utilisée.
         content_align: center
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: center
         image: /images/stratégie-contenu.svg
         image_alt: Stratégie de contenu
