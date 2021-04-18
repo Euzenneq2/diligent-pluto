@@ -418,7 +418,7 @@ sections:
         content_align: center
         actions:
           - label: En savoir plus
-            url: '#'
+            url: /formation
             style: secondary
             has_icon: false
             icon: arrow-left
