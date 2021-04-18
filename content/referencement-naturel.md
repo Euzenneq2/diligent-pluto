@@ -131,14 +131,18 @@ sections:
           ### Position zéro
 
 
-          Vous avez toujours rêvé de vous classer dans les premières places ? Je
-          vous suggère d'augmenter encore la visibilité de votre site, avec des
-          références locales et nationales.
+          Vous avez pour ambition de vous **placer dans les premiers résultats
+          de recherche** ? Je vous propose de booster le positionnement de votre
+          site, avec des références nationales et locales.
 
-          Nous essaierons de positionner votre site avant la première position :
-          la position zéro, également appelée featured snippet. Vous voulez
-          connaître ma technique ? Alors entrez et je vous ferai une visite
-          guidée !
+
+
+          Nous essaierons aussi d'atteindre la **position zéro** sur des
+          requêtes précises. Qu'est-ce que c'est ? La position zéro est **le
+          résultat placé devant le premier résultat de recherche** sur Google.
+          Elle se nomme aussi featured snippet ou extrait optimise et se
+          matérialise par un bloc contenant les éléments d'une page web
+          répondant à une question posée.
         content_align: left
         actions: []
         actions_align: left
