@@ -159,7 +159,6 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Longue traine
         title_align: left
         content: >
           Saviez vous que pour la majorité des sites internet seulement 20% de
