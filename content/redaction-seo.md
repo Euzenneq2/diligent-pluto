@@ -336,8 +336,7 @@ sections:
     image: images/Competence-mary-marketing.png
   - actions: []
     grid_items:
-      - title: Méthodes de rédaction
-        title_align: left
+      - title_align: left
         content: >
           Pour être une bonne **rédactrice web**, je me dois de maitriser toutes
           les **techniques de rédaction** telle que : la méthode AIDA, la
