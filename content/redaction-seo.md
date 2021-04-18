@@ -348,7 +348,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Contenu SEO
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Comprendre l’algorithme de Google, c’est comprendre les critères
