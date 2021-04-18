@@ -124,7 +124,6 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Intention de recherche
         title_align: left
         content: >
           Vous avez pour ambition de vous positionner sur le mot clé "huile
