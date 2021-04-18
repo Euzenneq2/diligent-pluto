@@ -308,8 +308,7 @@ sections:
 
 
       et par conséquent le nombre de visiteurs sur votre site web...
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
