@@ -46,8 +46,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - title: Qu'est ce que la rédaction SEO Friendly ?
-    content: >
+  - content: >
       ## Qu'est ce que la rédaction SEO Friendly ?
 
 
