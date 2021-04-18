@@ -310,13 +310,13 @@ sections:
       - title: Méthodes de rédaction
         title_align: left
         content: >
-          Un bon rédacteur ou rédactrice web, c’est un bon journaliste web. Et
-          par conséquent, il doit pouvoir maitriser toutes les règles de
-          rédaction (AIDA, économie de l’attention, pyramide inversée, etc.).
+          Pour être une bonne **rédactrice web**, je me dois de maitriser toutes
+          les **techniques de rédaction** telle que : la méthode AIDA, la
+          pyramide inversée, ou l'écriture persuasive.
 
-
-          Vous vous rendrez compte de l’importance du copywriting dans la
-          conversion client !
+          Celle-ci ont pour objectif de **promouvoir** un produit, une personne,
+          une entreprise ou une idée. Le **copywriting** est très important pour
+          transformer vos visiteurs en prospects et futurs clients.
         content_align: left
         actions: []
         actions_align: left
