@@ -404,8 +404,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Référencement naturel
-        title_align: left
+      - title_align: left
         content: >
           En tant que rédactrice web je connais toutes les bonnes pratiques pour
           l'**optimisation SEO** pour votre site internet. L'utilisation des
