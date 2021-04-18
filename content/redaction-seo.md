@@ -87,6 +87,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    subtitle: Qu'est ce que la rédaction SEO Friendly ?
   - title: Qu'est ce que la rédaction SEO Friendly ?
     content: >
       Tout d’abord, vous devez comprendre que le **référencement naturel** est
