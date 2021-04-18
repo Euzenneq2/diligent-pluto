@@ -318,6 +318,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Découvrir
         actions_align: center
         image: /images/rédaction-web.svg
         image_alt: Rédaction web
