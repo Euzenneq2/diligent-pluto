@@ -323,6 +323,8 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: Mes compétences complémentaire à la rédaction SEO
+    content: |
+      ## Mes compétences complémentaire à la rédaction SEO&#xA;&#xA;
   - actions: []
     image_alt: Compétence rédacteur web
     media_position: top
