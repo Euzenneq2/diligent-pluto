@@ -85,24 +85,13 @@ sections:
           ### Backlinks
 
 
-          Avant de débuter mon travail de **rédaction SEO**, je m'assure que les
-          requêtes sur lesquels vous souhaitez vous placer sont intéressante.
-          Cibler un mot sans savoir s’il est pertinent ou si vos utilisateurs
-          tapent sur Google ça n'a aucun intérêt. Être positionné sur un mot clé
-          qui n'a aucun trafic non plus.
-
-
-          Le plus compliqué est de trouver les **bons mots clés** sur lesquels
-          nous pourrions intégrer les premiers **résultats de recherche**, avec
-          un **volume de trafic** conséquent. Cela demande un travail d'analyse
-          et de réflexion exigeant.
-
-
-          Je vous conseille de choisir un mot clé et celui-ci correspondra à une
-          page précise de votre site. C'est une règle primordiale avant de
-          commencer votre **rédaction de contenu optimisé**. L'objectif est
-          d'établir une base saine dans votre **stratégie de référencement
-          naturel**.
+          La création de backlinks a pour but d'augmenter la popularité d'un
+          site web, car si Google détecte que le site est cité et pointé à
+          plusieurs reprises alors il le considéra comme un site référent sur le
+          sujet qu'il traite. Cela peut favoriser son positionnement dans les
+          résultats de recherche, si le site dont provienne les liens sont de
+          qualité. C'est une technique très connue et souvent utilisée, car
+          moins onéreuse que le déploiement d'une campagne Google AdWords (SEA).
         content_align: left
         actions: []
         actions_align: left
