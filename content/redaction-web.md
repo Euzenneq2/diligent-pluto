@@ -221,15 +221,7 @@ sections:
         title_align: left
         content: "Le\_**livre blanc**\_ou l'**e-book**\_est un des outils du content marketing : l'**asset marketing**.\_Ce dernier est un support que vous pouvez proposer en téléchargement aux visiteurs de votre site internet.\n\nÇa peut être un guide,\_**offert**, qui va apporter une expertise sur un produit, une problématique ou une technique. Il est destiné à vos leads qui vont, grâce à cet outil, potentiellement devenir des prospects.\n\nMontrer à vos prospects vos\_**compétences**\_dans un domaine peut être un critère de décision d’achat. Vos prospects deviendront des clients.\n"
         content_align: left
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /redaction-web
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 4 icon
         image_position: top
