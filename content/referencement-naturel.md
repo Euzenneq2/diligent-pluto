@@ -3,13 +3,13 @@ title: Rédaction SEO
 sections:
   - title: Le référencement naturel pour accroître votre activité
     content: >
-      Le métier de **rédacteur web SEO** ne laisse aucune part au hasard.
-      Beaucoup se lance dans l’aventure avec peu de connaissance, cependant des
-      **techniques exigeantes** et un **large panel d’outils** articulent ces
-      métiers autour de la rédaction SEO. Le prix d’un **rédacteur web** est
-      justifié par ces compétences qui vous permettront d’acquérir des
-      **contenus de qualité**. C’est pourquoi, je vous propose sur cette page
-      l’ensemble des éléments détaillé.
+      **Le référencement naturel** est en fait quelque chose d'assez complexe.
+      J'ai découvert le SEO (**Search Engine Optimization**) il y a 5 ans et je
+      continue chaque semaine d'en apprendre à son sujet. Les algorithmes des
+      **moteurs de recherche** sont en évolution constante, ce qui leur donne
+      une part de mystère. Toutefois, pas d'inquiétude mes compétences en
+      **SEO** améliorons considérablement le positionnement de votre site web
+      dans les **SERP** de Google
     actions: []
     image_alt: rédactrice web SEO
     media_position: right
