@@ -279,17 +279,18 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    content: >
-      ## Vous souhaitez en savoir plus concernant mes compétences liées à la
-      rédaction SEO ?
+    content: >+
+      ## Vous souhaitez avoir davantage d'informations sur mes compétences liées
+      à la rédaction web ?
 
 
-      Vous devez-vous en douté, la rédaction web est un **ensemble de
-      compétences** qui sont complémentaire les unes aux autres. Savoir écrire
-      ne suffit pas pour être **performant** sur internet. Si vous souhaitez que
-      votre **rédacteur SEO** apporte de véritables changements bénéfiques à
-      votre site web, votre prestataire doit avoir acquis ces principes de
-      bases.
+      Étant rédacteur web formé au référencement naturel, ma mission première
+      est de rédiger des articles ayant de l'intérêt pour mes lecteurs et le
+      référencer pour qu'il soit lisible par les moteurs de recherche.
+      Cependant, j'ai décidé de ne pas m'arrêter la en élargissant mon champ mon
+      expertise. L'objectif est de proposer à ma clientèle un large éventail de
+      solution pour augmenter leurs visibilités sur internet.
+
     image: images/Competence-mary-marketing.png
   - actions: []
     grid_items:
