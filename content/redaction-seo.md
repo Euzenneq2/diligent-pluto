@@ -408,8 +408,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Mes compétences complémentaire à la rédaction SEO
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
