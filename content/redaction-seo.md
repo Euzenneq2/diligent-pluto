@@ -47,7 +47,6 @@ sections:
     has_border: false
     background_color: primary
   - title: Qu'est ce que la rédaction SEO Friendly ?
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
