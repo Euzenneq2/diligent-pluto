@@ -372,18 +372,17 @@ sections:
         type: grid_item
       - title: Référencement naturel
         title_align: left
-        content: >+
+        content: >
           En tant que rédactrice web je connais toutes les bonnes pratiques pour
-          l'optimisation SEO pour votre site internet. L'utilisation des
-          meilleurs outils SEO pour votre optimisation on-page, la compréhension
-          des pénalités SEO et la restructuration de vos liens (maillage
-          interne, backlink, etc.)
-
+          l'**optimisation SEO** pour votre site internet. L'utilisation des
+          meilleurs outils SEO pour votre **optimisation on-page**, la
+          compréhension des **pénalités SEO** et la restructuration de vos liens
+          (maillage interne, backlink, etc.)
 
 
           Cependant je connais aussi très bien les erreurs communes comme le
-          duplicate content, page trop profonde ou temps de chargement excessif.
-
+          **duplicate content**, page trop profonde ou temps de chargement
+          excessif.
         content_align: left
         actions: []
         actions_align: left
