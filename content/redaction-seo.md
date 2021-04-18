@@ -92,7 +92,6 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Recherche des mots clés
         title_align: left
         content: >+
           Avant de débuter mon travail de **rédaction SEO**, je m'assure que les
