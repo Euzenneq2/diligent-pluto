@@ -348,13 +348,11 @@ sections:
       - title: Contenu SEO
         title_align: left
         content: >
-          Comprendre l’algorithme de Google, c’est comprendre les critères
-          auxquels faire attention pour une visibilité optimisée de votre site
-          internet sur la première page.
-
-
-          Balises meta (balise TITLE et méta description), sous-titres, URL
-          rewriting, balise ALT, nombre de mots… Tout entre en ligne de compte !
+          **Balise TITLE**, méta description, sous-titres, réécriture d'URL, le
+          **nombre de mots** dans votre texte, balise ALT, etc. Autant de
+          critères à comprendre et à travailler avec rigueur, car il influence
+          l'**algorithme de Google**. Ils auront un impact sur le
+          **positionnement** de vos pages web sur les moteurs de recherche.
         content_align: left
         actions: []
         actions_align: left
