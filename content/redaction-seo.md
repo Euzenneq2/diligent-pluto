@@ -186,8 +186,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Structure en silo thématique
-        title_align: left
+      - title_align: left
         content: >
           Pour faire la différence sur les moteurs de recherche avec vos
           **rédactions de contenu SEO**, il est important de connaître les
