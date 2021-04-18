@@ -339,6 +339,7 @@ sections:
     type: hero_section
     content: |
       ## Mes compétences complémentaire à la rédaction SEO&#xA;&#xA;
+    image: images/Competence-mary-marketing.png
   - actions: []
     grid_items:
       - title: Méthodes de rédaction
