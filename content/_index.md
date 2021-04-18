@@ -597,7 +597,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Mes collaborateurs
-    subtitle: "Car il est important de faire adhérer notre\_entourage professionnel\_à nos projets"
+    subtitle: "Il est important d'être entouré pour mener à bien un projet web. évidement\_ oui je ne peux pas être experte sur tout l'ensemble\_ l'ensemb important de faire adhérer notre\_entourage professionnel\_à nos projets"
     actions:
       - type: action
         template: action
