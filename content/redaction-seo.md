@@ -149,7 +149,7 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: "Pour comprendre le sens et l’intérêt de vos contenus, les moteurs de recherche ont besoin que votre texte dispose d’un **champ lexical** enrichi.\n\nC’est pourquoi il est important d’**enrichir la sémantique** autour de votre mot clé cible, dans l’objectif d’indiquer avec précision au crawler Google le thème de votre contenu.\n\nPar exemple dans le cas où votre texte parle de maquillage, le **champ sémantique** de votre article comprendra alors des mots tels que «\_fard à paupières\_», «\_pinceaux\_»,\_«\_miroir\_», etc.\n"
+        content: "### Champ sémantique\n\nPour comprendre le sens et l’intérêt de vos contenus, les moteurs de recherche ont besoin que votre texte dispose d’un **champ lexical** enrichi.\n\nC’est pourquoi il est important d’**enrichir la sémantique** autour de votre mot clé cible, dans l’objectif d’indiquer avec précision au crawler Google le thème de votre contenu.\n\nPar exemple dans le cas où votre texte parle de maquillage, le **champ sémantique** de votre article comprendra alors des mots tels que «\_fard à paupières\_», «\_pinceaux\_»,\_«\_miroir\_», etc.\n"
         content_align: left
         actions: []
         actions_align: left
