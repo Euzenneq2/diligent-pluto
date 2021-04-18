@@ -344,7 +344,7 @@ sections:
         content_align: center
         actions:
           - label: Découvrir
-            url: '#'
+            url: /cocom-semantique
             style: link
             has_icon: false
             icon: arrow-left
