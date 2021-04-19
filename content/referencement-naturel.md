@@ -230,7 +230,7 @@ sections:
         image_has_padding: false
         type: grid_item
     grid_cols: two
-    grid_gap_vert: medium
+    grid_gap_vert: large
     grid_gap_horiz: medium
     enable_cards: true
     align: center
