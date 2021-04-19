@@ -231,7 +231,7 @@ sections:
         type: grid_item
     grid_cols: two
     grid_gap_vert: large
-    grid_gap_horiz: medium
+    grid_gap_horiz: large
     enable_cards: true
     align: center
     background_color: none
