@@ -69,7 +69,7 @@ Cette situation a entraîné une croissance du nombre de personnes qui regardent
 
 L'application TikTok a bondi en 2020, et cette évolution ascendante va se poursuive en 2021. Les visionnages des directs ont augmenté de 50 % sur Facebook, tandis que sur Instagram ils ont grimpé de 70 %.
 
-Les lives de personnes connus ou d’influenceur « face cam » permet de fidéliser, créer une présence digitale, de la proximité et de la confiance avec sa communauté. C’est une tendance que les utilisateurs apprécient sur les réseaux sociaux.
+Les lives de personnes connus ou d’influenceur « face cam » permet de fidéliser, créer une présence digitale, de la proximité et de la confiance avec sa communauté. Ce contenu efficace est une tendance que les utilisateurs apprécient sur les réseaux sociaux.
 
 Cette stratégie social media ou stratégie de communication, permet entre autre de développer la conversion de nouveaux clients, sa notoriété ou encore générer du contenu digital.
 
@@ -77,7 +77,7 @@ Cette stratégie social media ou stratégie de communication, permet entre autre
 
 À l’heure où les libertés sont réduites, les utilisateurs ont besoin d'authenticité de la part des marques.
 
-Les consommateurs ont du mal à se laisser tenter par l’achat d’un produit d’une marque qu’ils ne trouvent pas fiable. Cela reste logique, quelle idée d’investir dans un produit qui ne nous convient pas ? Par conséquent, le lien est essentiel pour les marques qui veulent rester de proche des valeurs des consommateurs en 2021.
+Les consommateurs ont du mal à se laisser tenter par l’achat d’un produit d’une marque qu’ils ne trouvent pas fiable. Cela reste logique, quelle idée d’investir dans un produit qui ne nous convient pas ? Par conséquent, le lien est essentiel pour les marques qui veulent rester proche des valeurs des consommateurs en 2021.
 
 Il est nécessaire pour les marques d’être en accord avec leurs valeurs et leur but. Elles devront de plus en plus trouver des moyens de créer ou faire perdurer le lien avec ces consommateurs ou toucher de nouvelles cibles.
 
@@ -125,7 +125,7 @@ Accenture, une entreprise internationale de conseil et de technologies a publié
 
 En effet, 41 % des consommateurs ne souhaitent plus acheter dans à des marques qui ne renvoient pas leurs idéaux sur l’identité et la diversité. De plus, 29 % souhaiteront changer totalement de marque si celle-ci ne représente pas assez de diversité.
 
-En 2021, il sera compliqué de se présenter sans prendre en compte cette demande d’inclusivité de la part des consommateurs. A contrario, les entreprises qui afficheront publiquement leur engagement dans des causes inclusives seront remerciés et installeront des liens authentique et pertinents avec leurs consommateurs et prospects.
+En 2021, il sera compliqué de se présenter sans prendre en compte cette demande d’inclusivité de la part des consommateurs. A contrario, les entreprises qui afficheront publiquement leur engagement dans des causes inclusives seront remerciés et installeront des liens authentique et pertinents avec leurs consommateurs et clients potentiels.
 
 ## Tendance n°6 : La commande vocale et visuelle en progression
 
@@ -133,7 +133,7 @@ Les consommateurs sont de plus en plus nombreux à effectuer des recherches via 
 
 La cause ? Le fait de rester à la maison et de ne plus pouvoir converser physiquement, ou peut-être parce que ces technologies sont plus accessibles (environ 1,7 million d'enceintes connectées sont entrées dans les foyers français).
 
-En 2021, en plus des outils à commandes vocales, il existe des moyens permettant de faire des recherches avec des images : la recherche visuelle. Par exemple Google Lens, un programme de reconnaissance d'image développé par Google permettra aux utilisateurs de copier le texte d’une image par exemple grâce à la reconnaissance optique de caractères (OCR).
+En 2021, en plus des outils à commandes vocales, il existe des moyens permettant de faire des recherches avec des images : la recherche visuelle. Par exemple Google Lens, un programme de reconnaissance d'image développé par Google permettra aux utilisateurs de copier le texte d’une image par exemple grâce à la reconnaissance optique de caractères (OCR). De plus, l'application Google Lens est devenu accessible sur ordianteur en avril 2021.
 
 Pour les grands marketeurs, il sera dont important de mettre à jour le texte Alt des images avec des mots-clés et les sitmaps. Durant l’année, les éléments visuels prendront plus d’importance dans le système du référencement naturel et deviendront des contenus à forte valeur ajoutée.
 
