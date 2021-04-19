@@ -79,7 +79,7 @@ Les consommateurs ont du mal à se laisser tenter par l’achat d’un produit d
 
 Il est nécessaire pour les marques d’être en accord avec leurs valeurs et leur but. Elles devront de plus en plus trouver des moyens de créer ou faire perdurer le lien avec ces consommateurs ou toucher de nouvelles cibles.
 
-Ce concept peut être un levier marketing pour votre marque. En effet, une fois identifié par les consommateurs comme une marque fiable vous pourrez améliorer votre référencement SEO et par la suite amener votre site internet en bonne position dans les résultats des moteurs de recherche.
+Ce concept peut être un levier marketing pour votre marque. En effet, une fois identifié par les consommateurs comme une marque fiable vous pourrez améliorer votre référencement seo et par la suite amener votre site internet en bonne position dans les résultats des moteurs de recherche.
 
 Cette tendance s’accentue de plus en plus. C’est le moment de finalisé sa stratégie digitale et la moderniser avec cette tendance de transparence.
 
@@ -99,7 +99,7 @@ Le UGC (pour User Generated Content en anglais) remplit toutes les conditions po
 
 *   Et toucher les consommateurs là où ils sont c’est-à-dire : à la maison.
 
-Cette bonne stratégie perdurera en 2021, car c’est un moyen efficace pour les marques de créer des relations avec leurs clients et de la fidélisation sur le long terme.
+Cette stratégie marketing perdurera en 2021, car c’est un moyen efficace pour les marques de créer des relations avec leurs clients et de la fidélisation sur le long terme.
 
 ## Se trouver vers la durabilité
 
@@ -107,11 +107,11 @@ La majorité des consommateurs estimes que les entreprises ont l'obligation joue
 
 Ce n’est pas surprenant. Au cours des années 2019 et 2020, nous avons remarqué que les marques se sont orientées vers un lendemain plus durable, concernant les matériaux qu’elles utilisent, les emballages, leurs systèmes ou autre.
 
-En vue de la demande grandissante des clients à consommer de plus en plus écoresponsable et respectueux, il est indispensable en 2021 et dans les années qui suivent d’affirmer ou réaffirmer son soutien à la cause environnementale. Cela peut largement jouer sur la e-réputation d'une marque.
+En vue de la demande grandissante des clients à consommer de plus en plus écoresponsable et respectueux, il est pertinent en 2021 et dans les années qui suivent d’affirmer ou réaffirmer son soutien à la cause environnementale grâce à une bonne stratégie. Cela peut largement jouer sur la e-réputation d'une marque.
 
 Un formidable exemple de marque qui a réussi à l'instaurer : l’organisation Ocean Cleanup. Fin octobre 2020, l'organisation a présenté sa première fabrication réalisée exclusivement avec du plastique collecté dans la grande zone d'ordures du Grand Pacifique : des lunettes de soleil.
 
-Pour partager l’annonce, ils ont opté pour TINT (la meilleure plateforme américaine pour partager tout le UGC d’une entreprise). Ils ont montré comment Ocean Cleanup persistera à utiliser des objets recyclés repêché dans l’océan pour fabriquer des produits esthétique et durables. De plus, ils ont précisé que les revenus engendrés par les produits seront réintroduits dans la lutte de nettoyage des océans.
+Pour partager l’annonce, ils ont opté pour TINT (la meilleure plateforme américaine pour partager tout le CGU d’une entreprise). Ils ont montré comment Ocean Cleanup persistera à utiliser des objets recyclés repêché dans l’océan pour fabriquer des produits esthétique et durables. De plus, ils ont précisé que les revenus engendrés par les produits seront réintroduits dans la lutte de nettoyage des océans.
 
 Aussi, le parcours client de cette organisation est très qualitatif, car la cause défendue ici est louable et de plus en plus de soutenu de nos jours.
 
@@ -139,13 +139,11 @@ De quoi devenir de plus en plus pointilleux avec les campagnes marketing.
 
 ## Le easy-to-consume
 
-En 2020, les consommateurs se sont penchés sur du contenu easy-to-consume. Cette technique de marketing digital est le meilleur moyen pour que votre site internet génère un meilleur retour sur investissement (ROI).
+En 2020, les consommateurs se sont penchés sur du contenu easy-to-consume (facile à consommer en français). Cette technique de marketing digital est le meilleur moyen pour que votre e-commerce génère un meilleur retour sur investissement (ROI).
 
-Il existe des outils et des canaux pour mettre en place cette stratégie de contenu. Par exemple, le marketing automation avec les newsletters, un service client de qualité, l'amélioration de temps d'affichage de vos pages ou encore les podcasts qui peuvent être écouté n’importe où.
+Il existe des outils et des canaux pour mettre en place cette stratégie de contenu. Par exemple, le marketing automation avec les newsletters, un service client de qualité, l'amélioration de temps d'affichage de vos pages ou encore les podcasts qui peuvent être écouté n’importe où.Des recherches révèlent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
 
-Des recherches révèlent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
-
-Ce concept utilise des outils de l'inbound marketing.
+Ce concept utilise des outils de l'inbound marketing. Utilisez-les pour atteindre vos objectifs marketing.
 
 ## Êtes-vous prêt pour 2021 ?
 
