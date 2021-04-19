@@ -18,6 +18,7 @@ params:
         label: Rédaction web
         url: /redaction-web
         style: primary
+        no_follow: true
       - type: action
         template: action
         label: Tarifs
