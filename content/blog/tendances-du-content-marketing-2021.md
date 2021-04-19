@@ -63,7 +63,7 @@ Découvrez les tendances clés à ne pas oublier !
 
 ## Les Influenceurs et les Lives
 
-Les confinements et les obligations de rester cloitré à la maison ont engendré la suppression d’événements. Personne n’a pas pu assister à des événements en physique ni se réunir avec des amis ou de la famille.
+Les confinements et les obligations de rester cloitré à la maison ont engendré la suppression d’événements. Personne n’a pas pu assister à des événements en physique ni se réunir avec des amis ou de la famille. Ce qui a mis en avant les médias sociaux.
 
 Cette situation a entraîné une croissance du nombre de personnes qui regardent les live-streams de marque, de personnalités préférée ou d’atelier en ligne.
 
@@ -71,7 +71,7 @@ L'application TikTok a bondi en 2020, et cette évolution ascendante va se pours
 
 Les lives de personnes connus ou d’influenceur « face cam » permet de fidéliser, créer une présence digitale, de la proximité et de la confiance avec sa communauté. C’est une tendance que les utilisateurs apprécient sur les réseaux sociaux.
 
-Cette stratégie social media ou stratégie de communication, permet entre autre de développer la conversion de nouveaux clients, sa notoriété ou encore générer du contenu.
+Cette stratégie social media ou stratégie de communication, permet entre autre de développer la conversion de nouveaux clients, sa notoriété ou encore générer du contenu digital.
 
 ## La transparence des entreprises
 
@@ -81,9 +81,9 @@ Les consommateurs ont du mal à se laisser tenter par l’achat d’un produit d
 
 Il est nécessaire pour les marques d’être en accord avec leurs valeurs et leur but. Elles devront de plus en plus trouver des moyens de créer ou faire perdurer le lien avec ces consommateurs ou toucher de nouvelles cibles.
 
-Ce concept peut être un levier marketing pour votre marque. En effet, une fois identifié par les consommateurs comme une marque fiable vous pourrez améliorer votre référencement seo et par la suite amener votre site internet en bonne position dans les résultats des moteurs de recherche.
+Ce concept peut être un levier marketing pour votre marque. En effet, une fois identifié par les consommateurs comme une marque fiable vous pourrez améliorer votre référencement SEO et par la suite amener votre site internet en bonne position dans les résultats des moteurs de recherche.
 
-Cette tendance s’accentue de plus en plus. C’est le moment de finalisé sa stratégie digitale et la moderniser avec cette tendance de transparence.
+Cette tendance s’accentue de plus en plus. C’est le moment de finalisé sa stratégie digitale et de la moderniser avec cette tendance de transparence.
 
 ## Améliorer l’expérience client grâce au contenu généré par l'utilisateur
 
@@ -125,7 +125,7 @@ Accenture, une entreprise internationale de conseil et de technologies a publié
 
 En effet, 41 % des consommateurs ne souhaitent plus acheter dans à des marques qui ne renvoient pas leurs idéaux sur l’identité et la diversité. De plus, 29 % souhaiteront changer totalement de marque si celle-ci ne représente pas assez de diversité.
 
-En 2021, il sera compliqué de se présenter sans prendre en compte cette demande d’inclusivité de la part des consommateurs. A contrario, les entreprises qui afficheront publiquement leur engagement dans des causes inclusives seront remerciés et installeront des liens authentique avec leurs consommateurs et prospects.
+En 2021, il sera compliqué de se présenter sans prendre en compte cette demande d’inclusivité de la part des consommateurs. A contrario, les entreprises qui afficheront publiquement leur engagement dans des causes inclusives seront remerciés et installeront des liens authentique et pertinents avec leurs consommateurs et prospects.
 
 ## La commande vocale et visuelle en progression
 
@@ -135,15 +135,15 @@ La cause ? Le fait de rester à la maison et de ne plus pouvoir converser physiq
 
 En 2021, en plus des outils à commandes vocales, il existe des moyens permettant de faire des recherches avec des images : la recherche visuelle. Par exemple Google Lens, un programme de reconnaissance d'image développé par Google permettra aux utilisateurs de copier le texte d’une image par exemple grâce à la reconnaissance optique de caractères (OCR).
 
-Pour les grands marketeurs, il sera dont important de mettre à jour le texte Alt des images et les sitmaps. Durant l’année, les éléments visuels prendront plus d’importance dans le système du référencement naturel et deviendront des contenus a forte valeur ajoutée.
+Pour les grands marketeurs, il sera dont important de mettre à jour le texte Alt des images avec des mots-clés et les sitmaps. Durant l’année, les éléments visuels prendront plus d’importance dans le système du référencement naturel et deviendront des contenus à forte valeur ajoutée.
 
 De quoi devenir de plus en plus pointilleux avec les campagnes marketing.
 
 ## Le easy-to-consume
 
-En 2020, les consommateurs se sont penchés sur du contenu easy-to-consume (facile à consommer en français). Cette technique de marketing digital est le meilleur moyen pour que votre e-commerce génère un meilleur retour sur investissement (ROI).
+En 2020, les consommateurs se sont penchés sur du contenu easy-to-consume (facile à consommer en français). Cette technique de marketing digitale est le meilleur moyen pour que votre e-commerce génère un meilleur retour sur investissement (ROI).
 
-Il existe des outils et des canaux pour mettre en place cette stratégie de contenu. Par exemple, le marketing automation avec les newsletters, un service client de qualité, l'amélioration de temps d'affichage de vos pages ou encore les podcasts qui peuvent être écouté n’importe où.Des recherches révèlent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
+Il existe des outils et des canaux pour mettre en place cette stratégie de contenu. Par exemple, le marketing automation avec les newsletters, un livre blanc, un service client de qualité, l'amélioration de temps d'affichage de vos pages ou encore les podcasts qui peuvent être écouté n’importe où. Des recherches révèlent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
 
 Ce concept utilise des outils de l'inbound marketing. Utilisez-les pour proposer du contenu de qualité et atteindre vos objectifs marketing.
 
