@@ -127,6 +127,8 @@ En effet, 41 % des consommateurs ne souhaitent plus acheter dans à des marques 
 
 En 2021, il sera compliqué de se présenter sans prendre en compte cette demande d’inclusivité de la part des consommateurs. A contrario, les entreprises qui afficheront publiquement leur engagement dans des causes inclusives seront remerciés et installeront des liens authentique et pertinents avec leurs consommateurs et clients potentiels.
 
+Construire une stratégie autour de l'inclusion doit être implanté à votre stratégie marketing globale.  
+
 ## Tendance n°6 : La commande vocale et visuelle en progression
 
 Les consommateurs sont de plus en plus nombreux à effectuer des recherches via des accessoires à commande vocale tel qu'Alexa.
@@ -149,6 +151,6 @@ Ce concept utilise des outils de l'inbound marketing. Utilisez-les pour proposer
 
 ## Alors, prêt pour 2021 ?
 
-En 2020, les marques étaient obligées de s’adapter à la situation et trouver des moyens de se connecter avec leur clientèle et d'améliorer leur image de marque. À présent, les gens passent beaucoup plus de temps à la maison et qui plus ai en ligne. Les entreprises sont obligées de se diversifier et de créer du brand content plus humain. Une nouvelle ligne éditoriale doit se profiler.
+En 2020, les marques étaient obligées de s’adapter à la situation et trouver des moyens de se connecter avec leurs prospects et d'améliorer leur image de marque. À présent, les gens passent beaucoup plus de temps à la maison et qui plus ai en ligne. Les entreprises sont obligées de se diversifier et de créer du brand content plus humain. Une nouvelle ligne éditoriale doit se profiler.
 
 Ces tendances vont se poursuivre au cours des prochains mois. Les lives seront encrés dans les habitudes des influenceurs, les marques afficheront clairement leur message écoresponsable et le contenu généré par les utilisateurs s’implantera dans une nouvelle stratégie webmarketing.
