@@ -109,7 +109,7 @@ La majorité des consommateurs estimes que les entreprises ont l'obligation joue
 
 Ce n’est pas surprenant. Au cours des années 2019 et 2020, nous avons remarqué que les marques se sont orientées vers un lendemain plus durable, concernant les matériaux qu’elles utilisent, les emballages, leurs systèmes ou autre.
 
-En vue de la demande grandissante des clients à consommer de plus en plus écoresponsable et respectueux, il est pertinent en 2021 et dans les années qui suivent d’affirmer ou réaffirmer son soutien à la cause environnementale grâce à une bonne stratégie. Cela peut largement jouer sur la e-réputation d'une marque.
+En vue de la demande grandissante des clients à consommer de plus en plus écoresponsable et respectueux, il est pertinent en 2021 et dans les années qui suivent d’affirmer ou réaffirmer son soutien à la cause environnementale grâce à une bonne stratégie. Cela peut largement jouer sur la e-réputation de votre marque et permettre de développer voter notoriété.
 
 Un formidable exemple de marque qui a réussi à l'instaurer : l’organisation Ocean Cleanup. Fin octobre 2020, l'organisation a présenté sa première fabrication réalisée exclusivement avec du plastique collecté dans la grande zone d'ordures du Grand Pacifique : des lunettes de soleil.
 
@@ -135,9 +135,9 @@ Les consommateurs sont de plus en plus nombreux à effectuer des recherches via 
 
 La cause ? Le fait de rester à la maison et de ne plus pouvoir converser physiquement, ou peut-être parce que ces technologies sont plus accessibles (environ 1,7 million d'enceintes connectées sont entrées dans les foyers français).
 
-En 2021, en plus des outils à commandes vocales, il existe des moyens permettant de faire des recherches avec des images : la recherche visuelle. Par exemple Google Lens, un programme de reconnaissance d'image développé par Google permettra aux utilisateurs de copier le texte d’une image par exemple grâce à la reconnaissance optique de caractères (OCR). De plus, l'application Google Lens est devenu accessible sur ordianteur en avril 2021.
+En 2021, en plus des outils à commandes vocales, il existe des moyens permettant de faire des recherches avec des images : la recherche visuelle. Par exemple Google Lens, un programme de reconnaissance d'image développé par Google permettra aux utilisateurs de copier le texte d’une image par exemple grâce à la reconnaissance optique de caractères (OCR). De plus, l'application Google Lens est devenu accessible sur ordinateur en avril 2021.
 
-Pour les grands marketeurs, il sera dont important de mettre à jour le texte Alt des images avec des mots-clés et les sitmaps. Durant l’année, les éléments visuels prendront plus d’importance dans le système du référencement naturel et deviendront des contenus à forte valeur ajoutée.
+Pour les grands marketeurs, il sera dont important de mettre à jour le texte Alt des images avec des mots-clés et les sitmaps. Durant l’année, les éléments visuels prendront plus d’importance dans le système du référencement naturel et deviendront des contenus à forte valeur ajoutée. Adaptez-vous pour toucher vos cibles.
 
 De quoi devenir de plus en plus pointilleux avec les campagnes marketing.
 
@@ -145,7 +145,7 @@ De quoi devenir de plus en plus pointilleux avec les campagnes marketing.
 
 En 2020, les consommateurs se sont penchés sur du contenu easy-to-consume (facile à consommer en français). Cette technique de marketing digitale est le meilleur moyen pour que votre e-commerce génère un meilleur retour sur investissement (ROI).
 
-Il existe des outils et des canaux pour mettre en place cette stratégie de contenu. Par exemple, le marketing automation avec les newsletters, un livre blanc, un service client de qualité, l'amélioration de temps d'affichage de vos pages ou encore les podcasts qui peuvent être écouté n’importe où. Des recherches révèlent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
+Il existe des outils et des canaux pour mettre en place cette stratégie de contenu. Par exemple, le marketing automation avec les newsletters, un livre blanc, un service client de qualité, l'amélioration de temps d'affichage de vos pages web ou encore les podcasts qui peuvent être écouté n’importe où. Des recherches révèlent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
 
 Ce concept utilise des outils de l'inbound marketing. Utilisez-les pour proposer du contenu de qualité et atteindre vos objectifs marketing.
 
