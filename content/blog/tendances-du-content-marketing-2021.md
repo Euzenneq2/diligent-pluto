@@ -53,7 +53,7 @@ Concernant le content marketing les tendances qui devaient émergées sont rest�
 
 En effet, les ventes en ligne des e-commerces ont augmenté. Les marques ont dû changer la façon de toucher et de se connecter avec ces consommateurs. Les populations se sont adaptées à la situation en passant plus de temps sur le web.
 
-Aussi, les appels en visioconférence sont devenus la norme en termes de communication via un média, que ce soit au niveau personnel ou professionnel.
+Aussi, les appels en visioconférence sont devenus la norme en termes de communication via un média, que ce soit au niveau personnel ou en B2b.
 
 Vous avez besoin de générer du trafic ?  Créer du contenu ? Mettre en place des stratégies ?
 
@@ -61,9 +61,9 @@ Voyons quelles sont les tendances marketing qui vont s’imposer cette année.
 
 Découvrez les tendances clés à ne pas oublier !
 
-## Les Influenceurs et les Lives
+## Tendance n°1 : Les Influenceurs et les Lives
 
-Les confinements et les obligations de rester cloitré à la maison ont engendré la suppression d’événements. Personne n’a pas pu assister à des événements en physique ni se réunir avec des amis ou de la famille. Ce qui a mis en avant les médias sociaux.
+Les confinements et les obligations de rester cloitré à la maison ont engendré la suppression d’événements. Personne n’a pas pu assister à des événements en physique ni se réunir avec des amis ou de la famille. Ce qui a mis en avant les médias sociaux et le marketing numérique.
 
 Cette situation a entraîné une croissance du nombre de personnes qui regardent les live-streams de marque, de personnalités préférée ou d’atelier en ligne.
 
@@ -73,7 +73,7 @@ Les lives de personnes connus ou d’influenceur « face cam » permet de fidél
 
 Cette stratégie social media ou stratégie de communication, permet entre autre de développer la conversion de nouveaux clients, sa notoriété ou encore générer du contenu digital.
 
-## La transparence des entreprises
+## Tendance n°2 : La transparence des entreprises
 
 À l’heure où les libertés sont réduites, les utilisateurs ont besoin d'authenticité de la part des marques.
 
@@ -85,7 +85,7 @@ Ce concept peut être un levier marketing pour votre marque. En effet, une fois 
 
 Cette tendance s’accentue de plus en plus. C’est le moment de finalisé sa stratégie digitale et de la moderniser avec cette tendance de transparence.
 
-## Améliorer l’expérience client grâce au contenu généré par l'utilisateur
+## Tendance n°3 : Améliorer l’expérience client grâce au contenu généré par l'utilisateur
 
 Il est important de mettre en avant l'expérience utilisateur dans vos stratégies web.
 
@@ -103,7 +103,7 @@ Le UGC (pour User Generated Content en anglais) remplit toutes les conditions po
 
 Cette stratégie marketing perdurera en 2021, car c’est un moyen efficace pour les marques de créer des relations avec leurs clients et de la fidélisation sur le long terme.
 
-## Se trouver vers la durabilité
+## Tendance n°4 : Se tourner vers la durabilité
 
 La majorité des consommateurs estimes que les entreprises ont l'obligation jouer un rôle positif dans l’amélioration de l’environnement.
 
@@ -117,7 +117,7 @@ Pour partager l’annonce, ils ont opté pour TINT (la meilleure plateforme amé
 
 Aussi, le parcours client de cette organisation est très qualitatif, car la cause défendue ici est louable et de plus en plus de soutenu de nos jours. Avec cela, le prospect deviendra client.
 
-## De l’inclusion !
+## Tendance n°5 : De l’inclusion !
 
 L’un des sujets les plus importants de 2020 est l’inclusivité. Notamment avec Black Lives Matter qui a permis de mettre en lumière des problèmes persistant depuis des siècles au sein des différents pays.
 
@@ -127,7 +127,7 @@ En effet, 41 % des consommateurs ne souhaitent plus acheter dans à des marques 
 
 En 2021, il sera compliqué de se présenter sans prendre en compte cette demande d’inclusivité de la part des consommateurs. A contrario, les entreprises qui afficheront publiquement leur engagement dans des causes inclusives seront remerciés et installeront des liens authentique et pertinents avec leurs consommateurs et prospects.
 
-## La commande vocale et visuelle en progression
+## Tendance n°6 : La commande vocale et visuelle en progression
 
 Les consommateurs sont de plus en plus nombreux à effectuer des recherches via des accessoires à commande vocale tel qu'Alexa.
 
@@ -139,7 +139,7 @@ Pour les grands marketeurs, il sera dont important de mettre à jour le texte Al
 
 De quoi devenir de plus en plus pointilleux avec les campagnes marketing.
 
-## Le easy-to-consume
+## Tendance n°7 : Le easy-to-consume
 
 En 2020, les consommateurs se sont penchés sur du contenu easy-to-consume (facile à consommer en français). Cette technique de marketing digitale est le meilleur moyen pour que votre e-commerce génère un meilleur retour sur investissement (ROI).
 
@@ -147,8 +147,8 @@ Il existe des outils et des canaux pour mettre en place cette stratégie de cont
 
 Ce concept utilise des outils de l'inbound marketing. Utilisez-les pour proposer du contenu de qualité et atteindre vos objectifs marketing.
 
-## Êtes-vous prêt pour 2021 ?
+## Alors, prêt pour 2021 ?
 
-En 2020, les marques étaient obligées de s’adapter à la situation et trouver des moyens de se connecter avec leur clientèle et d'améliorer leur image de marque. À présent, les gens passent beaucoup plus de temps à la maison et qui plus ai en ligne. Les entreprises sont obligées de se diversifier et de créer du brand content plus humain.
+En 2020, les marques étaient obligées de s’adapter à la situation et trouver des moyens de se connecter avec leur clientèle et d'améliorer leur image de marque. À présent, les gens passent beaucoup plus de temps à la maison et qui plus ai en ligne. Les entreprises sont obligées de se diversifier et de créer du brand content plus humain. Une nouvelle ligne éditoriale doit se profiler.
 
 Ces tendances vont se poursuivre au cours des prochains mois. Les lives seront encrés dans les habitudes des influenceurs, les marques afficheront clairement leur message écoresponsable et le contenu généré par les utilisateurs s’implantera dans une nouvelle stratégie webmarketing.
