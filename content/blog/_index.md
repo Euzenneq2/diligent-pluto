@@ -38,30 +38,6 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - type: form_section
-    template: form_section
-    title: Inscrivez-vous
-    title_align: center
-    content: |
-      Pour ne pas louper un seul article, abonne-toi à ma newsletter !
-    content_align: center
-    form_position: bottom
-    form_layout: inline
-    form_id: subscribeForm
-    form_action: /thank-you
-    form_fields:
-      - type: form_field
-        template: form_field
-        input_type: email
-        name: email
-        label: Email
-        default_value: Votre adresse mail
-        is_required: true
-    submit_label: S'abonner
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: secondary
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
