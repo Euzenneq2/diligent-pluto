@@ -30,6 +30,7 @@ params:
         label: À propos
         url: /a-propos
         style: primary
+        no_follow: true
       - type: action
         template: action
         label: Blog
