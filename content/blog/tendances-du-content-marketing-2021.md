@@ -53,9 +53,11 @@ Concernant le content marketing les tendances qui devaient émergées sont rest�
 
 En effet, les ventes en ligne des e-commerces ont augmenté. Les marques ont dû changer la façon de toucher et de se connecter avec ces consommateurs. Les populations se sont adaptées à la situation en passant plus de temps sur le web.
 
-Aussi, les appels en visioconférence sont devenus la norme en termes de communication vie un média, que ce soit au niveau personnel ou professionnel.
+Aussi, les appels en visioconférence sont devenus la norme en termes de communication via un média, que ce soit au niveau personnel ou professionnel.
 
-Alors, quelles sont les tendances marketing qui vont s’imposer cette année ?
+Vous avez besoin de générer du trafic ?  Créer du contenu ? Mettre en place des stratégies ?
+
+Voyons quelles sont les tendances marketing qui vont s’imposer cette année.
 
 Découvrez les tendances clés à ne pas oublier !
 
@@ -67,7 +69,7 @@ Cette situation a entraîné une croissance du nombre de personnes qui regardent
 
 L'application TikTok a bondi en 2020, et cette évolution ascendante va se poursuive en 2021. Les visionnages des directs ont augmenté de 50 % sur Facebook, tandis que sur Instagram ils ont grimpé de 70 %.
 
-Les lives de personnes connus ou d’influenceur « face cam » permet de fidéliser, créer de la proximité et de la confiance avec sa communauté. C’est une tendance que les utilisateurs apprécient sur les réseaux sociaux.
+Les lives de personnes connus ou d’influenceur « face cam » permet de fidéliser, créer une présence digitale, de la proximité et de la confiance avec sa communauté. C’est une tendance que les utilisateurs apprécient sur les réseaux sociaux.
 
 Cette stratégie social media ou stratégie de communication, permet entre autre de développer la conversion de nouveaux clients, sa notoriété ou encore générer du contenu.
 
@@ -113,7 +115,7 @@ Un formidable exemple de marque qui a réussi à l'instaurer : l’organisation 
 
 Pour partager l’annonce, ils ont opté pour TINT (la meilleure plateforme américaine pour partager tout le CGU d’une entreprise). Ils ont montré comment Ocean Cleanup persistera à utiliser des objets recyclés repêché dans l’océan pour fabriquer des produits esthétique et durables. De plus, ils ont précisé que les revenus engendrés par les produits seront réintroduits dans la lutte de nettoyage des océans.
 
-Aussi, le parcours client de cette organisation est très qualitatif, car la cause défendue ici est louable et de plus en plus de soutenu de nos jours.
+Aussi, le parcours client de cette organisation est très qualitatif, car la cause défendue ici est louable et de plus en plus de soutenu de nos jours. Avec cela, le prospect deviendra client.
 
 ## De l’inclusion !
 
@@ -143,7 +145,7 @@ En 2020, les consommateurs se sont penchés sur du contenu easy-to-consume (faci
 
 Il existe des outils et des canaux pour mettre en place cette stratégie de contenu. Par exemple, le marketing automation avec les newsletters, un service client de qualité, l'amélioration de temps d'affichage de vos pages ou encore les podcasts qui peuvent être écouté n’importe où.Des recherches révèlent que 5,8 millions de Français écoutent des podcasts de façon hebdomadaire.
 
-Ce concept utilise des outils de l'inbound marketing. Utilisez-les pour atteindre vos objectifs marketing.
+Ce concept utilise des outils de l'inbound marketing. Utilisez-les pour proposer du contenu de qualité et atteindre vos objectifs marketing.
 
 ## Êtes-vous prêt pour 2021 ?
 
