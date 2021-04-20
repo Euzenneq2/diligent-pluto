@@ -1,5 +1,5 @@
 ---
-title: 7 pièges qui vous font perdre du temps en rédaction web
+title: 7 pièges qui vous font perdre du temps en rédaction wex
 date: '2021-01-25'
 categories:
   - data/categories/freelancing.json
