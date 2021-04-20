@@ -49,7 +49,7 @@ seo:
 layout: post
 author: data/team/mary-marketing.json
 ---
-En ligne, la durée d’attention d’un utilisateur est relativement courte. Aller à l’essentiel pour le captiver avant qu’il ne se concentre sur un autre contenu web est nécessaire.
+En ligne, la durée d’attention d’un utilisateur est relativement courte. Les rédacteurs web doivent aller à l’essentiel pour le captiver avant qu’il ne se concentre sur un autre contenu web.
 
 Pour éviter de perdre du temps inutilement en rédigeant, voici 7 pièges qui vous font perdre du temps en rédaction web à éviter à tout prix.
 
@@ -65,13 +65,13 @@ Pour satisfaire vos lecteurs et marquer des points auprès de lui, choisissez vo
 
 Il y a quelque temps, le référencement sur les moteurs de recherche rimait avec : mots clés compliqués, orthographiés différemment et surtout répétition à outrance.
 
-Désormais, les écrits doivent être utiles, pertinents et de qualités. Il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical. De plus vous devez faire attention au nombre de mots que vous utilisez sur votre site internet.
+Désormais, les écrits de votre content marketing doivent être utiles, pertinents, optimisés et de qualités. Il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical. De plus vous devez faire attention au nombre de mots que vous utilisez sur votre site internet.
 
-Il est important de se concentrer en premier lieu, au contenu éditorial puis aux mots clés et à la longue traîne, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs.
+Il est important de se concentrer en premier lieu, au contenu éditorial puis aux mots clés et à la longue traîne, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs. Créez une stratégie éditoriale, elle vous servira de guide.
 
 ## Faire l'impasse sur le SEO
 
-Afin d'écrire pour le web, vous devez connaître un maximum de chose concernant le référencement. Il y a des règles à savoir afin de réellement optimiser votre contenu rédactionnel et surtout pour que cette optimisation SEO soit parfaite aux yeux de Google.
+Afin d'écrire pour le web, vous devez connaître un maximum de chose concernant le référencement. Il y a des règles à savoir afin de réellement optimiser votre contenu rédactionnel et surtout pour que cette optimisation SEO soit parfaite aux yeux du moteur de recherche Google.
 
 En effet, dans votre stratégie de contenu vous devez intégrer votre mot clé principale dans la tire, les sous-titres et aussi les paragraphes de l'article. Évidemment, vous devez faire attention à la lisibilité de votre contenu.
 
@@ -89,7 +89,7 @@ Voici un extrait de ces règles pour s'assurer d'une qualité de rédaction : 
 
 *   Pensez à référencer vos images
 
-*   Créer des liens internes et externes sur voter site
+*   Créer des liens internes et externes sur vos pages web
 
 *   Créer un maillage interne
 
@@ -113,13 +113,13 @@ Sur le web, il existe des milliers d'articles qui traite le même sujets de faç
 
 Vous travaillez ou travaillerez avec de nombreuse personnes tout au long de votre carrière. Chaque client vous demande un ton différent pour la rédaction de contenu. Mais malgré cela vous constater que vous avez toujours le même style d'écriture ? 
 
-La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger un contenu plus unique. Grace à votre point de vue personnel que vous pourrez modeler, vous donnerez à votre travail une chance d'émerger parmi les autres rédactions.
+La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger du contenu plus unique. Grace à votre point de vue personnel que vous pourrez modeler, vous donnerez à votre travail une chance d'émerger parmi les autres rédactions.
 
 Apprenez à laisser votre touche personnelle dans vos récits.
 
 ## Ne négligez pas la conclusion
 
-Une des plus grandes erreurs est celle-ci : pensez que le contenu de notre article est suffisant pour le lecteur. Or, il est impossible de terminer un article sans conclusion.
+Une des plus grandes erreurs des rédacteurs est celle-ci : pensez que le contenu éditorial de notre article est suffisant pour le lecteur. Or, il est impossible de terminer un article sans conclusion.
 
 Ayez toujours en tête qu'un bon article doit être conclu par une petite phrase, une citation, un appel à l'action ou par une incitation à utiliser ce que le lecteur vient de lire.
 
@@ -129,4 +129,4 @@ Remercier le lecteur pour son temps passer à lire votre rédaction, de façon p
 
 Vous faites ce métier pour gagner votre vie. Ne perdez pas votre temps à écrire un roman littéraire qui ne sera pas vue ou un texte fatigant qui ne sera jamais lu.
 
-Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction de contenu. C'est le moment d'appliquer ces conseils.
+Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction SEO. C'est le moment d'appliquer ces conseils.
