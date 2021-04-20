@@ -65,7 +65,7 @@ Conseil de rédaction : pour satisfaire vos lecteurs et marquer des points aupr�
 
 Il y a quelque temps, le référencement sur les moteurs de recherche rimait avec : mots clés compliqués, orthographiés différemment et surtout répétition à outrance. Ces efforts n'était pas forcément payant au niveau des résultats sur la SERP Google.
 
-Désormais, les écrits de votre content marketing doivent être utiles, pertinents, optimisés et de qualités. Il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical. De plus vous devez faire attention au nombre de mots que vous utilisez sur votre site internet.
+Désormais, les écrits de votre content marketing doivent être utiles, pertinents, optimisés, sans plagiat et de qualités. Il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical. De plus vous devez faire attention au nombre de mots que vous utilisez sur votre site internet.
 
 Il est important de se concentrer en premier lieu, au contenu éditorial puis aux mots clés et à la longue traîne, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs. Créez une stratégie éditoriale, elle vous servira de guide.
 
@@ -73,7 +73,7 @@ Il est important de se concentrer en premier lieu, au contenu éditorial puis au
 
 Afin d'écrire pour le web, vous devez connaître un maximum de chose concernant le référencement. Il y a des règles à savoir afin de réellement optimiser votre contenu rédactionnel et surtout pour que cette optimisation SEO soit parfaite aux yeux du moteur de recherche Google.
 
-En effet, dans votre stratégie de contenu vous devez intégrer votre mot clé principale dans la tire, les sous-titres et aussi les paragraphes de l'article. Évidemment, vous devez faire attention à la lisibilité de votre contenu.
+En effet, dans votre stratégie de contenu vous devez intégrer votre mot clé principal dans la tire, les sous-titres et aussi les paragraphes de l'article web. Évidemment, vous devez faire attention à la lisibilité de votre contenu.
 
 Même s'il ne faut pas en abuser, vous devez porter une attention particulière au bon référencement. Ne perdez pas votre temps sur un contenu qui ne sera pas vu.
 
@@ -123,7 +123,7 @@ Une des plus grandes erreurs des rédacteurs est celle-ci : pensez que le conten
 
 Ayez toujours en tête qu'un bon article doit être conclu par une petite phrase, une citation, un appel à l'action ou par une incitation à utiliser ce que le lecteur vient de lire. Remercier le lecteur pour son temps passer à lire votre rédaction, de façon plus ou moins subtile.
 
-Cela vous permettra aussi de résumé succinctement votre article de blog. Mais aussi de rediriger vers d'autre contenu textuel de votre site  e-commerce mais aussi d'autre site concurrent ou partenaire pour vous créer un profil de backlinks.
+Cela vous permettra aussi de résumé succinctement votre article de blog. Mais aussi de rediriger vos cibles vers d'autre contenu textuel de votre site  e-commerce mais aussi d'autre site concurrent ou partenaire pour vous créer un profil de backlinks.
 
 ## Le temps, c'est de l'argent
 
