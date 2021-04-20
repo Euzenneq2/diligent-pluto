@@ -49,33 +49,53 @@ seo:
 layout: post
 author: data/team/mary-marketing.json
 ---
-En ligne, la durée d’attention d’un utilisateur est relativement courte. Aller à l’essentiel pour le captiver avant qu’il ne se concentre sur autre chose est nécessaire.
+En ligne, la durée d’attention d’un utilisateur est relativement courte. Aller à l’essentiel pour le captiver avant qu’il ne se concentre sur un autre contenu web est nécessaire.
 
-Pour éviter de perdre du temps inutilement en rédigeant, voici 7 erreurs à ne pas commettre.
+Pour éviter de perdre du temps inutilement en rédigeant, voici 7 pièges qui vous font perdre du temps en rédaction web à éviter à tout prix.
 
 ## Utiliser un langage trop soutenu
 
-Le style d'écriture est propre a chacun.
+Le style rédactionnel est propre a chacun.
 
-Le risque avec les articles de blog, les livre blanc et autres rédactions web, c'est que vous devez vous adapter au lecteur et a son envie de comprendre le message directement sans passer par de long paragraphe de métaphores.
+Le risque avec la rédaction de textes, les articles de blog, les livres blancs, les fiches-produits et autres rédactions web, c'est que vous devez vous adapter au lecteur et à son envie de comprendre le message directement sans passer par de long paragraphe de métaphores.
 
-Pour satisfaire vos lecteurs et maquer des points auprès de lui, allez simplement à l'essentielle.
+Pour satisfaire vos lecteurs et marquer des points auprès de lui, allez simplement à l'essentielle.
 
 ## Ne penser qu'au référencement naturel
 
-Il y a quelque temps, le référencement sur Google rimait avec : mot clé compliquée, orthographié différemment et surtout répétition a outrance.
+Il y a quelque temps, le référencement sur les moteurs de recherche rimait avec : mots clés compliqués, orthographiés différemment et surtout répétition à outrance.
 
-Désormais, les écrit doivent être utile, pertinent et de qualité. De plus, il est nécessaire d'utiliser les mots clés a bon escient en utilisant leurs champs sémantique et lexicaux.
+Désormais, les écrit doivent être utiles, pertinents et de qualités. De plus, il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical.
 
-Il est important de se concentrer en premier lieu au contenu du texte puis aux mots clés, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs.
+Il est important de se concentrer en premier lieu, au contenu éditorial puis aux mots clés et à la longue traîne, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs.
 
 ## Faire l'impasse sur le SEO
 
-Vous devez connaître un maximum de chose concernant le SEO. Il y a des règles à connaitre afin de réellement optimiser votre contenu et surtout pour que ces optimisations soit, aux yeux de Google, parfaite.
+Afin d'écrire pour le web, vous devez connaître un maximum de chose concernant le SEO. Il y a des règles à savoir afin de réellement optimiser votre contenu rédactionnel et surtout pour que cette optimisation soit, aux yeux de Google, parfaite.
 
-Par exemple, vous devez intégrer votre mot clé principale dans la tire, les sous-titre et aussi les paragraphes de l'article. Évidemment, vous devez faire attention à la lisibilité de votre article.
+Voici un extrait de ces règles : 
 
-Même s'il ne faut pas en abuser, vous devez porter une attention particulière au référencement. Ne perdez pas votre temps sur un contenu qui ne sera pas vu.
+*   Structurer vos articles en utilisant les balises (HTML, alt, méta, titre, Hn, etc.)
+
+*   Rédiger un contenu unique et un contenu de qualité
+
+*   Éviter le duplicate content
+
+*   Créer un contenu qualitatif
+
+*   Pensez à référencer vos images
+
+*   Créer des liens internes et externes sur voter site
+
+*   Créer un maillage interne
+
+*   Faite naître une communauté
+
+*   Penser en permanence à votre audience
+
+En effet, dans votre stratégie de contenu vous devez intégrer votre mot clé principale dans la tire, les sous-titres et aussi les paragraphes de l'article. Évidemment, vous devez faire attention à la lisibilité de votre contenu.
+
+Même s'il ne faut pas en abuser, vous devez porter une attention particulière au bon référencement. Ne perdez pas votre temps sur un contenu qui ne sera pas vu.
 
 ## Le jargon dans vos écrits
 
@@ -93,7 +113,7 @@ Sur le web, il existe des milliers d'articles qui traite le même sujets de faç
 
 Vous travaillez ou travaillerez avec de nombreuse personnes tout au long de votre carrière. Chaque client vous demande un ton différent pour la rédaction de contenu. Mais malgré cela vous constater que vous avez toujours le même style d'écriture ? 
 
-La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger un contenu plus unique. Grace a votre point de vue personnel que vous pourrez modeler vous  donnerez a votre travail une chance d'émerger parmi les autres rédactions.
+La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger un contenu plus unique. Grace à votre point de vue personnel que vous pourrez modeler vous  donnerez à votre travail une chance d'émerger parmi les autres rédactions.
 
 Apprenez à laisser votre touche personnelle dans vos récits.
 
@@ -109,4 +129,4 @@ Remercier le lecteur pour son temps passer à lire votre rédaction, de façon p
 
 Vous faites ce métier pour gagner votre vie. Ne perdez pas votre temps à écrire un roman littéraire qui ne sera pas vue ou un texte fatigant qui ne sera jamais lu.
 
-Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction de contenu.
+Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction de contenu. C'est le moment d'appliquer ces conseils.
