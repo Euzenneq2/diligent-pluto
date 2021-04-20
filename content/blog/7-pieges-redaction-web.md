@@ -59,11 +59,11 @@ Le style rédactionnel est propre a chacun.
 
 Le risque avec la rédaction de textes, les articles de blog, les livres blancs, les fiches-produits et autres rédactions web, c'est que vous devez vous adapter au public-cible et à son envie de comprendre le message directement sans passer par de long paragraphe de culture générale ou de métaphores.
 
-Pour satisfaire vos lecteurs et marquer des points auprès de lui, choisissez votre type de contenu et allez simplement à l'essentielle.
+Conseil de rédaction : pour satisfaire vos lecteurs et marquer des points auprès de lui, choisissez votre type de contenu et allez simplement à l'essentielle.
 
 ## Ne penser qu'au référencement naturel
 
-Il y a quelque temps, le référencement sur les moteurs de recherche rimait avec : mots clés compliqués, orthographiés différemment et surtout répétition à outrance.
+Il y a quelque temps, le référencement sur les moteurs de recherche rimait avec : mots clés compliqués, orthographiés différemment et surtout répétition à outrance. Ces efforts n'était pas forcément payant au niveau des résultats sur la SERP Google.
 
 Désormais, les écrits de votre content marketing doivent être utiles, pertinents, optimisés et de qualités. Il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical. De plus vous devez faire attention au nombre de mots que vous utilisez sur votre site internet.
 
@@ -79,11 +79,11 @@ Même s'il ne faut pas en abuser, vous devez porter une attention particulière 
 
 Voici un extrait de ces règles pour s'assurer d'une qualité de rédaction : 
 
-*   Structurer vos articles en utilisant les balises (HTML, alt, méta, titre, Hn, etc.)
+*   Structurer vos articles en utilisant les balises (HTML, alt, méta, titre, Hn, meta-description, etc.)
 
 *   Rédiger un contenu unique et un contenu de qualité
 
-*   Éviter le duplicate content
+*   Éviter le duplicate content (contenu dupliqué en français)
 
 *   Créer un contenu qualitatif
 
@@ -101,7 +101,7 @@ Voici un extrait de ces règles pour s'assurer d'une qualité de rédaction : 
 
 Un bon rédacteur web sait quand utiliser du langage soutenu et quand utiliser du jargon. Pensez à imaginer vos lecteurs pour ajuster votre façon de parler. En effet, il serait dommage d'utiliser trop de jargon pour parler d'un sujet tel que le système économique des État-Unis, par exemple. Sauf si votre but et de vulgariser ce thème qui semble complexe pour une partie de vos lecteurs.
 
-Autre exemple, si vous devez écrire un article de 2000 mots sur la construction d'une maison autosuffisante, il est important de savoir si vous vous adressez à des architectes ou à des propriétaires.
+Autre exemple de création de contenu, si vous devez écrire un article de 2000 mots sur la construction d'une maison autosuffisante, il est important de savoir si vous vous adressez à des architectes ou à des propriétaires.
 
 Si vous écrivez pour les propriétaires et que vous partez dans une longue explication des techniques de construction, vous les perdrez à la moitié de votre texte. En revanche, si vous vous adressez à des architectes et que vous oubliez cette explication, vous constaterez que vous n'avez plus beaucoup d'audience.
 
@@ -119,14 +119,14 @@ Apprenez à laisser votre touche personnelle dans vos récits.
 
 ## Ne négligez pas la conclusion
 
-Une des plus grandes erreurs des rédacteurs est celle-ci : pensez que le contenu éditorial de notre article est suffisant pour le lecteur. Or, il est impossible de terminer un article sans conclusion.
+Une des plus grandes erreurs des rédacteurs est celle-ci : pensez que le contenu éditorial de notre article est suffisant pour le lecteur. Or, il est impossible de terminer un article sans conclusion. Pensez à la technique de journalisme : la pyramide inversée.
 
-Ayez toujours en tête qu'un bon article doit être conclu par une petite phrase, une citation, un appel à l'action ou par une incitation à utiliser ce que le lecteur vient de lire.
+Ayez toujours en tête qu'un bon article doit être conclu par une petite phrase, une citation, un appel à l'action ou par une incitation à utiliser ce que le lecteur vient de lire. Remercier le lecteur pour son temps passer à lire votre rédaction, de façon plus ou moins subtile.
 
-Remercier le lecteur pour son temps passer à lire votre rédaction, de façon plus ou moins subtile.
+Cela vous permettra aussi de résumé succinctement votre article de blog. Mais aussi de rediriger vers d'autre contenu textuel de votre site internet ou e-commerce.
 
 ## Le temps, c'est de l'argent
 
 Vous faites ce métier pour gagner votre vie. Ne perdez pas votre temps à écrire un roman littéraire qui ne sera pas vue ou un texte fatigant qui ne sera jamais lu.
 
-Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction SEO. C'est le moment d'appliquer ces conseils.
+Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction SEO. C'est le moment d'appliquer ces conseils. Si toutefois vous souhaitez approfondir vos compétences n'hésitez pas faire une formation en rédaction web.
