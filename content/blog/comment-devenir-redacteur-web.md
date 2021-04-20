@@ -50,9 +50,9 @@ excerpt: >-
   rédactrice web ? Dans cet article vous trouverez toutes les réponses à vos
   questions !
 ---
-Comment devenir rédacteur web ? Qu'est-ce qu'une rédactrice web ? 
+Vous vous posez ces questions ? Comment devenir rédacteur web ? Qu'est-ce qu'une rédactrice web ? 
 
-La première chose à savoir quand on veut **devenir rédacteur web ou rédactrice web**, c'est que les fautes et erreurs d'écriture sont injustifiables dans ce métier. Il en va aussi d'utiliser les sources fiables dans ses écrits. La veille informationnelle sera donc une étape à ne pas négliger.
+La première chose à savoir quand on veut **devenir rédacteur web ou rédactrice web**, c'est que les fautes et erreurs d'écriture sont injustifiables dans ce métier. Il en va aussi d'utiliser les sources fiables dans ses écrits. La veille informationnelle sera donc une étape à ne pas négliger.
 
 Puis vient la **rédaction** proprement dite. C'est une étape durant laquelle il vous faudra suivre une ligne éditoriale, une charte éditoriale, avoir une bonne capacité rédactionnelle, des techniques de rédaction, un **esprit de synthèse** et surtout ne pas oublier de s'assurer de l'exactitude de ses écrits.
 
@@ -62,7 +62,7 @@ Enfin, la **recherche de client** est primordiale. Le concepteur-rédacteur do
 
 ![](https://happy-wallaby-3f6f4.netlify.app/images/spectacular-triceratops.png)
 
-## Les qualités pour devenir un rédacteur web ?
+## Les qualités pour devenir un bon rédacteur web ?
 
 Il est intéressant de se demander si, pour exercer le métier de rédacteur de contenu, il y a certaines qualités à avoir ou certains défauts à ne pas avoir.
 
@@ -104,7 +104,7 @@ Comme tout métier en freelance, vous serez votre propre patron. Dites **adieux
 
 ### Travailler où et quand vous voulez
 
-De chez vous avec un plaid, dans un coworking café ou bien sûr une plage de sable fin. Avec le matériel adéquat : un ordinateur et une connexion internet, le métier de rédacteur web vous permettra de gager votre vie **où vous voulez**.
+De chez vous avec un plaid, dans un coworking café ou bien sûr une plage de sable fin. Avec le matériel adéquat : un ordinateur et une connexion internet, le métier de rédacteur web vous permettra de gager votre vie **où vous voulez**. C'est une profession digitale.
 
 De plus, travaillez **quand vous le souhaitez** ! Un rendez-vous médical, besoin d’une pause ? Organiser votre temps de travail et d’écriture à votre convenance. Bien sûr, être rédacteur de contenu est un métier. Vous devrez travailler plus de quelques heures par jour pour pouvoir en vivre.
 
