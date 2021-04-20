@@ -57,23 +57,27 @@ Pour éviter de perdre du temps inutilement en rédigeant, voici 7 pièges qui v
 
 Le style rédactionnel est propre a chacun.
 
-Le risque avec la rédaction de textes, les articles de blog, les livres blancs, les fiches-produits et autres rédactions web, c'est que vous devez vous adapter au lecteur et à son envie de comprendre le message directement sans passer par de long paragraphe de métaphores.
+Le risque avec la rédaction de textes, les articles de blog, les livres blancs, les fiches-produits et autres rédactions web, c'est que vous devez vous adapter au public-cible et à son envie de comprendre le message directement sans passer par de long paragraphe de culture générale ou de métaphores.
 
-Pour satisfaire vos lecteurs et marquer des points auprès de lui, allez simplement à l'essentielle.
+Pour satisfaire vos lecteurs et marquer des points auprès de lui, choisissez votre type de contenu et allez simplement à l'essentielle.
 
 ## Ne penser qu'au référencement naturel
 
 Il y a quelque temps, le référencement sur les moteurs de recherche rimait avec : mots clés compliqués, orthographiés différemment et surtout répétition à outrance.
 
-Désormais, les écrit doivent être utiles, pertinents et de qualités. De plus, il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical.
+Désormais, les écrits doivent être utiles, pertinents et de qualités. Il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical. De plus vous devez faire attention au nombre de mots que vous utilisez sur votre site internet.
 
 Il est important de se concentrer en premier lieu, au contenu éditorial puis aux mots clés et à la longue traîne, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs.
 
 ## Faire l'impasse sur le SEO
 
-Afin d'écrire pour le web, vous devez connaître un maximum de chose concernant le SEO. Il y a des règles à savoir afin de réellement optimiser votre contenu rédactionnel et surtout pour que cette optimisation soit, aux yeux de Google, parfaite.
+Afin d'écrire pour le web, vous devez connaître un maximum de chose concernant le référencement. Il y a des règles à savoir afin de réellement optimiser votre contenu rédactionnel et surtout pour que cette optimisation SEO soit parfaite aux yeux de Google.
 
-Voici un extrait de ces règles : 
+En effet, dans votre stratégie de contenu vous devez intégrer votre mot clé principale dans la tire, les sous-titres et aussi les paragraphes de l'article. Évidemment, vous devez faire attention à la lisibilité de votre contenu.
+
+Même s'il ne faut pas en abuser, vous devez porter une attention particulière au bon référencement. Ne perdez pas votre temps sur un contenu qui ne sera pas vu.
+
+Voici un extrait de ces règles pour s'assurer d'une qualité de rédaction : 
 
 *   Structurer vos articles en utilisant les balises (HTML, alt, méta, titre, Hn, etc.)
 
@@ -93,10 +97,6 @@ Voici un extrait de ces règles : 
 
 *   Penser en permanence à votre audience
 
-En effet, dans votre stratégie de contenu vous devez intégrer votre mot clé principale dans la tire, les sous-titres et aussi les paragraphes de l'article. Évidemment, vous devez faire attention à la lisibilité de votre contenu.
-
-Même s'il ne faut pas en abuser, vous devez porter une attention particulière au bon référencement. Ne perdez pas votre temps sur un contenu qui ne sera pas vu.
-
 ## Le jargon dans vos écrits
 
 Un bon rédacteur web sait quand utiliser du langage soutenu et quand utiliser du jargon. Pensez à imaginer vos lecteurs pour ajuster votre façon de parler. En effet, il serait dommage d'utiliser trop de jargon pour parler d'un sujet tel que le système économique des État-Unis, par exemple. Sauf si votre but et de vulgariser ce thème qui semble complexe pour une partie de vos lecteurs.
@@ -113,7 +113,7 @@ Sur le web, il existe des milliers d'articles qui traite le même sujets de faç
 
 Vous travaillez ou travaillerez avec de nombreuse personnes tout au long de votre carrière. Chaque client vous demande un ton différent pour la rédaction de contenu. Mais malgré cela vous constater que vous avez toujours le même style d'écriture ? 
 
-La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger un contenu plus unique. Grace à votre point de vue personnel que vous pourrez modeler vous  donnerez à votre travail une chance d'émerger parmi les autres rédactions.
+La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger un contenu plus unique. Grace à votre point de vue personnel que vous pourrez modeler, vous donnerez à votre travail une chance d'émerger parmi les autres rédactions.
 
 Apprenez à laisser votre touche personnelle dans vos récits.
 
