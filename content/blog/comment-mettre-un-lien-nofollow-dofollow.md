@@ -55,7 +55,7 @@ Voyons ensemble comment et quand les utiliser. Ne ratez pas l'occasion de gagner
 
 Les liens permettent aux **algorithmes des moteurs de recherches** de voir les relations entre les sites internet. Ces robots passent de site web à l'autre via des liens dofollow ainsi que par des liens nofollow.
 
-Pour avoir un bon **profil de backlink** sur votre site internet il est nécessaire de comprendre comment les autres **sites internet se lient** au votre.
+Pour avoir un bon **profil de backlink** pertinent sur votre site internet il est nécessaire de comprendre comment les autres **sites internet se lient** au votre.
 
 Pourquoi est-ce si important ? C’est simple : si vous avez un grand nombre de **liens externes** de haute qualité qui pointent vers votre site web cela va **générer plus de trafic**, de la part des visiteurs qui cliquent sur ces liens et via les moteurs de recherche.
 
@@ -67,9 +67,9 @@ Depuis 2005, Google utilise un système de points pondérés, le Page-rank, pour
 
 Que faire pour s’assurer d’obtenir les bons types de backlinks ? Comment être sûr d'utiliser correctement les liens dofollow et nofollow sur votre site internet ?
 
-Il est nécessaire de **comprendre la différence** entre les deux types de lien et la manière de les utiliser pour qu’ils jouent en faveur de votre site.
+Il est nécessaire de **comprendre la différence** entre les deux types de lien et la manière de les utiliser pour qu’ils jouent en faveur des pages de votre site.
 
-De plus, pour **obtenir des backlinks** parfait, voici quelques critères de qualité :
+De plus, pour **obtenir des backlinks** parfait, voici quelques critères de qualité pertinants :
 
 *   Vous devez avoir des liens d'un site interne qui as le **même thème de contenu** que le votre.
 
@@ -145,6 +145,14 @@ Dans l'éditeur de votre blog, passez à **l'affichage HTML** afin de pouvoir mo
 
 **\<a href="https://test.fr/contact" rel="nofollow">Ceci est un test\</a>**
 
+À noter qu'il existe aussi d'autre attribue plus spécifique :
+
+*   rel= "nofollow" doit être employé quand les liens sont le **résultat de partenariats**, de **publicités** ou de contenus générés par les utilisateurs (**UGC**) dans les commentaires ou les forums.
+
+*   rel= "**sponsored**" peut être appliqué comme substitue à rel='nofollow" quand un lien a été **payé via une publicité** ou un partenariat.
+
+*   rel= "**ugc**" peut être utilisé à la place de rel='nofollow" quand un **lien provient d'un contenu généré par les utilisateurs**.
+
 ##  Quand utiliser des liens nofollow ou dofollow sur votre propre site ? 
 
 Jusqu'à maintenant, nous avons abordé les liens nofollow et dofollow de quelqu'un d’autre vers votre site. Mais, vous voudrez peut-être tirer parti de l'attribut nofollow lorsque vous créez un lien de votre site vers des sites tiers.
@@ -161,7 +169,7 @@ Cette allégation est contradictoire, car cela veut dire que l’on fait en sort
 
 Pour taire ces rumeurs, **John Mueller** de chez Google a confirmé que cette affirmation était fausse, sur Twitter.
 
-## Et après ?
+## Et ensuite ?
 
 Prenez du temps pour **optimiser et assainir** le profil de backlink de votre site internet. Une fois que vous aurez **assimilé les bases** concernant les liens dofollow et nofollow, vous serez prêt à mettre **vos connaissances au profit de votre site web**. 
 
