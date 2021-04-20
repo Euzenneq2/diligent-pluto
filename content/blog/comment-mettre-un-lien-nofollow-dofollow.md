@@ -77,15 +77,15 @@ De plus, pour **obtenir des backlinks** parfait, voici quelques critères de qua
 
 *   Le lien entrant doit provenir d'un site qui n'a pas beaucoup de liens, car cela peut impacter le **jus de liens**.
 
-*   Votre ancre de texte doit décrire le contenu de la page. Toutefois, il faut bannir les descriptions telles que "en savoir plus" ou "clique".
+*   Votre **ancre de texte** doit décrire le contenu de la page. Toutefois, il faut bannir les descriptions telles que "en savoir plus" ou "clique".
 
 *   Favorisez les liens des pages web qui ont de **l'ancienneté**.
 
-*   N'oubliez pas de **varier les sources** des liens sortant.
+*   N'oubliez pas de **varier les sources** des liens sortants.
 
-*   Les liens doit être insérés sur vos pages de contenu éditorial.
+*   Les liens doit être insérés sur vos pages de **contenu éditorial**.
 
-*   Évitez de publier trop de lien sortant au même moment.
+*   Évitez de publier trop de **lien sortant** au même moment.
 
 *   Privilégiez les liens pointant vers un **site a fort trafic**.
 
@@ -125,9 +125,9 @@ Lorsqu'un autre site établit un lien vers le vôtre avec un lien standard (aka 
 
 Les **robots** des moteurs de recherche parcourent le Web à travers les liens dofollow, en notant qui est lié à qui. Ces relations sont, que les pros du SEO appellent "jus de lien" (**link juice** en anglais).
 
-Par exemple, imaginons qu'un site réputé avec un page-rank élevé établit un lien le votre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors **augmenter votre pagerank**.
+Par exemple, imaginons qu'un site réputé avec un page-rank élevé établit un lien vers le votre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors **augmenter votre pagerank **et sa notoriété.
 
-Cela peut faire **progresser votre classement** dans les résultats des moteurs de recherche.
+Cela peut faire **progresser votre classement** et votre popularité dans les résultats des moteurs de recherche.
 
 ## Comment rendre un lien dofollow ?
 
