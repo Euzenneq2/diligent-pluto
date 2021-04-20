@@ -123,10 +123,10 @@ Une des plus grandes erreurs des rédacteurs est celle-ci : pensez que le conten
 
 Ayez toujours en tête qu'un bon article doit être conclu par une petite phrase, une citation, un appel à l'action ou par une incitation à utiliser ce que le lecteur vient de lire. Remercier le lecteur pour son temps passer à lire votre rédaction, de façon plus ou moins subtile.
 
-Cela vous permettra aussi de résumé succinctement votre article de blog. Mais aussi de rediriger vers d'autre contenu textuel de votre site internet ou e-commerce.
+Cela vous permettra aussi de résumé succinctement votre article de blog. Mais aussi de rediriger vers d'autre contenu textuel de votre site  e-commerce mais aussi d'autre site concurrent ou partenaire pour vous créer un profil de backlinks.
 
 ## Le temps, c'est de l'argent
 
 Vous faites ce métier pour gagner votre vie. Ne perdez pas votre temps à écrire un roman littéraire qui ne sera pas vue ou un texte fatigant qui ne sera jamais lu.
 
-Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction SEO. C'est le moment d'appliquer ces conseils. Si toutefois vous souhaitez approfondir vos compétences n'hésitez pas faire une formation en rédaction web.
+Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction SEO. C'est le moment d'appliquer ces conseils. Si toutefois vous souhaitez approfondir vos compétences sur le netlinking, les techniques de rédactions ou apprendre comment écrire n'hésitez pas faire une formation en rédaction web.
