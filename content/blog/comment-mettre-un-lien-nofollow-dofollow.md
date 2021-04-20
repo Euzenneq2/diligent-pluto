@@ -139,7 +139,7 @@ Il est donc préférable de comprendre quels types de liens sont généralement 
 
 ## Comment rendre un lien nofollow ?
 
-Pour ajouter l'attribut nofollow aux liens contenus dans un article, vous devez modifier le code.
+Pour ajouter **l'attribut nofollow** aux liens contenus dans un article, vous devez modifier le code.
 
 Dans l'éditeur de votre blog, passez à **l'affichage HTML** afin de pouvoir modifier le code directement. Trouvez le lien que vous voulez rendre nofollow. Ajoutez l'attribut « nofollow » pour qu'il apparaisse tel que :
 
@@ -147,16 +147,22 @@ Dans l'éditeur de votre blog, passez à **l'affichage HTML** afin de pouvoir mo
 
 ##  Quand utiliser des liens nofollow ou dofollow sur votre propre site ? 
 
-Jusqu'à maintenant, nous avons abordé des liens nofollow et dofollow en termes de lien vers votre site par quelqu'un d’autre. Mais, vous voudrez peut-être tirer parti de l'attribut nofollow lorsque vous créez un lien vers des sites tiers.
+Jusqu'à maintenant, nous avons abordé les liens nofollow et dofollow de quelqu'un d’autre vers votre site. Mais, vous voudrez peut-être tirer parti de l'attribut nofollow lorsque vous créez un lien de votre site vers des sites tiers.
 
 Par exemple, les publicités, les articles de blog sponsorisés, les annonces par liens textuels et les autres liens résultant de relations payantes (**liens d’affiliation**) doivent utiliser l'attribut nofollow. Ainsi, vous respecter les règles de Google et vous n’essayez pas de gagner de la PageRank grâce à un système de liens.
 
-Par conséquent, tout contenu qui pourrait être considéré comme "non fiable" doit utiliser l'attribut nofollow pour les liens. Tel que les commentaires, si vous les autorisez sur votre site. (Un plugin **WordPress** peut vous aider à gérer les liens nofollow).
+Par conséquent, tout contenu qui pourrait être considéré comme "non fiable" doit appliquer l'attribut nofollow pour les liens. Tel que les commentaires, si vous les autorisez sur votre site. (Un plugin **WordPress** peut vous aider à gérer les liens nofollow).
 
 ## Y a-t-il un meilleur rapport entre les liens Nofollow et Dofollow ?
 
-Certaines personnes disent qu'il est recommandé d’avoir un ratio de liens nofollow et follow équilibré pour garder un profil de backlinks « naturel » face à Google. Pour d’autre, ce ne serait qu’un mythe.
+Certaines personnes disent qu'il est recommandé d’avoir un ratio de liens nofollow et follow équilibré pour garder un **profil de backlinks « naturel »** face à Google. Pour d’autre, ce ne serait qu’un mythe.
 
-Cette allégation est contradictoire, car cela veut dire que l’on fait en sorte de modifier notre ration de backlinks pour garder un quota spécial entre les nofollow et dofollow. C'est n'est donc pas « naturel ».
+Cette allégation est contradictoire, car cela veut dire que l’on fait en sorte de modifier notre **ratio de backlinks** pour garder un quota spécial entre les nofollow et dofollow. C'est n'est donc pas « naturel ».
 
 Pour taire ces rumeurs, **John Mueller** de chez Google a confirmé que cette affirmation était fausse, sur Twitter.
+
+## Et après ?
+
+Prenez du temps pour **optimiser et assainir** le profil de backlink de votre site internet. Une fois que vous aurez **assimilé les bases** concernant les liens dofollow et nofollow, vous serez prêt à mettre **vos connaissances au profit de votre site web**. 
+
+Gardez en mémoire que les **liens dofollow vous aideront à créer un page-rank**, mais que les liens nofollow peuvent aussi fournir u**n trafic et un engagement indispensable**.
