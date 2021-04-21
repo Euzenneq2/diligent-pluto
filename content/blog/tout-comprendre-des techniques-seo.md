@@ -49,11 +49,15 @@ seo:
 layout: post
 author: data/team/mary-marketing.json
 ---
+Vous souhaitez apprendre le référencement ? En connaitre toutes les règles et tous les aspects ? 
+
+Voici quelques réponses.
+
 ## Qu'est-ce que le SEO ?
 
 SEO signifie Search Engine Optimization (optimisation des moteurs de recherche). On l'appelle aussi "le référencement". Cela englobe des règles qui vont permettent d’optimiser votre site internet et le propulser vers un bon classement dans les résultats naturels des moteurs de recherches.
 
-Pour augmenter le nombre de visite sur votre site internet dans les moteurs de recherches et obtenir plus de trafic, ces règles sont à suivre.
+Pour augmenter le nombre de visites sur votre site internet dans les moteurs de recherches et obtenir plus de trafic, ces règles sont à suivre.
 Il y a deux grands objectifs dans le référencement. Le premier est de vous amener à repérer quelles sont les requêtes que les utilisateurs recherchent en ligne pour créer un contenu de qualité et satisfaisant. Le second est de vous aider à créer un site web que les moteurs de recherche peuvent trouver, indexer et comprendre son contenu.
 
 Par ailleurs, pour améliorer la qualité d'un site et le rendre plus convivial, plus rapide et plus facile à naviguer, il est nécessaire de suivre ces règles.
@@ -79,7 +83,7 @@ Le référencement peut vous aider, si vous avez un site internet, un blog ou un
 
 Le SEO est primordial car :
 
-*   Plus de 70 % des utilisateurs de moteurs de recherche sont plus susceptibles de cliquer sur l'une des 5 premières suggestions dans les pages de résultats des moteurs de recherche (serp). Pour en profiter et attirer des visiteurs sur votre site internet ou des clients sur votre boutique en ligne, ces derniers doivent apparaître dans l'une des premières positions.
+*   Plus de 70 % des utilisateurs de moteurs de recherche sont plus susceptibles de cliquer sur l'une des 5 premières suggestions dans les pages de résultats des moteurs de recherche (SERP). Pour en profiter et attirer des visiteurs sur votre site internet ou des clients sur votre boutique en ligne, ces derniers doivent apparaître dans l'une des premières positions.
 
 <!---->
 
@@ -95,7 +99,7 @@ Le SEO est primordial car :
 
 <!---->
 
-*   Le SEO est important pour les grand site internet. Ces derniers ayant plus d'un auteur peuvent bénéficier du référencement de manière directe et indirecte. Leur avantage direct est une augmentation du trafic naturel et leur avantage indirect est de disposer d'un cadre commun (listes de contrôle) à utiliser avant de publier du contenu sur le site.
+*   Le SEO est important pour les grands sites internet. Ces derniers ayant plus d'un auteur peuvent bénéficier du référencement de manière directe et indirecte. Leur avantage direct est une augmentation du trafic naturel et leur avantage indirect est de disposer d'un cadre commun (listes de contrôle) à utiliser avant de publier du contenu sur le site.
 
 <!---->
 
@@ -109,7 +113,7 @@ Sur Google, l'ordre dans lequel les résultats s'affichent est basé sur des alg
 
 ## Les principales étapes du processus d'optimisation pour les moteurs de recherche.
 
-Le référencement n'est pas un processus statique mais plutôt un cadre avec des règles et des processus.
+Le référencement n'est pas un processus statique, mais plutôt un cadre avec des règles et des processus.
 
 Plus simplement, le SEO peut être décomposé en 3 types principaux :
 
@@ -128,7 +132,7 @@ Plus simplement, le SEO peut être décomposé en 3 types principaux :
 C’est la première étape du processus de référencement.
 
 Comme son nom l'indique, le SEO technique n'a rien à voir avec le contenu ou les méthodes pour promouvoir un site. Il s'agit de paramétrage pour aider le travail des robots d'exploration des moteurs de recherche.
-En général, dès que votre SEO technique est en place, vous n'avez plus besoin de vous en occuper. En outre, si vous avez des problèmes d'exploration et d'indexation, cela peut avoir un impact négatif sur votre classement dans le serp.
+En général, dès que votre SEO technique est en place, vous n'avez plus besoin de vous en occuper. En outre, si vous avez des problèmes d'exploration et d'indexation, cela peut avoir un impact négatif sur votre classement dans le SERP.
 
 ## &#xD;&#xA;SEO on-site
 
@@ -151,7 +155,7 @@ Ces backlinks, selon leur provenance, peuvent impacter votre position dans le cl
 
 ### &#xD;&#xA;Que faire pour obtenir plus de liens ?
 
-C'est une bonne question et si vous cherchez cette phrase sur internet, vous obtiendrez des miliers de réponses différentes.
+C'est une bonne question et si vous cherchez cette phrase sur internet, vous obtiendrez des milliers de réponses différentes.
 Votre objectif principal est de créer un contenu de bonne qualité pour votre site internet. Cela vous permettra d'obtenir des liens naturels qui, ensuite, vous donneront un bon positionnement et du trafic.
 
 ## &#xD;&#xA;La meilleure façon d'apprendre comment fonctionne le SEO.
