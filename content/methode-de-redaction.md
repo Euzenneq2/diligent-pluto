@@ -143,7 +143,19 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: "### Maitrise de la langue française\n\nN’est pas bon rédacteur celui qui fait 10 fautes par phrases ou n’use pas d’un\_**vocabulaire riche et varié**.\n\nPire, les syntaxes approximatives, le manque de culture générale et les erreurs de grammaire nuisent à la\_**pertinence d’un article du blog**. Et par conséquent, à la crédibilité d’une entreprise !\n"
+        content: >
+          ### Maitrise de la langue française
+
+
+          La rédaction web fait partie des métiers où il est impératif de bien
+          savoir **maitriser le français** et ces règles d'écriture. En effet,
+          faire des fautes peut discréditer fortement l'**image du rédacteur**.
+
+
+          Alors qu'avec de bonnes syntaxes de phrases, du vocabulaire de
+          connaisseur, riche et varié et avec une grammaire et une orthographe
+          irréprochable, votre **contenu éditorial** ne peut qu'être **pertinent
+          et compréhensible**.
         content_align: left
         actions: []
         actions_align: left
