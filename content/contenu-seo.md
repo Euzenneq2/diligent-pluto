@@ -58,7 +58,7 @@ sections:
       expérience client. Ce texte doit être intéressant. Stop aux contenus
       éditoriaux remplis de mots clés et avec une requête retranscrite 20 fois.
       Il faut savoir respecter des règles et des techniques pour un contenu SEO
-      clair et efficace.
+      clair et efficace. Voici quelques-unes de ces règles.
     actions: []
     image_alt: rédaction SEO Friendly
     media_position: bottom
