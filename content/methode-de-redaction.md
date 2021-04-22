@@ -69,7 +69,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/quest-ce-que-contenu-seo.png
+    image: images/quest-ce-que-methode-redaction.png
   - type: grid_section
     template: grid_section
     grid_items:
