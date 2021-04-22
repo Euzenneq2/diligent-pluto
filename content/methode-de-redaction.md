@@ -289,13 +289,14 @@ sections:
       à la rédaction web ?
 
 
-      Certaines compétences sont indispensables pour la rédaction web. Outre
-      l'art de bien choisir ces mots, il existe des règles et des techniques
-      nécessaires pour que le rédacteur web mène à bien ces missions
-      d'amélioration de votre site internet.
+      Un bon rédacteur doit connaitre les **méthodes** de rédaction, mais aussi
+      doit **savoir** **correctement rédiger du contenu**. Ces techniques
+      doivent être utilisées pour **attirer**, **séduire** et **convaincre** les
+      visiteurs de votre page internet. 
 
 
-      Avec quoi développer votre site internet ?
+      Ces méthodes sont pour moi acquises. Donc n'hésitez pas à contacter une
+      professionnelle de la rédaction web.
     image: images/Competence-mary-marketing.png
   - actions: []
     grid_items:
