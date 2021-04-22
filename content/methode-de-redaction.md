@@ -163,7 +163,15 @@ sections:
         image_align: left
         image_has_padding: true
       - title_align: left
-        content: "### Écriture persuasive\n\nRédiger pour convaincre passe par l’**écriture créative et persuasive**. Si vous n’en avez jamais entendu parler, laissez-moi vous l’expliquer au travers des 6 piliers qui régissent cette\_**technique de rédaction**.\n\nIci, on parle d’apporter des preuves, de jouer sur les émotions et de gagner la confiance de son lectorat !\n"
+        content: >
+          ### Écriture persuasive
+
+
+          L'écriture persuasive ou **copywriting**, est l'art de convaincre une
+          personne de faire quelque chose ou d'aller voir quelque chose de façon
+          **naturelle** et **subtile**. En effet, cette **technique** repose sur
+          la manière d'utiliser **l'émotion** et la **confiance** dans un
+          contenu rédigé pour les visiteurs.
         content_align: left
         actions: []
         actions_align: left
