@@ -388,17 +388,14 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ### Contenu SEO
+          ### Référencement naturel
 
 
-          **Balise TITLE**, méta description, sous-titres, réécriture d'URL, le
-          **nombre de mots** dans votre texte, balise ALT, etc. Autant de
-          critères à comprendre et à travailler avec rigueur, car il influence
-          l'**algorithme de Google**.
-
-
-          Ils auront un impact sur le **positionnement** de vos pages web sur
-          les moteurs de recherche.
+          Le netlinking, les liens internes, l'optimisation SEO, le duplicate
+          content, toutes ces techniques de référencement naturel sont à
+          connaitre pour produire du contenu sur internet. Afin de proposer un
+          service de qualité pour vos clients et de valoriser leurs sites
+          internet, pensez au référencement naturel.
         content_align: left
         actions: []
         actions_align: left
