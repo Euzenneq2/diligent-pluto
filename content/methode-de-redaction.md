@@ -26,11 +26,11 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      ## **Bénéficiez de votre article optimisé SEO pour 0,10 €/mot (balise méta
+      ## **Obtenez votre article optimisé SEO pour 0,10 €/mot (balise méta
       comprise).**
 
 
-      Il n'est jamais trop tard pour remonter dans le classement Google !
+      C'est toujours le moment de s'améliorer !
     actions:
       - type: action
         template: action
