@@ -81,7 +81,7 @@ sections:
         template: grid_item
         title_align: left
         content: >
-          ### Backlinks
+          ### Nombre de mots
 
 
           La création de **backlinks** a pour but d'augmenter la popularité d'un
