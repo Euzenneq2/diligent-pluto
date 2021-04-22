@@ -142,7 +142,7 @@ sections:
           ces balises est très importante. Ce petit texte doit contenir votre
           **requête cible**, un **mot clé principale** et être rédigée de façon
           à **donner envie aux utilisateurs** de vous lire. Elle doit comporter
-          en moyenne **156 caractère maximum**.
+          en moyenne **152 caractère maximum**.
         content_align: left
         actions: []
         actions_align: left
