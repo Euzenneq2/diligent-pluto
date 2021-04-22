@@ -103,14 +103,15 @@ sections:
           ### QQOQCPC
 
 
-          Cette méthode que l'on peut traduire par : Qui, Quoi, Où, Quand,
-          Comment et Pourquoi consiste, au début de chaque projet tel que la
-          rédaction de contenu d'un article, d'une fiche produit, d'une page web
-          ou d'un livre blanc, de s'interroger de façon pertinente  
+          Cette méthode que l'on peut traduire par : **Qui**, **Quoi**, **Où**,
+          **Quand**, **Comment** et **Pourquoi** consiste, au début de chaque
+          projet tel que la rédaction de contenu d'un article, d'une fiche
+          produit, d'une page web ou d'un livre blanc, de **s'interroger de
+          façon pertinente**.
 
 
-          À noter que cette méthode correspond à la méthode des 5W : What, Why,
-          Who, When, Where en anglais.
+          À noter que cette méthode correspond à la méthode des **5W** : What,
+          Why, Who, When, Where en anglais.
         content_align: left
         actions: []
         actions_align: left
