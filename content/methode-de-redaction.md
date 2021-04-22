@@ -130,19 +130,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >
-          ### Balise ALT
-
-
-          Vous le savez peut-être, mais Google ne peut pas regarder une image,
-          il ne sait que la lire. En effet, il peut **interpréter l'image** de
-          votre page grâce aux contenus dans votre **balise ALT** ou dans son
-          **titre**.
-
-
-          Cette balise sera inspectée par les spiders et classifiée. Elle peut
-          donc **influencer vote positionnement** sur les résultats des moteurs
-          de recherches.
+        content: "### Granularité de l’information\n\nSi vous êtes un adepte du SEO, vous êtes forcément familier de la notion de\_**méthode SILOING**\_ou de\_**cocon sémantique**.\n\nPour expliquer rapidement, la granularité de l’information consiste à partir d’une thématique générale, puis de décomposer cette partie en de nombreuses sous-parties, en allant jusqu’en bas de l’échelle. Une\_**excellente stratégie de contenu à**\_développer !\n"
         content_align: left
         actions: []
         actions_align: left
