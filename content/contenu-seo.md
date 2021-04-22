@@ -52,15 +52,18 @@ sections:
       ## Qu'est-ce que le contenu SEO ?
 
 
-      Essentiel si vous souhaitez utiliser le canal web pour votre activité, le
-      référencement naturel appelé aussi SEO se compose en 3 parties autour de
-      votre site web. Une partie technique (par exemple, la vitesse de
-      chargement ou la sécurité de votre site), une partie sémantique (la
-      stratégie de contenu de votre site) et la partie notoriété (nombre de
-      backlinks pointant vers votre site internet). Plus vous serez rigoureux et
-      vous respecterez ces trois axes majeurs du référencement, plus vous aurez
-      de chance que Google vous place sur les premiers résultats de recherche
-      Google.
+
+
+
+
+      À ne pas oublier : un contenu SEO est un contenu de qualité et
+      intéressant. Pas un contenu éditorial truffé de mots clés, avec la requête
+      principale répétée 18 fois dans le texte. Mais rédiger du contenu de
+      qualité, c’est aussi un ensemble de techniques SEO à respecter. Les
+      contenus doivent donc être qualitatifs et quantitatifs, plus pertinents
+      que les autres sites, structurés avec des balises, se positionner pour les
+      bons lecteurs et favoriser l’expérience utilisateur. Alors, quels sont les
+      règles à respecter ?
     actions: []
     image_alt: rédaction SEO Friendly
     media_position: bottom
