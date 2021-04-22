@@ -646,7 +646,7 @@ sections:
         content_align: left
         actions:
           - label: En savoir plus
-            url: '#'
+            url: '/methode-de-referencement#'
             style: link
             has_icon: false
             icon: arrow-left
