@@ -305,13 +305,14 @@ sections:
           ### Contenu SEO
 
 
-          Connaitre et savoir utiliser les **différentes méthodes** de rédaction
-          est la base pour un rédacteur web.
+          Afin de référencer au mieux votre page dans les résultats de moteurs
+          de recherches, il est important d'utiliser les méthodes de rédaction
+          nécessaires.
 
 
-          Il faut bien **connaitre la langue française** ainsi que les méthodes
-          les plus connues comme le **parcours client AIDA** ou la **méthode
-          QQOQCP**, par exemple.
+          Il n'est pas ci aisé de créer un bon maillage interne, de bonnes
+          balises, de trouver des mots-clés pertinents ou d'éviter le duplicate
+          content ou le spinning, etc.
         content_align: left
         actions: []
         actions_align: left
