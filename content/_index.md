@@ -610,7 +610,7 @@ sections:
         actions:
           - label: En savoir plus
             url: /contenu-seo
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
