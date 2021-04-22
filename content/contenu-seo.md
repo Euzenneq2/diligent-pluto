@@ -392,10 +392,12 @@ sections:
 
 
           Le netlinking, les liens internes, l'optimisation SEO, le duplicate
-          content, toutes ces techniques de référencement naturel sont à
-          connaitre pour produire du contenu sur internet. Afin de proposer un
-          service de qualité pour vos clients et de valoriser leurs sites
-          internet, pensez au référencement naturel.
+          content, toutes ces **techniques** de référencement naturel sont à
+          connaitre pour **produire du contenu** sur internet.
+
+
+          Afin de proposer un **service de qualité** pour vos clients et de
+          **valoriser leurs sites internet**, pensez au référencement naturel.
         content_align: left
         actions: []
         actions_align: left
