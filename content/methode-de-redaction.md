@@ -45,16 +45,16 @@ sections:
     has_border: false
     background_color: primary
   - content: >
-      ## Qu'est-ce que le contenu SEO ?
+      ## Qu'est-ce que les méthodes de rédaction ?
 
 
-      Un bon contenu SEO doit être structuré grâces aux balises, être plus
-      pertinents que les concurrents, être de qualité, doit être positionné
-      correctement et en lien avec sa requête et doit proposer une bonne
-      expérience client. Ce texte doit être intéressant. Stop aux contenus
-      éditoriaux remplis de mots clés et avec une requête retranscrite 20 fois.
-      Il faut savoir respecter des règles et des techniques pour un contenu SEO
-      clair et efficace. Voici quelques-unes de ces règles.
+      Elles peuvent être pour attirer le lecteur, le captiver, le faire passer
+      de lead a converti puis à client ou pour le solliciter à parcourir d'autre
+      page de votre site internet.
+
+
+      Tout bon rédacteur web connait et a acquis ces méthodes au début de sa
+      carrière. Voyons quelles méthodes j'utilise.
     actions: []
     image_alt: qu'est-ce que le contenu SEO
     media_position: bottom
