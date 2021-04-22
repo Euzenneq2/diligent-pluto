@@ -152,10 +152,9 @@ sections:
           faire des fautes peut discréditer fortement l'**image du rédacteur**.
 
 
-          Alors qu'avec de bonnes syntaxes de phrases, du vocabulaire de
-          connaisseur, riche et varié et avec une grammaire et une orthographe
-          irréprochable, votre **contenu éditorial** ne peut qu'être **pertinent
-          et compréhensible**.
+          Alors qu'avec de bonne syntaxe de phrases, du vocabulaire riche et
+          varié et avec une grammaire et une orthographe irréprochable, votre
+          **contenu éditorial** ne peut qu'être **pertinent et compréhensible**.
         content_align: left
         actions: []
         actions_align: left
