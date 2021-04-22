@@ -127,13 +127,12 @@ sections:
         template: grid_item
         title_align: left
         content: >
-          ### Position zéro
+          ### Méta description
 
 
           Vous avez pour ambition de vous **placer dans les premiers résultats
           de recherche** ? Je vous propose de booster le positionnement de votre
           site, avec des références nationales et locales.
-
 
 
           Nous essaierons aussi d'atteindre la **position zéro** sur des
