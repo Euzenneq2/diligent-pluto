@@ -561,15 +561,15 @@ sections:
         title_align: left
         content: >
           Vous trouverez sur les plateformes de micro-service des rédacteurs à
-          moindre coût qui vont diront connaitre le **référencement naturel**.
+          moindre coût qui vont diront connaître le **référencement naturel**.
           Pour avoir collaboré avec ce type de prestataire, c'est rarement le
           cas.
 
 
           L'optimisation technique de vos textes, la création de **contenus
-          optimisé** et l'implantation de **backlink** sont des actions SEO
-          réelles dont j'ai les  compétences dont je dispose pour vous permettre
-          d'atteindre les premiers **résultat de recherche** Google.
+          optimisés** et l'implantation de **backlink** sont des actions SEO
+          réelles dont j'ai les  compétences et dont je dispose pour vous
+          permettre d'atteindre les premiers **résultats de recherches** Google.
         content_align: left
         actions:
           - label: En savoir plus
