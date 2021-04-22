@@ -76,21 +76,7 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: >
-          ### Nombre de mots
-
-
-          Les moteurs de recherches Google estiment qu'un article avec un
-          **grand volume** de mot est plus **pertinent**. Il est donc nécessaire
-          de s'attarder sur le nombre de mots de votre article afin
-          **d'améliorer votre référencement naturel**. Aussi, une technique
-          appelée : la **pyramide inversée** peut amener une certaine
-          **logique** et une **ergonomie** de lecture pour votre audience.
-
-
-          Selon une étude réalisée en 2020 par Backlinko, la longueur moyenne
-          pour un article serait de **1447 mots**. Bien sûr, il en va de soi
-          d'ajuster le nombre de mots au **type de production** à réaliser.
+        content: "### Méthode AIDA\n\n**Attention, Intérêt, Désir et Action**. 4 mots qui veulent dire beaucoup, surtout quand un rédacteur web veut absolument conduire son lecteur jusqu’à l’acte d’achat. Et\_**convertir un visiteur en client**, c’est le top de la satisfaction.\n\nAlors, je vous en dis plus sur le\_**parcours AIDA**, qui figure parmi les principales techniques de rédaction requises ?\n"
         content_align: left
         actions: []
         actions_align: left
