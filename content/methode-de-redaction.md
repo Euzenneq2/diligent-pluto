@@ -302,7 +302,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ### Méthodes de rédaction
+          ### Contenu SEO
 
 
           Connaitre et savoir utiliser les **différentes méthodes** de rédaction
