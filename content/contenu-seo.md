@@ -52,18 +52,13 @@ sections:
       ## Qu'est-ce que le contenu SEO ?
 
 
-
-
-
-
-      À ne pas oublier : un contenu SEO est un contenu de qualité et
-      intéressant. Pas un contenu éditorial truffé de mots clés, avec la requête
-      principale répétée 18 fois dans le texte. Mais rédiger du contenu de
-      qualité, c’est aussi un ensemble de techniques SEO à respecter. Les
-      contenus doivent donc être qualitatifs et quantitatifs, plus pertinents
-      que les autres sites, structurés avec des balises, se positionner pour les
-      bons lecteurs et favoriser l’expérience utilisateur. Alors, quels sont les
-      règles à respecter ?
+      Un bon contenu SEO doit être structuré grâces aux balises, être plus
+      pertinents que les concurrents, être de qualité, doit être positionné
+      correctement et en lien avec sa requête et doit proposer une bonne
+      expérience client. Ce texte doit être intéressant. Stop aux contenus
+      éditoriaux remplis de mots clés et avec une requête retranscrite 20 fois.
+      Il faut savoir respecter des règles et des techniques pour un contenu SEO
+      clair et efficace.
     actions: []
     image_alt: rédaction SEO Friendly
     media_position: bottom
