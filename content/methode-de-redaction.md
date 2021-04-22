@@ -118,19 +118,7 @@ sections:
         image_align: left
         image_has_padding: true
       - title_align: left
-        content: >
-          ### Optimiser les images
-
-
-          L'optimisation des images permettra à votre site web d'être **plus
-          performant** et d'avoir un temps de **chargement** de vos pages web
-          assez court pour ne pas altérer votre **référencement**. En effet, le
-          poids d'une image, son nom de fichier ou encore sa balise ALT **influe
-          sur le SEO** de votre site internet.
-
-
-          En optimisant vos images, vous pourrez **devancer certains
-          concurrents** sur la SERP Google, qui eux, ne s'en soucient peu.
+        content: "### Écriture persuasive\n\nRédiger pour convaincre passe par l’**écriture créative et persuasive**. Si vous n’en avez jamais entendu parler, laissez-moi vous l’expliquer au travers des 6 piliers qui régissent cette\_**technique de rédaction**.\n\nIci, on parle d’apporter des preuves, de jouer sur les émotions et de gagner la confiance de son lectorat !\n"
         content_align: left
         actions: []
         actions_align: left
