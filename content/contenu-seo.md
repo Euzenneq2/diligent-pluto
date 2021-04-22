@@ -60,7 +60,7 @@ sections:
       Il faut savoir respecter des règles et des techniques pour un contenu SEO
       clair et efficace. Voici quelques-unes de ces règles.
     actions: []
-    image_alt: rédaction SEO Friendly
+    image_alt: qu'est-ce que le contenu SEO
     media_position: bottom
     media_width: fifty
     align: left
