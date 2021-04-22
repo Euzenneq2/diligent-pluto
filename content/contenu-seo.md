@@ -413,16 +413,13 @@ sections:
           ### Référencement naturel
 
 
-          En tant que rédactrice web je connais toutes les bonnes pratiques pour
-          l'**optimisation SEO** pour votre site internet. L'utilisation des
-          meilleurs outils SEO pour votre **optimisation on-page**, la
-          compréhension des **pénalités SEO** et la restructuration de vos liens
-          (maillage interne, backlink, etc.)
+          Le netlinking, les liens internes, l'optimisation SEO, le duplicate
+          content, toutes ces **techniques** de référencement naturel sont à
+          connaitre pour **produire du contenu** sur internet.
 
 
-          Cependant je connais aussi très bien les erreurs communes comme le
-          **duplicate content**, page trop profonde ou temps de chargement
-          excessif.
+          Afin de proposer un **service de qualité** pour vos clients et de
+          **valoriser leurs sites internet**, pensez au référencement naturel.
         content_align: left
         actions: []
         actions_align: left
