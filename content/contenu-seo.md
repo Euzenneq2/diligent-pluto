@@ -347,9 +347,12 @@ sections:
 
 
           Connaitre et savoir utiliser les **différentes méthodes** de rédaction
-          est la base pour un rédacteur web. Il faut bien **connaitre la langue
-          française** ainsi que les méthodes les plus connues comme le
-          **parcours client AIDA** ou la **méthode QQOQCP**, par exemple.
+          est la base pour un rédacteur web.
+
+
+          Il faut bien **connaitre la langue française** ainsi que les méthodes
+          les plus connues comme le **parcours client AIDA** ou la **méthode
+          QQOQCP**, par exemple.
         content_align: left
         actions: []
         actions_align: left
