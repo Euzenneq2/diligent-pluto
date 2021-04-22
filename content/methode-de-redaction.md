@@ -264,12 +264,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      ## Le contenu SEO est un groupement de règles bien spécifique qui peuvent
-      améliorer votre référencement naturel.
+      ## Les méthodes de rédaction sont indispensables pour créer un contenu SEO
+      de qualité.
 
 
-      Bien les respecter est nécessaire pour générer du trafic et grimper dans
-      le classement des moteurs de recherches !
+      Et ce contenu de qualité, pourra améliorer considérablement votre
+      référencement naturel.
   - actions: []
     image_alt: Compétence rédaction seo
     media_position: bottom
