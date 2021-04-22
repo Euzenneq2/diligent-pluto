@@ -3,7 +3,7 @@ title: Rédaction SEO
 sections:
   - title: Un contenu SEO pour accroître votre activité
     content: >
-      Le contenu SEO ne sa base pas simplement sur des **techniques** à
+      Le contenu SEO ne se base pas simplement sur des **techniques** à
       apprendre telles que les moyens d'adapter le texte aux **impératifs des
       algorithmes**. Le contenu SEO est plus **compliqué** que cela. En effet,
       savez-vous composer une **balise TITRE** ou une **balise
