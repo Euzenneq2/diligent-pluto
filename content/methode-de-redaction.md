@@ -3,14 +3,11 @@ title: Rédaction SEO
 sections:
   - title: Une méthode de rédaction pour booster vos contenus
     content: >
-      Le contenu SEO ne sa base pas simplement sur des **techniques** à
-      apprendre telles que les moyens d'adapter le texte aux **impératifs des
-      algorithmes**. Le contenu SEO est plus **compliqué** que cela. En effet,
-      savez-vous composer une **balise TITRE** ou une **balise
-      méta-description** dans les règles de l'art ? Savez-vous optimiser des
-      images ? Savez-vous produire un **contenu plus lisible** ? Pour répondre à
-      ces questions et vous faciliter la vie ainsi que la création de votre site
-      internet, **faites appel à un rédacteur web** qui est là pour ça !
+      En rédaction web, l'**inbound marketing** est souvent utilisée. En effet,
+      c'est une **méthode** de marketing qui permet **d'attirer le lecteur**
+      afin de le convertir en lead puis en client. Avec la **rédaction de
+      contenu**, cela fait aussi partie du travail. Pour **répondre au mieux a
+      vos attentes**, découvrez quelles autres méthodes sont utilisées.
     actions: []
     image_alt: contenu SEO
     media_position: right
