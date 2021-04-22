@@ -152,7 +152,7 @@ sections:
         template: grid_item
         title_align: left
         content: >
-          ### Pénalité SEO
+          ### Balise TITRE
 
 
           Une pénalité peut avoir de grande conséquence sur votre classement
@@ -160,7 +160,6 @@ sections:
           qui peut avoir comme impact de retrouver ces pages web invisibles aux
           yeux des internautes (5e page des résultats de recherche, voire
           plus...).
-
 
 
           Afin d'être préventif sur le sujet, je vous explique brièvement les
