@@ -350,12 +350,13 @@ sections:
           ### Rédaction SEO
 
 
-          Prioriser le référencement !
+          La rédaction web est un métier qui demande de l'**expertise** et des
+          **connaissances** quasi parfaite dans la **rédaction**, le
+          **netlinking**, le **cocon** **sémantique**, mais surtout dans le
+          **référencement naturel**.
 
 
-          Travailler le référencement SEO d'un site web nécessite de nombreuses
-          opérations ainsi que de nombreuses stratégies. Grâce à cela, dites
-          bonjour aux premières pages de résultats sur Google.
+          Faites appel aux professionnels.
         content_align: left
         actions: []
         actions_align: left
