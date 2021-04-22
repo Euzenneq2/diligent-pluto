@@ -201,15 +201,14 @@ sections:
           ### Balise ALT
 
 
-          Le SEO demande beaucoup de patience et de rigueur. Pour réussir à
-          acquérir des résultats, vous avez tout intérêt à être équipé des bons
-          outils.
+          Vous le savez peut-être, mais Google ne peut pas regarder une image,
+          il ne sait que la lire. En effet, il peut interpréter l'image de votre
+          page grâce aux contenus dans votre balise ALT ou dans son titre.
 
 
-          Du logiciel d'**optimisation de vos textes**, aux **outils
-          d'indexation** et autres **solutions d'analyse concurrentielle**. Je
-          vous liste mes outils pour mener à bien ma **stratégie de
-          référencement** sur votre site internet.
+          Cette balise sera inspectée par les spiders et classifiée. Elle peut
+          donc influencer vote positionnement sur les résultats des moteurs de
+          recherches.
         content_align: left
         actions: []
         actions_align: left
