@@ -1,7 +1,7 @@
 ---
 title: Rédaction SEO
 sections:
-  - title: Une méthode de rédaction pour booster votre co
+  - title: Une méthode de rédaction pour booster vos contenus
     content: >
       Le contenu SEO ne sa base pas simplement sur des **techniques** à
       apprendre telles que les moyens d'adapter le texte aux **impératifs des
