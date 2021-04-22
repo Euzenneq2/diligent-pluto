@@ -153,33 +153,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title_align: left
-        content: >
-          ### Réécrire l'URL
-
-
-          Pour un bon **référencement SEO**, il est important de raccourcir ou
-          réécrire l'URL d'une page web. Ainsi, les **Google bots** comprendront
-          le sujet de votre page plus facilement.
-
-
-          De plus, vos visiteurs saisiront aussi **directement** le contenu de
-          votre page internet qu'ils souhaitent consulter depuis la **SERP**.
-
-
-          Vous pouvez changer cet URL à la construction de votre page sans
-          problème. Mais aussi si votre page est déjà indexé, par contre la
-          technique est un peu plus compliqué.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: two
     grid_gap_vert: large
     grid_gap_horiz: large
