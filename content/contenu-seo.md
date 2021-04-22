@@ -331,12 +331,13 @@ sections:
       à la rédaction web ?
 
 
-      Étant rédacteur web formé au référencement naturel, ma mission première
-      est de rédiger des articles ayant de l'intérêt pour mes lecteurs et le
-      référencer pour qu'il soit lisible par les moteurs de recherche.
-      Cependant, j'ai décidé de ne pas m'arrêter la en élargissant mon champ mon
-      expertise. L'objectif est de proposer à ma clientèle un large éventail de
-      solution pour augmenter leurs visibilités sur internet.
+      Certaines compétences sont indispensables pour la rédaction web. Outre
+      l'art de bien choisir ces mots, il existe des règles et des techniques
+      nécessaires pour que le rédacteur web mène à bien ces missions
+      d'amélioration de votre site internet.
+
+
+      Avec quoi développer votre site internet ?
     image: images/Competence-mary-marketing.png
   - actions: []
     grid_items:
