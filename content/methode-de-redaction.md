@@ -129,8 +129,10 @@ sections:
           Cette technique de rédaction consiste à mettre en **début** de votre
           article le **message principal** que veut faire passer le rédacteur.
           Cela permet de gager l'**attention du lecteur**, d’**éveiller son
-          attention** et de le faire rester sur votre article. Grâce à cela il
-          pourra lire votre production jusqu'au bout.
+          attention** et de le faire rester sur votre article.
+
+
+          Grâce à cela il pourra lire votre production jusqu'au bout.
         content_align: left
         actions: []
         actions_align: left
