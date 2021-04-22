@@ -142,24 +142,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >
-          ### Lisibilité du texte
-
-
-          Votre **contenu** doit être lisible pour vos lecteurs. Vous devez
-          faire en sorte que cette lecture soit **agréable et de qualité**.
-
-
-          Pour cela, il est important de structurer les paragraphes avec des
-          **sous-titres**. Ces paragraphes ne doivent pas être trop long, je
-          saute une ligne toutes les 4 lignes rédigées. Il faut faire attention
-          à la **longueur des phrases**. Elles ne doivent pas être trop longues
-          et doivent être articulées avec des **mots de liaisons**. De plus,
-          l'utilisation de la voix passive ne doit pas être intensive.
-
-
-          En respectant ces règles, **l'expérience utilisateur** sera très
-          agréable pour vos lecteurs.
+        content: "### Chunking (découpage de contenu)\n\nOn découpe, on découpe. Oui, mais ça sert à quoi ? Tout simplement à guider vos lecteurs en décomposant l’information.\n\nEn lien direct avec les autres\_**techniques de rédaction web**, le\_**chunking**\_va conduire l’internaute jusqu’à la fin du texte, sans même qu’il s’en rende compte. Magique, non ?\n"
         content_align: left
         actions: []
         actions_align: left
