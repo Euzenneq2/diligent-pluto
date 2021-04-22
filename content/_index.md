@@ -593,19 +593,17 @@ sections:
         title_align: left
         content: >
           Un rédacteur web ne se contente pas d'écrire pour le web, il doit
-          connaitre toutes les bonnes pratiques pour adapter vos contenus aux
+          connaître toutes les bonnes pratiques pour adapter vos contenus aux
           exigences des **algorithmes des moteurs de recherche** et vous
           positionner sur les premières pages de Google.
 
 
           Je connais la majeure partie des **techniques de référencement** SEO.
-
-
           Pour atteindre vos objectifs, je mets en place une **stratégie de mots
           clés**, structure vos textes avec des balises HTML (h1, h2, h3, etc.),
-          travail vos la balise TITLE, balise ALT, méta description et
-          réécriture d'URL. Je me charge aussi d'**optimiser vos images** et
-          autres médias pour **accélérer le chargement de vos pages**.
+          travail vos balises TITLE, ALT, méta description et je réécris votre
+          URL. Je me charge aussi d'**optimiser vos images** et autres médias
+          pour **accélérer le chargement de vos pages**.
         content_align: left
         actions:
           - label: En savoir plus
