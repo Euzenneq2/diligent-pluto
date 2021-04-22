@@ -177,17 +177,15 @@ sections:
           ### Optimiser les images
 
 
-          Le **White Hat SEO** correspond l'ensemble des techniques de
-          référencement naturel qui respecte les règles reconnues et acceptées
-          par Google. Tout en restant dans la légalité (**à la différence du
-          Black Hat SEO**), celle-ci permet un meilleur classement du site sur
-          les moteurs de recherche.
+          L'optimisation des images permettra à votre site web d'être plus
+          performant et d'avoir un temps de chargement de vos pages web assez
+          court pour ne pas altérer votre référencement. En effet, le poids
+          d'une image, son nom de fichier ou encore sa balise ALT influe sur le
+          SEO de votre site internet.
 
 
-          C'est une solution pérenne. Les techniques White Hat SEO vous
-          permettront de construire petit à petit une réputation, tout en
-          générant plus de visiteurs sur votre site web. Parfait pour atteindre
-          vos objectifs de **référencement Google**.
+          En optimisant vos images, vous pourrez devancer certains concurrents
+          sur la SERP Google, qui eux, ne s'en soucient peu.
         content_align: left
         actions: []
         actions_align: left
