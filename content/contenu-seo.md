@@ -8,8 +8,8 @@ sections:
       algorithmes**. Le contenu SEO est plus **compliqué** que cela. En effet,
       savez-vous composer une **balise TITRE** ou une **balise
       méta-description** dans les règles de l'art ? Savez-vous optimiser des
-      images ? Savez-vous produire un contenu plus lisible ? Pour répondre à ces
-      questions et vous faciliter la vie ainsi que la création de votre site
+      images ? Savez-vous produire un **contenu plus lisible** ? Pour répondre à
+      ces questions et vous faciliter la vie ainsi que la création de votre site
       internet, **faites appel à un rédacteur web** qui est là pour ça !
     actions: []
     image_alt: rédactrice web SEO
