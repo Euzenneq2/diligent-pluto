@@ -153,21 +153,7 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: >
-          ### Balise TITRE
-
-
-          Une pénalité peut avoir de grande conséquence sur votre classement
-          dans la SERP. Google blacklist votre site internet et le déclasse, ce
-          qui peut avoir comme impact de retrouver ces pages web invisibles aux
-          yeux des internautes (5e page des résultats de recherche, voire
-          plus...).
-
-
-          Afin d'être préventif sur le sujet, je vous explique brièvement les
-          différentes pénalités appliquées par Google et comment les éviter. Un
-          **audit SEO** peut rapidement vous donner une idée de si vous êtes
-          susceptible de recevoir ce type de **pénalité SEO**.
+        content: "### Balise TITRE\n\n\n\nAvec la balise h1, la\_**balise meta title**\_est considérée comme l’une des zones chaudes du SEO. Si ce n’est la plus importante : elle influe sur le référencement Google, sur le taux de clic et sur le taux de rebond.\n\nAttention à ne pas la confondre avec une balise meta keywords (qui n’a d’ailleurs plus d’intérêt) : on ne truffe pas la\_**balise titre**\_de mots clés. Elle doit avant tout comporter une description du contenu de la page, en moins de\_**65 caractères**. On retrouvera d’ailleurs la balise TITLE à plusieurs endroits !\n"
         content_align: left
         actions: []
         actions_align: left
