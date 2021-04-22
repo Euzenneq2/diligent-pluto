@@ -211,7 +211,19 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: "### Chunking (découpage de contenu)\n\nOn découpe, on découpe. Oui, mais ça sert à quoi ? Tout simplement à guider vos lecteurs en décomposant l’information.\n\nEn lien direct avec les autres\_**techniques de rédaction web**, le\_**chunking**\_va conduire l’internaute jusqu’à la fin du texte, sans même qu’il s’en rende compte. Magique, non ?\n"
+        content: >+
+          ### Chunking (découpage de contenu)
+
+
+          Provenant des techniques de l'UX Design, le chunking **permet
+          d’aiguiller** vos lecteurs en **divisant l'information**. Grâce à cela
+          votre page web **conserve l’attention** de l’utilisateur tout au long
+          du contenu.
+
+
+          Cette technique s'applique bien sûr à la **rédaction de contenu**
+          éditorial.
+
         content_align: left
         actions: []
         actions_align: left
