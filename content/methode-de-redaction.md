@@ -350,14 +350,12 @@ sections:
           ### Rédaction SEO
 
 
-          La rédaction de **contenu optimisé en SEO** est exigeante et nécessite
-          de nombreuses **capacités**. Effectivement, **analyser** les
-          meilleures requêtes, trouver les bons **mots-clés** et **longues
-          traînes** ainsi que leur **champ sémantique** n'est pas chose aisée
-          quand vous n'y connaissez rien.
+          Prioriser le référencement !
 
 
-          Faites alors appel à une **professionnelle**.
+          Travailler le référencement SEO d'un site web nécessite de nombreuses
+          opérations ainsi que de nombreuses stratégies. Grâce à cela, dites
+          bonjour aux premières pages de résultats sur Google.
         content_align: left
         actions: []
         actions_align: left
