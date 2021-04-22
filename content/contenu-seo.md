@@ -3,13 +3,14 @@ title: Rédaction SEO
 sections:
   - title: Un contenu SEO pour accroître votre activité
     content: >
-      **Le référencement naturel** est en fait quelque chose d'assez complexe.
-      J'ai découvert le SEO (**Search Engine Optimization**) il y a 5 ans et je
-      continue chaque semaine d'en apprendre à son sujet. Les algorithmes des
-      **moteurs de recherche** sont en évolution constante, ce qui leur donne
-      une part de mystère. Toutefois, pas d'inquiétude mes compétences en
-      **SEO** améliorons considérablement le positionnement de votre site web
-      dans les **SERP** de Google.
+      Le contenu SEO ne sa base pas simplement sur des **techniques** à
+      apprendre telles que les moyens d'adapter le texte aux **impératifs des
+      algorithmes**. Le contenu SEO est plus **compliqué** que cela. En effet,
+      savez-vous composer une **balise TITRE** ou une **balise
+      méta-description** dans les règles de l'art ? Savez-vous optimiser des
+      images ? Savez-vous produire un contenu plus lisible ? Pour répondre à ces
+      questions et vous faciliter la vie ainsi que la création de votre site
+      internet, **faites appel à un rédacteur web** qui est là pour ça !
     actions: []
     image_alt: rédactrice web SEO
     media_position: right
