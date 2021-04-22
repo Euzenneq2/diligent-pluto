@@ -225,20 +225,20 @@ sections:
           ### Lisibilité du texte
 
 
-          Votre contenu doit être lisible pour vos lecteurs. Vous devez faire en
-          sorte que cette lecture soit agréable et de qualité.
+          Votre **contenu** doit être lisible pour vos lecteurs. Vous devez
+          faire en sorte que cette lecture soit **agréable et de qualité**.
 
 
           Pour cela, il est important de structurer les paragraphes avec des
-          sous-titres. Ces paragraphes ne doivent pas être trop long, je saute
-          une ligne toutes les 4 lignes rédigées. Il faut faire attention à la
-          longueur des phrases. Elles ne doivent pas être trop longues et
-          doivent être articulées avec des mots de liaisons. De plus,
+          **sous-titres**. Ces paragraphes ne doivent pas être trop long, je
+          saute une ligne toutes les 4 lignes rédigées. Il faut faire attention
+          à la **longueur des phrases**. Elles ne doivent pas être trop longues
+          et doivent être articulées avec des **mots de liaisons**. De plus,
           l'utilisation de la voix passive ne doit pas être intensive.
 
 
-          En respectant ces règles, l'expérience utilisateur sera très agréable
-          pour vos lecteurs.
+          En respectant ces règles, **l'expérience utilisateur** sera très
+          agréable pour vos lecteurs.
         content_align: left
         actions: []
         actions_align: left
