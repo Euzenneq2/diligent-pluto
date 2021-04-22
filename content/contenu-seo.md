@@ -1,7 +1,7 @@
 ---
 title: Rédaction SEO
 sections:
-  - title: Le référencement naturel pour accroître votre activité
+  - title: Un contenu SEO pour accroître votre activité
     content: >
       **Le référencement naturel** est en fait quelque chose d'assez complexe.
       J'ai découvert le SEO (**Search Engine Optimization**) il y a 5 ans et je
