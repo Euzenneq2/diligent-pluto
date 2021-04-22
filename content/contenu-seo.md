@@ -133,17 +133,16 @@ sections:
           ### Méta description
 
 
-          Vous avez pour ambition de vous **placer dans les premiers résultats
-          de recherche** ? Je vous propose de booster le positionnement de votre
-          site, avec des références nationales et locales.
+          Une méta-description, c'est le petit texte qui apparait au-dessous du
+          titre bleu dans les **résultats de recherches Google**.
 
 
-          Nous essaierons aussi d'atteindre la **position zéro** sur des
-          requêtes précises. Qu'est-ce que c'est ? La position zéro est **le
-          résultat placé devant le premier résultat de recherche** sur Google.
-          Elle se nomme aussi featured snippet ou extrait optimise et se
-          matérialise par un bloc contenant les éléments d'une page web
-          répondant à une question posée.
+          La plupart des rédacteurs vous diront que son impact concernant le SEO
+          est faible. Selon moi, la **rigueur** et l'**attention** pour toutes
+          ces balises est très importante. Ce petit texte doit contenir votre
+          **requête cible**, un **mot clé principale** et être rédigée de façon
+          à **donner envie aux utilisateurs** de vous lire. Elle doit comporter
+          en moyenne **156 caractère maximum**.
         content_align: left
         actions: []
         actions_align: left
