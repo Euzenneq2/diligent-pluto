@@ -103,7 +103,7 @@ sections:
         template: grid_item
         title_align: left
         content: >
-          ## Balise H1
+          ### Balise H1
 
 
           Pour que votre page web se positionne correctement sur le moteur de
