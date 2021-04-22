@@ -87,20 +87,7 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: >
-          ### Balise H1
-
-
-          À quoi sert la **balise H1** ? Elle permet aux moteurs de recherches
-          **d'identifier le titre** éditorial de votre page. Grâce à cela, un
-          **spider** pourra donc distinguer votre contenu des **sous-titres**
-          H2, H3 ou H4 et des **paragraphes**. De plus, il remarquera le sujet
-          de votre contenu et attribuera à votre page un certain classement dans
-          son **algorithme** plus ou moins haut.
-
-
-          La balise H1 est donc un **pilier en termes de SEO**, portez-y une
-          attention particulière.
+        content: "### QQOQCPC\n\nWhat, Why, Who, When, Where. Ou en français, si vous préférez : Qui, Quoi, Où, Quand, Comment, Pourquoi.\n\nOui, ce n’est pas vraiment la traduction, mais le\_**QQOQCPC**\_est la version française du\_**5W**. Et ça consiste à se poser les bonnes questions avant de se lancer dans la\_**rédaction de contenu éditorial**, que ce soit pour un article de blog, une fiche produit, une page web ou autre !\n"
         content_align: left
         actions: []
         actions_align: left
