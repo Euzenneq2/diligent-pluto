@@ -122,7 +122,15 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: "### Pyramide inversée\n\nAller droit au but, voilà ce qu’implique la\_**pyramide inversée**.\n\nPrincipe de rédaction web qui prend le parti de révéler tout de suite l’information convoitée par l’internaute, elle conduit le plus souvent à\_**susciter l’intérêt du lecteur**. Et un lecteur intéressé, c’est un lecteur qui va jusqu’au bout de sa lecture (voire relecture) !\_\n"
+        content: >
+          ### Pyramide inversée
+
+
+          Cette technique de rédaction consiste à mettre en **début** de votre
+          article le **message principal** que veut faire passer le rédacteur.
+          Cela permet de gager l'**attention du lecteur**, d’**éveiller son
+          attention** et de le faire rester sur votre article. Grâce à cela il
+          pourra lire votre production jusqu'au bout.
         content_align: left
         actions: []
         actions_align: left
