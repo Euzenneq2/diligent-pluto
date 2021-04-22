@@ -202,13 +202,14 @@ sections:
 
 
           Vous le savez peut-être, mais Google ne peut pas regarder une image,
-          il ne sait que la lire. En effet, il peut interpréter l'image de votre
-          page grâce aux contenus dans votre balise ALT ou dans son titre.
+          il ne sait que la lire. En effet, il peut **interpréter l'image** de
+          votre page grâce aux contenus dans votre **balise ALT** ou dans son
+          **titre**.
 
 
           Cette balise sera inspectée par les spiders et classifiée. Elle peut
-          donc influencer vote positionnement sur les résultats des moteurs de
-          recherches.
+          donc **influencer vote positionnement** sur les résultats des moteurs
+          de recherches.
         content_align: left
         actions: []
         actions_align: left
