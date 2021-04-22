@@ -186,7 +186,20 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: "### Granularité de l’information\n\nSi vous êtes un adepte du SEO, vous êtes forcément familier de la notion de\_**méthode SILOING**\_ou de\_**cocon sémantique**.\n\nPour expliquer rapidement, la granularité de l’information consiste à partir d’une thématique générale, puis de décomposer cette partie en de nombreuses sous-parties, en allant jusqu’en bas de l’échelle. Une\_**excellente stratégie de contenu à**\_développer !\n"
+        content: >
+          ### Granularité de l’information
+
+
+          La granularité permet de **transmettre l’information** du plus général
+          au plus détaillé. Elle permet de **structurer votre contenu**
+          éditorial. 
+
+
+          En d'autre termes, si vous êtes sur une page web, les premiers textes
+          que vous lirez aborderont un thème général, mais le dernier texte de
+          cette même page sera un maximum détaillé. C'est une **stratégie de
+          contenu** assez intéressante pour **structurer les informations** de
+          votre page.
         content_align: left
         actions: []
         actions_align: left
