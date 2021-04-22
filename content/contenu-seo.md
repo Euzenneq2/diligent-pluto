@@ -346,14 +346,10 @@ sections:
           ### Méthodes de rédaction
 
 
-          Pour être une bonne **rédactrice web**, je me dois de maitriser toutes
-          les **techniques de rédaction** telle que : la méthode AIDA, la
-          pyramide inversée, ou l'écriture persuasive.
-
-
-          Celle-ci ont pour objectif de **promouvoir** un produit, une personne,
-          une entreprise ou une idée. Le **copywriting** est très important pour
-          transformer vos visiteurs en prospects et futurs clients.
+          Connaitre et savoir utiliser les différentes méthodes de rédaction est
+          la base pour un rédacteur web. Il faut bien connaitre la langue
+          française ainsi que les méthodes les plus connues comme le parcours
+          client AIDA ou la méthode QQOQCP, par exemple.
         content_align: left
         actions: []
         actions_align: left
