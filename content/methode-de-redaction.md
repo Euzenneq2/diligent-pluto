@@ -76,7 +76,19 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: "### Méthode AIDA\n\n**Attention, Intérêt, Désir et Action**. 4 mots qui veulent dire beaucoup, surtout quand un rédacteur web veut absolument conduire son lecteur jusqu’à l’acte d’achat. Et\_**convertir un visiteur en client**, c’est le top de la satisfaction.\n\nAlors, je vous en dis plus sur le\_**parcours AIDA**, qui figure parmi les principales techniques de rédaction requises ?\n"
+        content: >
+          ### Méthode AIDA
+
+
+          Le nom de cette méthode reprend 4 initiales. Celles-ci signifient :
+          **Attention**, **Intérêt**, **Désir** et **Action**. Ces mots résument
+          la méthode. En effet, tout le long de la rédaction d'un contenu, le
+          rédacteur ou la rédactrice web, en suivant ces indications amènera
+          tranquillement le lecteur vers **l'acte d'achat**. 
+
+
+          Cette méthode d'écriture permet donc de **convertir un visiteur en
+          client**.
         content_align: left
         actions: []
         actions_align: left
