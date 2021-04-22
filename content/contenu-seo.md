@@ -153,7 +153,18 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: "### Balise TITRE\n\nEncore un pilier du référencement sur Google : la balise TITRE est toute aussi importante, même plus, que la balise H1. \n\nIl y a des règles ici aussi, à respecter pour une bonne balise TITRE. Cette balise sera à remplir sur chacune des pages d votre site internet. Elle décrit chaques pages et doit comporter moins de 60 caractères.\n\nAttention à ne pas la confondre avec une balise meta keywords (qui n’a d’ailleurs plus d’intérêt) : on ne truffe pas la\_**balise titre**\_de mots clés. Elle doit avant tout comporter une description du contenu de la page, en moins de\_**65 caractères**. On retrouvera d’ailleurs la balise TITLE à plusieurs endroits !\n"
+        content: >
+          ### Balise TITRE
+
+
+          Encore un pilier du référencement sur Google : la balise TITRE est
+          toute aussi importante, même plus, que la balise H1.
+
+
+          Il y a des règles ici aussi, à respecter pour une bonne balise TITRE.
+          Cette balise sera à remplir sur chacune des pages d votre site
+          internet. Elle décrit chaque page et doit comporter moins de 60
+          caractères.
         content_align: left
         actions: []
         actions_align: left
