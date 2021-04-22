@@ -174,8 +174,8 @@ sections:
         image_align: left
         image_has_padding: true
       - title_align: left
-        content: >+
-          ### White Hat SEO
+        content: >
+          ### Optimiser les images
 
 
           Le **White Hat SEO** correspond l'ensemble des techniques de
@@ -185,12 +185,10 @@ sections:
           les moteurs de recherche.
 
 
-
           C'est une solution pérenne. Les techniques White Hat SEO vous
           permettront de construire petit à petit une réputation, tout en
           générant plus de visiteurs sur votre site web. Parfait pour atteindre
           vos objectifs de **référencement Google**.
-
         content_align: left
         actions: []
         actions_align: left
