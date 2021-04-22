@@ -328,14 +328,10 @@ sections:
           ### Stratégie de contenu
 
 
-          Connaissez-vous le **storytelling**, les objectifs **SMART** ou
-          SMARTER, le "**profil d'acheteur**" ? Ce sont les **outils** qui me
-          permettront de vous élaborer une stratégie de **content marketing** et
-          une **stratégie éditoriale.**
-
-
-          Le but est d'apporter un **contenu pertinent et intéressant** a vos
-          visiteurs.
+          La **stratégie de content marketing** réalisé par un bon rédacteur et
+          de façon intelligente peut vous apporter de **nombreux résultats
+          positifs**. Vidéos, articles de blog, podcasts, ebooks, newsletters,
+          réseaux sociaux… Le contenu peut apparaître sous différentes formes.
         content_align: left
         actions: []
         actions_align: left
