@@ -388,16 +388,16 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ### Référencement naturel
+          ### Rédaction SEO
 
 
-          Le netlinking, les liens internes, l'optimisation SEO, le duplicate
-          content, toutes ces **techniques** de référencement naturel sont à
-          connaitre pour **produire du contenu** sur internet.
+          La rédaction de contenu optimisé en SEO est exigeante et nécessite de
+          nombreuses capacités. Effectivement, analyser les meilleures requêtes,
+          trouver les bons mots-clés et longues traînes ainsi que leur champ
+          sémantique n'est pas chose aisée quand vous n'y connaissez rien.
 
 
-          Afin de proposer un **service de qualité** pour vos clients et de
-          **valoriser leurs sites internet**, pensez au référencement naturel.
+          Faites alors appel à une professionnelle.
         content_align: left
         actions: []
         actions_align: left
