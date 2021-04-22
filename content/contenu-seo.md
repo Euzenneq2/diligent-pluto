@@ -369,13 +369,11 @@ sections:
           ### Stratégie de contenu
 
 
-          Vous a t-ou déjà parlé de **content marketing** ? Cette **stratégie
-          éditoriale** vous permettra d'optimiser la distribution de vos
-          contenus, pour qu'il s'adresse efficacement à votre persona cible.
-
-
-          Le **marketing de contenu** vous aidera d'atteindre rapidement vos
-          objectifs et améliora votre **notoriété** sur le web.
+          Connaissez-vous le **storytelling**, les objectifs **SMART** ou
+          SMARTER, le "**profil d'acheteur**" ? Ce sont les **outils** qui me
+          permettront de vous élaborer une stratégie de **content marketing** et
+          une **stratégie éditoriale** dans le but d'apporter un **contenu
+          pertinent et intéressant** a vos visiteurs.
         content_align: left
         actions: []
         actions_align: left
