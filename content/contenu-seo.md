@@ -177,15 +177,15 @@ sections:
           ### Optimiser les images
 
 
-          L'optimisation des images permettra à votre site web d'être plus
-          performant et d'avoir un temps de chargement de vos pages web assez
-          court pour ne pas altérer votre référencement. En effet, le poids
-          d'une image, son nom de fichier ou encore sa balise ALT influe sur le
-          SEO de votre site internet.
+          L'optimisation des images permettra à votre site web d'être **plus
+          performant** et d'avoir un temps de **chargement** de vos pages web
+          assez court pour ne pas altérer votre **référencement**. En effet, le
+          poids d'une image, son nom de fichier ou encore sa balise ALT **influe
+          sur le SEO** de votre site internet.
 
 
-          En optimisant vos images, vous pourrez devancer certains concurrents
-          sur la SERP Google, qui eux, ne s'en soucient peu.
+          En optimisant vos images, vous pourrez **devancer certains
+          concurrents** sur la SERP Google, qui eux, ne s'en soucient peu.
         content_align: left
         actions: []
         actions_align: left
