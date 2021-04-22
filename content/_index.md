@@ -527,7 +527,7 @@ sections:
       - title: Rédaction SEO
         title_align: left
         content: >
-          Savoir rédiger pour le web et délivrer des messages impactant pour
+          Savoir rédiger pour le web et délivrer des messages impactants pour
           convertir vos visiteurs ne s'improvise pas.
 
           Un **rédacteur web** se doit de maitriser le **copywriting**,
