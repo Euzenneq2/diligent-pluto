@@ -306,12 +306,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      ## Le référencement naturel est un ensemble de techniques qui vous
-      aideront à atteindre les premiers résultats de recherche Google
+      ## Le contenu SEO est un groupement de règles bien spécifique qui peuvent
+      améliorer votre référencement naturel.
 
 
-      De ce fait, le taux de trafic de votre site sera considérablement augmenté
-      !
+      Bien les respecter est nécessaire pour générer du trafic et grimper dans
+      le classement des moteurs de recherches !
   - actions: []
     image_alt: Compétence rédaction seo
     media_position: bottom
