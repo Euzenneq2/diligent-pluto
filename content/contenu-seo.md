@@ -201,13 +201,12 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          ### Outils SEO
+          ### Balise ALT
 
 
           Le SEO demande beaucoup de patience et de rigueur. Pour réussir à
           acquérir des résultats, vous avez tout intérêt à être équipé des bons
           outils.
-
 
 
           Du logiciel d'**optimisation de vos textes**, aux **outils
