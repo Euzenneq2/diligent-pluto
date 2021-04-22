@@ -371,13 +371,12 @@ sections:
           ### Référencement naturel
 
 
-          Le netlinking, les liens internes, l'optimisation SEO, le duplicate
-          content, toutes ces **techniques** de référencement naturel sont à
-          connaitre pour **produire du contenu** sur internet.
+          Prioriser le **référencement** !
 
 
-          Afin de proposer un **service de qualité** pour vos clients et de
-          **valoriser leurs sites internet**, pensez au référencement naturel.
+          Travailler le référencement SEO d'un site web nécessite de nombreuses
+          **opérations** ainsi que de nombreuses **stratégies**. Grâce à cela,
+          dites bonjour aux pr**emières pages de résultats** sur Google.
         content_align: left
         actions: []
         actions_align: left
