@@ -239,17 +239,10 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >
-          ## Réécrire l'URL
+        content: |
+          ### Réécrire l'URL
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          La réécriture de l'URL est
         content_align: left
         actions: []
         actions_align: left
