@@ -84,14 +84,17 @@ sections:
           ### Nombre de mots
 
 
-          La création de **backlinks** a pour but d'augmenter la popularité d'un
-          site web. Si Google détecte que le site est cité et pointé à plusieurs
-          reprises, alors il le considéra comme un site référent sur le sujet
-          qu'il traite. Cela peut **favoriser son positionnement dans les
-          résultats de recherche**, si le site dont provienne les liens sont de
-          qualité. C'est une technique très connue et souvent utilisée dans lors
-          d'une stratégie de **netlinking**, car moins onéreuse que le
-          déploiement de campagnes Google AdWords (SEA).
+          Les moteurs de recherches Google estiment qu'un article avec un
+          **grand volume** de mot est plus **pertinent**. Il est donc nécessaire
+          de s'attarder sur le nombre de mots de votre article afin
+          **d'améliorer votre référencement naturel**. Aussi, une technique
+          appelée : la **pyramide inversée** peut amener une certaine
+          **logique** et une **ergonomie** de lecture pour votre audience.
+
+
+          Selon une étude réalisée en 2020 par Backlinko, la longueur moyenne
+          pour un article serait de **1447 mots**. Bien sûr, il en va de soi
+          d'ajuster le nombre de mots au **type de production** à réaliser.
         content_align: left
         actions: []
         actions_align: left
