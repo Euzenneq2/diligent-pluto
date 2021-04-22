@@ -98,20 +98,7 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: >
-          ### Méta description
-
-
-          Une méta-description, c'est le petit texte qui apparait au-dessous du
-          titre bleu dans les **résultats de recherches Google**.
-
-
-          La plupart des rédacteurs vous diront que son impact concernant le SEO
-          est faible. Selon moi, la **rigueur** et l'**attention** pour toutes
-          ces balises est très importante. Ce petit texte doit contenir votre
-          **requête cible**, un **mot clé principale** et être rédigée de façon
-          à **donner envie aux utilisateurs** de vous lire. Elle doit comporter
-          en moyenne **152 caractère maximum**.
+        content: "### Pyramide inversée\n\nAller droit au but, voilà ce qu’implique la\_**pyramide inversée**.\n\nPrincipe de rédaction web qui prend le parti de révéler tout de suite l’information convoitée par l’internaute, elle conduit le plus souvent à\_**susciter l’intérêt du lecteur**. Et un lecteur intéressé, c’est un lecteur qui va jusqu’au bout de sa lecture (voire relecture) !\_\n"
         content_align: left
         actions: []
         actions_align: left
