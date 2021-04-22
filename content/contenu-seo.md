@@ -105,20 +105,7 @@ sections:
       - type: grid_item
         template: grid_item
         title_align: left
-        content: >
-          ### Balise H1
-
-
-          Pour que votre page web se positionne correctement sur le moteur de
-          recherche elle doit répondre aux **exigences des robots** crawler.
-
-
-          C'est pourquoi lors de mes **audits SEO**, je vérifie que vos pages
-          répondre à ces normes en commençant par la bonne structuration de
-          votre contenu avec les balises HTML (h1,h2,h3...). Que vous ayez
-          rédiger des paragraphes bien distincts, que celui comporte des liens
-          internes et externes, l'enrichissement de votre champ sémantique et
-          l'**optimisation des médias** présents.
+        content: "### Balise H1\n\nÀ quoi sert la **balise H1** ? Elle permet aux moteurs de recherches **d'identifier le titre** éditorial de votre page. Grâce à cela, un **spider** pourra donc distinguer votre contenu des **sous-titres** H2, H3 ou H4 et des **paragraphes**. De plus, il remarquera le sujet de votre contenu et attribuera à votre page un certain classement dans son\_**algorithme **plus ou moins haut.\n\nLa balise H1 est donc un **pilier en termes de SEO**, portez-y une attention particulière.\n"
         content_align: left
         actions: []
         actions_align: left
