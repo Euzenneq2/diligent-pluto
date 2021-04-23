@@ -161,8 +161,6 @@ sections:
         title: Community management
       - title: Calendrier éditoriale
         title_align: left
-        content: |
-          tyrujyriuiopipuu
         content_align: left
         actions: []
         actions_align: left
