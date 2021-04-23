@@ -46,7 +46,7 @@ sections:
         media_width: fourty
         align: center
         type: feature
-        image: images/classic/feature-3.png
+        image: images/quest-ce-strategie-de-contenu.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
