@@ -107,17 +107,14 @@ sections:
         title: Charte éditoriale
         title_align: left
         content: >
+          La charte éditoriale est un outil qui vous **guidera** tout au long de
+          votre stratégie de contenu. En effet, c'est elle qui vous
+          **aiguillera** sur la **ligne** **éditoriale** à adopter.
 
 
-          La charte éditoriale, c’est juste indispensable. Elle vous guide dans
-          votre stratégie de marketing digital, encadre vos équipes
-          rédactionnelles, définit votre ligne éditoriale, etc.
-
-
-          C’est d’une importance capitale pour toute boutique en ligne, blog ou
-          site internet qui souhaite atteindre ses objectifs SMART, générer des
-          leads et conserver une certaine cohérence dans la rédaction de
-          contenus pertinents (livres blancs, newsletters, infographie, etc.).
+          Elle permettra également d'**atteindre** sereinement les **objectifs
+          fixés**, et de conserver un lien et une **harmonie** entre dans votre
+          **contenu**.
         content_align: left
         actions: []
         actions_align: left
