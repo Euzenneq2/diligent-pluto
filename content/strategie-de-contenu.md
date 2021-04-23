@@ -42,7 +42,7 @@ sections:
           **votre projet** soit correctement conduit.
         actions: []
         image_alt: Booster votre contenu seo
-        media_position: left
+        media_position: bottom
         media_width: fourty
         align: left
         type: feature
