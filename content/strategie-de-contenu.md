@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Une stratégie de contenu efficace pour des résultats pertinents
-    subtitle: Soyez sur les premières pages des moteurs de recherche !
+    subtitle: 'Travaillons votre contenu, améliorez vos performances.'
     background_color: primary
     actions:
       - label: Contactez-moi
