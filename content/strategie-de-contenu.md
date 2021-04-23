@@ -43,7 +43,7 @@ sections:
         actions: []
         image_alt: Booster votre contenu seo
         media_position: bottom
-        media_width: thirty-three
+        media_width: sixty
         align: center
         type: feature
         image: /images/Booster-votre-seo.svg
