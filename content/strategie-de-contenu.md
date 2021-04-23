@@ -63,16 +63,12 @@ sections:
         template: grid_item
         title: Profil acheteur
         title_align: left
-        content: >
+        content: |
           ***
 
-
           ***
 
-
-          Il est important de connaitre sa cible et ces futurs acheteurs.
-          Effectivement, cela pourra vous permettre de fidéliser, de convertir
-          vos leads et de mieux vendre.
+          ***
         content_align: left
         actions: []
         actions_align: left
