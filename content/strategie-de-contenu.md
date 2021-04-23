@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: Rédaction web pour tous vos sites internet
+    title: Une stratégie de contenu efficace pour des résultats pertinents
     subtitle: Soyez sur les premières pages des moteurs de recherche !
     background_color: primary
     actions:
