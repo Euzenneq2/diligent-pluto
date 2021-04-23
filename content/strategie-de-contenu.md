@@ -15,16 +15,10 @@ sections:
     align: left
     image_alt: Rédaction web internet
     content: >
-      La **stratégie de contenu** permet d'apporter une **forte valeur ajoutée**
-      à l'ensemble des **canaux de communication** d'une entreprise tels que le
-      site internet, la newsletter, les réseaux sociaux, le e-mailling, etc. Via
-      ces canaux, votre expertise sera divisée et permettra de **générer du
-      trafic** et **d'attirer vos cibles**.
 
 
-      C'est une étape de **l'inbound marketing**. Une attention particulière
-      doit être mise sur la création d'une stratégie de contenu afin que **votre
-      projet** soit correctement conduit.
+      dans le but de générer des leads, de gagner de nouveaux prospects et
+      d’engager une communauté autour d’une marque
   - type: features_section
     template: features_section
     title: Qu'est-ce qu'une stratégie de contenu ?
