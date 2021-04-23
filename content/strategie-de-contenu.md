@@ -61,7 +61,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Des fiches produits
+        title: Profil acheter (buyer persona)
         title_align: left
         content: |
           sfbsbsb
