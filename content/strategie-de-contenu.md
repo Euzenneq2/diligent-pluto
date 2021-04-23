@@ -63,7 +63,16 @@ sections:
         template: grid_item
         title: Profil acheteur (buyer persona)
         title_align: left
-        content: "****\n\n**Définir le client idéal**, c’est la première chose que je fais quand je démarre une mission pour un nouveau client. Pourquoi ?\n\nParce que je ne vais pas vendre de la viande à un végétarien, par exemple. Ni une crème antirides à des étudiants. Mais définir ses cibles, c’est un peu plus ambitieux que ça : c’est tout votre stratégie digitale qui repose dessus, pour vendre mieux,\_**améliorer le taux de conversion**\_et fidéliser vos clients !\n"
+        content: >
+          ***
+
+
+          ***
+
+
+          Il est important de connaitre sa cible et ces futurs acheteurs.
+          Effectivement, cela pourra vous permettre de fidéliser, de convertir
+          vos leads et de mieux vendre.
         content_align: left
         actions: []
         actions_align: left
