@@ -87,7 +87,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Des pages web
+        title: Charte éditoriale
         title_align: left
         content: |
           cdscqsffg
