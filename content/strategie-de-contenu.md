@@ -63,8 +63,16 @@ sections:
         template: grid_item
         title: Profil acheteur
         title_align: left
-        content: |
-          dzdazrazer
+        content: >
+          Le **buyeur persona** en anglais, correspond à la création d'un
+          **profil client** typique de l'entreprise et de son domaine
+          d'activité.
+
+
+          Cette technique va permettre d'apprendre à bien **connaître** ces
+          prospects et à pouvoir leur proposer du **contenu pertinent** et
+          intéressent. Tout cela dans le but de **mieux vendre**, **d'améliorer
+          la conversion** de vos leads et de **fidéliser** vos clients.
         content_align: left
         actions: []
         actions_align: left
