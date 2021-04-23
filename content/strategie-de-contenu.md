@@ -61,21 +61,6 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Profil acheteur
-        title_align: left
-        content: |
-          ***
-
-          ***
-        content_align: left
-        actions: []
-        actions_align: left
-        image_alt: Item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - type: grid_item
-        template: grid_item
         title: Objectif SMART
         title_align: left
         content: |
