@@ -44,7 +44,7 @@ sections:
         image_alt: Booster votre contenu seo
         media_position: bottom
         media_width: fourty
-        align: left
+        align: center
         type: feature
         image: /images/Booster-votre-seo.svg
     feature_padding_vert: medium
