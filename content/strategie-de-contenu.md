@@ -4,7 +4,6 @@ sections:
   - type: hero_section
     template: hero_section
     title: Une stratégie de contenu efficace pour des résultats pertinents
-    subtitle: Travaillons votre
     background_color: primary
     actions:
       - label: Contactez-moi
