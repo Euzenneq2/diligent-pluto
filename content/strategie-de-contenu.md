@@ -56,25 +56,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-  - type: cta_section
-    template: cta_section
-    content: |
-      ## Choisissez un contenu SEO optimisé pour Google, à partir de 0,10 €/mot
-
-      C'est avec une bonne stratégie que votre contenu de qualité sera visible !
-    actions:
-      - type: action
-        template: action
-        label: Je demande un devis
-        url: /contact
-        style: primary
-        icon_position: left
-    actions_position: bottom
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
   - type: features_section
     template: features_section
     features:
@@ -154,6 +135,25 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: cta_section
+    template: cta_section
+    content: |
+      ## Choisissez un contenu SEO optimisé pour Google, à partir de 0,10 €/mot
+
+      C'est avec une bonne stratégie que votre contenu de qualité sera visible !
+    actions:
+      - type: action
+        template: action
+        label: Je demande un devis
+        url: /contact
+        style: primary
+        icon_position: left
+    actions_position: bottom
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
