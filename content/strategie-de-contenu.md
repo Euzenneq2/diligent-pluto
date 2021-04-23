@@ -66,7 +66,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Je me lance !
+        label: Je demande un devis
         url: /contact
         style: primary
         icon_position: left
