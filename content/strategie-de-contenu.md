@@ -28,10 +28,7 @@ sections:
     template: features_section
     title: Qu'est ce qu'une stratégie de contenu ?
     features:
-      - subtitle: >-
-          Aujourd'hui, la rédaction web est obligatoire lors du développement de
-          votre site internet.
-        content: >
+      - content: >
           La **stratégie de contenu** permet d'apporter une **forte valeur
           ajoutée** à l'ensemble des **canaux de communication** d'une
           entreprise tels que le site internet, la newsletter, les réseaux
