@@ -14,6 +14,11 @@ sections:
     padding_bottom: large
     align: left
     image_alt: Rédaction web internet
+    content: >
+
+
+      dans le but de générer des leads, de gagner de nouveaux prospects et
+      d’engager une communauté autour d’une marque
   - type: features_section
     template: features_section
     title: Qu'est-ce qu'une stratégie de contenu ?
