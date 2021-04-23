@@ -134,8 +134,6 @@ sections:
         image_align: left
         image_has_padding: true
       - title_align: left
-        content: |
-          erhe'tjuyètèkj
         content_align: left
         actions: []
         actions_align: left
