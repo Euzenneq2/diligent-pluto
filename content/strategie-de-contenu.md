@@ -126,8 +126,6 @@ sections:
         template: grid_item
         title: Storytelling
         title_align: left
-        content: |
-          lmimloihului;
         content_align: left
         actions: []
         actions_align: left
