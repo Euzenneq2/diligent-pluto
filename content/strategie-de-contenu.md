@@ -61,7 +61,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Objectif SMART
+        title: Profil acheteur
         title_align: left
         content: |
           dzdazrazer
