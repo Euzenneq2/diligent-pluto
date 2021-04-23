@@ -26,7 +26,7 @@ sections:
     image_alt: Rédaction web internet
   - type: features_section
     template: features_section
-    title: 'Faire appel à une professionnelle du contenu web, c''est primordial !'
+    title: Qu'est ce qu'une stratégie de contenu ?
     features:
       - subtitle: >-
           Aujourd'hui, la rédaction web est obligatoire lors du développement de
