@@ -59,7 +59,7 @@ Pour avoir un bon **profil de backlink** pertinent sur votre site internet il es
 
 Pourquoi est-ce si important ? C’est simple : si vous avez un grand nombre de **liens externes** de haute qualité qui pointent vers votre site web cela va **générer plus de trafic**, de la part des visiteurs qui cliquent sur ces liens et via les moteurs de recherche.
 
-##  La valeur d'un backlink
+## La valeur d'un backlink
 
 Les moteurs de recherche, en particulier Google mesure la valeur de votre site internet avec **la qualité et la quantité des liens entrants**.
 
@@ -91,7 +91,7 @@ De plus, pour **obtenir des backlinks** parfait, voici quelques critères de qua
 
 À noter, vous ne pouvez pas échanger des liens partenaire comme bon vous semble. En effet, si vous faite cela vous encourez au mieux un mauvais positionnement et au pire une pénalité de **Google Penguin** (Google pingouin en français : est un filtre du moteur de recherche Google précisément réservé à contrôler le **netlinking** d'un site)
 
-## Qu'est-ce qu'un lien nofollow ? 
+## Qu'est-ce qu'un lien nofollow ?
 
 Pour la plupart des utilisateurs d'un site internet, les liens **dofollow** et nofollow ont la même apparence. Cependant, les liens nofollow ont un morceau de code, appelé attribut, qui signale à l'algorithme des moteurs de recherche qu'il ne doit pas suivre le lien. Cela ressemble à ceci : **rel="nofollow"**.
 
@@ -115,17 +115,17 @@ Donc si vous cherchez à **accroître l'audimat de votre site internet** grâce 
 
 Cependant, même si les liens nofollow n'augmentent pas directement votre PageRank, ils peuvent tout de même vous être très utiles.
 
-##  Qu'est-ce qu'un lien dofollow ?
+## Qu'est-ce qu'un lien dofollow ?
 
 Un lien dofollow est simplement l'état par défaut d'un lien. Plus simplement, tout lien sans l'attribut « nofollow » est un lien dofollow.
 
 Lorsqu'un autre site établit un lien vers le vôtre avec un lien standard (aka dofollow), cela peut affecter directement le classement des moteurs de recherche. Utilisez un de vos **mots-clés** comme **texte d’ancrage**.
 
-##  Comment les liens dofollow jouent-ils dans le classement des sites ?
+## Comment les liens dofollow jouent-ils dans le classement des sites ?
 
 Les **robots** des moteurs de recherche parcourent le Web à travers les liens dofollow, en notant qui est lié à qui. Ces relations sont, que les pros du SEO appellent "jus de lien" (**link juice** en anglais).
 
-Par exemple, imaginons qu'un site réputé avec un page-rank élevé établit un lien vers le votre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors **augmenter votre pagerank **et sa notoriété.
+Par exemple, imaginons qu'un site réputé avec un page-rank élevé établit un lien vers le votre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors \*\*augmenter votre pagerank \*\*et sa notoriété.
 
 Cela peut faire **progresser votre classement** et votre popularité dans les résultats des moteurs de recherche.
 
@@ -153,7 +153,7 @@ Dans l'éditeur de votre blog, passez à **l'affichage HTML** afin de pouvoir mo
 
 *   rel= "**ugc**" peut être utilisé à la place de rel='nofollow" quand un **lien provient d'un contenu généré par les utilisateurs**.
 
-##  Quand utiliser des liens nofollow ou dofollow sur votre propre site ? 
+## Quand utiliser des liens nofollow ou dofollow sur votre propre site ?
 
 Jusqu'à maintenant, nous avons abordé les liens nofollow et dofollow de quelqu'un d’autre vers votre site. Mais, vous voudrez peut-être tirer parti de l'attribut nofollow lorsque vous créez un lien de votre site vers des sites tiers.
 
@@ -169,8 +169,10 @@ Cette allégation est contradictoire, car cela veut dire que l’on fait en sort
 
 Pour taire ces rumeurs, **John Mueller** de chez Google a confirmé que cette affirmation était fausse, sur Twitter.
 
+\<blockquote class="twitter-tweet">\<p lang="en" dir="ltr">That\&#39;s not true.\</p>\&mdash; 🍌 John 🍌 (@JohnMu) \<a href="https://twitter.com/JohnMu/status/1289223963931897856?ref_src=twsrc%5Etfw">July 31, 2020\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>
+
 ## Et ensuite ?
 
-Prenez du temps pour **optimiser et assainir** le profil de backlink de votre site internet. Une fois que vous aurez **assimilé les bases** concernant les liens dofollow et nofollow, vous serez prêt à mettre **vos connaissances au profit de votre site web**. 
+Prenez du temps pour **optimiser et assainir** le profil de backlink de votre site internet. Une fois que vous aurez **assimilé les bases** concernant les liens dofollow et nofollow, vous serez prêt à mettre **vos connaissances au profit de votre site web**.
 
 Gardez en mémoire que les **liens dofollow vous aideront à créer un page-rank**, mais que les liens nofollow peuvent aussi fournir u**n trafic et un engagement indispensable**.
