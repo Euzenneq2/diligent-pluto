@@ -106,8 +106,18 @@ sections:
         template: grid_item
         title: Charte éditoriale
         title_align: left
-        content: |
-          cdscqsffg
+        content: >
+
+
+          La charte éditoriale, c’est juste indispensable. Elle vous guide dans
+          votre stratégie de marketing digital, encadre vos équipes
+          rédactionnelles, définit votre ligne éditoriale, etc.
+
+
+          C’est d’une importance capitale pour toute boutique en ligne, blog ou
+          site internet qui souhaite atteindre ses objectifs SMART, générer des
+          leads et conserver une certaine cohérence dans la rédaction de
+          contenus pertinents (livres blancs, newsletters, infographie, etc.).
         content_align: left
         actions: []
         actions_align: left
