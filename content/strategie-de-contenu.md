@@ -26,7 +26,7 @@ sections:
     image_alt: Rédaction web internet
   - type: features_section
     template: features_section
-    title: Qu'est ce qu'une stratégie de contenu ?
+    title: Qu'est-ce qu'une stratégie de contenu ?
     features:
       - content: >
           La **stratégie de contenu** permet d'apporter une **forte valeur
