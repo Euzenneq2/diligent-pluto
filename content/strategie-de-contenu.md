@@ -73,7 +73,7 @@ sections:
         image_alt: Item 1 icon
         image_position: top
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
       - type: grid_item
         template: grid_item
         title: Objectif SMART
