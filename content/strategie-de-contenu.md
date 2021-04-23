@@ -29,19 +29,7 @@ sections:
     template: features_section
     title: Qu'est-ce qu'une stratégie de contenu ?
     features:
-      - content: >
-          La **stratégie de contenu** permet d'apporter une **forte valeur
-          ajoutée** à l'ensemble des **canaux de communication** d'une
-          entreprise tels que le site internet, la newsletter, les réseaux
-          sociaux, le e-mailling, etc. Via ces canaux, votre expertise sera
-          divisée et permettra de **générer du trafic** et **d'attirer vos
-          cibles**.
-
-
-          C'est une étape de **l'inbound marketing**. Une attention particulière
-          doit être mise sur la création d'une stratégie de contenu afin que
-          **votre projet** soit correctement conduit.
-        actions: []
+      - actions: []
         image_alt: Booster votre contenu seo
         media_position: bottom
         media_width: fourty
