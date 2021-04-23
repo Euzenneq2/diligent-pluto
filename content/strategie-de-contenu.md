@@ -100,7 +100,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Des livres blancs
+        title: Storytelling
         title_align: left
         content: |
           lmimloihului;
