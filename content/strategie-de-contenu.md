@@ -140,7 +140,6 @@ sections:
         type: grid_item
         title: Community management
       - title: Calendrier éditoriale
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           tyrujyriuiopipuu
