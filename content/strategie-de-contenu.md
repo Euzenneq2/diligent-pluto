@@ -67,8 +67,6 @@ sections:
           ***
 
           ***
-
-          ***
         content_align: left
         actions: []
         actions_align: left
