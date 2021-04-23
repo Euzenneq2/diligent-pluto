@@ -46,7 +46,7 @@ sections:
         media_width: sixty
         align: center
         type: feature
-        image: /images/Booster-votre-seo.svg
+        image: images/quest-ce-strategie-de-contenu.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
