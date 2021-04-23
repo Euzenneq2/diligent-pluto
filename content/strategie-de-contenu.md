@@ -154,42 +154,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: features_section
-    template: features_section
-    features:
-      - type: feature
-        template: feature
-        title: Stratégie des mots clé
-        content: "Sur le web, la conception-rédaction de contenu doit être associée à la **stratégie des mots-clés**. En amont, réaliser une charte éditoriale permet de garder en mémoire les attentes du client.\n\nCertains critères sont importants à connaître pour trouver des **mots-clés** pertinents.\n\nEn effet, il faut être attentif aux\_**nombres de recherches mensuel**\_du mot, au\_**type de trafic**\_qu'il génère et au\_**nombre de concurrent**\_qui le convoitise. En amont, réaliser une charte éditoriale permet de garder en mémoire les attentes du client\n"
-        image: /images/Stratégie-de-mots-clés.png
-        image_alt: Stratégie de mots clés Mary marketing
-        media_position: right
-        media_width: thirty-three
-      - type: feature
-        template: feature
-        title: La production de contenue
-        content: "Ensuite, place à la\_**création du contenu web**. Je rédige mon contenu unique en utilisant des mots-clés secondaires qui complètent le mot clé principal. J’arborise mon contenu avec des\_**balises HTML**, comme le\_**titre éditorial H1**, des sous-titres H2, H3 et H4, ainsi que des paragraphes enrichis. Il faut structurer le contenu d'un site web.\n\nLe\_**nombre de mots**\_est fondamental pour un référencement naturel efficace.\n"
-        media_position: left
-        media_width: thirty-three
-        image: /images/Production-de-contenue.png
-      - type: feature
-        template: feature
-        title: La richesse sémantique
-        content: "Le sens d’une page web est\_**déterminé en fonction des mots contenus**\_sur celle-ci. Si sur votre page, un article parle de rédaction web, il faut absolument qu'il contienne des mots clés en corrélation avec le thème tel que : netlinking, référenceur, stratégie éditoriale, digitale, webmarketing, etc.\n\nEn résumé : il faut enrichir le contenu avec les mots du\_**champ**\_**lexical**\_pour atteindre la première page de Google.\n"
-        image: /images/Richesse-sémantique.png
-        image_alt: Richesse-sémantique Mary marketing
-        media_position: right
-        media_width: thirty-three
-      - title: L'optimisation SEO
-        content: "**L’optimisation SEO de vos textes**\_est la dernière étape pour améliorer votre positionnement dans la SERP en partie grâce au langage HTML.\n\nCette étape s'effectue aussi lors de la création de\_**balise TITLE**,\_**meta description**\_ainsi que des\_**balises ALT**\_(balises qui permettent d’associer des mots-clés à vos images).\n"
-        actions: []
-        image_alt: optimisation SEO Mary marketing
-        media_position: left
-        media_width: thirty-three
-        align: left
-        type: feature
-        image: /images/optimisation-seo.png
-    title: Mes 4 étapes pour rédiger vos contenus sur internet
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
