@@ -56,28 +56,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-  - type: features_section
-    template: features_section
-    features:
-      - title: les outils d'une stratégie de contenu
-        content: |
-          qethqeht
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: bottom
-        media_width: fifty
-        align: left
-        type: feature
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
   - type: grid_section
     template: grid_section
     grid_items:
