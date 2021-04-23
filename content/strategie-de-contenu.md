@@ -146,8 +146,6 @@ sections:
         type: grid_item
         title: Audit de contenu
       - title_align: left
-        content: |
-          fces,;j;lo!:pyuktyu
         content_align: left
         actions: []
         actions_align: left
