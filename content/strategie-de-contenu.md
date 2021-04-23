@@ -59,13 +59,10 @@ sections:
     background_image_repeat: no-repeat
   - type: cta_section
     template: cta_section
-    content: >
-      ## À partir de 0,10€/mot, vous pouvez avoir un contenu SEO optimisé pour
-      Google
+    content: |
+      ## Choisissez un contenu SEO optimisé pour Google, à partir de 0,10 €/mot.
 
-
-
-      Grâce à des techniques bien définies, soyez meilleur que vos concurrents !
+      C'est avec une bonne stratégie que votre contenu de qualité sera visible !
     actions:
       - type: action
         template: action
