@@ -154,32 +154,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: cta_section
-    template: cta_section
-    actions:
-      - url: /contact
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        label: 'Demandez un devis, c''est gratuit'
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: large
-    padding_bottom: large
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    content: >
-      ## Restructurer votre site pour améliorer votre visibilité et accroître le
-      nombre de visiteurs&#xA;
   - type: features_section
     template: features_section
     features:
