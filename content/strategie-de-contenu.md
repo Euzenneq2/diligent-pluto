@@ -5,16 +5,7 @@ sections:
     template: hero_section
     title: Une stratégie de contenu efficace pour des résultats pertinents
     background_color: primary
-    actions:
-      - label: Contactez-moi
-        url: /contact
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     image: images/strategie-de-contenu.png
     media_position: right
     background_image_position: left center
