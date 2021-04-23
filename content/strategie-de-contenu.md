@@ -79,17 +79,8 @@ sections:
     template: features_section
     features:
       - title: les outils d'une stratégie de contenu
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          qethqeht
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
