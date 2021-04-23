@@ -168,7 +168,7 @@ Certaines personnes disent qu'il est recommandé d’avoir un ratio de liens nof
 Cette allégation est contradictoire, car cela veut dire que l’on fait en sorte de modifier notre **ratio de backlinks** pour garder un quota spécial entre les nofollow et dofollow. C'est n'est donc pas « naturel ».
 
 Pour taire ces rumeurs, **John Mueller** de chez Google a confirmé que cette affirmation était fausse, sur Twitter.
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">That&#39;s not true.</p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1289223963931897856?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Et ensuite ?
 
