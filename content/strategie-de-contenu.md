@@ -73,7 +73,6 @@ sections:
         image_align: left
         image_has_padding: true
       - title: Objectif SMART
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
