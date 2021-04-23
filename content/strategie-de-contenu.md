@@ -70,7 +70,6 @@ sections:
     template: features_section
     features:
       - title: les outils d'une stratégie de contenu
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
