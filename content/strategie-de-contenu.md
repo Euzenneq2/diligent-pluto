@@ -31,7 +31,18 @@ sections:
       - subtitle: >-
           Aujourd'hui, la rédaction web est obligatoire lors du développement de
           votre site internet.
-        content: "Le\_**contenu éditorial**\_est important car sans cela,\_vous ne pourrez pas avoir la visibilité nécessaire sur les moteurs de recherche pour vendre vos produits ou services.\n\nVous pouvez tenter la création de contenu par vos propres moyens et essayer d'optimiser votre web SEO. Cependant, en faisant appel à une\_**professionnelle**, vous avez la garantie d'un travail de\_**qualité**\_et\_**d'expertise**.\n"
+        content: >
+          La **stratégie de contenu** permet d'apporter une **forte valeur
+          ajoutée** à l'ensemble des **canaux de communication** d'une
+          entreprise tels que le site internet, la newsletter, les réseaux
+          sociaux, le e-mailling, etc. Via ces canaux, votre expertise sera
+          divisée et permettra de **générer du trafic** et **d'attirer vos
+          cibles**.
+
+
+          C'est une étape de **l'inbound marketing**. Une attention particulière
+          doit être mise sur la création d'une stratégie de contenu afin que
+          **votre projet** soit correctement conduit.
         actions: []
         image_alt: Booster votre contenu seo
         media_position: left
