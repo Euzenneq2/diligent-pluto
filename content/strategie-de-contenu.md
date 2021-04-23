@@ -74,7 +74,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Des articles de blog
+        title: Objectif SMART
         title_align: left
         content: |
           dzdazrazer
