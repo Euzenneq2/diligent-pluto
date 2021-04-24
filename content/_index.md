@@ -269,7 +269,7 @@ sections:
             no_follow: false
             type: action
         align: center
-        image: images/terrific-strawberry.png
+        image: images/portrait-mary-marketing.png
         content: >
           "Rédactrice web et en **freelance** depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre **stratégie éditoriale**, en
