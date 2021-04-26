@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: Un cocon sémantique de qualité pour un référencement de qualité.
+    title: 'Le netlinking, un allié pour un référencement de qualité.'
     background_color: primary
     actions: []
     image: images/cocon-semantique.png
