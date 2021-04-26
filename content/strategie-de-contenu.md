@@ -195,10 +195,15 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: >+
-          Un calendrier éditorial est important pour s'organiser et planifier la
-          publication des contenus réalisés.
+        content: >
+          L'utilisation d'un calendrier éditorial est important pour
+          **s'organiser **et** planifier** la publication des contenus réalisés.
 
+
+          En effet, vote planning éditorial doit être à jour régulièrement afin
+          de conserver une certaine **harmonie **et** cohérence** sur vos
+          différents **canaux de communication** tels que Facebook, Instagram,
+          LinkedIn, Twitter, YouTube ou encore TikTok.
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
