@@ -45,7 +45,7 @@ sections:
 
           À noter, qu'il est important d'avoir des **backlinks** du mème thème
           que votre page ou votre site internet.
-        image: images/quest-ce-que-le-cocon-semantique.png
+        image: images/quest-ce-netlinking.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
