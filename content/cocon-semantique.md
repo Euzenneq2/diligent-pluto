@@ -24,7 +24,7 @@ sections:
       de résultats de recherche et vous **différencier** de vos concurrents.
   - type: features_section
     template: features_section
-    title: Qu'est-ce qu'une stratégie de contenu ?
+    title: Qu'est-ce qu'un cocon sémantique ?
     features:
       - actions: []
         image_alt: Booster votre contenu seo
