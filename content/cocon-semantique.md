@@ -127,14 +127,12 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        content: >
-          Le **storytelling** est un style de rédaction ayant pour but de
-          **raconter une histoire** quelle soit, réelle, fictive ou imaginaire à
-          propos d'un produit, d'un service, d'une marque ou d'une entreprise.
+        content: >+
+          Pour rédiger la **structure** d'une page de cocon sémantique vous
+          devez **respecter des règles** d'architecture tel que les **balises**
+          Hn, les titres, les sous-titres, les paragraphes, les images ainsi que
+          les CTA.
 
-
-          Ce **brand content** est une technique de marketing très utilisé pour
-          amener le visiteur dans l'univers et l'**ambiance** de l'entreprise.
       - title_align: left
         content_align: left
         actions: []
