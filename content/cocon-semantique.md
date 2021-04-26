@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: Une stratégie de contenu efficace pour des résultats pertinents
+    title: Un cocon sémantique de qualité
     background_color: primary
     actions: []
     image: images/strategie-de-contenu.png
