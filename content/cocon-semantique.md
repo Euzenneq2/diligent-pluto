@@ -66,8 +66,8 @@ sections:
           savoir qui visitera votre site et qui le fera vivre.
 
 
-          Sans cette information, inutile de continuer, votre cocon sémantique
-          n'aura aucune pertinence.
+          Sans cette information, inutile de continuer, votre **cocon
+          sémantique** n'aura aucune pertinence.
         content_align: left
         actions: []
         actions_align: left
