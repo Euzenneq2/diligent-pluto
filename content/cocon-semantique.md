@@ -59,7 +59,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Profil acheteur
+        title: Identification de la cible
         title_align: left
         content: >
           Le **buyeur persona** en anglais, correspond à la création d'un
