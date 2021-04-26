@@ -33,16 +33,18 @@ sections:
         align: center
         type: feature
         content: >
-          C'est une technique de **maillage internet** qui permet de lier par un
-          **thème commun**, les pages de votre site internet et ainsi, créer des
-          parentés entre celles-ci. Pour cela, votre site doit comporter des
-          **catégories** et des **sous-catégories**. Ainsi, un maillage en cocon
-          sera construit de façon pertinente. Cette méthode permet **d'améliorer
-          le référencement naturel** de votre site web, **générer du trafic** et
-          augmenter votre **taux de conversion.**
+          Le netlinking est une méthode qui consiste à **développer** le nombre
+          de **liens externes de qualité** : les backlinks, qui pointent vers
+          une page ou un site internet que l'on veut **promouvoir**. Cette
+          technique permet d'**obtenir un trafic** de qualité qui permettra
+          d'**améliorer la crédibilité** et la **popularité** de votre page. En
+          effet, si le backlink que vous avez est le lien d'un site internet
+          bien référencé, alors vous obtiendrait un trafic de qualité provenant
+          de ce site.
 
 
-          À noter que cette technique vient du **terme marketing "le siloing"**.
+          À noter, qu'il est important d'avoir des **backlinks** du mème thème
+          que votre page ou votre site internet.
         image: images/quest-ce-que-le-cocon-semantique.png
     feature_padding_vert: medium
     align: center
