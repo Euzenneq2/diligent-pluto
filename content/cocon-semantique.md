@@ -148,15 +148,14 @@ sections:
         type: grid_item
         title: Maillage interne
         content: >
-          L'**audit SEO** est un bon outil pour permettre de constater ou non
-          des baisses de **performance** de votre site internet ou plus
-          particulièrement de l'une de ces pages.
+          Le maillage interne se prépare en amont avec la carte mentale puis la
+          stratégie de contenu. Elle est créée par la suite. 
 
 
-          En effet, votre contenu sera **analysé**, **étudié**, **décortiqué**
-          afin de **cibler la sources** de cette même perte de performances. Par
-          la suite, des **solutions** seront trouvées puis **mises en place**
-          afin de vous permettre de retrouver la sérénité de vos débuts.
+          Perdre le fil est vie arrivée si vous n'utilisez pas toutes ces
+          **étapes** pour créer votre **cocon sémantique**. Faites appel à un
+          **professionnel** des liens **internes** et **externes** (les
+          backlinks) pour vous assurer un bon cocon sémantique.
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
