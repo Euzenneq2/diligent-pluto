@@ -195,6 +195,10 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        content: >+
+          Un calendrier éditorial est important pour s'organiser et planifier la
+          publication des contenus réalisés.
+
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
