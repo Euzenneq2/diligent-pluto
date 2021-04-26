@@ -32,7 +32,6 @@ sections:
         media_width: fourty
         align: center
         type: feature
-        image: images/quest-ce-que-le-cocon-semantique.jpg
         content: >
           C'est une technique de **maillage internet** qui permet de lier par un
           **thème commun**, les pages de votre site internet et ainsi, créer des
