@@ -33,7 +33,17 @@ sections:
         align: center
         type: feature
         image: images/quest-ce-strategie-de-contenu.png
-        content: "C'est une technique de maillage internet qui permet de positionner chacune de vos pages sur un mot clé pertinants et ainsi, créer des parentés entre les pages d'un même thème.\n\n\n\nVous devez savoir une chose en ce qui concerne l’algorithme du moteur de recherche Google : il accorde plus de crédit à un site qui va\_**traiter de tous les sujets qui gravitent autour de sa thématique**.\n\nPar son architecture, sa diversité lexicale et son maillage interne, le\_**cocon sémantique**\_se base sur la technique de Wikipédia\_: à travers des liens, une page doit pouvoir conduire l’internaute sur des dizaines de contenus pertinents et sémantiquement proches du sujet ciblé.\n\nPlus besoin d’**Adwords**\_pour avoir un\_**bon référencement web**\_!\n"
+        content: >
+          C'est une technique de maillage internet qui permet de lier par un
+          thème commun, les pages de votre site internet et ainsi, créer des
+          parentés entre celles-ci. Pour cela, votre site doit comporter des
+          catégories et des sous catégories. Ainsi, un maillage en cocon sera
+          construit de façon pertinente. Cette méthode permet d'améliorer le
+          référencement naturel de votre site web, générer du trafic et
+          augmenter votre taux de conversion.
+
+
+          À noter que cette technique vient du terme marketing "le siloing". 
     feature_padding_vert: medium
     align: center
     padding_top: medium
