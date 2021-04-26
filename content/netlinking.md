@@ -24,7 +24,7 @@ sections:
       sur la **SERP** Google.
   - type: features_section
     template: features_section
-    title: Qu'est-ce qu'un cocon sémantique ?
+    title: Qu'est-ce que le netlinking ?
     features:
       - actions: []
         image_alt: Booster votre contenu seo
