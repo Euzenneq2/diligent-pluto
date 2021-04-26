@@ -61,15 +61,13 @@ sections:
         title: Identification de la cible
         title_align: left
         content: >
-          Le **buyeur persona** en anglais, correspond à la création d'un
-          **profil client** typique de l'entreprise et de son domaine
-          d'activité.
+          **Définir** et identifie **votre cible** est la première étape dans
+          l'élaboration d'un cocon sémantique. En effet, il est important de
+          savoir qui visitera votre site et qui le fera vivre.
 
 
-          Cette technique va permettre d'apprendre à bien **connaître** ces
-          prospects et à pouvoir leur proposer du **contenu pertinent** et
-          intéressent. Tout cela dans le but de **mieux vendre**, **d'améliorer
-          la conversion** de vos leads et de **fidéliser** vos clients.
+          Sans cette information, inutile de continuer, votre cocon sémantique
+          n'aura aucune pertinence.
         content_align: left
         actions: []
         actions_align: left
