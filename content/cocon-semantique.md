@@ -29,7 +29,7 @@ sections:
       - actions: []
         image_alt: Booster votre contenu seo
         media_position: bottom
-        media_width: fourty
+        media_width: sixty
         align: center
         type: feature
         image: images/marvelous-wallaby.png
