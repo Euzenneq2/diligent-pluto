@@ -150,7 +150,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Audit de contenu
+        title: Maillage interne
         content: >
           L'**audit SEO** est un bon outil pour permettre de constater ou non
           des baisses de **performance** de votre site internet ou plus
