@@ -29,7 +29,7 @@ sections:
       - actions: []
         image_alt: Booster votre contenu seo
         media_position: bottom
-        media_width: thirty-three
+        media_width: fourty
         align: center
         type: feature
         content: >
