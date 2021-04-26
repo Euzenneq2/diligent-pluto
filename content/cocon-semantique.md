@@ -15,14 +15,13 @@ sections:
     align: left
     image_alt: Rédaction web internet
     content: >
-      Une **stratégie de contenu**, c'est apprendre à **connaitre
-      l'environnement** de l'entreprise avec laquelle je travaille. Connaitre
-      son marché, son histoire, son **positionnement** ainsi que ces clients.
+      Le cocon sémantique : une des principales méthodes pour permettre à votre
+      site internet d'être **bien référencé sur Google**. 
 
 
-      Cela va permettre d'établir cette stratégie de façon **pertinente**. Dans
-      le but de **générer des leads**, de gagner de nouveaux **prospects** et
-      d’**engager** une communauté.
+      En suivant les **techniques** de réalisation d'un bon cocon sémantique
+      votre page web pourra **gagner en positionnement** sur les premières pages
+      de résultats de recherche et vous **différencier** de vos concurrents.
   - type: features_section
     template: features_section
     title: Qu'est-ce qu'une stratégie de contenu ?
