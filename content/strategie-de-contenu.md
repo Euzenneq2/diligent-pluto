@@ -212,10 +212,12 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    content: |
-      ## Choisissez un contenu SEO optimisé pour Google, à partir de 0,10 €/mot
+    content: >
+      ## Un article optimisé SEO en accord avec votre stratégie de contenu, à
+      partir de 0,10 €/mot
 
-      C'est avec une bonne stratégie que votre contenu de qualité sera visible !
+
+      Devenez plus visible !
     actions:
       - type: action
         template: action
