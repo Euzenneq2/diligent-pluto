@@ -78,15 +78,13 @@ sections:
       - title: Prévisualisation du cocon avec une carte mentale
         title_align: left
         content: >
-          Les objectifs SMART est une **stratégie de contenu** permettant de
-          fixer des objectifs représentatifs afin qu'ils vous permettent de
-          faire **évoluer** votre entreprise et votre **croissance**. SMART
-          signifie : **Spécifique**, **Mesurable**, **Atteignable**,
-          **Réaliste** et **Temporel**. 
+          Une carte mentale, c'est la **représentation** graphique d'un cocon
+          sémantique. Afin de **visualiser** le travail à faire, réaliser une
+          mindmap est une étape intéressante.
 
 
-          Avec cette méthode vous pourrez constater ou non, la **faisabilité de
-          vos objectifs**.
+          Elle permet aussi de **structurer** et **organiser** le **maillage
+          interne** sans faire de faute de parenté ou de lien.
         content_align: left
         actions: []
         actions_align: left
