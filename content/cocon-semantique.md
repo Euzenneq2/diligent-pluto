@@ -43,6 +43,7 @@ sections:
 
 
           À noter que cette technique vient du **terme marketing "le siloing"**.
+        image: images/quest-ce-que-le-cocon-semantique.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
