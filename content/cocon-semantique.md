@@ -33,18 +33,7 @@ sections:
         align: center
         type: feature
         image: images/quest-ce-strategie-de-contenu.png
-        content: >
-          La **stratégie de contenu** permet d'apporter une **forte valeur
-          ajoutée** à l'ensemble des **canaux de communication** d'une
-          entreprise tels que le site internet, la newsletter, les réseaux
-          sociaux, le e-mailling, etc. Via ces canaux, votre expertise sera
-          divisée et permettra de **générer du trafic** et **d'attirer vos
-          cibles**.
-
-
-          C'est une étape de **l'inbound marketing**. Une attention particulière
-          doit être mise sur la création d'une stratégie de contenu afin que
-          **votre projet** soit correctement conduit.
+        content: "C'est une technique de maillage internet qui permet de positionner chacune de vos pages sur un mot clé pertinants et ainsi, créer des parentés entre les pages d'un même thème.\n\n\n\nVous devez savoir une chose en ce qui concerne l’algorithme du moteur de recherche Google : il accorde plus de crédit à un site qui va\_**traiter de tous les sujets qui gravitent autour de sa thématique**.\n\nPar son architecture, sa diversité lexicale et son maillage interne, le\_**cocon sémantique**\_se base sur la technique de Wikipédia\_: à travers des liens, une page doit pouvoir conduire l’internaute sur des dizaines de contenus pertinents et sémantiquement proches du sujet ciblé.\n\nPlus besoin d’**Adwords**\_pour avoir un\_**bon référencement web**\_!\n"
     feature_padding_vert: medium
     align: center
     padding_top: medium
