@@ -75,7 +75,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Prévisualisation du cocon avec une carte mentale
+      - title: Prévisualisation avec une carte mentale
         title_align: left
         content: >
           Une carte mentale, c'est la **représentation** graphique d'un cocon
