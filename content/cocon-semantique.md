@@ -99,15 +99,17 @@ sections:
         template: grid_item
         title: Stratégie de mots clés
         title_align: left
-        content: >
-          La charte éditoriale est un outil qui vous **guidera** tout au long de
-          votre stratégie de contenu. En effet, c'est elle qui vous
-          **aiguillera** sur la **ligne** **éditoriale** à adopter.
+        content: >+
+          Vous le savez surement, vous avez placé un **mot clé principale** sur
+          votre site internet, généralement utilisé sur la page d'accueil.
+          Celle-dernière joue donc le rôle de **page mère**. Ainsi, les autres
+          pages de votre site seront des **pages filles** et les pages de
+          celles-ci seront des **petites-filles**, etc. Vous avez la possibilité
+          de créer des **pages sœurs**.
 
 
-          Elle permettra également d'**atteindre** sereinement les **objectifs
-          fixés**, et de conserver un lien et une **harmonie** entre dans votre
-          **contenu**.
+          À noter que l'idéale est de ne pas dépasser 4 liaisons.
+
         content_align: left
         actions: []
         actions_align: left
