@@ -181,27 +181,6 @@ sections:
           En effet, grâce à un community manager vous pourrez mettre en place
           une **stratégie social media** afin de diversifier les **canaux de
           communication** de votre entreprise ou de votre marque.
-      - title: Calendrier éditoriale
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        content: >
-          L'utilisation d'un calendrier éditorial est important pour
-          **s'organiser **et** planifier** la publication des contenus réalisés.
-
-
-          En effet, vote planning éditorial doit être à jour régulièrement afin
-          de conserver une certaine **harmonie **et** cohérence** sur vos
-          différents **canaux de communication** tels que Facebook, Instagram,
-          LinkedIn, Twitter, YouTube ou encore TikTok.
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
