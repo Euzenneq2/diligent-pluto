@@ -78,7 +78,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Objectif SMART
+      - title: Prévisualisation du cocon avec une carte mentale
         title_align: left
         content: >
           Les objectifs SMART est une **stratégie de contenu** permettant de
