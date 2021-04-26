@@ -161,26 +161,6 @@ sections:
           afin de **cibler la sources** de cette même perte de performances. Par
           la suite, des **solutions** seront trouvées puis **mises en place**
           afin de vous permettre de retrouver la sérénité de vos débuts.
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        title: Community management
-        content: >
-          Le community management est une technique permettant de **gérer et
-          publier du contenu** sur les différents **réseaux sociaux**.
-
-
-          En effet, grâce à un community manager vous pourrez mettre en place
-          une **stratégie social media** afin de diversifier les **canaux de
-          communication** de votre entreprise ou de votre marque.
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
