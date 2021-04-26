@@ -102,7 +102,7 @@ sections:
         type: grid_item
       - type: grid_item
         template: grid_item
-        title: Charte éditoriale
+        title: Stratégie de mots clés
         title_align: left
         content: >
           La charte éditoriale est un outil qui vous **guidera** tout au long de
