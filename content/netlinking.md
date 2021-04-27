@@ -125,7 +125,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Liens sortants
+        title: Link baiting
         title_align: left
         content_align: left
         actions: []
