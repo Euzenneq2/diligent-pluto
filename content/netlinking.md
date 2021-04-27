@@ -153,7 +153,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Google P
+        title: "Google\_Penguin"
         content: >
           Le maillage interne se prépare en amont avec la carte mentale puis la
           stratégie de contenu. Elle est créée par la suite. 
