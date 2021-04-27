@@ -164,7 +164,6 @@ sections:
           **professionnel** des liens **internes** et **externes** (les
           backlinks) pour vous assurer un bon cocon sémantique.
       - title: Trust Flow
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
