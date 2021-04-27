@@ -100,8 +100,15 @@ sections:
         image_has_padding: false
         type: grid_item
         content: >
-          Le link juice ou jus de lien est un terme technique utilisé pour
-          parler 
+          Le link juice ou **jus de lien** en français, est un terme technique
+          utilisé pour parler des **effets bénéfiques d’un backlink** sur un
+          site. Si les sites sur lesquels vous placez vos backlinks sont de
+          **qualités** et détiennent un **bon score** sur Google, alors vos
+          pages bénéficierons de cette **popularité**.
+
+
+          Plus vous obtiendrez des liens sur plusieurs sites internet, plus vous
+          aurez un jus de qualité.
       - type: grid_item
         template: grid_item
         title: Les ancres
