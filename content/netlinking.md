@@ -100,7 +100,7 @@ sections:
         type: grid_item
       - type: grid_item
         template: grid_item
-        title: 'kl,,l,l,'
+        title: Les ancres
         title_align: left
         content: >
           Vous le savez surement, vous avez placé un **mot clé principale** sur
