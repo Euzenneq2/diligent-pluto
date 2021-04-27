@@ -114,15 +114,16 @@ sections:
         title: Les ancres
         title_align: left
         content: >
-          Vous le savez surement, vous avez placé un **mot clé principale** sur
-          votre site internet, généralement utilisé sur la page d'accueil.
-          Celle-dernière joue donc le rôle de **page mère**. Ainsi, les autres
-          pages (mots clés) de votre site seront des pages filles et les pages
-          de celles-ci seront des petites-filles, etc. Vous avez la possibilité
-          de créer des pages sœurs.
+          L'ancre ou aussi le **texte d'ancrage** est le **mot clé** d'un lien.
+          Elle précise aux visiteurs des **informations pertinentes** concernant
+          le **contenu** de la page du lien. Cela permet de contextualiser le
+          lien. 
 
 
-          À noter que l'idéale est de ne pas dépasser **4 liaisons**.
+          Les moteurs de recherches comme Google utilisent ces textes d'ancrage
+          pour **percevoir** comment les autres sites voient votre page et quel
+          en est le **contenu**. Un mauvais texte d'ancrage peut vous apporter
+          des sanctions de la part de Google Pingouin.
         content_align: left
         actions: []
         actions_align: left
