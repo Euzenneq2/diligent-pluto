@@ -168,14 +168,16 @@ sections:
         type: grid_item
         title: "Google\_Penguin"
         content: >
-          Le maillage interne se prépare en amont avec la carte mentale puis la
-          stratégie de contenu. Elle est créée par la suite. 
+          Lancé en 2012 après la première version (Google **Panda**) de 2011,
+          Google Penguin est un filtre algorithmique inventé par le moteur de
+          recherche du même nom dans le but de faire la chasse aux sites
+          internet utilisant des **techniques frauduleuse** leur permettant de
+          **manipuler les résultats** de la SERP à leur avantage tel que le
+          **netlinking abusif**, le **spamdexing** (l'indexation abusive) ou
+          encore l'**utilisation a outrance des ancres de liens**.
 
 
-          Perdre le fil est vie arrivée si vous n'utilisez pas toutes ces
-          **étapes** pour créer votre **cocon sémantique**. Faites appel à un
-          **professionnel** des liens **internes** et **externes** (les
-          backlinks) pour vous assurer un bon cocon sémantique.
+          De quoi donner envie de respecter les règles de Google.
       - title: Trust Flow
         title_align: left
         content: |
