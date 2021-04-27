@@ -143,13 +143,18 @@ sections:
         image_align: left
         image_has_padding: true
         content: >
-          Pour rédiger la **structure** d'une page de cocon sémantique vous
-          devez **respecter des règles** d'architecture.
+          Le linkbaiting ou l'**appât de lien** est une technique qui consiste à
+          **obtenir des backlinks** vers votre site internet **sans les
+          acheter** ou les récupérer au travers de partenariats. Le but étant
+          d'**encourager** les autres sites à créer des liens pointant vers le
+          vôtre.
 
 
-          En effet, ces règles sont les mêmes que lors de la création de votre
-          contenu. Vous devez donc respecter les **balises** Hn, les titres, les
-          sous-titres, les paragraphes, les images ainsi que les CTA.
+          La meilleure façon de réussir cela est d'avoir un **contenu
+          pertinent** et de qualité. Mais vous devrez vous différencier en
+          proposant du contenu à **forte valeur ajoutée** pour espérer un
+          **buzz** et des partages sur les **réseaux sociaux**. Après cela, le
+          tour est joué, vous avez enclenché la machine.
       - title_align: left
         content_align: left
         actions: []
