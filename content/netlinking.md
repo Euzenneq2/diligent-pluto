@@ -168,13 +168,13 @@ sections:
         type: grid_item
         title: "Google\_Penguin"
         content: >
-          Lancé en 2012 après la première version (Google **Panda**) de 2011,
-          Google Penguin est un filtre algorithmique inventé par le moteur de
-          recherche du même nom dans le but de faire la chasse aux sites
-          internet utilisant des **techniques frauduleuse** leur permettant de
+          Lancé en 2012 après la première version Google **Panda** en 2011,
+          Google Penguin est un **filtre algorithmique** inventé par le moteur
+          de recherche du même nom dans le but de faire la chasse aux sites
+          internet utilisant des **techniques frauduleuses** leur permettant de
           **manipuler les résultats** de la SERP à leur avantage tel que le
           **netlinking abusif**, le **spamdexing** (l'indexation abusive) ou
-          encore l'**utilisation a outrance des ancres de liens**.
+          encore l'**utilisation à outrance des ancres de liens**.
 
 
           De quoi donner envie de respecter les règles de Google.
