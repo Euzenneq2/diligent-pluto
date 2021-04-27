@@ -61,7 +61,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Identification de la cible
+        title: Les backlinks
         title_align: left
         content: >
           **Définir** et identifie **votre cible** est la première étape dans
