@@ -68,16 +68,17 @@ sections:
         title: Les backlinks (Liens entrants)
         title_align: left
         content: >
-          Les backlinks sont des liens externes pointant vers une page de votre
-          site internet. Ou à l'inverse, des liens externes placé sur votre site
-          pointant vers celui d'un partenaire. Cela dépend de ce que vous
-          souhaitez faire. Si vous souhaitez acquérir du trafic provenant d'un
-          site réputé, alors votre lien sera placé sur ce site tiers. Au
-          contraire, si vous souhaitez diriger votre trafic vers un site tiers,
-          vous placerez son lien sur une de vos pages.
+          Les backlinks sont des **liens externes** pointant vers une page de
+          votre site internet. Ou à l'inverse, des liens externes placés sur
+          votre site **pointant** vers celui d'un partenaire. Cela dépend de ce
+          que vous souhaitez faire. Si vous souhaitez **acquérir du trafic**
+          provenant d'un site réputé, alors votre lien sera placé sur ce site
+          tiers. Au contraire, si vous souhaitez **diriger votre trafic** vers
+          un site tiers, vous placerez son lien sur une de vos pages.
 
 
-          Vous l'aurez compris, le but des backlinks est de
+          Vous l'aurez compris, le but des backlinks est de **générer du
+          trafic** grâce à des **sites populaires** auprès de Google.
         content_align: left
         actions: []
         actions_align: left
