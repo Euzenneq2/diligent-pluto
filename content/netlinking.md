@@ -78,7 +78,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Prévisualisation avec une carte mentale
+      - title: Les ancres
         title_align: left
         content: >
           Une carte mentale, c'est la **représentation** graphique d'un cocon
