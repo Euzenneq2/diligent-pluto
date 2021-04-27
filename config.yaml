@@ -103,7 +103,7 @@ params:
         style: link
       - type: action
         template: action
-        url: /blog/categorie/referencement-naturel
+        url: /blog/categorie/referencement-naturel-seo
         style: link
         label: Référencement naturel
     has_tertiary_nav: true
