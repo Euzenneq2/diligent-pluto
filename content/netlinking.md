@@ -163,7 +163,7 @@ sections:
           **étapes** pour créer votre **cocon sémantique**. Faites appel à un
           **professionnel** des liens **internes** et **externes** (les
           backlinks) pour vous assurer un bon cocon sémantique.
-      - title: lorem-ipsum
+      - title: Trust Flow
         subtitle: lorem-ipsum
         title_align: left
         content: >-
