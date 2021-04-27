@@ -89,14 +89,6 @@ sections:
         image_has_padding: true
       - title: Linkjuice
         title_align: left
-        content: >
-          Une carte mentale, c'est la **représentation** graphique d'un cocon
-          sémantique. Afin de **visualiser** le travail à faire, réaliser une
-          mindmap est une étape intéressante.
-
-
-          Elle permet aussi de **structurer** et **organiser** le **maillage
-          interne** sans faire de faute de parenté ou de lien.
         content_align: left
         actions: []
         actions_align: left
