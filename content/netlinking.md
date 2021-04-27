@@ -65,7 +65,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Les backlinks (Liens entrants)
+        title: Les backlinks
         title_align: left
         content: >
           Les backlinks sont des **liens externes** pointant vers une page de
