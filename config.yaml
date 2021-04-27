@@ -44,7 +44,7 @@ params:
         label: Contactez-moi
         url: /contact
         style: secondary
-        no_follow: true
+        no_follow: false
     has_anncmnt: true
     anncmnt_content: >
       En poursuivant votre navigation vous acceptez l'utilisation, de la part de
