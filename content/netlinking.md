@@ -99,6 +99,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        content: >
+          Le link juice ou jus de lien est un terme technique utilisé pour
+          parler 
       - type: grid_item
         template: grid_item
         title: Les ancres
