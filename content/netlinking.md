@@ -165,17 +165,8 @@ sections:
           backlinks) pour vous assurer un bon cocon sémantique.
       - title: Trust Flow
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          dddddddeeeeefe"floé
         content_align: left
         actions: []
         actions_align: left
