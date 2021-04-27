@@ -68,13 +68,16 @@ sections:
         title: Les backlinks (Liens entrants)
         title_align: left
         content: >
-          **Définir** et identifie **votre cible** est la première étape dans
-          l'élaboration d'un cocon sémantique. En effet, il est important de
-          savoir qui visitera votre site et qui le fera vivre.
+          Les backlinks sont des liens externes pointant vers une page de votre
+          site internet. Ou à l'inverse, des liens externes placé sur votre site
+          pointant vers celui d'un partenaire. Cela dépend de ce que vous
+          souhaitez faire. Si vous souhaitez acquérir du trafic provenant d'un
+          site réputé, alors votre lien sera placé sur ce site tiers. Au
+          contraire, si vous souhaitez diriger votre trafic vers un site tiers,
+          vous placerez son lien sur une de vos pages.
 
 
-          Sans cette information, inutile de continuer, votre **cocon
-          sémantique** n'aura aucune pertinence.
+          Vous l'aurez compris, le but des backlinks est de
         content_align: left
         actions: []
         actions_align: left
