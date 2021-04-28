@@ -14,13 +14,12 @@ sections:
     align: left
     image_alt: Community management
     content: >
-      **Être visible** est l'objectif le plus important pour toutes
-      entreprises. 
+      **Être visible** est l'objectif le plus important pour toutes entreprises.
 
 
-      Promouvoir ces contenus sur les **réseaux sociaux** est un moyen
-      d'**attirer l'attention** des lecteurs et de **convertir des prospects**
-      en client.
+      Promouvoir ces contenus sur les **réseaux sociaux** ou sur votre site
+      internet est un moyen d'**attirer l'attention** des lecteurs et de
+      **convertir des prospects** en client.
     image: images/community-management.png
   - type: features_section
     template: features_section
