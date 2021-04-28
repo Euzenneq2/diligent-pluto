@@ -209,11 +209,11 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      ## Un article optimisé SEO en accord avec votre stratégie de contenu, à
-      partir de 0,10 €/mot
+      ## Améliorez votre netlinking grâce à un contenu unique, à partir de
+      0,10 €/mot
 
 
-      Devenez plus visible !
+      Gagnez un trustflow.
     actions:
       - type: action
         template: action
