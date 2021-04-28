@@ -61,18 +61,15 @@ sections:
         title: Social media marketing
         title_align: left
         content: >
-          Les backlinks sont des **liens** pointant vers une page de votre site
-          internet (lien **entrant**). Ou à l'inverse, des liens placés sur
-          votre site **pointant** vers celui d'un partenaire (lien **sortant**).
-          Cela dépend de ce que vous souhaitez faire. Si vous souhaitez
-          **acquérir du trafic** provenant d'un site réputé, alors votre lien
-          sera placé sur ce site tiers. Au contraire, si vous souhaitez
-          **diriger votre trafic** vers un site tiers, vous placerez son lien
-          sur une de vos pages.
+          Le **SMM** (Social Media Marketing), est un concept qui comprend
+          l’ensemble des **actions** conduisant à **diffuser du contenu** et à
+          **développer son audience** sur les médias sociaux afin de développer
+          son taux de conversion.
 
 
-          Vous l'aurez compris, le but des backlinks est de **générer du
-          trafic** grâce à des **sites populaires** auprès de Google.
+          Le social media marketing consiste à se connecter avec votre public ou
+          vos clients et à les aider à mieux comprendre votre marque. C'est
+          incroyablement bénéfique pour la croissance de votre entreprise.
         content_align: left
         actions: []
         actions_align: left
