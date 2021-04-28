@@ -126,7 +126,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Linkbaiting
+        title: Newsletter
         title_align: left
         content_align: left
         actions: []
