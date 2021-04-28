@@ -159,7 +159,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: "Google\_Penguin"
+        title: Animer & publier
         content: >
           Lancé en 2012 après la première version Google **Panda** en 2011,
           Google Penguin est un **filtre algorithmique** inventé par le moteur
