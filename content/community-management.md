@@ -58,7 +58,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Les backlinks
+        title: Social media marketing
         title_align: left
         content: >
           Les backlinks sont des **liens** pointant vers une page de votre site
