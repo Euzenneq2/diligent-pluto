@@ -104,7 +104,7 @@ sections:
           aurez un jus de qualité.
       - type: grid_item
         template: grid_item
-        title: Les ancres
+        title: Brand content
         title_align: left
         content: >
           L'ancre ou aussi le **texte d'ancrage** est le **mot clé** d'un lien.
