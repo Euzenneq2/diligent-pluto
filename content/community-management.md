@@ -42,7 +42,7 @@ sections:
           sur ces réseaux. Cela consiste aussi à **rédiger du contenu**
           spécifique, partager des articles de blog, suivre les tendances
           virales et stimuler votre communauté. 
-        image: images/quest-ce-community-management.png
+        image: images/quest-ce-community-management (1).png
     feature_padding_vert: medium
     align: center
     padding_top: medium
