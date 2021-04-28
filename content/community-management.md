@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: large
     align: left
-    image_alt: Rédaction web internet
+    image_alt: Community management
     content: >
       **Être visible** est l'objectif le plus important pour toutes
       entreprises. 
