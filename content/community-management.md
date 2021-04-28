@@ -27,7 +27,7 @@ sections:
     title: Qu'est-ce que le community management ?
     features:
       - actions: []
-        image_alt: Booster votre contenu seo
+        image_alt: Qu'est-ce que le community management ?
         media_position: bottom
         media_width: fourty
         align: center
