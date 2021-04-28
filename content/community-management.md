@@ -33,22 +33,15 @@ sections:
         align: center
         type: feature
         content: >
-          Le netlinking est une méthode qui consiste à **développer** le nombre
-          de **liens externes de qualité**, qui pointent vers une page ou un
-          site internet que l'on veut **promouvoir**. Cette technique permet
-          d'**obtenir un trafic** de qualité qui permettra d'**améliorer la
-          crédibilité** et la **popularité** de votre page. En effet, si vous
-          placez sur un site internet bien référencé votre backlink, alors vous
-          obtiendrait un trafic de qualité provenant de ce site.
+          La **gestion de communauté** en français, est un moyen d'**animer** et
+          de **fédérer** des communautés sur les différents **réseaux sociaux**
+          pour une entreprise, une marque, une association, un influenceur...
 
 
-          Un lien peut être placé sûr un site internet et **amener du trafic**
-          vers le votre ou vous pouvez intégrer un lien d'un site partenaire
-          pour **rediriger votre trafic** vers lui.
-
-
-          À noter, qu'il est important d'avoir des **backlinks** du mème thème
-          que votre page ou votre site internet.
+          C'est une **technique indispensable** pour gérer votre **présence**
+          sur ces réseaux. Cela consiste aussi à **rédiger du contenu**
+          spécifique, partager des articles de blog, suivre les tendances
+          virales et stimuler votre communauté. 
         image: images/quest-ce-netlinking.png
     feature_padding_vert: medium
     align: center
