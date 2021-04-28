@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: 'Le netlinking, un allié pour un référencement de qualité.'
+    title: Le community management
     background_color: primary
     actions: []
     media_position: right
