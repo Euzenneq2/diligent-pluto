@@ -90,16 +90,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: >
-          Le link juice ou **jus de lien** en français, est un terme technique
-          utilisé pour parler des **effets bénéfiques d’un backlink** sur un
-          site. Si les sites sur lesquels vous placez vos backlinks sont de
-          **qualités** et détiennent un **bon score** sur Google, alors vos
-          pages bénéficierons de cette **popularité**.
-
-
-          Plus vous obtiendrez des liens sur plusieurs sites internet, plus vous
-          aurez un jus de qualité.
+        content: "La brand marketing fait la promotion de vos produits ou services d'une manière qui met en valeur votre marque globale.\_L'objectif du marketing de marque est de lier votre identité, vos valeurs et votre personnalité aux communications destinées à votre public.\n"
       - type: grid_item
         template: grid_item
         title: Marketing d'influence
