@@ -34,14 +34,15 @@ sections:
         type: feature
         content: >
           La **gestion de communauté** en français, est un moyen d'**animer** et
-          de **fédérer** des communautés sur les différents **réseaux sociaux**
-          pour une entreprise, une marque, une association, un influenceur...
+          de **fédérer** des communautés sur les différents **canaux de
+          communication** pour une entreprise, une marque, une association, un
+          influenceur...
 
 
           C'est une **technique indispensable** pour gérer votre **présence**
           sur ces réseaux. Cela consiste aussi à **rédiger du contenu**
-          spécifique, partager des articles de blog, suivre les tendances
-          virales et stimuler votre communauté. 
+          spécifique, publication des articles de blog, suivre les tendances
+          virales et stimuler votre communauté.
         image: images/quest-ce-community-management.png
     feature_padding_vert: medium
     align: center
