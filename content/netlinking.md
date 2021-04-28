@@ -6,7 +6,6 @@ sections:
     title: 'Le netlinking, un allié pour un référencement de qualité.'
     background_color: primary
     actions: []
-    image: images/netlinking.png
     media_position: right
     background_image_position: left center
     media_width: fifty
