@@ -67,9 +67,10 @@ sections:
           son taux de conversion.
 
 
-          Le social media marketing consiste à se connecter avec votre public ou
-          vos clients et à les aider à mieux comprendre votre marque. C'est
-          incroyablement bénéfique pour la croissance de votre entreprise.
+          Le social media marketing consiste à se **connecter avec votre
+          public** ou vos clients et à les aider à mieux comprendre votre
+          marque. C'est incroyablement bénéfique pour la **croissance de votre
+          entreprise**.
         content_align: left
         actions: []
         actions_align: left
