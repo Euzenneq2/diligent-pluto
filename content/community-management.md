@@ -14,13 +14,13 @@ sections:
     align: left
     image_alt: Rédaction web internet
     content: >
-      Construire son propre **netlinking** de façon naturelle grâce à la
-      **qualité du contenu** présent sur votre site internet.
+      **Être visible** est l'objectif le plus important pour toutes
+      entreprises. 
 
 
-      Cette technique permet de **développer** le nombre de **liens** présent
-      sur votre site web, ainsi améliorer et faire évoluer votre référencement
-      sur la **SERP** Google.
+      Promouvoir ces contenus sur les **réseaux sociaux** est un moyen
+      d'**attirer l'attention** des lecteurs et de **convertir des prospects**
+      en client.
     image: images/community-management.png
   - type: features_section
     template: features_section
