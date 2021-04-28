@@ -171,7 +171,7 @@ sections:
 
 
           De quoi donner envie de respecter les règles de Google.
-      - title: Trust Flow
+      - title: Veille & Reporting
         title_align: left
         content: >
           Cet **indicateur** a été mis en avant grâce à l'outil **Majestic
