@@ -21,6 +21,7 @@ sections:
       Cette technique permet de **développer** le nombre de **liens** présent
       sur votre site web, ainsi améliorer et faire évoluer votre référencement
       sur la **SERP** Google.
+    image: images/netlinking.png
   - type: features_section
     template: features_section
     title: Qu'est-ce que le netlinking ?
