@@ -8,7 +8,7 @@ sections:
     actions: []
     media_position: right
     background_image_position: left center
-    media_width: fifty
+    media_width: sixty
     padding_top: large
     padding_bottom: large
     align: left
