@@ -126,7 +126,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Newsletter
+        title: Animer & publier
         title_align: left
         content_align: left
         actions: []
