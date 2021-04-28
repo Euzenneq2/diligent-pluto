@@ -80,7 +80,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Social media marketing
+      - title: Brand content
         title_align: left
         content_align: left
         actions: []
