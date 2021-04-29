@@ -95,7 +95,12 @@ sections:
         template: grid_item
         title: Marketing d'influence
         title_align: left
-        content: "Le marketing d'influence en français, c'est la collaboration d'une marque avec un influenceur pour vendre l'un de ses produits ou services.\n\nCertaines collaborations de marketing d'influence sont moins tangibles que cela les marques travaillent simplement avec des influenceurs pour améliorer la reconnaissance de la marque.\_\n"
+        content: >+
+          Le marketing d'influence, c'est la **collaboration** d'une marque avec
+          un **influenceur** pour vendre l'un de ses produits ou services. Ils
+          travaillent ensemble de façon rémunérée pour améliorer la
+          reconnaissance de la marque.
+
         content_align: left
         actions: []
         actions_align: left
