@@ -34,16 +34,16 @@ sections:
         align: center
         type: feature
         content: >
-          La **gestion de communauté** en français, est un moyen d'**animer** et
-          de **fédérer** des communautés sur les différents **canaux de
-          communication** pour une entreprise, une marque, une association, un
-          influenceur...
+          Vous pouvez vous inscrire à une formation dans le but de devenir un
+          **rédacteur web** sur n'importe quel **site **ou** plateforme
+          dédiée**.
 
 
-          C'est une **technique indispensable** pour gérer votre **présence**
-          sur ces réseaux. Cela consiste aussi à **rédiger du contenu**
-          spécifique, publication des articles de blog, suivre les tendances
-          virales et stimuler votre communauté.
+          En effet, il existe des centaines de milliers de formations à ce
+          **métier du digital**. De plus en plus de gens veulent devenir
+          **indépendants** et **nomade**. Il est nécessaire de connaître les
+          prérequis pour déceler une formation obsolète à une **formation
+          complète **et **utile**.
         image: images/quest-ce-community-management.png
     feature_padding_vert: medium
     align: center
