@@ -25,7 +25,7 @@ sections:
     image: images/formation.png
   - type: features_section
     template: features_section
-    title: Qu'est-ce que le community management ?
+    title: Qu'est-ce que les formation ?
     features:
       - actions: []
         image_alt: Qu'est-ce que le community management ?
