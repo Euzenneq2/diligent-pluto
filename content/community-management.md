@@ -149,7 +149,7 @@ sections:
 
           C'est donc le moment de proposer une newsletter de qualité afin de
           **convertir** votre visiteur.
-      - title: Veille & Reporting
+      - title: Reporting & veille
         title_align: left
         content: >
           Le reporting est un élément de **bilan** pour votre entreprise qui
