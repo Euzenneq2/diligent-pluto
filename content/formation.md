@@ -14,8 +14,8 @@ sections:
     align: left
     image_alt: Community management
     content: >
-      Une formation de rédacteur web, c'est plus qu'apprendre à écrire ou
-      apprendre à faire de belles phrases.
+      Ce domaine de formation, c'est plus qu'apprendre à écrire ou apprendre à
+      faire de belles phrases.
 
 
       Cela demande de la **rigueur**, du **travail** et de la persévérance. En
