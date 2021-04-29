@@ -35,15 +35,14 @@ sections:
         type: feature
         content: >
           Vous pouvez vous inscrire à une formation dans le but de devenir un
-          **rédacteur web** sur n'importe quel **site **ou** plateforme
-          dédiée**.
+          **rédacteur web** sur n'importe quel **site ou plateforme dédiée**.
 
 
           En effet, il existe des centaines de milliers de formations à ce
           **métier du digital**. De plus en plus de gens veulent devenir
           **indépendants** et **nomade**. Il est nécessaire de connaître les
           prérequis pour déceler une formation obsolète à une **formation
-          complète **et **utile**.
+          complète** et **utile**.
         image: images/quest-ce-formation.png
     feature_padding_vert: medium
     align: center
