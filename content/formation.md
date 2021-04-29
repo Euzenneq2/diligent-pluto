@@ -89,7 +89,15 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: "La brand marketing fait la **promotion** de vos produits ou services d'une manière qui met **en valeur** votre marque globale.\_L'objectif du marketing de marque est d’associer votre identité, vos valeurs et votre personnalité aux communications destinées à votre public.\n\nCette technique marketing est bénéfique pour renforcer la **réputation**, la **fiabilité** et la **portée** de votre entreprise sur le marché.\_Par conséquent, vos produits et services auront une **valeur plus élevée**.\_\n"
+        content: >
+          Si vous souhaitez avoir un critère de **crédibilité** supplémentaire,
+          n'hésitez pas à vous former auprès de plateformes délivrant des
+          **certificats** à la fin de votre formation.
+
+
+          Même si la plupart du temps ces certificats ne sont pas **reconnus par
+          l'état**, il existe des certifications qui ont de la **valeur** sur le
+          marché de la rédaction web tel que **Qualiopi**. 
       - type: grid_item
         template: grid_item
         title: Marketing
