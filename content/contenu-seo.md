@@ -28,12 +28,10 @@ sections:
     image: images/contenu-seo.png
   - type: cta_section
     template: cta_section
-    content: >
-      ## **Bénéficiez de votre article optimisé SEO pour 0,10 €/mot (balise méta
-      comprise).**
+    content: |
+      ## **Profitez, pour 0,10 €/mot d'une rédaction SEO avec les balises**
 
-
-      Il n'est jamais trop tard pour remonter dans le classement Google !
+      C'est le moment de remonter dans la SERP Google !
     actions:
       - type: action
         template: action
