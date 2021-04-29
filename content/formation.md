@@ -150,16 +150,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: La durée de formation
-        content: >
-          Connue aussi sous le terme d'**e-mailling marketing**, cette technique
-          consiste à envoyer régulièrement du **contenu personnalisé** à une
-          audience très ciblée. En effet, si vous avez **collecté une adresse
-          mail** via un CTA (Call To Action) ou un Asset Marketing, alors vous
-          savez que cette personne est **intéressée** par votre contenu.
-
-
-          C'est donc le moment de proposer une newsletter de qualité afin de
-          **convertir** votre visiteur.
+        content: "Une formation pour devenir rédacteur web peut très bien durer **6\_h** comme elle peut durer **6 mois**. Ce choix vous appartient.\n\nAttention tout de même à ne pas se contenter d'une **formation trop courte**, car vous vous en doutez : l'apprentissage d'un **métier** ne se fait pas en seulement 3\_h, vous devez poursuivre cette **apprentissage** soit via vos propres moyens et en **pratiquant** soit en complétant avec **d'autres** **formations**.\n"
       - title: Proposition de formation
         title_align: left
         content_align: left
