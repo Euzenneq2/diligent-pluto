@@ -135,9 +135,9 @@ sections:
 
 
           Effectivement, il existe plusieurs **outils**, extension, astuces,
-          logiciels à utiliser pour être pro**f**essionnel. Évidemment, une base
-          de connaissance concernant la lange française et les règles de
-          grammaire est indispensable.
+          logiciels à utiliser pour être **professionnel**. Évidemment, une base
+          de connaissance concernant la **langue française** et les **règles de
+          grammaire** est indispensable.
       - title_align: left
         content_align: left
         actions: []
