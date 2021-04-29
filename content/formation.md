@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: Un community management réussi pour un taux de conversion assuré
+    title: Des formations aux métiers du web
     background_color: primary
     actions: []
     media_position: right
