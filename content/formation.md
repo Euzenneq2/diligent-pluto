@@ -20,7 +20,7 @@ sections:
       Promouvoir ces contenus sur les **réseaux sociaux** ou sur votre site
       internet est un moyen d'**attirer l'attention** des lecteurs et de
       **convertir des prospects** en client.
-    image: images/community-management.png
+    image: images/formation.png
   - type: features_section
     template: features_section
     title: Qu'est-ce que le community management ?
