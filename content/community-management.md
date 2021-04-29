@@ -152,15 +152,21 @@ sections:
       - title: Veille & Reporting
         title_align: left
         content: >
-          Cet **indicateur** a été mis en avant grâce à l'outil **Majestic
-          SEO**, un moyen de connaître la quantité, la qualité et la provenance
-          des backlinks de n'importe quel site web. Le Trust Flow ou **TF**, est
-          l'indicateur servant à **évaluer la qualité des backlinks** d'un site
-          internet. Il détermine une valeur allant de 0 à 100.
+          Le reporting est un élément de **bilan** pour votre entreprise qui
+          permet de faire un **point régulier** sur votre **stratégie de
+          contenu**, les **moyens** mis au service de cette stratégie et les
+          **résultats** obtenus.
 
 
-          Plus un lien émerge d’un site de **confiance**, plus ce lien aura
-          d'**importance** et aura donc un **trust flow élevé**.
+          Aussi, réaliser une veille consiste à **examiner votre contenu** pour
+          décortiquer les commentaires portant sur votre marque, mais aussi vos
+          concurrents.
+
+
+          Il est important de maîtriser des outils de veille adéquats et mettre
+          en place une **planification** adaptée à vos objectifs comme de la
+          veille d’informations, veille concurrentielle et du **Benchmark** afin
+          d’améliorer votre stratégie community management.
         content_align: left
         actions: []
         actions_align: left
