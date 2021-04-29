@@ -140,16 +140,15 @@ sections:
         type: grid_item
         title: Newsletter
         content: >
-          Lancé en 2012 après la première version Google **Panda** en 2011,
-          Google Penguin est un **filtre algorithmique** inventé par le moteur
-          de recherche du même nom dans le but de faire la chasse aux sites
-          internet utilisant des **techniques frauduleuses** leur permettant de
-          **manipuler les résultats** de la SERP à leur avantage tel que le
-          **netlinking abusif**, le **spamdexing** (l'indexation abusive) ou
-          encore l'**utilisation à outrance des ancres de liens**.
+          Connue aussi sous le terme d'**e-mailling marketing**, cette technique
+          consiste à envoyer régulièrement du **contenu personnalisé** à une
+          audience très ciblée. En effet, si vous avez **collecté une adresse
+          mail** via un CTA (Call To Action) ou un Asset Marketing, alors vous
+          savez que cette personne est **intéressée** par votre contenu.
 
 
-          De quoi donner envie de respecter les règles de Google.
+          C'est donc le moment de proposer une newsletter de qualité afin de
+          **convertir** votre visiteur.
       - title: Veille & Reporting
         title_align: left
         content: >
