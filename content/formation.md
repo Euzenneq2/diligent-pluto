@@ -14,12 +14,14 @@ sections:
     align: left
     image_alt: Community management
     content: >
-      **Être visible** est l'objectif le plus important pour toutes entreprises.
+      Une formation de rédacteur web, c'est plus qu'apprendre à écrire ou
+      apprendre à faire de belles phrases.
 
 
-      Promouvoir ces contenus sur les **réseaux sociaux** ou sur votre site
-      internet est un moyen d'**attirer l'attention** des lecteurs et de
-      **convertir des prospects** en client.
+      Cela demande de la **rigueur**, du **travail** et de la persévérance. En
+      effet, connaissez-vous les **balises TITLE**, **méta-descrpition** et
+      **Hn** ? Une bonne formation vous permettra de **réaliser vos objectifs**
+      professionnels.
     image: images/formation.png
   - type: features_section
     template: features_section
