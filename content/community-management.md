@@ -99,7 +99,8 @@ sections:
           Le marketing d'influence, c'est la **collaboration** d'une marque avec
           un **influenceur** pour vendre l'un de ses produits ou services. Ils
           travaillent ensemble de façon rémunérée pour améliorer la
-          reconnaissance de la marque.
+          reconnaissance de la marque, stimuler la notoriété, l'engagement et
+          générer la conversion client.
 
         content_align: left
         actions: []
