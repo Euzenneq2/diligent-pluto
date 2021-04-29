@@ -163,6 +163,14 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        content: >
+          Je vous propose la formation "**devenir rédacteur web**" de .... 
+
+
+
+
+          Grâce à cette formation **fiable** et **concrète**, vous n'aurez qu'à
+          pratiquer et **développer vos connaissances.**
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
