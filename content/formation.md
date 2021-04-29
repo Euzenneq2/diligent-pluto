@@ -63,12 +63,13 @@ sections:
         title_align: left
         content: >
           Il est évident que vous souhaitez vous former avec une personne qui
-          connait le métier de **rédacteur web SEO**. 
+          connait le métier de **rédacteur web SEO**.
 
 
-          Le niveau de **compétences** et de **connaissance** de votre formateur
-          est important, car il vous permettra de juger si selon vous il a
-          toutes les **ressources** à vous apprendre.
+          Le niveau de **compétences** et de **connaissances** de votre
+          formateur est important, inutile de perdre du temps avec des formation
+          de mauvaise qualité. N'hésitez pas à juger si selon vous il a toutes
+          les **ressources** à vous apprendre.
         content_align: left
         actions: []
         actions_align: left
