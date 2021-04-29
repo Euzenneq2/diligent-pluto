@@ -130,18 +130,14 @@ sections:
         image_align: left
         image_has_padding: true
         content: >
-          Il existe des règles à respecter en termes de **publication de
-          contenu**. 
+          Un bon formateur va vous **transmettre** les astuce et les outils pour
+          vous permettre de **performer** dans votre métier.
 
 
-          En effet, chaque réseau à son **jour et son horaire de publication**
-          pour vous assurer une **visibilité**. Il est vrai que vos cibles se
-          **connectent** à certaines heures plus qu'a d'autre. Il est donc
-          nécessaire de publier votre contenu sur leurs **créneaux d'activité**.
-
-
-          De plus, vous animerez votre communauté et chaque jour, gagnerez en
-          **fidélisation**.
+          Effectivement, il existe plusieurs **outils**, extension, astuces,
+          logiciels à utiliser pour être pro**f**essionnel. Évidemment, une base
+          de connaissance concernant la lange française et les règles de
+          grammaire est indispensable.
       - title_align: left
         content_align: left
         actions: []
