@@ -115,18 +115,18 @@ sections:
         image_align: left
         image_has_padding: true
         content: >
-          Le linkbaiting ou l'**appât de lien** est une technique qui consiste à
-          **obtenir des backlinks** vers votre site internet **sans les
-          acheter** ou les récupérer au travers de partenariats. Le but étant
-          d'**encourager** les autres sites à créer des liens pointant vers le
-          vôtre.
+          Il existe des règles à respecter en termes de **publication de
+          contenu**. 
 
 
-          La meilleure façon de réussir cela est d'avoir un **contenu
-          pertinent** et de qualité. Mais vous devrez vous différencier en
-          proposant du contenu à **forte valeur ajoutée** pour espérer un
-          **buzz** et des partages sur les **réseaux sociaux**. Après cela, le
-          tour est joué, vous avez enclenché la machine.
+          En effet, chaque réseau à son **jour et son horaire de publication**
+          pour vous assurer une **visibilité**. Il est vrai que vos cibles se
+          **connectent** à certaines heures plus qu'a d'autre. Il est donc
+          nécessaire de publier votre contenu sur leurs **créneaux d'activité**.
+
+
+          De plus, vous animerez votre communauté et chaque jour, gagnerez en
+          **fidélisation**.
       - title_align: left
         content_align: left
         actions: []
