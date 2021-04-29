@@ -62,16 +62,13 @@ sections:
         title: Créer par un professionnel
         title_align: left
         content: >
-          Le **SMM** (Social Media Marketing), est un concept qui comprend
-          l’ensemble des **actions** conduisant à **diffuser du contenu** et à
-          **développer son audience** sur les médias sociaux afin de développer
-          son taux de conversion.
+          Il est évident que vous souhaitez vous former avec une personne qui
+          connait le métier de **rédacteur web SEO**. 
 
 
-          Le social media marketing consiste à se **connecter avec votre
-          public** ou vos clients et à les aider à mieux comprendre votre
-          marque. C'est incroyablement bénéfique pour la **croissance de votre
-          entreprise**.
+          Le niveau de **compétences** et de **connaissance** de votre formateur
+          est important, car il vous permettra de juger si selon vous il a
+          toutes les **ressources** à vous apprendre.
         content_align: left
         actions: []
         actions_align: left
