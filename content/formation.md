@@ -106,7 +106,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Truc & astuce
+        title: Trucs & astuces
         title_align: left
         content_align: left
         actions: []
