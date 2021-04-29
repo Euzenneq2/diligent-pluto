@@ -102,7 +102,15 @@ sections:
         template: grid_item
         title: Marketing
         title_align: left
-        content: "Le marketing d'influence, c'est la **collaboration** d'une marque avec un **influenceur** pour vendre l'un de ses produits ou services. Ils travaillent ensemble de façon rémunérée pour améliorer la **reconnaissance** **de** **la** **marque**, stimuler la **notoriété**, l'**engagement** et **générer la conversion** client.\n\nUn bon influenceur peut produire un contenu 11 fois plus efficace que les bannières publicitaires traditionnelles.\_Les influenceurs ont la capacité de **créer de la valeur** et de faire confiance à leur public\n"
+        content: >
+          Le marketing sous toutes ces formes détient une place **importante**
+          dans la rédaction web.
+
+
+          En effet, il est nécessaire de connaitre l'**inbound marketing** par
+          exemple lors d'une formation au métier. Vous devez apprendre à
+          connaître le **but** de votre travail de rédacteur ainsi que les
+          **méthode** à utiliser.
         content_align: left
         actions: []
         actions_align: left
