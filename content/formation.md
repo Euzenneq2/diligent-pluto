@@ -59,7 +59,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Social media marketing
+        title: Créer par un professionnel
         title_align: left
         content: >
           Le **SMM** (Social Media Marketing), est un concept qui comprend
