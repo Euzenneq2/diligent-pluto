@@ -95,17 +95,7 @@ sections:
         template: grid_item
         title: Marketing d'influence
         title_align: left
-        content: >
-          L'ancre ou aussi le **texte d'ancrage** est le **mot clé** d'un lien.
-          Elle précise aux visiteurs des **informations pertinentes** concernant
-          le **contenu** de la page du lien. Cela permet de contextualiser le
-          lien. 
-
-
-          Les moteurs de recherches comme Google utilisent ces textes d'ancrage
-          pour **percevoir** comment les autres sites voient votre page et quel
-          en est le **contenu**. Un mauvais texte d'ancrage peut vous apporter
-          des sanctions de la part de Google Pingouin.
+        content: "Le marketing d'influence en français, c'est la collaboration d'une marque avec un influenceur pour vendre l'un de ses produits ou services.\n\nCertaines collaborations de marketing d'influence sont moins tangibles que cela les marques travaillent simplement avec des influenceurs pour améliorer la reconnaissance de la marque.\_\n"
         content_align: left
         actions: []
         actions_align: left
