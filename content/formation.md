@@ -180,9 +180,9 @@ sections:
   - type: cta_section
     template: cta_section
     content: |
-      ## Organisez votre contenu grâce à un community manager
+      ## Devenez rédacteur web SEO
 
-      Devenez encore plus visible !
+      Lancez-vous !
     actions:
       - type: action
         template: action
