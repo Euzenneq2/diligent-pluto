@@ -160,13 +160,11 @@ sections:
 
           Aussi, réaliser une veille consiste à **examiner votre contenu** pour
           décortiquer les commentaires portant sur votre marque, mais aussi vos
-          concurrents.
-
-
-          Il est important de maîtriser des outils de veille adéquats et mettre
-          en place une **planification** adaptée à vos objectifs comme de la
-          veille d’informations, veille concurrentielle et du **Benchmark** afin
-          d’améliorer votre stratégie community management.
+          concurrents. Il est important de maîtriser des outils de veille
+          adéquats et mettre en place une **planification** adaptée à vos
+          objectifs comme de la veille d’informations, veille concurrentielle et
+          du **Benchmark** afin d’améliorer votre stratégie community
+          management.
         content_align: left
         actions: []
         actions_align: left
