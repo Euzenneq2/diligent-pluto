@@ -139,7 +139,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Newsletter
+        title: La durée de formation
         content: >
           Connue aussi sous le terme d'**e-mailling marketing**, cette technique
           consiste à envoyer régulièrement du **contenu personnalisé** à une
