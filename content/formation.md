@@ -25,7 +25,7 @@ sections:
     image: images/formation.png
   - type: features_section
     template: features_section
-    title: Qu'est-ce que les formation ?
+    title: Qu'est-ce que les formations ?
     features:
       - actions: []
         image_alt: Qu'est-ce que le community management ?
