@@ -151,7 +151,7 @@ sections:
         type: grid_item
         title: La durée de formation
         content: "Une formation pour devenir rédacteur web peut très bien durer **6\_h** comme elle peut durer **6 mois**. Ce choix vous appartient.\n\nAttention tout de même à ne pas se contenter d'une **formation trop courte**, car vous vous en doutez : l'apprentissage d'un **métier** ne se fait pas en seulement 3\_h, vous devez poursuivre cette **apprentissage** soit via vos propres moyens et en **pratiquant** soit en complétant avec **d'autres** **formations**.\n"
-      - title: Proposition de formation
+      - title: Formation
         title_align: left
         content_align: left
         actions: []
