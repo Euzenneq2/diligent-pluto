@@ -44,7 +44,7 @@ sections:
           **indépendants** et **nomade**. Il est nécessaire de connaître les
           prérequis pour déceler une formation obsolète à une **formation
           complète **et **utile**.
-        image: images/quest-ce-community-management.png
+        image: images/quest-ce-formation.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
