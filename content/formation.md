@@ -94,7 +94,7 @@ sections:
         content: "La brand marketing fait la **promotion** de vos produits ou services d'une manière qui met **en valeur** votre marque globale.\_L'objectif du marketing de marque est d’associer votre identité, vos valeurs et votre personnalité aux communications destinées à votre public.\n\nCette technique marketing est bénéfique pour renforcer la **réputation**, la **fiabilité** et la **portée** de votre entreprise sur le marché.\_Par conséquent, vos produits et services auront une **valeur plus élevée**.\_\n"
       - type: grid_item
         template: grid_item
-        title: Notion de marketing
+        title: Marketing
         title_align: left
         content: "Le marketing d'influence, c'est la **collaboration** d'une marque avec un **influenceur** pour vendre l'un de ses produits ou services. Ils travaillent ensemble de façon rémunérée pour améliorer la **reconnaissance** **de** **la** **marque**, stimuler la **notoriété**, l'**engagement** et **générer la conversion** client.\n\nUn bon influenceur peut produire un contenu 11 fois plus efficace que les bannières publicitaires traditionnelles.\_Les influenceurs ont la capacité de **créer de la valeur** et de faire confiance à leur public\n"
         content_align: left
