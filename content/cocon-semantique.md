@@ -166,11 +166,11 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      ## Un article optimisé SEO en accord avec votre stratégie de contenu, à
-      partir de 0,10 €/mot
+      ## Demandez un contenu optimisé SEO correspondant à votre cocon
+      sémantique, à partir de 0,10 €/mot
 
 
-      Devenez plus visible !
+      La rigueur est la clé du référencement naturel !
     actions:
       - type: action
         template: action
