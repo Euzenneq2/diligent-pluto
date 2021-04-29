@@ -183,12 +183,10 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    content: >
-      ## Améliorez votre netlinking grâce à un contenu unique, à partir de
-      0,10 €/mot
+    content: |
+      ## Organisez votre contenu grâce à un community manager
 
-
-      Gagnez un trustflow.
+      Devenez encore plus visible !
     actions:
       - type: action
         template: action
