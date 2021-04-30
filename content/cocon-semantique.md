@@ -130,12 +130,12 @@ sections:
         image_align: left
         image_has_padding: true
         content: >
-          Pour rédiger la **structure** d'une page de cocon sémantique vous
-          devez **respecter des règles** d'architecture.
+          Pour rédiger la structure d'une page de cocon sémantique vous devez
+          respecter des règles d'architecture.
 
 
           En effet, ces règles sont les mêmes que lors de la création de votre
-          contenu. Vous devez donc respecter les **balises** Hn, les titres, les
+          contenu. Vous devez donc respecter la **balise** Hn, les titres, les
           sous-titres, les paragraphes, les images ainsi que les CTA.
       - title_align: left
         content_align: left
