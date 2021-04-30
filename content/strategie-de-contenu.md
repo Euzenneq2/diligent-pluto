@@ -139,8 +139,8 @@ sections:
         content: >
           Le **storytelling** est un style de rédaction ayant pour but de
           raconter une histoire quelle soit, réelle, fictive ou imaginaire à
-          propos d'un produit, d'un service, d'une marque, d'une entreprise ou
-          d'un **secteur d'activité**.
+          propos d'un produit, d'un service, d'un e-commerce, d'une entreprise
+          ou d'un **secteur d'activité**.
 
 
           Ce **brand content**, est une technique de marketing très utilisé pour
