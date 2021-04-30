@@ -46,7 +46,8 @@ sections:
 
           C'est une étape de **l'inbound marketing**. Une attention particulière
           doit être mise sur la création d'une stratégie de contenu afin que
-          **votre projet** soit correctement conduit.
+          **votre projet** soit correctement conduit et augmenter le **lead
+          nurturing**.
     feature_padding_vert: medium
     align: center
     padding_top: medium
