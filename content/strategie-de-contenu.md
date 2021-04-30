@@ -69,7 +69,7 @@ sections:
         content: >
           Le **buyeur persona** en anglais, correspond à la création d'un
           **profil client** typique de l'entreprise et de son domaine
-          d'activité. Plus peronnélisé en b2c qu'en b2b. Cette technique va
+          d'activité. Plus peronnélisé en b2c qu'en **b2b**. Cette technique va
           permettre d'apprendre à bien connaître ces **clients potentiels** et à
           pouvoir leur proposer du **contenu pertinent** et intéressent.
 
