@@ -151,13 +151,13 @@ sections:
         title: Maillage interne
         content: >
           Le maillage interne se prépare en amont avec la carte mentale puis la
-          stratégie de contenu. Elle est créée par la suite. 
+          stratégie de contenu. Elle est créée par la suite.
 
 
-          Perdre le fil est vie arrivée si vous n'utilisez pas toutes ces
-          **étapes** pour créer votre **cocon sémantique**. Faites appel à un
-          **professionnel** des liens **internes** et **externes** (les
-          backlinks) pour vous assurer un bon cocon sémantique.
+          Perdre le fil est vie arrivée si vous n'utilisez pas toutes ces étapes
+          pour créer votre cocon sémantique. Faites appel à un professionnel des
+          **liens** **internes** et **liens** **externes** (les **backlinks**)
+          pour vous assurer un bon cocon sémantique.
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
