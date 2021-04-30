@@ -159,9 +159,9 @@ sections:
         type: grid_item
         title: Audit de contenu
         content: >
-          L'**audit SEO** est un bon outil pour permettre de constater ou non
-          des baisses de performances de votre site internet ou plus
-          particulièrement de l'une de ces pages.
+          L'**audit SEO** est une **bonne stratégie** pour permettre de
+          constater ou non des baisses de performances de votre site internet ou
+          plus particulièrement de l'une de ces pages.
 
 
           En effet, votre contenu sera **analysé**, **étudié**, **décortiqué**
