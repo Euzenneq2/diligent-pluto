@@ -69,10 +69,10 @@ sections:
           d'activité.
 
 
-          Cette technique va permettre d'apprendre à bien **connaître** ces
-          prospects et à pouvoir leur proposer du **contenu pertinent** et
-          intéressent. Tout cela dans le but de **mieux vendre**, **d'améliorer
-          la conversion** de vos leads et de **fidéliser** vos clients.
+          Cette technique va permettre d'apprendre à bien connaître ces
+          **prospects** et à pouvoir leur proposer du **contenu pertinent** et
+          intéressent. Tout cela dans le but de mieux vendre, **d'améliorer la
+          conversion** de vos leads et la** fidélisation **de vos clients.
         content_align: left
         actions: []
         actions_align: left
