@@ -40,8 +40,8 @@ sections:
           ajoutée** à l'ensemble des média d'une entreprise tel que le site
           internet, les **newsletters**, les **réseaux sociaux**,
           l'**emailing**, etc. Via ces **leviers**, votre expertise sera divisée
-          et permettra de générer du** trafic** et d'**atteindre votre cible
-          **et d'évoluer sur les pages des résultats des **moteurs de
+          et permettra de générer du **trafic** et d'**atteindre votre cible**
+          et d'évoluer sur les pages des résultats des **moteurs de
           recherches**.
 
 
