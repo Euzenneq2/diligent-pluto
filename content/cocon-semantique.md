@@ -104,7 +104,7 @@ sections:
         title_align: left
         content: >
           Vous le savez surement, vous avez placé plusieurs **requêtes** et plus
-          particulièrement un **mot clé principal **sur votre site internet,
+          particulièrement un **mot clé principal** sur votre site internet,
           généralement utilisé sur votre **première page** : la page d'accueil.
           Cette dernière joue donc le rôle de page mère. Ainsi, les autres mots
           clés de votre site seront des pages filles et les pages de celles-ci
