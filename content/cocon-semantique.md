@@ -65,8 +65,8 @@ sections:
         content: >
           Définir et identifier votre **cible** est la première étape dans
           l'élaboration d'un cocon sémantique. En effet, il est important de
-          savoir qui visitera votre site et qui le fera vivre. L'outil Google
-          Analytics peut vous montrer les données de votre e-commerce.
+          savoir qui visitera votre site et qui le fera vivre. L'outil **Google
+          Analytics** peut vous montrer les données de votre e-commerce.
 
 
           Sans ces informations, inutile de continuer, votre **cocon
