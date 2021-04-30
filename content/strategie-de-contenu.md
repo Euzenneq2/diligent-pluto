@@ -108,14 +108,14 @@ sections:
         title: Charte éditoriale
         title_align: left
         content: >
-          La charte éditoriale est un outil qui vous **guidera** tout au long de
-          votre stratégie de contenu. En effet, c'est elle qui vous
-          **aiguillera** sur la **ligne** **éditoriale** à adopter.
+          La charte éditoriale est un outil qui vous guidera tout au long de
+          votre **stratégie de communication**. En effet, c'est elle qui vous
+          aiguillera sur la **ligne** **éditoriale** à adopter.
 
 
-          Elle permettra également d'**atteindre** sereinement les **objectifs
-          fixés**, et de conserver un lien et une **harmonie** entre dans votre
-          **contenu**.
+          Elle permettra également d'**atteindre vos objectifs **fixés, et de
+          conserver un lien et une harmonie entre dans votre **contenu**
+          **marketing**.
         content_align: left
         actions: []
         actions_align: left
