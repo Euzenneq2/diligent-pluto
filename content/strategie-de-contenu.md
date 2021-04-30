@@ -166,7 +166,7 @@ sections:
 
 
           En effet, votre **contenu éditorial** sera **analysé**, **étudié**,
-          **décortiqué** afin de \*\*cibler \*\*la source de cette même perte de
+          **décortiqué** afin de **cibler** la source de cette même perte de
           performances. Par la suite, des solutions seront trouvées puis mises
           en place afin de vous permettre de retrouver la sérénité de vos
           débuts.
