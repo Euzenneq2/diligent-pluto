@@ -103,11 +103,11 @@ sections:
         title_align: left
         content: >
           Vous le savez surement, vous avez placé un **mot clé principale** sur
-          votre site internet, généralement utilisé sur la page d'accueil.
-          Celle-dernière joue donc le rôle de **page mère**. Ainsi, les autres
-          pages (mots clés) de votre site seront des pages filles et les pages
-          de celles-ci seront des petites-filles, etc. Vous avez la possibilité
-          de créer des pages sœurs.
+          votre site internet, généralement utilisé sur la **page d'accueil**.
+          Celle-dernière joue donc le rôle de page mère. Ainsi, les autres (mots
+          clés) de votre site seront des pages filles et les pages de celles-ci
+          seront des petites-filles, etc. Vous avez la possibilité de créer des
+          pages sœurs.
 
 
           À noter que l'idéale est de ne pas dépasser **4 liaisons**.
