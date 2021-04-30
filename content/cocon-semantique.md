@@ -39,12 +39,11 @@ sections:
           parentés entre celles-ci. Pour cela, votre site doit comporter des
           catégories et des sous-catégories. Ainsi, un maillage en **cocon**
           sera construit de façon pertinente. Cette méthode permet d'améliorer
-          le** référencement naturel** de votre site web, **générer du trafic**
+          le **référencement naturel** de votre site web, **générer du trafic**
           et augmenter votre **taux de conversion.**
 
 
-          À noter que cette technique vient du terme** **marketing** "le
-          siloing"**.
+          À noter que cette technique vient du terme marketing "**le siloing**".
         image: images/quest-ce-que-le-cocon-semantique.png
     feature_padding_vert: medium
     align: center
