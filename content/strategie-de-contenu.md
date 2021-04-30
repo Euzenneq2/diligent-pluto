@@ -113,7 +113,7 @@ sections:
           aiguillera sur la **ligne** **éditoriale** à adopter.
 
 
-          Elle permettra également d'**atteindre vos objectifs **fixés, et de
+          Elle permettra également d'**atteindre vos objectifs** fixés, et de
           conserver un lien et une harmonie entre dans votre **contenu**
           **marketing**.
         content_align: left
