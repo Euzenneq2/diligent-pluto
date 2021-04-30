@@ -203,7 +203,7 @@ sections:
           s'organiser et planifier un **publication de contenu** réalisé.
 
 
-          En effet, vote planning éditorial doit être mis à jour régulièrement
+          En effet, vote **plan éditorial** doit être mis à jour régulièrement
           afin de conserver une certaine harmonie et cohérence sur vos
           différents **canaux de communication** tels que Facebook, Instagram,
           LinkedIn, Twitter, YouTube ou encore TikTok.
