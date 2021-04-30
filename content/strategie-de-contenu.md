@@ -178,8 +178,9 @@ sections:
         type: grid_item
         title: Community management
         content: >
-          Le community management est une technique permettant de **gérer et
-          publier du contenu** sur les différents **réseaux sociaux**.
+          Le community management est une technique permettant de gérer** **et
+          publier du **contenu attractif** principalement **sur** **les**
+          **réseaux sociaux**.
 
 
           En effet, grâce à un community manager vous pourrez mettre en place
