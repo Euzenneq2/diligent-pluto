@@ -89,9 +89,9 @@ sections:
         content: >
           Les objectifs SMART est une **stratégie de contenu** permettant de
           fixer des objectifs représentatifs afin qu'ils vous permettent de
-          faire évoluer votre entreprise et votre croissance. SMART signifie :
-          **Spécifique**, **Mesurable**, **Atteignable**, **Réaliste** et
-          **Temporel**.
+          faire évoluer votre entreprise, votre croissance et **créer du
+          contenu** stratégique. SMART signifie : **Spécifique**, **Mesurable**,
+          **Atteignable**, **Réaliste** et **Temporel**.
 
 
           Avec cette méthode, vous pourrez constater ou non, la faisabilité de
