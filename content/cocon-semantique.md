@@ -63,7 +63,7 @@ sections:
         title: Identification de la cible
         title_align: left
         content: >
-          **Définir** et identifie **votre cible** est la première étape dans
+          Définir et identifie votre** cible** est la première étape dans
           l'élaboration d'un cocon sémantique. En effet, il est important de
           savoir qui visitera votre site et qui le fera vivre.
 
