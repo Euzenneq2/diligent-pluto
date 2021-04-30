@@ -169,6 +169,11 @@ sections:
           performances. Par la suite, des solutions seront trouvées puis mises
           en place afin de vous permettre de retrouver la sérénité de vos
           débuts.
+
+
+          Après un audit, il est possible de devoir améliorer vos **contenus
+          éditoriaux**, votre **parcours d'achat**, vos **visuels**,
+          l'**expérience utilisateur** ou encore votre **tunnel** de vente.
       - title_align: left
         content_align: left
         actions: []
