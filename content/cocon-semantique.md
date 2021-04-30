@@ -103,10 +103,11 @@ sections:
         title: Stratégie de mots clés
         title_align: left
         content: >
-          Vous le savez surement, vous avez placé un **mot clé principale** sur
-          votre site internet, généralement utilisé sur la **page d'accueil**.
-          Celle-dernière joue donc le rôle de page mère. Ainsi, les autres (mots
-          clés) de votre site seront des pages filles et les pages de celles-ci
+          Vous le savez surement, vous avez placé plusieurs **requêtes** et plus
+          particulièrement un **mot clé principale** sur votre site internet,
+          généralement utilisé sur votre **première page** : la page d'accueil.
+          Cette dernière joue donc le rôle de page mère. Ainsi, les autres mots
+          clés de votre site seront des pages filles et les pages de celles-ci
           seront des petites-filles, etc. Vous avez la possibilité de créer des
           pages sœurs.
 
