@@ -226,9 +226,9 @@ sections:
 
 
           En effet, vote **plan éditorial** doit être mis à jour régulièrement
-          afin de conserver une certaine harmonie et cohérence sur vos
-          différents **canaux de communication** tels que Facebook, Instagram,
-          LinkedIn, Twitter, YouTube ou encore TikTok.
+          afin de conserver une certaine cohérence sur vos différentes
+          plateformes **digitale** telle que Facebook, Instagram, LinkedIn,
+          Twitter, YouTube ou encore TikTok.
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
