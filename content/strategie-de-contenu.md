@@ -145,8 +145,10 @@ sections:
 
           Ce **brand content**, est une technique de marketing très utilisé pour
           amener des **nouveaux clients** dans l'univers et l'ambiance de
-          l'entreprise. Cela permettra d'améliorer aussi, votre **image de
-          marque**.
+          l'entreprise.
+
+
+          Cela permettra d'améliorer aussi, votre **image de marque**.
       - title_align: left
         content_align: left
         actions: []
