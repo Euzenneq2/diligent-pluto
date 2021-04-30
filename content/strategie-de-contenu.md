@@ -38,9 +38,10 @@ sections:
         content: >
           Cette **stratégie** permet d'apporter un **contenu à** **forte valeur
           ajoutée** à l'ensemble des canaux de communication d'une entreprise
-          tel que le site internet, la **newsletter**, les **réseaux sociaux**,
-          le **emailing**, etc. Via ces canaux, votre expertise sera divisée et
-          permettra de **générer du trafic** et **d'atteindre votre cible**.
+          tel que le site internet, les **newsletters**, les **réseaux
+          sociaux**, le **emailing**, etc. Via ces canaux, votre expertise sera
+          divisée et permettra de **générer du trafic** et **d'atteindre votre
+          cible**.
 
 
           C'est une étape de **l'inbound marketing**. Une attention particulière
