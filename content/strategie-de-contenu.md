@@ -120,7 +120,7 @@ sections:
           **marketing**.
 
 
-          Il est nécessaire de** produire du contenu** en respectant cette
+          Il est nécessaire de **produire du contenu** en respectant cette
           stratégie digitale.
         content_align: left
         actions: []
