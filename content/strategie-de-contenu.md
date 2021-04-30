@@ -41,8 +41,7 @@ sections:
           le site internet, les **newsletters**, les **réseaux sociaux**,
           l'**emailing**, etc. Via ces **leviers**, votre expertise sera divisée
           et permettra de générer du **trafic** et d'**atteindre votre cible**
-          et d'évoluer sur les pages des résultats des **moteurs de
-          recherches**.
+          et d'évoluer sur les pages des résultats des **moteurs de recherche**.
 
 
           C'est une étape de **l'inbound marketing**. Une attention particulière
