@@ -223,7 +223,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      ## Un article de blog optimisé SEO en accord avec votre stratégie de
+      ## Un article de blog optimisé SEO en accord avec votre marketing de
       contenu, à partir de 0,10 €/mot
 
 
