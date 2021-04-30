@@ -17,8 +17,8 @@ sections:
     content: >
       Une **stratégie de contenu**, c'est apprendre à connaître l'environnement
       de l'entreprise avec laquelle je travaille. Connaître son marché, son
-      histoire, son positionnement ainsi que ses **cibles **pour une** création
-      de contenu **adapté.
+      histoire, son positionnement ainsi que ses **cibles** pour une
+      **création** **de contenu** adapté.
 
 
       Cela va permettre d'établir cette **stratégie marketing** de façon
