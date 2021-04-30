@@ -17,7 +17,7 @@ sections:
     content: >
       Une **stratégie de contenu**, c'est apprendre à connaître l'environnement
       de l'entreprise avec laquelle je travaille. Connaître son marché, son
-      histoire, son positionnement ainsi que sa **cible**.
+      histoire, son positionnement ainsi que ses **cibles**.
 
 
       Cela va permettre d'établir cette stratégie de façon **pertinente**. Dans
