@@ -118,6 +118,9 @@ sections:
           Elle permettra également d'**atteindre vos objectifs** fixés, et de
           conserver un lien et une harmonie entre dans votre **contenu**
           **marketing**.
+
+
+          **Produisez du contenu** en respectant cette stratégie digitale.
         content_align: left
         actions: []
         actions_align: left
