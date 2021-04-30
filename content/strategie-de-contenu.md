@@ -157,14 +157,14 @@ sections:
         title: Audit de contenu
         content: >
           L'**audit SEO** est un bon outil pour permettre de constater ou non
-          des baisses de **performance** de votre site internet ou plus
+          des baisses de performances de votre site internet ou plus
           particulièrement de l'une de ces pages.
 
 
           En effet, votre contenu sera **analysé**, **étudié**, **décortiqué**
-          afin de **cibler la sources** de cette même perte de performances. Par
-          la suite, des **solutions** seront trouvées puis **mises en place**
-          afin de vous permettre de retrouver la sérénité de vos débuts.
+          afin de **cibler la source** de cette même perte de performances. Par
+          la suite, des **solutions** seront trouvées puis mises en place afin
+          de vous permettre de retrouver la sérénité de vos débuts.
       - title_align: left
         content_align: left
         actions: []
