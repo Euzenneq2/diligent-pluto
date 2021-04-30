@@ -36,12 +36,11 @@ sections:
         type: feature
         image: images/quest-ce-strategie-de-contenu.png
         content: >
-          La **stratégie de contenu** permet d'apporter une **forte valeur
-          ajoutée** à l'ensemble des **canaux de communication** d'une
-          entreprise tels que le site internet, la newsletter, les réseaux
-          sociaux, le e-mailling, etc. Via ces canaux, votre expertise sera
-          divisée et permettra de **générer du trafic** et **d'attirer vos
-          cibles**.
+          Cette **stratégie** permet d'apporter un **contenu à** **forte valeur
+          ajoutée** à l'ensemble des canaux de communication d'une entreprise
+          tel que le site internet, la **newsletter**, les **réseaux sociaux**,
+          le **emailing**, etc. Via ces canaux, votre expertise sera divisée et
+          permettra de **générer du trafic** et **d'atteindre votre cible**.
 
 
           C'est une étape de **l'inbound marketing**. Une attention particulière
