@@ -194,10 +194,14 @@ sections:
 
 
           En effet, grâce à un community manager vous pourrez mettre en place
-          une **stratégie social media** afin de diversifier les **canaux de
-          communication** de votre entreprise ou de votre marque et de
-          **fidéliser** votre communauté. En collaborant avec des
+          une **stratégie social media** afin de diversifier les canaux de
+          communication de votre entreprise ou de votre marque et de
+          **fidéliser** votre communauté, en collaborant avec des
           **influenceurs** par exemple.
+
+
+          Mettre en place une **stratégie de publication**, c'est s'assurer de
+          **toucher vos cibles**.
       - title: Calendrier éditoriale
         title_align: left
         content_align: left
