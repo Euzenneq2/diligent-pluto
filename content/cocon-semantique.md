@@ -16,12 +16,13 @@ sections:
     image_alt: Rédaction web internet
     content: >
       Le cocon sémantique : une des principales méthodes pour permettre à votre
-      site internet d'être **bien référencé sur Google**. 
+      site internet d'être bien référencé sur la **SERP** du **moteur de
+      recherche** Google.
 
 
-      En suivant les **techniques** de réalisation d'un bon cocon sémantique
-      votre page web pourra **gagner en positionnement** sur les premières pages
-      de résultats de recherche et vous **différencier** de vos concurrents.
+      En suivant les techniques de réalisation d'un bon cocon sémantique votre
+      page web pourra gagner en **positionnement** sur les premières pages de
+      **résultats de recherche** et vous différencier de vos concurrents.
   - type: features_section
     template: features_section
     title: Qu'est-ce qu'un cocon sémantique ?
