@@ -218,11 +218,11 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      ## Un article optimisé SEO en accord avec votre stratégie de contenu, à
-      partir de 0,10 €/mot
+      ## Un article de blog optimisé SEO en accord avec votre stratégie de
+      contenu, à partir de 0,10 €/mot
 
 
-      Devenez plus visible !
+      Gagnez en notoriété !
     actions:
       - type: action
         template: action
