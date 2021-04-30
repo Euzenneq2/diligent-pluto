@@ -20,10 +20,10 @@ sections:
       histoire, son positionnement ainsi que ses **cibles**.
 
 
-      Cela va permettre d'établir cette stratégie de façon **pertinente**. Dans
-      le but de générer des **leads**, de gagner de nouveaux **prospects**,
-      augmenter votre **taux de conversion** et d’engager une communauté sur le
-      long terme.
+      Cela va permettre d'établir cette **stratégie marketing** de façon
+      **pertinente**. Dans le but de générer des **leads**, de gagner de
+      nouveaux **prospects**, augmenter votre **taux de conversion** et
+      d’engager une communauté sur le long terme.
   - type: features_section
     template: features_section
     title: Qu'est-ce qu'une stratégie de contenu ?
