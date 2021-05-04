@@ -210,6 +210,12 @@ sections:
           internet. Il détermine une valeur allant de 0 à 100.
 
 
+          Grâce cette outil, vous pouvez savoir si vous avez sur votre site un
+          **lien retour**, un lien externe, un lien de qualité, **un lien
+          d'autorité**, un **lien naturel**, des liens cassés ou encore des
+          liens en dur.
+
+
           Plus un lien émerge d’un site de confiance, plus ce lien aura
           d'importance et aura donc un **trust flow élevé**.
         content_align: left
