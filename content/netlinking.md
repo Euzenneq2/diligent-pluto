@@ -116,16 +116,17 @@ sections:
         title: Les ancres
         title_align: left
         content: >
-          L'ancre ou aussi le **texte d'ancrage** est le **mot clé** d'un lien.
-          Elle précise aux visiteurs des **informations pertinentes** concernant
-          le **contenu** de la page du lien. Cela permet de contextualiser le
-          lien. 
+          L'**ancre** ou aussi le **texte d'ancrage** est le **mot clé** d'un
+          **lien** **hypertexte**. Elle précise aux visiteurs des
+          renseignements** pertinents** concernant le contenu de la page du
+          lien. Cela permet l'**identification des liens**, mais aussi de les
+          contextualiser.
 
 
-          Les moteurs de recherches comme Google utilisent ces textes d'ancrage
+          Les moteurs de recherche comme Google utilisent ce **texte d'ancre**
           pour **percevoir** comment les autres sites voient votre page et quel
-          en est le **contenu**. Un mauvais texte d'ancrage peut vous apporter
-          des sanctions de la part de Google Pingouin.
+          en est le contenu. Un mauvais texte d'ancrage peut vous apporter des
+          **pénalités** de la part de **Google Pingouin**.
         content_align: left
         actions: []
         actions_align: left
