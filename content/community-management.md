@@ -129,9 +129,9 @@ sections:
 
 
           Selon le type de collaboration avec un influenceur, vous pouvez avoir
-          la chance de faire un **buzz **(bouche-à-oreille positif), cela
+          la chance de faire un **buzz** (bouche-à-oreille positif) cela
           pourrais vous apporter une bonne visibilité. A contrario, les **bad
-          buzz **(bouche-à-oreille négatif)** **altèrent la communication d’une
+          buzz** (bouche-à-oreille négatif) altèrent la communication d’une
           entreprise qui l'endure ou le provoque.
         content_align: left
         actions: []
