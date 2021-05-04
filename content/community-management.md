@@ -91,9 +91,8 @@ sections:
 
           Il existe plusieurs **stratégie digitale** pour **faire vivre la
           communauté**. Par exemple, vous pouvez mettre en place des
-          **jeux-concours **sur** Instagram **ou sur** votre page Facebook
-          **cela** **permet aussi** **d'**améliorer votre image via les réseaux
-          sociaux**.
+          **jeux-concours** sur **Instagram** ou sur **votre page Facebook**
+          cela permet aussi d'**améliorer votre image via les réseaux sociaux**.
         content_align: left
         actions: []
         actions_align: left
