@@ -77,9 +77,10 @@ sections:
         title_align: left
         content: >
           Le **SMM** (Social Media Marketing), est une **stratégie éditoriale**
-          qui comprend l’ensemble des actions conduisant à diffuser du contenu
-          et à consolider son **image de marque** **sur le web** afin de
-          développer la **réputation de l'entreprise**.
+          qui comprend l’ensemble des actions sur les **principaux réseaux
+          sociaux** conduisant à diffuser du contenu et à consolider son **image
+          de marque** **sur le web** afin de développer la **réputation de
+          l'entreprise**.
 
 
           La **stratégie social media** consiste à suivre une **ligne
@@ -90,9 +91,9 @@ sections:
 
           Il existe plusieurs **stratégie digitale** pour **faire vivre la
           communauté**. Par exemple, vous pouvez mettre en place des
-          **jeux-concours **sur** Instagram **ou sur votre** page facebook
-          **cela permettre aussi d'améliorer** votre image via les réseaux
-          sociaux**. 
+          **jeux-concours **sur** Instagram **ou sur** votre page Facebook
+          **cela** **permet aussi** **d'**améliorer votre image via les réseaux
+          sociaux**.
         content_align: left
         actions: []
         actions_align: left
