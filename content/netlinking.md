@@ -203,6 +203,11 @@ sections:
           de liens.
 
 
+          Par exemple, Google Pingouin peut vous sanctionner via un recul du
+          site sur la SERP ou une chute  du trafic organique de votre **propre
+          site**.
+
+
           De quoi donner envie de respecter les règles de Google pour éviter une
           **pénalité**.
       - title: Trust Flow
