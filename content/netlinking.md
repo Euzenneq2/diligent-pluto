@@ -15,7 +15,8 @@ sections:
     image_alt: Rédaction web internet
     content: >
       Construire son propre **netlinking** de façon naturelle, grâce au
-      **contenu de qualité** présent sur votre site internet.
+      **contenu de qualité** présent sur votre site internet, et cela, sans
+      **pénalité**.
 
 
       Cette technique de **référenceurs** permet de développer le **nombre de**
