@@ -58,7 +58,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Social media marketing
+        title: Social média marketing
         title_align: left
         content: >
           Le **SMM** (Social Media Marketing), est un concept qui comprend
