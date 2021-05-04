@@ -14,13 +14,13 @@ sections:
     align: left
     image_alt: Rédaction web internet
     content: >
-      Construire son propre **netlinking** de façon naturelle grâce à la
-      **qualité du contenu** présent sur votre site internet.
+      Construire son propre **netlinking** de façon naturelle grâce au** contenu
+      de qualité** présent sur votre site internet.
 
 
-      Cette technique permet de **développer** le nombre de **liens** présent
-      sur votre site web, ainsi améliorer et faire évoluer votre référencement
-      sur la **SERP** Google.
+      Cette technique permet de développer le **nombre de** **liens** présent
+      sur votre site e-commerce, ainsi améliorer et faire évoluer votre
+      **référencement** sur les résultats des **moteurs de recherche**.
     image: images/netlinking.png
   - type: features_section
     template: features_section
