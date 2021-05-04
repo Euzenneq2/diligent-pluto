@@ -74,10 +74,10 @@ sections:
           développer la **réputation de l'entreprise**.
 
 
-          La **stratégie social media** consiste à se **connecter avec votre
-          public** ou vos clients et à les aider à mieux comprendre votre
-          marque. C'est incroyablement bénéfique pour la **croissance de votre
-          entreprise**.
+          La **stratégie social media** consiste à se connecter avec votre
+          public ou vos clients et à mettre en place une bonne
+          **relation-client**. C'est incroyablement bénéfique pour la
+          **réputation de votre entreprise**.
         content_align: left
         actions: []
         actions_align: left
