@@ -152,8 +152,8 @@ sections:
         image_align: left
         image_has_padding: true
         content: >
-          Il existe dans une **stratégie social** possède des règles à respecter
-          en termes de **marketing de contenu**.
+          Il existe dans une **stratégie social**, des règles à respecter en
+          termes de **marketing de contenu**.
 
 
           En effet, chaque **réseau social** à son jour et son horaire de
