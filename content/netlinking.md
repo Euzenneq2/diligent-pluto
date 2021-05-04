@@ -129,7 +129,8 @@ sections:
           L'**ancre** ou aussi le **texte d'ancrage** est le **mot clé** d'un
           **lien** **hypertexte**. Elle précise aux visiteurs des renseignements
           **pertinents** concernant le contenu de la page du lien. Cela permet
-          l'**identification des liens**, mais aussi de les contextualiser.
+          l'**identification des liens**, mais aussi de les contextualiser. Ce
+          sont les **descriptions** des liens.
 
 
           Par exemple, si vous collaborez avec un **blogueur** et que vous devez
