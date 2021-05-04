@@ -46,9 +46,9 @@ sections:
           vous obtiendrait un trafic de qualité **provenant du site**.
 
 
-          Un lien peut être placé sûr des sites internet et amener du trafic
-          vers le vôtre ou vous pouvez intégrer au vôtre, des liens de sites
-          **sponsorisés** pour rediriger votre trafic vers lui.
+          Un **lien efficace** peut être placé sûr des sites internet et amener
+          du trafic vers le vôtre ou vous pouvez intégrer au vôtre, des liens de
+          sites **sponsorisés** pour rediriger votre trafic vers lui.
 
 
           Pour structurer **tous les liens**, il existe les attributs :
