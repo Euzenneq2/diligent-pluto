@@ -126,6 +126,13 @@ sections:
           qu'une **campagne publicitaire** traditionnelle. Les
           influenceurs/blogueurs ont la capacité de créer de la valeur et de
           rassurer leur public.
+
+
+          Selon le type de collaboration avec un influenceur, vous pouvez avoir
+          la chance de faire un **buzz **(bouche-à-oreille positif), cela
+          pourrais vous apporter une bonne visibilité. A contrario, les **bad
+          buzz **(bouche-à-oreille négatif)** **altèrent la communication d’une
+          entreprise qui l'endure ou le provoque.
         content_align: left
         actions: []
         actions_align: left
