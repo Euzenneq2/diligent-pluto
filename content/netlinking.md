@@ -212,9 +212,8 @@ sections:
 
 
           Grâce cette outil, vous pouvez savoir si vous avez sur votre site un
-          **lien retour**, un lien externe, un lien de qualité, **un lien
-          d'autorité**, un **lien naturel**, des liens cassés ou encore des
-          liens en dur.
+          **lien retour**, un lien de qualité, **un lien d'autorité**, un **lien
+          naturel**, des liens cassés ou encore des liens en dur.
 
 
           Plus un lien émerge d’un site de confiance, plus ce lien aura
