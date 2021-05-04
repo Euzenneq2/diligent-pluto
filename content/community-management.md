@@ -167,6 +167,11 @@ sections:
           leurs créneaux d'activité.
 
 
+          Pour atteindre ces objectifs **pertinents**, utiliser pour votre
+          **stratégie réseaux sociaux** des **hashtags **et des** visuels **sans
+          **modération**.
+
+
           De plus, chaque jour vous pourrez **animer les réseaux** et gagnerez
           en **fidélisation**.
       - title_align: left
