@@ -203,7 +203,8 @@ sections:
           de liens.
 
 
-          De quoi donner envie de respecter les règles de Google.
+          De quoi donner envie de respecter les règles de Google pour éviter une
+          **pénalité**.
       - title: Trust Flow
         title_align: left
         content: >
