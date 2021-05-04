@@ -16,15 +16,15 @@ sections:
     align: left
     image_alt: Community management
     content: >
-      Accroitre sa **notoriété** et être visible grâce à une **stratégie de
+      Accroitre sa **notoriété** et **être présent** grâce à une **stratégie de
       communication** efficace, c'est l'objectif le plus important pour toutes
       entreprises.
 
 
-      Promouvoir ces contenus sur les **différents** **réseaux sociaux** ou sur
-      votre **e-commerce** est un moyen d'améliorer votre **e-réputation**,
-      d'attirer l'attention des lecteurs, de convertir des **cibles** en client
-      et par la suite de les **fidéliser**.
+      Promouvoir ces contenus sur les **différents** **réseaux sociaux**,**
+      votre site internet** ou sur votre **e-commerce** est un moyen d'améliorer
+      votre **e-réputation**, d'attirer l'attention des lecteurs, de convertir
+      des **cibles** en client et par la suite de les **fidéliser**.
     image: images/community-management.png
   - type: features_section
     template: features_section
