@@ -49,10 +49,10 @@ sections:
 
 
           Ce travail est géré par un **community manager**. Il devra créer une
-          **communication digitale, **un **stratégie de présence**, instaurer
+          **communication digitale**, un **stratégie de présence**, instaurer
           des **campagnes publicitaires** ainsi qu'un **planning éditorial**
           puis à la suite d'une publication, par exemple, **interagir avec la
-          communauté**,
+          communauté**.
         image: images/quest-ce-community-management.png
     feature_padding_vert: medium
     align: center
