@@ -82,6 +82,13 @@ sections:
           éditoriale** et **fédérer une communauté** afin de mettre en place une
           bonne **relation-client**. C'est incroyablement bénéfique pour la
           **réputation de votre entreprise**.
+
+
+          Il existe plusieurs **stratégie digitale** pour **faire vivre la
+          communauté**. Par exemple, vous pouvez mettre en place des
+          **jeux-concours **sur** Instagram **ou sur votre** page facebook
+          **cela permettre aussi d'améliorer** votre image via les réseaux
+          sociaux**. 
         content_align: left
         actions: []
         actions_align: left
