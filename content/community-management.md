@@ -102,7 +102,18 @@ sections:
         template: grid_item
         title: Marketing d'influence
         title_align: left
-        content: "Le marketing d'influence, c'est la **collaboration** d'une marque avec un **influenceur** pour vendre l'un de ses produits ou services. Ils travaillent ensemble de façon rémunérée pour améliorer la **reconnaissance** **de** **la** **marque**, stimuler la **notoriété**, l'**engagement** et **générer la conversion** client.\n\nUn bon influenceur peut produire un contenu 11 fois plus efficace que les bannières publicitaires traditionnelles.\_Les influenceurs ont la capacité de **créer de la valeur** et de faire confiance à leur public\n"
+        content: >
+          Le marketing d'influence, c'est la collaboration d'une marque avec un
+          **influenceur** pour vendre l'un de ses produits ou services.
+          L'entreprise travaillent rémunère le créateur de contenu pour
+          **développer sa communauté**, **générer du trafic** et essayer
+          d'attirer des **millions d'utilisateurs** sur les réseaux sociaux de
+          la marque.
+
+
+          Un bon influenceur peut produire un contenu 11 fois plus efficace que
+          les publicitaires traditionnelles. Les influenceurs/blogueurs ont la
+          capacité de créer de la valeur et de rassurer leur public.
         content_align: left
         actions: []
         actions_align: left
