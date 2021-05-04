@@ -16,14 +16,15 @@ sections:
     align: left
     image_alt: Community management
     content: >
-      Être visible grâce à une **stratégie de communication** efficace, c'est
-      l'objectif le plus important pour toutes entreprises.
+      Accroitre sa **notoriété** et être visible grâce à une **stratégie de
+      communication** efficace, c'est l'objectif le plus important pour toutes
+      entreprises.
 
 
       Promouvoir ces contenus sur les **différents** **réseaux sociaux** ou sur
-      votre site internet est un moyen d'améliorer votre **e-réputation**,
-      d'attirer l'attention des lecteurs et de convertir des prospects en
-      client.
+      votre **e-commerce** est un moyen d'améliorer votre **e-réputation**,
+      d'attirer l'attention des lecteurs, de convertir des prospects en client
+      et par la suite de les **fidéliser**.
     image: images/community-management.png
   - type: features_section
     template: features_section
