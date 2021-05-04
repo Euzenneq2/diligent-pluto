@@ -78,14 +78,14 @@ sections:
         title: Les backlinks
         title_align: left
         content: >
-          Les backlinks sont des liens **pointant vers votre site** internet
-          (**lien** **entrant**). Ou à l'inverse, des liens placés sur votre
-          site pointant vers celui d'un partenaire (**lien** **sortant**). Cela
-          dépend de ce que vous souhaitez faire. Si vous souhaitez acquérir du
-          trafic provenant d'un site réputé, alors votre lien sera placé sur ce
-          site tiers. Au contraire, si vous souhaitez diriger votre trafic vers
-          un site tiers, vous placerez son lien sur une des **pages de votre
-          site**.
+          Les backlinks sont des liens **pointant vers votre site**
+          **Wordpress** (**lien** **entrant**). Ou à l'inverse, des liens placés
+          sur votre site pointant vers celui d'un partenaire (**lien**
+          **sortant**). Cela dépend de ce que vous souhaitez faire. Si vous
+          souhaitez acquérir du trafic provenant d'un site réputé, alors votre
+          lien sera placé sur ce site tiers. Au contraire, si vous souhaitez
+          diriger votre trafic vers un site tiers, vous placerez son lien sur
+          une des **pages de votre site**.
 
 
           Vous l'aurez compris, le but des backlinks est de se **référencer**,
