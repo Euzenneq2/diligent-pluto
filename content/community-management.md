@@ -53,6 +53,10 @@ sections:
           des **campagnes publicitaires** ainsi qu'un **planning éditorial**
           puis à la suite d'une publication, par exemple, **interagir avec la
           communauté**.
+
+
+          Vous avez la possibilité de faire ce métier en faisant une **formation
+          de community manager**.
         image: images/quest-ce-community-management.png
     feature_padding_vert: medium
     align: center
