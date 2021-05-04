@@ -114,7 +114,7 @@ sections:
         title: Marketing d'influence
         title_align: left
         content: >
-          Le marketing d'influence, c'est la collaboration d'une marque avec un
+          Le **webmarketing**, c'est la collaboration d'une marque avec un
           **influenceur** pour vendre l'un de ses produits ou services.
           L'entreprise travaillent rémunère le créateur de contenu pour
           **développer sa communauté**, **générer du trafic** et essayer
