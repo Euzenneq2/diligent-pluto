@@ -118,8 +118,8 @@ sections:
           **popularité**.
 
 
-          Plus vous obtiendrez des liens sur plusieurs sites internet, plus vous
-          aurez un jus de qualité.
+          Plus vous obtiendrez des **liens efficaces** sur plusieurs sites
+          internet, plus vous aurez un jus de qualité.
       - type: grid_item
         template: grid_item
         title: Les ancres
