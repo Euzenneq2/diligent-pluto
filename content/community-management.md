@@ -168,7 +168,7 @@ sections:
 
 
           Pour atteindre ces objectifs **pertinents**, utiliser pour votre
-          **stratégie réseaux sociaux** des **hashtags **et des** visuels **sans
+          **stratégie réseaux sociaux** des **hashtags** et des **visuels** sans
           **modération**.
 
 
