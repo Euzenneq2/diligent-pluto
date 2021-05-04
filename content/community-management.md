@@ -173,19 +173,18 @@ sections:
       - title: Reporting & veille
         title_align: left
         content: >
-          Le reporting est un élément de **bilan** pour votre entreprise qui
-          permet de faire un **point régulier** sur votre **stratégie de
-          contenu**, les **moyens** mis au service de cette stratégie et les
-          **résultats** obtenus.
+          Le reporting est un élément de bilan pour votre entreprise qui permet
+          de faire un point régulier sur votre **stratégie des médias**, les
+          moyens mis au service de cette stratégie et les résultats obtenus.
 
 
-          Aussi, réaliser une veille consiste à **examiner votre contenu** pour
-          décortiquer les commentaires portant sur votre marque, mais aussi vos
-          concurrents. Il est important de maîtriser des outils de veille
-          adéquats et mettre en place une **planification** adaptée à vos
-          objectifs comme de la veille d’informations, veille concurrentielle et
-          du **Benchmark** afin d’améliorer votre stratégie community
-          management.
+          Aussi, réaliser une veille consiste à examiner votre **production de
+          contenus** pour décortiquer l'**activité sur les réseaux** **sociaux**
+          portant sur votre marque, mais aussi vos concurrents. Il est important
+          de maîtriser des outils de veille adéquats et **mettre en place une
+          stratégie** adaptée à vos objectifs comme de la veille d’informations,
+          veille concurrentielle et du Benchmark afin d’améliorer votre
+          **management des réseaux**.
         content_align: left
         actions: []
         actions_align: left
