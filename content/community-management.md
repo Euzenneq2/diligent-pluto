@@ -160,15 +160,16 @@ sections:
         type: grid_item
         title: Newsletter
         content: >
-          Connue aussi sous le terme d'**e-mailling marketing**, cette technique
-          consiste à envoyer régulièrement du **contenu personnalisé** à une
-          audience très ciblée. En effet, si vous avez **collecté une adresse
-          mail** via un CTA (Call To Action) ou un Asset Marketing, alors vous
-          savez que cette personne est **intéressée** par votre contenu.
+          Cette stratégie d'**inbound marketing**, connue aussi sous le terme
+          d'**emailing marketing** consiste à diffuser régulièrement du contenu
+          personnalisé à une audience très ciblée. En effet, si vous avez
+          collecté une adresse mail via un CTA (Call To Action) ou un Asset
+          Marketing, alors vous savez que cette personne est intéressée par
+          votre contenu.
 
 
           C'est donc le moment de proposer une newsletter de qualité afin de
-          **convertir** votre visiteur.
+          convertir votre visiteur.
       - title: Reporting & veille
         title_align: left
         content: >
