@@ -117,10 +117,9 @@ sections:
         title_align: left
         content: >
           L'**ancre** ou aussi le **texte d'ancrage** est le **mot clé** d'un
-          **lien** **hypertexte**. Elle précise aux visiteurs des
-          renseignements** pertinents** concernant le contenu de la page du
-          lien. Cela permet l'**identification des liens**, mais aussi de les
-          contextualiser.
+          **lien** **hypertexte**. Elle précise aux visiteurs des renseignements
+          **pertinents** concernant le contenu de la page du lien. Cela permet
+          l'**identification des liens**, mais aussi de les contextualiser.
 
 
           Les moteurs de recherche comme Google utilisent ce **texte d'ancre**
