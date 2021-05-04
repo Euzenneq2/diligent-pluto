@@ -153,8 +153,8 @@ sections:
           vôtre.
 
 
-          La meilleure façon de réussir cela est d'avoir un contenu**
-          pertinent** et de qualité. Mais vous devrez vous différencier en
+          La meilleure façon de réussir cela est d'avoir un contenu
+          **pertinent** et de qualité. Mais vous devrez vous différencier en
           proposant du contenu à **forte valeur ajoutée** pour espérer un buzz
           et des partages sur les réseaux sociaux. Après cela, le tour est joué,
           vous avez enclenché la machine pour **augmenter votre popularité**.
