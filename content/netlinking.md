@@ -131,6 +131,16 @@ sections:
           l'**identification des liens**, mais aussi de les contextualiser.
 
 
+          Par exemple, si vous collaborez avec un blogueur et que vous devez
+          mettre un de ces liens sur votre site, vous l'intègrerez comme cela : 
+
+
+          \<a href=”https://mon-site.fr”>Mon site\</a>.
+
+
+          Ici, "**Mon site**" est le texte d'ancrage.
+
+
           Les moteurs de recherche comme Google utilisent ce **texte d'ancre**
           pour **percevoir** comment les autres sites voient votre page et quel
           en est le contenu. Un mauvais texte d'ancrage peut vous apporter des
