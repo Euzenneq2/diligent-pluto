@@ -50,6 +50,13 @@ sections:
           **sponsorisés** pour rediriger votre trafic vers lui.
 
 
+          Pour structurer **tous les liens**, il existe les attributs :
+          **nofollow** et **dofollow**. Ceux-ci permettent de décider si ou non
+          vous souhaitez que les robots Google suivent ces liens. Vous pouvez
+          donc les intégrer à vos textes ancrés avec les mention : "**rel
+          nofollow**", par exemple.
+
+
           À noter, qu'il est important d'avoir des backlinks de la **même
           thématique** que ceux sur les **pages de votre site**.
         image: images/quest-ce-netlinking.png
