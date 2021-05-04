@@ -203,10 +203,12 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    content: |
-      ## Organisez votre contenu grâce à un community manager
+    content: >
+      ## Multipliez votre présences sur les médias sociaux grâce au
+      web-marketing
 
-      Devenez encore plus visible !
+
+      Créer une communauté !
     actions:
       - type: action
         template: action
