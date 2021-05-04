@@ -132,7 +132,8 @@ sections:
 
 
           Par exemple, si vous collaborez avec un **blogueur** et que vous devez
-          mettre un de ces liens sur votre site, vous l'intègrerez comme cela :
+          mettre un de ces liens sur votre site, vous intègrerez votre **URL**
+          comme cela :
 
 
           \<a href=”https://mon-site.fr”>**Mon site**\</a>.
