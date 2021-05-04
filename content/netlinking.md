@@ -38,10 +38,11 @@ sections:
           développer le nombre de **liens externes** de qualité, qui pointent
           vers une page ou un site internet que l'on veut promouvoir. Cette
           technique permet d'obtenir un trafic de qualité qui permettra
-          d'améliorer la **crédibilité** et la **popularité** de votre page. En
-          effet, si vous placez sur un site internet bien référencé votre
-          **backlink**, alors vous obtiendrait un trafic de qualité **provenant
-          du site**.
+          d'améliorer la **crédibilité** et la **popularité** de votre page.
+          Ainsi que d'augmenter votre note **pagerank** (**algorithme
+          Page-rank** de Google). En effet, si vous placez sur un site internet
+          bien référencé votre **backlink**, alors vous obtiendrait un trafic de
+          qualité **provenant du site**.
 
 
           Un lien peut être placé sûr des sites internet et amener du trafic
