@@ -134,18 +134,19 @@ sections:
         image_align: left
         image_has_padding: true
         content: >
-          Il existe des règles à respecter en termes de **publication de
-          contenu**. 
+          Il existe des règles à respecter en termes de **marketing de
+          contenu**.
 
 
-          En effet, chaque réseau à son **jour et son horaire de publication**
-          pour vous assurer une **visibilité**. Il est vrai que vos cibles se
-          **connectent** à certaines heures plus qu'a d'autre. Il est donc
-          nécessaire de publier votre contenu sur leurs **créneaux d'activité**.
+          En effet, chaque **réseau social** à son jour et son horaire de
+          publication pour vous assurer une visibilité. Il est vrai que vos
+          **followers** se connectent à certaines heures plus qu'a d'autre. Il
+          est donc nécessaire de publier vos **créations de contenu** pendant
+          leurs créneaux d'activité.
 
 
-          De plus, vous animerez votre communauté et chaque jour, gagnerez en
-          **fidélisation**.
+          De plus, chaque jour vous pourrez **animer les réseaux** et gagnerez
+          en **fidélisation**.
       - title_align: left
         content_align: left
         actions: []
