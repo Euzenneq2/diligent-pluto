@@ -34,13 +34,14 @@ sections:
         align: center
         type: feature
         content: >
-          Le netlinking est une méthode qui consiste à développer le nombre de
-          **liens externes** de qualité, qui pointent vers une page ou un site
-          internet que l'on veut promouvoir. Cette technique permet d'obtenir un
-          trafic de qualité qui permettra d'améliorer la **crédibilité** et la
-          **popularité** de votre page. En effet, si vous placez sur un site
-          internet bien référencé votre **backlink**, alors vous obtiendrait un
-          trafic de qualité **provenant du site**.
+          Le netlinking ou **link building** est une méthode qui consiste à
+          développer le nombre de **liens externes** de qualité, qui pointent
+          vers une page ou un site internet que l'on veut promouvoir. Cette
+          technique permet d'obtenir un trafic de qualité qui permettra
+          d'améliorer la **crédibilité** et la **popularité** de votre page. En
+          effet, si vous placez sur un site internet bien référencé votre
+          **backlink**, alors vous obtiendrait un trafic de qualité **provenant
+          du site**.
 
 
           Un lien peut être placé sûr un site internet et amener du trafic vers
