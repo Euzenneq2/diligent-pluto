@@ -111,9 +111,10 @@ sections:
           la marque.
 
 
-          Un bon influenceur peut produire un contenu 11 fois plus efficace que
-          les publicitaires traditionnelles. Les influenceurs/blogueurs ont la
-          capacité de créer de la valeur et de rassurer leur public.
+          Un bon influenceur peut produire un contenu 11 fois plus efficace
+          qu'une **campagne publicitaire** traditionnelle. Les
+          influenceurs/blogueurs ont la capacité de créer de la valeur et de
+          rassurer leur public.
         content_align: left
         actions: []
         actions_align: left
