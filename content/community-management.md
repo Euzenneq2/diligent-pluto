@@ -196,13 +196,14 @@ sections:
           moyens mis au service de cette stratégie et les résultats obtenus.
 
 
-          Aussi, réaliser une veille consiste à examiner votre **production de
-          contenus** pour décortiquer l'**activité sur les réseaux** **sociaux**
-          portant sur votre marque, mais aussi vos concurrents. Il est important
-          de maîtriser des outils de veille adéquats et **mettre en place une
-          stratégie** adaptée à vos objectifs comme de la veille d’informations,
-          veille concurrentielle et du Benchmark afin d’améliorer votre
-          **management des réseaux**.
+          Aussi, **faire de la veille** consiste à examiner votre **production
+          de contenus** pour décortiquer l'**activité sur les réseaux**
+          **sociaux** portant sur votre marque, mais aussi vos concurrents. Il
+          est important de maîtriser des outils de veille adéquats et **mettre
+          en place une stratégie** adaptée à vos objectifs comme de la veille
+          d’informations, veille concurrentielle et du Benchmark afin
+          d’améliorer votre **management des réseaux **et la façon** **de**
+          communiquer sur les réseaux sociaux**.
         content_align: left
         actions: []
         actions_align: left
