@@ -44,9 +44,9 @@ sections:
           du site**.
 
 
-          Un lien peut être placé sûr un site internet et amener du trafic vers
-          le vôtre ou vous pouvez intégrer un lien d'un site partenaire pour
-          rediriger votre trafic vers lui.
+          Un lien peut être placé sûr des sites internet et amener du trafic
+          vers le vôtre ou vous pouvez intégrer au vôtre, des liens de sites
+          **sponsorisés** pour rediriger votre trafic vers lui.
 
 
           À noter, qu'il est important d'avoir des backlinks de la **même
