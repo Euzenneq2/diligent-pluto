@@ -108,7 +108,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: "La branding fait la promotion de vos produits ou services d'une manière qui met en valeur votre marque globale.\_L'objectif du marketing de marque est d’associer votre identité, vos valeurs et votre personnalité aux communications destinées à votre public.\n\nCette technique marketing est bénéfique pour renforcer la réputation, la fiabilité et la portée de votre entreprise sur le marché.\_Par conséquent, vos produits et services auront une valeur plus élevée.\_\n"
+        content: "La **branding** fait la promotion de vos produits ou services d'une manière qui met en valeur votre marque globale.\_L'objectif du marketing de marque est d’associer votre identité, vos valeurs et votre personnalité aux communications destinées à votre public.\n\nCette technique d'**E marketi**ng est bénéfique pour renforcer la réputation, la fiabilité et la portée de **son entreprise** sur le marché.\_Par conséquent, vos produits et services auront une valeur plus élevée.\_\n"
       - type: grid_item
         template: grid_item
         title: Marketing d'influence
