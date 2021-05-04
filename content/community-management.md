@@ -70,7 +70,7 @@ sections:
         content: >
           Le **SMM** (Social Media Marketing), est une **stratégie éditoriale**
           qui comprend l’ensemble des actions conduisant à diffuser du contenu
-          et à consolider** **son** image de marque** **sur le web** afin de
+          et à consolider son **image de marque** **sur le web** afin de
           développer la **réputation de l'entreprise**.
 
 
