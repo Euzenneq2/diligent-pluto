@@ -23,7 +23,7 @@ sections:
 
       Promouvoir ces contenus sur les **différents** **réseaux sociaux** ou sur
       votre **e-commerce** est un moyen d'améliorer votre **e-réputation**,
-      d'attirer l'attention des lecteurs, de convertir des prospects en client
+      d'attirer l'attention des lecteurs, de convertir des **cibles** en client
       et par la suite de les **fidéliser**.
     image: images/community-management.png
   - type: features_section
