@@ -68,13 +68,13 @@ sections:
         title: Social média marketing
         title_align: left
         content: >
-          Le **SMM** (Social Media Marketing), est un concept qui comprend
-          l’ensemble des **actions** conduisant à **diffuser du contenu** et à
-          **développer son audience** sur les médias sociaux afin de développer
-          son taux de conversion.
+          Le **SMM** (Social Media Marketing), est une **stratégie éditoriale**
+          qui comprend l’ensemble des actions conduisant à diffuser du contenu
+          et à consolider** **son** image de marque** **sur le web** afin de
+          développer la **réputation de l'entreprise**.
 
 
-          Le social media marketing consiste à se **connecter avec votre
+          La **stratégie social media** consiste à se **connecter avec votre
           public** ou vos clients et à les aider à mieux comprendre votre
           marque. C'est incroyablement bénéfique pour la **croissance de votre
           entreprise**.
