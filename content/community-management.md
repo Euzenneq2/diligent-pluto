@@ -180,7 +180,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Newsletter
+        title: Newsletter (e-mailing)
         content: >
           Cette stratégie d'**inbound marketing**, connue aussi sous le terme
           d'**emailing marketing** consiste à diffuser régulièrement du contenu
