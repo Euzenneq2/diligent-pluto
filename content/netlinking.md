@@ -114,9 +114,9 @@ sections:
           Le link juice ou **jus de lien** en français, est un terme technique
           utilisé pour parler des effets bénéfiques d’un backlink sur un site.
           Si les **sites externes** sur lesquels vous placez vos **lien-retour**
-          sont des **liens de** **qualité** et détiennent un **bon score** sur
-          Google, alors vos pages bénéficierons de cette **notoriété** et
-          **popularité**.
+          sont des sites **référents,** ont des **liens de** **qualité** et
+          détiennent un **bon score** sur Google, alors vos pages bénéficierons
+          de cette **notoriété** et **popularité**.
 
 
           Plus vous obtiendrez des **liens efficaces** sur plusieurs sites
