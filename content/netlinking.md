@@ -246,8 +246,8 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      ## Améliorez votre netlinking grâce à un contenu unique, à partir de
-      0,10 €/mot
+      **Améliorez votre netlinking grâce à un contenu unique, à partir de
+      0,10 €/mot**
 
 
       Gagnez un trustflow.
