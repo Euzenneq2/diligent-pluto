@@ -214,7 +214,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - title: lorem-ipsum
+  - title: Optez pour la formation ....
     subtitle: 'Maintenant que vous connaissez les critères clés, voulez-vous un conseil ?'
     features: []
     feature_padding_vert: medium
