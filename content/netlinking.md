@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: large
     align: left
-    image_alt: Rédaction web internet
+    image_alt: Netlinking
     content: >
       Construire son propre **netlinking** de façon naturelle, grâce au
       **contenu de qualité** présent sur votre site internet, et cela, sans
