@@ -21,7 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     align: left
-    image_alt: formation rédaction web
+    image_alt: Formation rédaction web
     content: >
       **Imaginez** : vous vous réveillez paisiblement, à l’heure que vous
       souhaitez. Pas d’obligation de porter une tenue de travail, et encore
