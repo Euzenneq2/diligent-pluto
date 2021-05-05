@@ -133,10 +133,10 @@ sections:
         image_has_padding: true
         content: >
           Un rédacteur de **contenu SEO** est un rédacteur qui s'occupe
-          d'essayer d'améliorer le classement d'un site Web dans les moteurs de
-          recherche grâce à l'**optimisation SEO** afin que les internautes
-          puissent trouver facilement ce site lorsqu'ils effectuent une
-          recherche dans le moteur de recherche.
+          d'essayer d'améliorer le classement d'un site Web dans la **SERP**
+          grâce à l'**optimisation SEO** afin que les internautes puissent
+          trouver facilement ce site lorsqu'ils effectuent une recherche dans le
+          moteur de recherche.
 
 
           La clientèle se trouve facilement, la plupart des entreprise ont des
