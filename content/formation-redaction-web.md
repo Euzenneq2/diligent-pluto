@@ -281,9 +281,9 @@ sections:
   - type: cta_section
     template: cta_section
     content: |
-      ## Devenez rédacteur web SEO
+      ## Sauter enfin le pas, formez-vous au métier de la rédaction web
 
-      Lancez-vous !
+      Vous avez toutes les clés en main !
     actions:
       - type: action
         template: action
