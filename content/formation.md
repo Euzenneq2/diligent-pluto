@@ -6,7 +6,7 @@ sections:
     title: 'Formation en rédaction web, devenez indépendant !'
     background_color: primary
     actions:
-      - label: lorem-ipsum
+      - label: Je me forme !
         url: '#'
         style: link
         has_icon: false
