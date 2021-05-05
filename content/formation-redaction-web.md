@@ -287,7 +287,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Je demande un devis
+        label: J'y vais !
         url: /contact
         style: primary
         icon_position: left
