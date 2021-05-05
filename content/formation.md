@@ -137,8 +137,15 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        content: |
-          ,dksnv,zvr
+        content: >
+          Le marketing sous toutes ces formes détient une place **importante**
+          dans la rédaction web.
+
+
+          En effet, il est nécessaire de connaitre l'**inbound marketing** par
+          exemple lors d'une formation au métier. Vous devez apprendre à
+          connaître le **but** de votre travail de rédacteur ainsi que les
+          **méthode** à utiliser.
       - title: Le SEO
         subtitle: lorem-ipsum
         title_align: left
