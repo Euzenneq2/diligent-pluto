@@ -69,7 +69,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Une foramtion de professionnel
+        title: Une formation de professionnel
         title_align: left
         content: >
           Il est évident que vous souhaitez vous former avec une personne qui
