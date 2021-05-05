@@ -9,7 +9,7 @@ sections:
       contenu**, cela fait aussi partie du travail. Pour **répondre au mieux a
       vos attentes**, découvrez quelles autres méthodes sont utilisées.
     actions: []
-    image_alt: contenu SEO
+    image_alt: Méthode de rédaction
     media_position: right
     media_width: fifty
     align: left
