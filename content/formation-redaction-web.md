@@ -26,20 +26,8 @@ sections:
     subtitle: >-
       Vous vous posez des questions sur votre avenir professionnel ? Et si tout
       cela changeait !
-  - content: >
-      **Imaginez** : vous vous réveillez paisiblement, à l’heure que vous
-      souhaitez. Pas d’obligation de porter une tenue de travail, et encore
-      moins d’aller au bureau pour travailler pour quelqu'un d'autre que vous.
-
-
-      Non, vous vous dirigez plutôt vers votre cuisine pour vous faire un café
-      bien chaud, puis vers votre coin préféré pour travailler, votre jardin par
-      exemple, et vous commencez à **rédiger** quelques lignes pendant que vous
-      respirez un bon bol d'air frais. Vous restez là pendant quelques heures,
-      puis vous êtes libre pour le reste de la journée.
-
-
-      Le meilleur ? C’est comme cela tous les jours !
+  - content: |
+      ...
     actions: []
     image_alt: lorem-ipsum
     media_position: top
