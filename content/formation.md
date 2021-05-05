@@ -202,7 +202,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Obtenir une clientèle
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
