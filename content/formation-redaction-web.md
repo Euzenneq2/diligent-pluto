@@ -263,7 +263,7 @@ sections:
           très intéressante. 
         actions: []
         image_alt: Quelle formation rédaction web
-        media_position: top
+        media_position: bottom
         media_width: fifty
         align: left
         type: feature
