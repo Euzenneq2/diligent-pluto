@@ -215,7 +215,7 @@ sections:
     align: center
     background_color: none
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: 'Maintenant que vous connaissez les critères clés, voulez-vous un conseil ?'
     features: []
     feature_padding_vert: medium
     align: center
