@@ -29,7 +29,7 @@ sections:
     title: Qu'est-ce que le netlinking ?
     features:
       - actions: []
-        image_alt: Booster votre contenu seo
+        image_alt: Qu'est ce que le netlinking
         media_position: bottom
         media_width: fourty
         align: center
