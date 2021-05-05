@@ -14,14 +14,25 @@ sections:
     align: left
     image_alt: Community management
     content: >
-      Ce domaine de formation, c'est plus qu'apprendre à écrire ou apprendre à
-      faire de belles phrases.
+      Vous vous posez des questions sur votre avenir professionnel ?
 
 
-      Cela demande de la **rigueur**, du **travail** et de la persévérance. En
-      effet, connaissez-vous les **balises TITLE**, **méta-descrpition** et
-      **Hn** ? Une bonne formation vous permettra de **réaliser vos objectifs**
-      professionnels.
+      Et si tout cela changeait 
+
+
+      Imaginez : vous vous réveillez paisiblement, à l’heure que vous souhaitez.
+      Pas d’obligation de porter une tenue de travail, et encore moins d’aller
+      au bureau pour travailler pour quelqu'un d'autre que vous.
+
+
+      Non, vous vous dirigez plutôt vers votre cuisine pour vous faire un café
+      bien chaud, puis vers votre coin préféré pour travailler, votre jardin par
+      exemple, et vous commencez à écrire quelques lignes pendant que vous
+      respirez un bon bol d'air frais. Vous restez là pendant quelques heures,
+      puis vous êtes libre pour le reste de la journée.
+
+
+      Le meilleur ? C’est comme cela tous les jours !
     image: images/formation.png
   - type: features_section
     template: features_section
