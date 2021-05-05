@@ -17,7 +17,7 @@ sections:
         type: action
     media_position: right
     background_image_position: left center
-    media_width: sixty
+    media_width: fifty
     padding_top: large
     padding_bottom: large
     align: left
