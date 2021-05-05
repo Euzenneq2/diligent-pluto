@@ -174,9 +174,20 @@ sections:
       - title: Le SEO
         title_align: left
         content: >
-          Le Search Engine Optimization qui signifie Optimisation pour les
-          moteurs de recherche, en français, est LA notion que vous devez
-          absolument apprendre durant une formation de rédaction web. En
+          Le **Search Engine Optimization** qui signifie "Optimisation pour les
+          moteurs de recherche" en français, aussi appelé le **référencement
+          naturel**, est LA notion que vous devez absolument apprendre durant
+          une formation de rédaction web.
+
+
+          En effet, le **référencement** régie très fortement le métier de
+          rédacteur web. Afin de comprendre pourquoi, il est indispensable de
+          connaître les étapes d'une **stratégie éditoriale**.
+
+
+          Durant votre formation, les notions telles que **mot clé principal**,
+          **mots-clés**, **longue traîne**, **cocon** **sémantique **ou encore
+          **balises méta, **vous seront expliquées en détails.
         content_align: left
         actions: []
         actions_align: left
