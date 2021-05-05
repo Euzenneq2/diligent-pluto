@@ -42,7 +42,7 @@ sections:
       cela changeait !
   - type: features_section
     template: features_section
-    title: Les indispensable d'une bonne formation en rédaction web ?
+    title: La solution ? Une bonne formation en rédaction web
     features:
       - actions: []
         image_alt: Qu'est-ce que le community management ?
