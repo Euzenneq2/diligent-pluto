@@ -100,19 +100,19 @@ sections:
         image_has_padding: false
         type: grid_item
         content: >
-          Si vous souhaitez avoir un critère de **crédibilité** supplémentaire,
-          n'hésitez pas à vous former auprès de plateformes délivrant des
-          **certificats** à la fin de votre formation.
+          Si vous souhaitez avoir un critère de crédibilité supplémentaire,
+          n'hésitez pas à vous former auprès des plateformes délivrant des
+          certificats à la fin de votre formation.
 
 
-          Même si la plupart du temps ces certificats ne sont pas **reconnus par
-          l'état**, il existe des certifications qui ont de la **valeur** sur le
+          Même si la plupart du temps ces certificats ne sont pas reconnus par
+          l'état, il existe des certifications qui ont de la valeur sur le
           marché de la rédaction web.
 
 
-          Vous pouvez aussi vous référencer aux labels de qualité comme
-          **Qualiopi**. Les formations répondant à ce label, on été évaluées par
-          un jury et on cochées de nombreuses cases avant leur certification.
+          Vous pouvez aussi vous référer aux labels de qualité comme Qualiopi.
+          Les formations répondant à ce label, ont été évaluées par un jury et
+          ont cochées de nombreuses cases avant leur certification.
       - type: grid_item
         template: grid_item
         title: Marketing
