@@ -152,7 +152,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: secondary
   - type: features_section
     template: features_section
     features:
