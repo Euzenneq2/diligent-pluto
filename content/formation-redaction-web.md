@@ -201,14 +201,16 @@ sections:
       - title: Les outils indispensables
         title_align: left
         content: >
-          Un bon formateur va vous **transmettre** les astuce et les outils pour
-          vous permettre de **performer** dans votre métier.
+          Un bon formateur, rédacteur professionnel va vous transmettre, durant
+          les **cours de rédaction** web, les méthodes et les outils pour vous
+          permettre de performer dans votre métier.
 
 
-          Effectivement, il existe plusieurs **outils**, extension, astuces,
-          logiciels à utiliser pour être **professionnel**. Évidemment, une base
-          de connaissance concernant la **langue française** et les **règles de
-          grammaire** est indispensable.
+          Effectivement, il existe plusieurs outils, extension, astuces,
+          logiciels à utiliser pour être professionnel. Évidemment, il est
+          nécessaire d'éviter de faire des **fautes** d'orthographe par exemple.
+          **Écrire pour le web** nécessite une base de connaissance concernant
+          la langue française et une aisance **rédactionnelle**. 
         content_align: left
         actions: []
         actions_align: left
