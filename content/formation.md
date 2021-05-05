@@ -107,7 +107,12 @@ sections:
 
           Même si la plupart du temps ces certificats ne sont pas **reconnus par
           l'état**, il existe des certifications qui ont de la **valeur** sur le
-          marché de la rédaction web tel que **Qualiopi**. 
+          marché de la rédaction web.
+
+
+          Vous pouvez aussi vous référencer aux labels de qualité comme
+          **Qualiopi**. Les formations répondant à ce label, on été évaluées par
+          un jury et on cochées de nombreuses cases avant leur certification.
       - type: grid_item
         template: grid_item
         title: Marketing
