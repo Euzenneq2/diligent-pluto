@@ -115,7 +115,7 @@ sections:
           ont cochées de nombreuses cases avant leur certification.
       - type: grid_item
         template: grid_item
-        title: Marketing
+        title: LE MÉTIER DE RÉDACTEUR WEB ET QUI SONT LES CLIENTS
         title_align: left
         content: >
           Le marketing sous toutes ces formes détient une place **importante**
