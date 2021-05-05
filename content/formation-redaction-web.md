@@ -262,7 +262,7 @@ sections:
           Cette formation que j'ai découverte il y a peu, est bien construite et
           très intéressante. 
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: 'Quelle formation '
         media_position: top
         media_width: fifty
         align: left
