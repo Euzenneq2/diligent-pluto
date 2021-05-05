@@ -32,42 +32,6 @@ sections:
 
       Le meilleur ? C’est comme cela tous les jours !
     image: images/formation.png
-  - content: >
-      **Imaginez** : vous vous réveillez paisiblement, à l’heure que vous
-      souhaitez. Pas d’obligation de porter une tenue de travail, et encore
-      moins d’aller au bureau pour travailler pour quelqu'un d'autre que vous.
-
-
-      Non, vous vous dirigez plutôt vers votre cuisine pour vous faire un café
-      bien chaud, puis vers votre coin préféré pour travailler, votre jardin par
-      exemple, et vous commencez à **rédiger** quelques lignes pendant que vous
-      respirez un bon bol d'air frais. Vous restez là pendant quelques heures,
-      puis vous êtes libre pour le reste de la journée.
-
-
-      Le meilleur ? C’est comme cela tous les jours !
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - type: features_section
     template: features_section
     title: Les indispensable d'une bonne formation en rédaction web ?
