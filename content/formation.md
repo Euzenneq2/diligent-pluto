@@ -37,6 +37,9 @@ sections:
 
       Le meilleur ? C’est comme cela tous les jours !
     image: images/formation.png
+    subtitle: >-
+      Vous vous posez des questions sur votre avenir professionnel ? Et si tout
+      cela changeait !
   - type: features_section
     template: features_section
     title: Les indispensable d'une bonne formation en rédaction web ?
