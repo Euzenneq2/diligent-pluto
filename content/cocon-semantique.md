@@ -28,7 +28,7 @@ sections:
     title: Qu'est-ce qu'un cocon sémantique ?
     features:
       - actions: []
-        image_alt: Booster votre contenu seo
+        image_alt: qu'est ce qu'un cocon sémantique
         media_position: bottom
         media_width: fourty
         align: center
