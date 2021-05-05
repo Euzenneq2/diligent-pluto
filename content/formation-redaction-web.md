@@ -186,8 +186,8 @@ sections:
 
 
           Durant votre formation, les notions telles que **mot clé principal**,
-          **mots-clés**, **longue traîne**, **cocon** **sémantique **ou encore
-          **balises méta, **vous seront expliquées en détails.
+          **mots-clés**, **longue traîne**, **cocon** **sémantique** ou encore
+          **balises méta**, vous seront expliquées en détails.
         content_align: left
         actions: []
         actions_align: left
