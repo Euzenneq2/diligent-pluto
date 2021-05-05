@@ -171,7 +171,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Les outils indispensables
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Un bon formateur va vous **transmettre** les astuce et les outils pour
