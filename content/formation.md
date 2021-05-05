@@ -117,15 +117,8 @@ sections:
         template: grid_item
         title: Le métier de rédacteur web et qui sont les clients
         title_align: left
-        content: >
-          Le marketing sous toutes ces formes détient une place **importante**
-          dans la rédaction web.
-
-
-          En effet, il est nécessaire de connaitre l'**inbound marketing** par
-          exemple lors d'une formation au métier. Vous devez apprendre à
-          connaître le **but** de votre travail de rédacteur ainsi que les
-          **méthode** à utiliser.
+        content: |
+          tydfguhijo
         content_align: left
         actions: []
         actions_align: left
