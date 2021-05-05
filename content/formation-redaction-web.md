@@ -163,7 +163,7 @@ sections:
 
 
           Pour cela, il est nécessaire d'apprendre les notions d'**inbound
-          marketing **ou de **stratégie digitale**, lors d'une formation.
+          marketing** ou de **stratégie digitale**, lors d'une formation.
           Connaître les techniques et les objectifs du métier de rédacteur fait
           partie des règles fondamentales.
       - title: Le SEO
