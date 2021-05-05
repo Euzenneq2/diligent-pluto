@@ -72,14 +72,20 @@ sections:
         title: Une formation de professionnel
         title_align: left
         content: >
-          Il est évident que vous souhaitez vous former avec une personne qui
-          connait le métier de **rédacteur web SEO**.
+          La première chose à vérifier chez les formateurs **rédacteurs web**,
+          ce sont leurs compétences.
 
 
-          Le niveau de **compétences** et de **connaissances** de votre
-          formateur est important, inutile de perdre du temps avec des formation
-          de mauvaise qualité. N'hésitez pas à juger si selon vous il a toutes
-          les **ressources** à vous apprendre.
+          Renseignez-vous sur les dernières formations ou expériences qu'ils ont
+          pu acquérir. De plus, regarder des avis, par exemple, pour savoir si
+          les **formateurs** étaient aussi passionnants que passionnés,
+          pédagogues.
+
+
+          Généralement, les formateurs sont des personne travaillant dans le
+          **webmarketing**, le **journalisme**, dans une **agence web**. Ou
+          bien, étant **content manager**, **rédacteur indépendant **ou**
+          auto-entrepreneur** 
         content_align: left
         actions: []
         actions_align: left
