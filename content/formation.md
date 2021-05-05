@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: Des formations aux métiers de rédacteur web
+    title: Devenez indépendant
     background_color: primary
     actions: []
     media_position: right
