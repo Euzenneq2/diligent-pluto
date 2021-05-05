@@ -173,8 +173,10 @@ sections:
           module de formation.
       - title: Le SEO
         title_align: left
-        content: |
-          mm
+        content: >
+          Le Search Engine Optimization qui signifie Optimisation pour les
+          moteurs de recherche, en français, est LA notion que vous devez
+          absolument apprendre durant une formation de rédaction web. En
         content_align: left
         actions: []
         actions_align: left
