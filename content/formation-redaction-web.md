@@ -147,7 +147,7 @@ sections:
           enseigner comment fonctionne ce métier.
       - type: grid_item
         template: grid_item
-        title: Les bases du marketing
+        title: Les bases du marketing digital
         title_align: left
         content_align: left
         actions: []
