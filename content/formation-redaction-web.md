@@ -246,7 +246,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: La durée de formation
-        content: "Une formation pour devenir rédacteur web peut très bien durer **6\_h** comme elle peut durer **6 mois**. Ce choix vous appartient.\n\nAttention tout de même à ne pas se contenter d'une **formation trop courte**, car vous vous en doutez : l'apprentissage d'un **métier** ne se fait pas en seulement 3\_h, vous devez poursuivre cette **apprentissage** soit via vos propres moyens et en **pratiquant** soit en complétant avec **d'autres** **formations**.\n"
+        content: "Une formation pour devenir concepteur-rédacteur peut très bien durer 6\_h comme elle peut durer 6 mois. Ce choix vous appartient.\n\nAttention tout de même à ne pas se contenter d'une initiation trop courte, car vous vous en doutez : l'apprentissage d'un métier ne se fait pas en seulement 3\_h, vous devez poursuivre cette formation soit via vos propres moyens et en pratiquant, soit en complétant avec d'autres formations.\n"
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
