@@ -13,7 +13,7 @@ sections:
     padding_top: large
     padding_bottom: large
     align: left
-    image_alt: Rédaction web internet
+    image_alt: Stratégie de contenu
     content: >
       Une **stratégie de contenu**, c'est apprendre à connaître l'environnement
       de l'entreprise avec laquelle je travaille. Connaître son marché, son
