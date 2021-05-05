@@ -256,8 +256,7 @@ sections:
   - title: Optez pour la formation ....
     subtitle: 'Maintenant que vous connaissez les critères clés, voulez-vous un conseil ?'
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
