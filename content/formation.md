@@ -21,7 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     align: left
-    image_alt: Community management
+    image_alt: formation rédactoin web
     content: >
       **Imaginez** : vous vous réveillez paisiblement, à l’heure que vous
       souhaitez. Pas d’obligation de porter une tenue de travail, et encore
