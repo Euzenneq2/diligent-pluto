@@ -87,7 +87,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Délivre une certification
+      - title: La certification
         title_align: left
         content_align: left
         actions: []
