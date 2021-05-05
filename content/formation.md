@@ -52,8 +52,8 @@ sections:
         type: feature
         content: >
           Vous êtes à la recherche d'une **formation en rédaction web
-          pertinente** ? Avant de vous décider, je vous donne les 6 critères
-          indispensable pour être sûr de faire le bon choix.
+          pertinente** ? Avant de vous décider, je vous donne les secrets d'une
+          bonne formation, pour être sûr de faire le bon choix.
     feature_padding_vert: medium
     align: center
     padding_top: medium
