@@ -256,8 +256,11 @@ sections:
   - title: Optez pour la formation ....
     subtitle: 'Maintenant que vous connaissez les critères clés, voulez-vous un conseil ?'
     features:
-      - content: |
-          sqclq
+      - content: >
+          Pour vous éviter de partir à la recherche des meilleures formations
+          sur le web après toutes ces informations. Je vous en propose une.
+          Cette formation que j'ai découverte il y a peu, est bien construite et
+          très intéressante. 
         actions: []
         image_alt: lorem-ipsum
         media_position: top
