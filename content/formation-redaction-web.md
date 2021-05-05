@@ -124,8 +124,6 @@ sections:
         template: grid_item
         title: Le métier de rédacteur web et qui sont les clients
         title_align: left
-        content: |
-          tydfguhijo
         content_align: left
         actions: []
         actions_align: left
