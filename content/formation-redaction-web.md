@@ -56,7 +56,7 @@ sections:
           bonne formation, pour être sûr de faire le bon choix.
     feature_padding_vert: medium
     align: center
-    padding_top: small
+    padding_top: medium
     padding_bottom: medium
     has_border: false
     background_color: none
