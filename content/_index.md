@@ -418,7 +418,7 @@ sections:
         content_align: center
         actions:
           - label: En savoir plus
-            url: /formation
+            url: /formation-redaction-web
             style: secondary
             has_icon: false
             icon: arrow-left
