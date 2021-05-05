@@ -138,14 +138,13 @@ sections:
           lorsqu'ils effectuent une recherche dans le moteur de recherche.
 
 
-          Un rédacteur écrit du contenu optimisé pour les moteurs de recherche.
-          Les principales tâches d'un rédacteur de contenu SEO sont les
-          suivantes :
+          La clientèle se trouve facilement, la plupart des entreprise ont des
+          besoins en rédaction web. Cependant, la concurrence est rude.
 
 
-          Rédiger des textes optimisés ; optimiser les titres des pages,
-          méta-descriptions, h1, alts, texte d'ancrage ; recherche de mots-clés
-          ; analyse de la stratégie de marketing de contenu, etc.
+          Ces sujets doivent être abordés lors de votre formation en tant que
+          rédacteur ou **rédactrice web**. Ils vous permettront de vous
+          enseigner comment fonctionne ce métier.
       - type: grid_item
         template: grid_item
         title: Les bases du marketing
