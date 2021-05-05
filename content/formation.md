@@ -147,7 +147,6 @@ sections:
           connaître le **but** de votre travail de rédacteur ainsi que les
           **méthode** à utiliser.
       - title: Le SEO
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
