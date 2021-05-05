@@ -167,6 +167,10 @@ sections:
           marketing** ou de **stratégie digitale**, lors d'une formation.
           Connaître les techniques et les objectifs du métier de rédacteur fait
           partie des règles fondamentales.
+
+
+          Un des grands sujets que vous devait retrouver et aborder dans un
+          module de formation.
       - title: Le SEO
         title_align: left
         content: |
