@@ -13,7 +13,7 @@ sections:
     padding_top: large
     padding_bottom: large
     align: left
-    image_alt: Rédaction web internet
+    image_alt: cocon-semantique
     content: >
       Le cocon sémantique : une des principales méthodes pour permettre à votre
       site internet d'être bien référencé sur la **SERP** du **moteur de
