@@ -177,7 +177,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Débuter en seo
+      - title: Les outils indispensables
         subtitle: lorem-ipsum
         title_align: left
         content: >-
