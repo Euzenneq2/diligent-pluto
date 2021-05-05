@@ -157,14 +157,15 @@ sections:
         image_align: left
         image_has_padding: true
         content: >
-          Le marketing sous toutes ces formes détient une place **importante**
-          dans la rédaction web.
+          Le **content marketing** sous toutes ces formes détient une place
+          importante dans la rédaction web. En effet, il permet d'appliquer les
+          directives d'une **stratégie de contenu**.
 
 
-          En effet, il est nécessaire de connaitre l'**inbound marketing** par
-          exemple lors d'une formation au métier. Vous devez apprendre à
-          connaître le **but** de votre travail de rédacteur ainsi que les
-          **méthode** à utiliser.
+          Pour cela, il est nécessaire d'apprendre les notions d'**inbound
+          marketing **ou de **stratégie digitale**, lors d'une formation.
+          Connaître les techniques et les objectifs du métier de rédacteur fait
+          partie des règles fondamentales.
       - title: Le SEO
         title_align: left
         content: |
