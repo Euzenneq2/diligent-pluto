@@ -34,7 +34,7 @@ sections:
     image: images/formation.png
   - type: features_section
     template: features_section
-    title: Quelles sont les indispensable d'une bonne formations ?
+    title: Les indispensable d'une bonne formation en rédactin web ?
     features:
       - actions: []
         image_alt: Qu'est-ce que le community management ?
