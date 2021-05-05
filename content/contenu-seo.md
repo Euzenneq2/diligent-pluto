@@ -12,7 +12,7 @@ sections:
       ces questions et vous faciliter la vie ainsi que la création de votre site
       internet, **faites appel à un rédacteur web** qui est là pour ça !
     actions: []
-    image_alt: contenu SEO
+    image_alt: Contenu SEO
     media_position: right
     media_width: fifty
     align: left
