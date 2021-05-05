@@ -26,8 +26,7 @@ sections:
     subtitle: >-
       Vous vous posez des questions sur votre avenir professionnel ? Et si tout
       cela changeait !
-  - title: lorem-ipsum
-    content: >
+  - content: >
       **Imaginez** : vous vous réveillez paisiblement, à l’heure que vous
       souhaitez. Pas d’obligation de porter une tenue de travail, et encore
       moins d’aller au bureau pour travailler pour quelqu'un d'autre que vous.
