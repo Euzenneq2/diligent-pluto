@@ -144,15 +144,8 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        content: >
-          Un bon formateur va vous **transmettre** les astuce et les outils pour
-          vous permettre de **performer** dans votre métier.
-
-
-          Effectivement, il existe plusieurs **outils**, extension, astuces,
-          logiciels à utiliser pour être **professionnel**. Évidemment, une base
-          de connaissance concernant la **langue française** et les **règles de
-          grammaire** est indispensable.
+        content: |
+          ,dksnv,zvr
       - title: Le SEO
         subtitle: lorem-ipsum
         title_align: left
