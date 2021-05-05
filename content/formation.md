@@ -173,17 +173,15 @@ sections:
       - title: Les outils indispensables
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Un bon formateur va vous **transmettre** les astuce et les outils pour
+          vous permettre de **performer** dans votre métier.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Effectivement, il existe plusieurs **outils**, extension, astuces,
+          logiciels à utiliser pour être **professionnel**. Évidemment, une base
+          de connaissance concernant la **langue française** et les **règles de
+          grammaire** est indispensable.
         content_align: left
         actions: []
         actions_align: left
