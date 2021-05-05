@@ -153,7 +153,7 @@ sections:
           logiciels à utiliser pour être **professionnel**. Évidemment, une base
           de connaissance concernant la **langue française** et les **règles de
           grammaire** est indispensable.
-      - title: Débuter en SEO
+      - title: Le SEO
         subtitle: lorem-ipsum
         title_align: left
         content: >-
