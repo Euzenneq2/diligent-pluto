@@ -28,7 +28,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      ## **Bénéficiez de votre article optimisé SEO pour 0,10€/mot (balise méta
+      **Bénéficiez de votre article optimisé SEO pour 0,10€/mot (balise méta
       comprise).**
 
 
