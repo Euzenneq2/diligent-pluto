@@ -201,7 +201,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: "6.\tObtenir une clientèle"
+      - title: Obtenir une clientèle
         subtitle: lorem-ipsum
         title_align: left
         content: >-
