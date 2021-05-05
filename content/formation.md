@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: Devenez indépendant
+    title: 'Formation en rédaction web, devenez indépendant !'
     background_color: primary
     actions: []
     media_position: right
