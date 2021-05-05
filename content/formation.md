@@ -50,8 +50,10 @@ sections:
         media_width: fourty
         align: center
         type: feature
-        content: |2
-           Vous êtes a la recherche d'une bonne formation en rédaction web ? Voici les 6 critères indispensable pour être sur de faire le bon choix.
+        content: >
+          Vous êtes a la recherche d'une bonne formation en rédaction web ?
+          Voici les 6 critères indispensable pour être sûr de faire le bon
+          choix.
         image: images/quest-ce-formation.png
     feature_padding_vert: medium
     align: center
