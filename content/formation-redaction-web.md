@@ -131,6 +131,21 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        content: >
+          Un rédacteur de contenu SEO est un rédacteur qui s'occupe d'essayer
+          d'améliorer le classement d'un site Web dans les moteurs de recherche
+          afin que les internautes puissent trouver facilement ce site
+          lorsqu'ils effectuent une recherche dans le moteur de recherche.
+
+
+          Un rédacteur écrit du contenu optimisé pour les moteurs de recherche.
+          Les principales tâches d'un rédacteur de contenu SEO sont les
+          suivantes :
+
+
+          Rédiger des textes optimisés ; optimiser les titres des pages,
+          méta-descriptions, h1, alts, texte d'ancrage ; recherche de mots-clés
+          ; analyse de la stratégie de marketing de contenu, etc.
       - type: grid_item
         template: grid_item
         title: Les bases du marketing
