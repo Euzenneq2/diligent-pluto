@@ -23,7 +23,9 @@ sections:
     align: left
     image_alt: Formation rédaction web
     image: images/formation.png
-    subtitle: Apprenez un métier émergeant.
+    subtitle: >-
+      Apprenez un métier d'avenir. Gérez votre temps comme vous le souhaitez.
+      Devenez indépendant.
   - content: >
       ****
 
