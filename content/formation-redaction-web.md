@@ -24,8 +24,9 @@ sections:
     image_alt: Formation rédaction web
     image: images/formation.png
     subtitle: >-
-      Vous vous posez des questions sur votre avenir professionnel ? Et si tout
-      cela changeait !
+      Profitez de l'occasion et former vous à ce métier émergeant ! Vous vous
+      posez des questions sur votre avenir professionnel ? Et si tout cela
+      changeait !
   - content: >
       ****
 
