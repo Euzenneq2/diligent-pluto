@@ -23,9 +23,7 @@ sections:
     align: left
     image_alt: Formation rédaction web
     image: images/formation.png
-    subtitle: >-
-      Apprenez un métier émergeant. Vous vous posez des questions sur votre
-      avenir professionnel ? Et si tout cela changeait !
+    subtitle: Apprenez un métier émergeant.
   - content: >
       ****
 
