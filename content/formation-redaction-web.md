@@ -27,16 +27,10 @@ sections:
       Apprenez un métier d'avenir. Gérez votre temps comme vous le souhaitez.
       Devenez indépendant.
   - content: >
-      ****
+      ***
 
 
-      ****
-
-
-      ****
-
-
-      ****
+      ***
 
 
       **Imaginez** : vous vous réveillez paisiblement, à l’heure que vous
