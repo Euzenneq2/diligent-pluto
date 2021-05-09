@@ -26,40 +26,6 @@ sections:
     subtitle: >-
       Apprenez un métier d'avenir. Gérez votre temps comme vous le souhaitez.
       Devenez indépendant.
-  - content: >
-      ***
-
-
-      ***
-
-
-      **Imaginez** : vous vous réveillez paisiblement, à l’heure que vous
-      souhaitez. Pas d’obligation de porter une tenue de travail, et encore
-      moins d’aller au bureau pour travailler pour quelqu'un d'autre que vous.
-
-
-      Non, vous vous dirigez plutôt vers votre cuisine pour vous faire un café
-      bien chaud, puis vers votre coin préféré pour travailler, votre jardin par
-      exemple, et vous commencez à **rédiger** quelques lignes pendant que vous
-      respirez un bon bol d'air frais. Vous restez là pendant quelques heures,
-      puis vous êtes libre pour le reste de la journée.
-
-
-      Le meilleur ? C’est comme cela tous les jours !
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - type: features_section
     template: features_section
     title: La solution ? Une bonne formation en rédaction web
