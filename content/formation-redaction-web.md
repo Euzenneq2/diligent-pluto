@@ -36,9 +36,15 @@ sections:
         align: center
         type: feature
         content: >
-          Vous êtes à la recherche d'une **formation en rédaction web seo
-          pertinente** ? Avant de vous décider, je vous donne les secrets d'une
-          bonne formation, pour être sûr de faire le bon choix.
+
+
+          Après quelques recherches et beaucoup d'analyses des différentes
+          formations de rédacteur web, voici les points que vous devez retrouver
+          dans les sommaires des formations de rédaction web.
+
+
+          C'est une façon pour moi de vous livrer les secrets d'une bonne
+          formation, pour que vous soyez sûr de faire le bon choix.
     feature_padding_vert: medium
     align: center
     padding_top: medium
