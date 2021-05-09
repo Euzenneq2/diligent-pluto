@@ -36,15 +36,19 @@ sections:
         align: center
         type: feature
         content: >
+          Ayant moi-même participé à des formations de rédaction web,
+          copywriting, création de pages de ventes, etc. Je me demandais
+          toujours si leurs contenu allait me donner les bases ou m'apprendre
+          plus en profondeur le métier.
 
 
-          Après quelques recherches et beaucoup d'analyses des différentes
-          formations de rédacteur web, voici les points que vous devez retrouver
-          dans les sommaires des formations de rédaction web.
+          Effectivement, certaines sont des introduction au métier. Mais cela
+          n'empêche pas que leur contenu était condensé et de qualité.
 
 
-          C'est une façon pour moi de vous livrer les secrets d'une bonne
-          formation, pour que vous soyez sûr de faire le bon choix.
+          Afin de vous livrer les secrets d'une bonne formation, pour que vous
+          soyez sûr de faire le bon choix. Voici les points que vous devez
+          retrouver dans les sommaires des formations de rédaction web.
     feature_padding_vert: medium
     align: center
     padding_top: medium
