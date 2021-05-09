@@ -36,14 +36,17 @@ sections:
         align: center
         type: feature
         content: >
+          \*Ébauche\*
+
+
           Ayant moi-même participé à des formations de rédaction web,
-          copywriting, création de pages de ventes, etc. Je me demandais
-          toujours si leurs contenu allait me donner les bases ou m'apprendre
-          plus en profondeur le métier.
+          copywriting, création de pages de vente, etc. Je me demandais toujours
+          si leur contenu allait me donner les bases ou m'apprendre en
+          profondeur le métier.
 
 
-          Effectivement, certaines sont des introduction au métier. Mais cela
-          n'empêche pas que leur contenu était condensé et de qualité.
+          Effectivement, certaines sont des introductions au métier. Mais cela
+          n'empêchait pas que leurs contenus étaient condensés et de qualités.
 
 
           Afin de vous livrer les secrets d'une bonne formation, pour que vous
