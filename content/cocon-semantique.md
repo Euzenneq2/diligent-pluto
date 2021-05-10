@@ -140,8 +140,8 @@ sections:
 
           En effet, ces règles sont les mêmes que lors de la création de votre
           contenu. Vous devez donc respecter les différentes **balises**
-          existantes telles que la **balise** Hn, les titres, les sous-titres,
-          les paragraphes, les images ainsi que les CTA.
+          existantes telles que la balise Hn, les titres, les sous-titres, les
+          paragraphes, les images ainsi que les CTA.
       - title_align: left
         content_align: left
         actions: []
