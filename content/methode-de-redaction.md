@@ -48,13 +48,19 @@ sections:
       ## Qu'est-ce que les méthodes de rédaction ?
 
 
-      Il en existe de nombreuses. Que ce soit de simples méthodes comme : écrire
-      pour son lecteur, travailler son champ **lexical**, ou des méthodes de
-      **référencement naturel** tel que l'**optimisation** de son contenu, le
-      choix pertinent de **liens** et des **mots-clés**. Elles permettent
-      d'obtenir un contenu pour attirer le lecteur, le captiver, le faire passer
-      de lead a converti puis à client ou pour le solliciter à parcourir d'autre
-      page de votre site internet.
+      Afin de faire partie des sites web ou **e-commerce** dans la **SERP** des
+      moteurs de recherche, il est nécessaire d'avoir une **stratégie
+      éditorial** **optimisée**. Il existe de nombreuses techniques de rédaction
+      pour cela.
+
+
+      Que ce soit de simples méthodes comme : écrire pour son lecteur,
+      travailler son champ **lexical**, ou des méthodes de **référencement
+      naturel** tel que l'**optimisation** de son contenu, le choix pertinent de
+      **liens** et des **mots-clés**. Elles permettent d'obtenir un contenu pour
+      attirer le lecteur, le captiver, le faire passer de lead a converti puis à
+      client ou pour le solliciter à parcourir d'autre page de votre site
+      internet.
 
 
       Tout bon rédacteur web connait et a acquis ces méthodes au début de sa
