@@ -90,8 +90,8 @@ sections:
           **sitemap** est une étape intéressante.
 
 
-          Elle permet aussi de structurer et organiser le **maillage interne**
-          sans faire de faute de parenté ou de lien.
+          Elle permet aussi de structurer et organiser **chaque page** du
+          **maillage interne** sans faire de faute de parenté ou de lien.
         content_align: left
         actions: []
         actions_align: left
