@@ -364,7 +364,8 @@ sections:
           **Écrire du contenu en qualité de rédacteur** est un métier qui
           demande de l'expertise et des connaissances quasi parfaite dans la
           rédaction, le **netlinking**, le **cocon** **sémantique**, mais
-          surtout dans le **référencement naturel**.
+          surtout dans le **référencement naturel **ou la création de** ligne
+          éditoriale**.
 
 
           Faites appel aux professionnels pour vous accompagner dans la
