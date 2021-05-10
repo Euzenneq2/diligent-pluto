@@ -122,16 +122,15 @@ sections:
         content: >
           Le **webmarketing**, c'est la collaboration d'une marque avec un
           **influenceur** pour vendre l'un de ses produits ou services.
-          L'entreprise travaillent rémunère le créateur de contenu pour
-          **développer sa communauté**, **générer du trafic** et essayer
-          d'attirer des **millions d'utilisateurs** sur les réseaux sociaux de
-          la marque.
+          L'entreprise rémunère le créateur de contenu pour **développer sa
+          communauté**, **générer du trafic** et essayer d'attirer des
+          **millions d'utilisateurs** sur les réseaux sociaux de la marque.
 
 
           Un bon influenceur peut produire un contenu 11 fois plus efficace
           qu'une **campagne publicitaire** traditionnelle. Les
-          influenceurs/blogueurs ont la capacité de créer de la valeur et de
-          rassurer leur public.
+          **influenceurs**/**blogueurs** ont la capacité de créer de la valeur
+          et de rassurer leur public.
 
 
           Selon le type de collaboration avec un influenceur, vous pouvez avoir
