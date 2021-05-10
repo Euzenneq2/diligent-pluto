@@ -45,7 +45,9 @@ sections:
           **taux de conversion.**
 
 
-          À noter que cette technique vient du terme marketing "**le siloing**".
+          À noter qu'il existe aussi la technique marketing "**le siloing**". Ce
+          dernier permet l’organisation d’un site. Alors que le cocon
+          sémantique, lui va organiser le contenu et les liens.
         image: images/quest-ce-que-le-cocon-semantique.png
     feature_padding_vert: medium
     align: center
