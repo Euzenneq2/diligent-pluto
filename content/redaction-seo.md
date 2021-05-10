@@ -66,11 +66,11 @@ sections:
       qualité et de les faire pointer vers votre site internet.
 
 
-      C’est technique auront pour but de répondre aux exigences de
-      l’**algorithme de Google**. Si les tâches sont effectuées correctement
-      alors vous serez considéré comme référent dans votre domaine d’activité et
-      vos pages web, produits où article seront visibles dans la première page
-      des **résultats du moteur de recherche** (SERP).
+      Ces techniques auront pour but de répondre aux exigences de l’**algorithme
+      de Google**. Si les tâches sont effectuées correctement alors vous serez
+      considéré comme référent dans votre domaine d’activité et vos pages web,
+      produits où article seront visibles dans la première page des **résultats
+      du moteur de recherche** (SERP).
     actions: []
     image_alt: rédaction SEO Friendly
     media_position: bottom
