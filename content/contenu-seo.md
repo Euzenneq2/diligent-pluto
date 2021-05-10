@@ -258,7 +258,7 @@ sections:
 
           De plus, vos visiteurs saisiront aussi **directement** le contenu de
           votre page internet qu'ils souhaitent consulter depuis les pages de
-          **résultats de recherche**.
+          **résultats de recherche **des** moteurs de recherche**.
 
 
           Vous pouvez changer cet URL à la construction de votre page sans
