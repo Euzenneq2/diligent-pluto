@@ -299,10 +299,10 @@ sections:
       à la rédaction web ?
 
 
-      Un bon rédacteur doit connaitre ces méthodes de **rédacteurs**, mais aussi
-      doit savoir correctement rédiger du **contenu web**. Ces techniques
-      doivent être utilisées pour attirer, séduire et convaincre les visiteurs
-      de votre **WordPress**.
+      Un bon **rédacteur web freelance** doit connaitre ces méthodes de
+      **services de rédaction**, mais aussi doit savoir correctement rédiger du
+      **contenu web**. Ces techniques doivent être utilisées pour attirer,
+      séduire et convaincre les visiteurs de votre **WordPress**.
 
 
       Ces méthodes sont pour moi acquises. Donc n'hésitez pas à contacter une
