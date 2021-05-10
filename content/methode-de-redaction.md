@@ -360,13 +360,14 @@ sections:
           ### Rédaction SEO
 
 
-          La rédaction web est un métier qui demande de l'**expertise** et des
-          **connaissances** quasi parfaite dans la **rédaction**, le
-          **netlinking**, le **cocon** **sémantique**, mais surtout dans le
-          **référencement naturel**.
+          La rédaction web est un métier qui demande de l'expertise et des
+          connaissances quasi parfaite dans la rédaction, le **netlinking**, le
+          **cocon** **sémantique**, mais surtout dans le **référencement
+          naturel**.
 
 
-          Faites appel aux professionnels.
+          Faites appel aux professionnels pour vous acc**ompagner dans la
+          rédaction** de vos **contenu textuel**
         content_align: left
         actions: []
         actions_align: left
