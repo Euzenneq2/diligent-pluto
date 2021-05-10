@@ -258,7 +258,7 @@ sections:
         image_alt: Quelle formation rédaction web
         media_position: bottom
         media_width: fifty
-        align: left
+        align: center
         type: feature
         image: images/incredible-spruce.png
     feature_padding_vert: medium
