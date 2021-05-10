@@ -322,8 +322,8 @@ sections:
 
           Il n'est pas ci aisé de créer un bon **maillage interne**, de bonnes
           **balises**, de trouver de nombreux de **mot-clé pertinent**, des
-          **requêtes** ou d'éviter le **duplicate** **content** ou le
-          **spinning**, etc.
+          **requêtes** ou d'éviter le **duplicate** **content** (contenu
+          dupliqué) ou le **spinning**, etc.
         content_align: left
         actions: []
         actions_align: left
