@@ -135,7 +135,7 @@ sections:
         image_has_padding: true
       - type: grid_item
         template: grid_item
-        title: Réalisation du cocon sémantique
+        title: Rédaction du cocon sémantique
         title_align: left
         content_align: left
         actions: []
