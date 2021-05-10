@@ -60,6 +60,11 @@ sections:
 
           À noter, qu'il est important d'avoir des backlinks de la **même
           thématique** que ceux sur les **pages de votre site**.
+
+
+          Tout cela peut être vérifié par **Google webmaster** et **Google
+          Analytics**, des services offrant la possibilité d'analyser et
+          d'améliorer le référencement.
         image: images/quest-ce-netlinking.png
     feature_padding_vert: medium
     align: center
