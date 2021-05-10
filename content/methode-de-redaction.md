@@ -135,10 +135,10 @@ sections:
           ### Pyramide inversée
 
 
-          Cette technique de rédaction consiste à mettre en début de votre
-          article le message principal que veut faire passer le rédacteur. Cela
-          permet de gager l'attention du lecteur, d’éveiller son intérêt et de
-          le faire rester sur votre **article de blog**.
+          Cette technique de **création de contenu** consiste à mettre en début
+          de votre article le message principal que veut faire passer le
+          rédacteur. Cela permet de gager l'attention du lecteur, d’éveiller son
+          intérêt et de le faire rester sur votre **article de blog**.
 
 
           Grâce à cela il pourra lire votre **contenu unique** jusqu'au bout.
