@@ -1,7 +1,7 @@
 ---
 title: Rédaction SEO
 sections:
-  - title: Une méthode de rédaction pour booster vos contenus
+  - title: Des méthodeq de rédaction pour booster vos contenus
     content: >
       En rédaction web, l'**inbound marketing** est souvent utilisée. En effet,
       c'est une méthode de marketing qui permet d'attirer le lecteur afin de le
