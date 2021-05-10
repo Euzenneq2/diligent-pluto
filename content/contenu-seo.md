@@ -86,9 +86,10 @@ sections:
           ### Nombre de mots
 
 
-          Les moteurs de recherches Google estiment qu'un article avec un
-          **grand volume** de mot est plus **pertinent**. Il est donc nécessaire
-          de s'attarder sur le nombre de mots de votre article afin
+          **Créer du contenu**, c'est aussi rédiger un contenu d'un certain
+          nombre. Les moteurs de recherches Google estiment qu'un article avec
+          un **grand volume** de mot est plus **pertinent**. Il est donc
+          nécessaire de s'attarder sur le nombre de mots de votre article afin
           **d'améliorer votre référencement naturel**. Aussi, une technique
           appelée : la **pyramide inversée** peut amener une certaine
           **logique** et une **ergonomie** de lecture pour votre audience.
