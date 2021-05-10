@@ -35,13 +35,14 @@ sections:
         align: center
         type: feature
         content: >
-          C'est une technique d'optimisation de **maillage internet** qui permet
-          de lier par un thème commun, les **pages de votre site** internet et
-          ainsi, créer des parentés entre celles-ci. Pour cela, votre site doit
-          comporter des catégories et des sous-catégories. Ainsi, un maillage en
-          **cocon** sera construit de façon pertinente. Cette méthode permet
-          d'améliorer le **référencement naturel** de votre site web, **générer
-          du trafic** et augmenter votre **taux de conversion.**
+          C'est une technique d'optimisation de **netlinking** et de **maillage
+          internet** qui permet de lier par un thème commun, les **pages de
+          votre site** internet et ainsi, créer des parentés entre celles-ci.
+          Pour cela, votre site doit comporter des catégories et des
+          sous-catégories. Ainsi, un maillage en **cocon** sera construit de
+          façon pertinente. Cette méthode permet d'améliorer le **référencement
+          naturel** de votre site web, **générer du trafic** et augmenter votre
+          **taux de conversion.**
 
 
           À noter que cette technique vient du terme marketing "**le siloing**".
