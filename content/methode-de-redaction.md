@@ -50,8 +50,8 @@ sections:
 
       Afin de faire partie des sites web ou **e-commerce** dans la **SERP** des
       moteurs de recherche, il est nécessaire d'avoir une **stratégie
-      éditorial** **optimisée**. Il existe de nombreuses techniques de rédaction
-      pour cela.
+      éditoriale** **optimisée**. Il existe de nombreuses techniques de
+      rédaction pour cela.
 
 
       Que ce soit de simples méthodes comme : écrire pour son lecteur,
