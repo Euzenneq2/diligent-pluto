@@ -216,19 +216,18 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >+
+        content: >
           ### Chunking (découpage de contenu)
 
 
-          Provenant des techniques de l'UX Design, le chunking **permet
-          d’aiguiller** vos lecteurs en **divisant l'information**. Grâce à cela
-          votre page web **conserve l’attention** de l’utilisateur tout au long
-          du contenu.
+          Provenant des techniques de l'UX Design, le chunking permet
+          d’aiguiller vos lecteurs en divisant l'information. Grâce à cela votre
+          page web conserve l’attention de l’utilisateur tout au long du
+          contenu.
 
 
-          Cette technique s'applique bien sûr à la **rédaction de contenu**
-          éditorial.
-
+          Cette technique s'applique bien sûr à la **rédaction de contenus
+          éditoriaux**.
         content_align: left
         actions: []
         actions_align: left
