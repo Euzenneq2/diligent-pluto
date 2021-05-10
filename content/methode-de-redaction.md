@@ -172,12 +172,14 @@ sections:
 
           L'écriture persuasive ou **copywriting**, est l'art de convaincre une
           personne de faire quelque chose ou d'aller voir quelque chose de façon
-          **naturelle** et **subtile**.
+          naturelle et subtile.
 
 
-          En effet, cette **technique** repose sur la manière d'utiliser
-          **l'émotion** et la **confiance** dans un contenu rédigé pour les
-          visiteurs.
+          En effet, cette technique repose sur la manière d'utiliser l'émotion
+          et la confiance dans un contenu rédigé pour les visiteurs. Tout de
+          même, il existe de nombreuses règles à respecter pour que votre
+          copywrinting soit efficace. Avoir un **style rédactionnel** et
+          **proposer du contenu de qualité** doit s'apprendre.
         content_align: left
         actions: []
         actions_align: left
