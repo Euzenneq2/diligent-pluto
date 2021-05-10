@@ -392,7 +392,7 @@ sections:
           la mise en place d'une **charte éditoriale**, la rédaction du **nombre
           de mots** nécessaire pour un article par exemple, l'analyse de
           **longue traîne**, la rédaction de **titre**, **sous-titre**,
-          **paragraphe** ou encre l'utilisation d'un **mot clé principal** par
+          **paragraphes** ou encre l'utilisation d'un **mot clé principal** par
           **pages web**.
         content_align: left
         actions: []
