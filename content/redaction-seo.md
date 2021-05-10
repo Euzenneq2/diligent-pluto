@@ -62,8 +62,8 @@ sections:
       La seconde partie correspond à la rédaction, vous devez travailler votre
       **stratégie éditoriale** afin de créer du contenu qualifié.
 
-      Et la dernière est liée **backlink** qui correspond à créer des liens de
-      qualité et de les faire pointer vers votre site internet.
+      Et la dernière est liée aux **backlinks**, qui correspond à créer des
+      liens de qualité et de les faire pointer vers votre site internet.
 
 
       Ces techniques auront pour but de répondre aux exigences de l’**algorithme
