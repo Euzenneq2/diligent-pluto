@@ -4,10 +4,10 @@ sections:
   - title: Des méthodes de rédaction pour booster vos contenus
     content: >
       En rédaction web, l'**inbound marketing** est souvent utilisée. En effet,
-      c'est une méthode de marketing qui permet d'attirer le lecteur afin de le
-      convertir en lead puis en client. Avec la **rédaction de contenu**, cela
-      fait aussi partie du travail. Pour répondre au mieux à vos attentes,
-      découvrez quelles autres méthodes sont utilisées.
+      c'est une méthode de **marketing de contenu** qui permet d'attirer le
+      lecteur afin de le convertir en lead puis en client. Avec la **rédaction
+      de contenu**, cela fait aussi partie du travail. Pour répondre au mieux à
+      vos attentes, découvrez quelles autres méthodes sont utilisées.
     actions: []
     image_alt: Méthode de rédaction
     media_position: right
