@@ -156,7 +156,7 @@ sections:
           ### Maitrise de la langue française
 
 
-          La rédaction web fait partie des métiers où il est impératif de bien
+          **Écrire pour le web** est un métier où il est impératif de bien
           savoir maitriser le français et ces règles d'écriture. En effet, faire
           des fautes peut discréditer fortement l'image du rédacteur.
 
