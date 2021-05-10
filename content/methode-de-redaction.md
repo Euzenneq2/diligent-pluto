@@ -387,10 +387,10 @@ sections:
           Prioriser le **référencement** !
 
 
-          Travailler le référencement SEO d'un site web nécessite de nombreuses
-          opérations ainsi que de nombreuses stratégies. Grâce à cela, dites
-          bonjour à la **première page de résultat** sur le **moteur de
-          recherche** Google.
+          Travailler l'**optimisation SEO** d'un site web nécessite de
+          nombreuses opérations ainsi que de nombreuses stratégies. Grâce à
+          cela, dites bonjour à la **première page de résultat** sur le **moteur
+          de recherche** Google.
         content_align: left
         actions: []
         actions_align: left
