@@ -170,7 +170,7 @@ sections:
 
           Pour atteindre ces objectifs **pertinents**, utiliser pour votre
           **stratégie réseaux sociaux** des **hashtags** et des **visuels** crée
-          au préalable sur **Photoshop**,** **sans **modération**.
+          au préalable sur **Photoshop**, sans **modération**.
 
 
           De plus, chaque jour vous pourrez **animer les réseaux** et gagnerez
