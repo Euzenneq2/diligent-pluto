@@ -48,6 +48,12 @@ sections:
           À noter qu'il existe aussi la technique marketing "**le siloing**". Ce
           dernier permet l’organisation d’un site. Alors que le cocon
           sémantique, lui va organiser le contenu et les liens.
+
+
+          Cette technique de **référencement SEO** va permettre d'améliorer
+          l'**expérience utilisateur**, la **notoriété** et la **popularité** de
+          votre site ainsi que le score de votre **Pagerank** **sur le** **long
+          terme**.
         image: images/quest-ce-que-le-cocon-semantique.png
     feature_padding_vert: medium
     align: center
