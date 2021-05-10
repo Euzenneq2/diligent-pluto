@@ -163,15 +163,16 @@ sections:
           ### Longue traine
 
 
-          Saviez vous que pour la majorité des sites internet seulement 20% de
+          Saviez-vous que pour la majorité des sites internet seulement 20% de
           leurs **trafic organique** provient de mots clés génériques (exemple :
           garage Caen).
 
 
-          Les 80% restant du trafic organique provient de requêtes dîte de
+          Les 80% restant du trafic organique provient de requêtes dite de
           **longue traine** ! Les **expressions** de "longue traîne" sont très
-          souvent composés d’au moins 3 ou 4 mots clés. Il sont très spécifiques
-          à une information ou un produit proposez sur votre site internet.
+          souvent composés d’au moins 3 ou 4 mots clés. Ils sont très
+          spécifiques à une information ou un produit proposé sur votre site
+          internet.
 
 
           25% des recherches des internautes sont nouvelles, inconnues par le
