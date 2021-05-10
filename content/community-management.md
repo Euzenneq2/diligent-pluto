@@ -57,7 +57,7 @@ sections:
 
 
           Vous avez la possibilité de faire ce métier en faisant une **formation
-          de community manager**.
+          de community manager **ou** **de** chef de projet digital.**
         image: images/quest-ce-community-management.png
     feature_padding_vert: medium
     align: center
