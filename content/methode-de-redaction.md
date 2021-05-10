@@ -85,14 +85,14 @@ sections:
 
 
           Le nom de cette méthode reprend 4 initiales. Celles-ci signifient :
-          **Attention**, **Intérêt**, **Désir** et **Action**. Ces mots résument
-          la méthode. En effet, tout le long de la rédaction d'un contenu, le
-          rédacteur ou la rédactrice web, en suivant ces indications amènera
-          tranquillement le lecteur vers **l'acte d'achat**. 
+          **Attention**, **Intérêt**, **Désir** et **Action**. En effet, tout le
+          long de la rédaction d'un contenu, le rédacteur ou la rédactrice web,
+          en suivant ces indications amènera tranquillement le lecteur vers
+          l'acte d'achat.
 
 
-          Cette méthode d'écriture permet donc de **convertir un visiteur en
-          client**.
+          Cette méthode **rédactionnelle** permet donc de convertir un visiteur
+          en client.
         content_align: left
         actions: []
         actions_align: left
