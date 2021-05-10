@@ -114,7 +114,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: "La **branding** fait la promotion de vos produits ou services d'une manière qui met en valeur votre marque.\_L'objectif du marketing de marque est d’associer votre identité, vos valeurs et votre personnalité aux communications destinées à votre public.\n\nCette technique d'**E marketing** est bénéfique pour renforcer la réputation, la fiabilité et la portée de **son entreprise** sur le marché.\_Par conséquent, vos produits et services auront une valeur plus élevée.\n\nLe brand content fait partis des **leviers** indispensable pour les entreprise qui souhaitent augmenter leur **retour sur investissement** (ROI) grâce à la **pratique des réseaux sociaux**.\n"
+        content: "La **branding** fait la promotion de vos produits ou services d'une manière qui met en valeur votre marque.\_L'objectif du marketing de marque est d’associer votre identité, vos valeurs et votre personnalité aux communications destinées à votre public.\n\nCette technique d'**E marketing** est bénéfique pour renforcer la réputation, la fiabilité et la portée de **son entreprise** sur le marché.\_Par conséquent, vos produits et services auront une valeur plus élevée.\n\nLe **personal branding** fait partie des **leviers** indispensable pour les entreprise qui souhaitent augmenter leur **retour sur investissement** (ROI) grâce à la **pratique des réseaux sociaux**.\n"
       - type: grid_item
         template: grid_item
         title: Marketing d'influence
