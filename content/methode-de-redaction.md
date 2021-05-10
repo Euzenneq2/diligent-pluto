@@ -60,7 +60,7 @@ sections:
       **liens** et des **mots-clés**. Elles permettent d'obtenir un contenu pour
       attirer le lecteur, le captiver, le faire passer de lead a converti puis à
       client ou pour le solliciter à parcourir d'autre page de votre site
-      internet.
+      internet, mais aussi d'améliorer son **expérience utilisateur**.
 
 
       Tout bons **rédacteurs web** connaissent et ont acquis ces méthodes au
