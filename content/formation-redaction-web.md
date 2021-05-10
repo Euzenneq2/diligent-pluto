@@ -221,7 +221,7 @@ sections:
         type: grid_item
       - title: Obtenir une clientèle
         title_align: left
-        content: "Même si, en principe, les clients potentiels sont partout, il n’est pas inhabituel de se retrouver seul devant son ordinateur, sans savoir par où commencer lorsqu’on débute. Rassurez-vous, il existe plusieurs manières de\_cibler sa clientèle\_pour la démarcher.\n\nEn formation, il est possible d'aborder ce sujet de façon plus ou moins détaillée. La plupart du temps, les enseignants vous donner des techniques et ds outils pour débuter votre démarchage.\n"
+        content: "Même si, en principe, les clients potentiels sont partout, il n’est pas inhabituel de se retrouver seul devant son ordinateur, sans savoir par où commencer lorsqu’on débute. Rassurez-vous, il existe plusieurs manières de\_cibler sa clientèle\_pour la démarcher.\n\nEn formation, il est possible d'aborder ce sujet de façon plus ou moins détaillée. La plupart du temps, les enseignants vous donnent des techniques et ds outils pour débuter votre démarchage.\n"
         content_align: left
         actions: []
         actions_align: left
