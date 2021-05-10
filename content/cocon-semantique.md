@@ -53,9 +53,10 @@ sections:
           Cette technique de **référencement SEO** va permettre d'améliorer
           l'**expérience utilisateur**, la **notoriété** et la **popularité** de
           votre site ainsi que le score de votre **Pagerank** **sur le** **long
-          terme**. Si cette technique est mal faite, les robots **algorithmes**
-          de Google pourrons faire un **crawl** sur votre site et vous donner
-          des **pénalités** via Google **Penguin **ou** Panda**.
+          terme**. Si cette **stratégie de référencement naturel** est mal
+          faite, les robots **algorithmes** de Google pourrons faire un
+          **crawl** sur votre site et vous donner des **pénalités** via Google
+          **Penguin ou Panda**.
         image: images/quest-ce-que-le-cocon-semantique.png
     feature_padding_vert: medium
     align: center
