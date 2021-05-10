@@ -63,8 +63,8 @@ sections:
       internet.
 
 
-      Tout bon rédacteur web connait et a acquis ces méthodes au début de sa
-      carrière. Voyons quelles sont ces méthodes.
+      Tout bons **rédacteurs web** connaissent et ont acquis ces méthodes au
+      début de leurs carrière. Voyons quelles sont ces méthodes.
     actions: []
     image_alt: qu'est-ce que le contenu SEO
     media_position: bottom
