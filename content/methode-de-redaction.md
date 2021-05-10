@@ -70,7 +70,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/quest-ce-que-methode-redaction.png
-    title: Qu'est-ce que les méthodes de rédaction ?
   - type: grid_section
     template: grid_section
     grid_items:
