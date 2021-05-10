@@ -238,7 +238,7 @@ sections:
       web-marketing
 
 
-      Créer une communauté !
+      Utilisez de nouveaux outils et créez une communauté !
     actions:
       - type: action
         template: action
