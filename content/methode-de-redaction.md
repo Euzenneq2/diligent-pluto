@@ -367,8 +367,8 @@ sections:
           surtout dans le **référencement naturel**.
 
 
-          Faites appel aux professionnels pour vous acc**ompagner dans la
-          rédaction** de vos **contenu textuel**
+          Faites appel aux professionnels pour vous accompagner dans la
+          rédaction de vos **contenu textuel**.
         content_align: left
         actions: []
         actions_align: left
