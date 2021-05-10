@@ -8,8 +8,8 @@ sections:
       **techniques exigeantes** et un **large panel d’outils** articulent ces
       métiers autour de la rédaction SEO. Le prix d’un **rédacteur web** est
       justifié par ces compétences qui vous permettront d’acquérir des
-      **contenus de qualité**. C’est pourquoi, je vous propose sur cette page
-      l’ensemble des éléments détaillé.
+      **contenus optimisés de qualité**. C’est pourquoi, je vous propose sur
+      cette page l’ensemble des éléments détaillé.
     actions: []
     image_alt: rédactrice web SEO
     media_position: right
