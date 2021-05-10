@@ -391,9 +391,9 @@ sections:
 
           La rédaction de **contenu optimisé en SEO** est exigeante et nécessite
           de nombreuses **capacités**. Effectivement, **analyser** les
-          meilleures requêtes, trouver les bons **mots-clés** et **longues
-          traînes** ainsi que leur **champ sémantique** n'est pas chose aisée
-          quand vous n'y connaissez rien.
+          meilleures requêtes, trouver les bons **mots-clés**, le **mot clé
+          principal** et **longues traînes** ainsi que leur **champ sémantique**
+          n'est pas chose aisée quand vous n'y connaissez rien.
 
 
           Faites alors appel à une **professionnelle**.
