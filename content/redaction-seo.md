@@ -267,6 +267,10 @@ sections:
           ### Réécriture de texte SEO
 
 
+          **Écrire pour le web** requière des compétence **rédactionnelles**,
+          mais surtout des compétences en **optimisation des contenus**.
+
+
           Vous avez pris les devants en réalisant et publiant vos **contenus de
           qualité** et c'est une bonne chose ! L'avez-vous adaptée et optimisée
           pour le **référencement web** ? Vous n'avez pas d'augmentation
