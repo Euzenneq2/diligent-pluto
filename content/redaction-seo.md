@@ -266,10 +266,10 @@ sections:
           ### Réécriture de texte SEO
 
 
-          Vous avez pris les devants en réalisant et publiant vos textes et
-          c'est une bonne chose ! L'avez-vous adaptée et optimisée pour le
-          **référencement web** ? Vous n'avez pas d'augmentation signification
-          sur votre **acquisition de trafic** ?
+          Vous avez pris les devants en réalisant et publiant vos **contenus de
+          qualité** et c'est une bonne chose ! L'avez-vous adaptée et optimisée
+          pour le **référencement web** ? Vous n'avez pas d'augmentation
+          signification sur votre **acquisition de trafic** ?
 
 
           Pas d'inquiétude, après avoir réalisé un **audit SEO**, je pourrai
