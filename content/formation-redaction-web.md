@@ -175,7 +175,7 @@ sections:
           Le **Search Engine Optimization** qui signifie "Optimisation pour les
           moteurs de recherche" en français, aussi appelé le **référencement
           naturel**, est LA notion que vous devez absolument apprendre durant
-          une formation de rédaction web.
+          une formation de rédaction web SEO.
 
 
           En effet, le **référencement** régie très fortement le métier de
