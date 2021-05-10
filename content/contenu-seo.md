@@ -130,7 +130,7 @@ sections:
           ### Méta description
 
 
-          Une méta-description, c'est le petit texte qui apparait au-dessous du
+          Une **balise meta**, c'est le petit texte qui apparait au-dessous du
           titre bleu dans les **résultats de recherches Google**.
 
 
