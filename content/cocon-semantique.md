@@ -177,7 +177,8 @@ sections:
           Vous pouvez "perdre le fils" si vous ne respectez pas toutes ces
           étapes pour créer votre cocon sémantique. Faites appel à un
           professionnel des **liens** **internes** et **liens** **externes**
-          (les **backlinks**) pour vous assurer un travail de professionnel.
+          (les **backlinks**) pour **améliorer le maillage** de votre site
+          internet et vous assurer un travail de professionnel.
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
