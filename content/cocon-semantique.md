@@ -125,7 +125,8 @@ sections:
           meta-description** ou votre **balise titre**.
 
 
-          À noter que l'idéale est de ne pas dépasser **4 liaisons**.
+          Cette étapes est importante pour le **référencement google**. À noter
+          que l'idéale est de ne pas dépasser **4 liaisons**.
         content_align: left
         actions: []
         actions_align: left
