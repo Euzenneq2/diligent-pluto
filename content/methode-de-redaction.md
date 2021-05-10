@@ -388,9 +388,16 @@ sections:
 
 
           Travailler l'**optimisation SEO** d'un site web nécessite de
-          nombreuses opérations ainsi que de nombreuses stratégies. Grâce à
-          cela, dites bonjour à la **première page de résultat** sur le **moteur
-          de recherche** Google.
+          nombreuses opérations ainsi que de nombreuses stratégies. Telles que
+          la mise en place d'une **charte éditoriale**, la rédaction du **nombre
+          de mots** nécessaire pour un article par exemple, l'analyse de
+          **longue traîne**, la rédaction de **titre**, **sous-titre**,
+          **paragraphe** ou encre l'utilisation d'un **mot clé principal** par
+          **pages web**.
+
+
+          Grâce à cela, dites bonjour à la **première page de résultat** sur le
+          **moteur de recherche** Google.
         content_align: left
         actions: []
         actions_align: left
