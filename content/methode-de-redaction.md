@@ -394,10 +394,6 @@ sections:
           **longue traîne**, la rédaction de **titre**, **sous-titre**,
           **paragraphe** ou encre l'utilisation d'un **mot clé principal** par
           **pages web**.
-
-
-          Grâce à cela, dites bonjour à la **première page de résultat** sur le
-          **moteur de recherche** Google.
         content_align: left
         actions: []
         actions_align: left
