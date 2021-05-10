@@ -49,7 +49,7 @@ sections:
       ## Qu'est-ce que le contenu SEO ?
 
 
-      Un bon contenu SEO doit être structuré grâces aux balises, être plus
+      Un bon **contenu web** doit être structuré grâces aux balises, être plus
       pertinents que les concurrents, être de qualité, doit être positionné
       correctement et en lien avec sa requête et doit proposer une bonne
       expérience client. Ce texte doit être intéressant. Stop aux contenus
