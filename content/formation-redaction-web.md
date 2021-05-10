@@ -253,7 +253,7 @@ sections:
     background_color: none
   - title: 'Pour une formation simple, mais efficace, choisissez...'
     features:
-      - content: "Pour vous éviter de partir à la recherche des meilleures formations sur le web vous-même. Je vous en propose une. Cette formation que j'ai découverte il y a peu, est bien construite et très intéressante. Elle est accessible pour les débutants et vous permettra d'entrer dans le monde de la rédaction avec de bonnes bases.\n\nDans cette formation, vous retrouverez les indispensable évoqué plus haut. Vous bénéficieriez aussi, d'un accompagnement de qualité. Et de nombreux exercices à réaliser.\n\nAvec un accès à la plateforme de formation vous pourrez directement suivre les cours au rythme que vous souhaitez. Les formateurs vous recommandent de vous impliquer 2\_h par jours minimum, afin de rester concentrer.\n"
+      - content: "Pour vous éviter de partir à la recherche des meilleures formations sur le web vous-même. Je vous en propose une.\n\nCette formation que j'ai découverte il y a peu, est bien construite et très intéressante. Elle est accessible pour les débutants et vous permettra d'entrer dans le monde de la rédaction avec de bonnes bases.\n\nDans cette formation, vous retrouverez les indispensable évoqué plus haut. Vous bénéficieriez aussi, d'un accompagnement de qualité. Et de nombreux exercices à réaliser.\n\nAvec un accès à la plateforme de formation vous pourrez directement suivre les cours au rythme que vous souhaitez. Les formateurs vous recommandent de vous impliquer 2\_h par jours minimum, afin de rester concentrer.\n"
         actions: []
         image_alt: Quelle formation rédaction web
         media_position: bottom
