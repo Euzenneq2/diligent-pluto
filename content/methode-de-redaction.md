@@ -137,11 +137,13 @@ sections:
 
           Cette technique de **création de contenu** consiste à mettre en début
           de votre article le message principal que veut faire passer le
-          rédacteur. Cela permet de gager l'attention du lecteur, d’éveiller son
-          intérêt et de le faire rester sur votre **article de blog**.
+          **rédacteur du site**. Cela permet de gager l'attention du lecteur,
+          d’éveiller son intérêt et de le faire rester sur votre **article de
+          blog**.
 
 
-          Grâce à cela il pourra lire votre **contenu unique** jusqu'au bout.
+          Grâce à cela il pourra lire votre **contenu rédactionnel unique**
+          jusqu'au bout.
         content_align: left
         actions: []
         actions_align: left
