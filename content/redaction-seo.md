@@ -105,8 +105,9 @@ sections:
 
           Le plus compliqué est de trouver les **bons mots clés** sur lesquels
           nous pourrions intégrer les premiers **résultats de recherche**, avec
-          un **volume de trafic** conséquent. Cela demande un travail d'analyse
-          et de réflexion exigeant.
+          un **volume de trafic** conséquent. Mais aussi le **mot clé
+          principal** sur lequel vous souhaitez positionner une page. Cela
+          demande un travail d'analyse et de réflexion exigeant.
 
 
           Je vous conseille de choisir un mot clé et celui-ci correspondra à une
