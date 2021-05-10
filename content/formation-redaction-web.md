@@ -254,11 +254,7 @@ sections:
   - title: 'POur une formation simple, mais efficace, choisissez...'
     subtitle: 'Maintenant que vous connaissez les critères clés, voulez-vous un conseil ?'
     features:
-      - content: >
-          Pour vous éviter de partir à la recherche des meilleures formations
-          sur le web après toutes ces informations. Je vous en propose une.
-          Cette formation que j'ai découverte il y a peu, est bien construite et
-          très intéressante. 
+      - content: "Pour vous éviter de partir à la recherche des meilleures formations sur le web après toutes ces informations. Je vous en propose une. Cette formation que j'ai découverte il y a peu, est bien construite et très intéressante.\n\nDans cette formation, vous retrouverez les indispensable évoqué plus haut. Vous bénéficieriez aussi, d'un accompagnement de qualité. \n\nAvec un accès à la plateforme de formation vous pourrez directement suivre les cours au rythme que vous souhaitez. Les formateurs vous recommande de vous impliquer 2\_h par jours minimum, afin de rester concentrer.\n"
         actions: []
         image_alt: Quelle formation rédaction web
         media_position: bottom
