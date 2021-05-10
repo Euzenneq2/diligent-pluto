@@ -53,7 +53,9 @@ sections:
           Cette technique de **référencement SEO** va permettre d'améliorer
           l'**expérience utilisateur**, la **notoriété** et la **popularité** de
           votre site ainsi que le score de votre **Pagerank** **sur le** **long
-          terme**.
+          terme**. Si cette technique est mal faite, les robots de Google
+          pourrons faire un **crawl** sur votre site et vous pénaliser via
+          Google **Penguin**.
         image: images/quest-ce-que-le-cocon-semantique.png
     feature_padding_vert: medium
     align: center
