@@ -122,6 +122,10 @@ sections:
           pages sœurs.
 
 
+          Vos **mots-clefs** se trouvent aussi dans votre **balise
+          meta-description ou **votre **balise titre**.
+
+
           À noter que l'idéale est de ne pas dépasser **4 liaisons**.
         content_align: left
         actions: []
