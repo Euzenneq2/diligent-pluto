@@ -299,10 +299,10 @@ sections:
       à la rédaction web ?
 
 
-      Un bon rédacteur doit connaitre les **méthodes** de rédaction, mais aussi
-      doit **savoir** **correctement rédiger du contenu**. Ces techniques
-      doivent être utilisées pour **attirer**, **séduire** et **convaincre** les
-      visiteurs de votre page internet. 
+      Un bon rédacteur doit connaitre ces méthodes de **rédacteurs**, mais aussi
+      doit savoir correctement rédiger du **contenu web**. Ces techniques
+      doivent être utilisées pour attirer, séduire et convaincre les visiteurs
+      de votre **WordPress**.
 
 
       Ces méthodes sont pour moi acquises. Donc n'hésitez pas à contacter une
