@@ -195,16 +195,16 @@ sections:
           ### Granularité de l’information
 
 
-          La granularité permet de **transmettre l’information** du plus général
-          au plus détaillé. Elle permet de **structurer votre contenu**
-          éditorial. 
+          La granularité permet de transmettre l’information de la plus générale
+          à la plus détaillée. Elle permet de **structurer votre contenu**
+          éditorial.
 
 
-          En d'autre termes, si vous êtes sur une page web, les premiers textes
-          que vous lirez aborderont un thème général, mais le dernier texte de
-          cette même page sera un maximum détaillé. C'est une **stratégie de
-          contenu** assez intéressante pour **structurer les informations** de
-          votre page.
+          En d'autre termes, si vous êtes sur une des **pages de votre site**
+          web, les premiers textes que vous lirez aborderont un thème général,
+          mais le dernier texte de cette même page sera un maximum détaillé.
+          C'est une **stratégie de contenu** assez intéressante pour structurer
+          les informations de votre page.
         content_align: left
         actions: []
         actions_align: left
