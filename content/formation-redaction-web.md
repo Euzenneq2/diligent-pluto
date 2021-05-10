@@ -75,15 +75,15 @@ sections:
 
 
           Renseignez-vous sur les dernières formations ou expériences qu'ils ont
-          pu acquérir. De plus, regarder des avis, par exemple, pour savoir si
-          les **formateurs** étaient aussi passionnants que passionnés,
-          pédagogues.
+          pu acquérir. De plus, regarder les avis clients de leurs formations,
+          par exemple, pour savoir si les **formateurs** étaient aussi
+          passionnants que passionnés, pédagogues...
 
 
           Généralement, les formateurs sont des personne travaillant dans le
           **webmarketing**, le **journalisme**, dans une **agence web**. Ou
-          bien, étant **content manager**, **rédacteur indépendant **ou**
-          auto-entrepreneur** 
+          bien, étant **content manager**, **rédacteur indépendant ou
+          auto-entrepreneur**
         content_align: left
         actions: []
         actions_align: left
