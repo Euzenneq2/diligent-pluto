@@ -45,7 +45,8 @@ sections:
           C'est une **stratégie marketing** indispensable pour gérer votre
           **communication sur les réseaux sociaux**. Cela consiste aussi à la
           **création de contenu** spécifique, la publication d'articles de blog,
-          suivre les tendances virales et **développer une communauté**.
+          suivre les **nouvelles tendances** virales et **développer une
+          communauté**.
 
 
           Ce travail est géré par un **community manager**. Il devra créer une
