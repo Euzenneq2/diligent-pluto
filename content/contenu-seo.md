@@ -49,6 +49,11 @@ sections:
       ## Qu'est-ce que le contenu SEO ?
 
 
+      Un contenu SEO est un contenu rédactionnel optimisé pour les moteurs de
+      recherche. Tout **contenu textuel** ou visuel peut être optimisé. Le
+      contenu SEO d'un site internet doit répondre à des règles.
+
+
       Un bon **contenu web** doit être structuré grâces aux balises, être plus
       pertinents que les concurrents, être de qualité, doit être positionné
       correctement et en lien avec sa requête et doit proposer une bonne
