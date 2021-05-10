@@ -387,8 +387,9 @@ sections:
 
 
           Travailler le référencement SEO d'un site web nécessite de nombreuses
-          **opérations** ainsi que de nombreuses **stratégies**. Grâce à cela,
-          dites bonjour aux pr**emières pages de résultats** sur Google.
+          opérations ainsi que de nombreuses stratégies. Grâce à cela, dites
+          bonjour à la **première page de résultat** sur le **moteur de
+          recherche** Google.
         content_align: left
         actions: []
         actions_align: left
