@@ -128,6 +128,11 @@ sections:
           ### Intention de recherche
 
 
+          L'intention de recherche est la raison pour laquelle les utilisateurs
+          des moteurs de recherche effectuent une recherche spécifique sur
+          Google.
+
+
           Vous avez pour ambition de vous positionner sur le mot clé "huile
           essentielle" ? Seulement avez-vous une idée du type de résultats que
           Google souhaite proposer sur cette **requête cible** ?
