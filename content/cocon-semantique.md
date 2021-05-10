@@ -21,7 +21,7 @@ sections:
 
 
       En suivant les techniques de réalisation d'un bon cocon sémantique votre
-      page web pourra gagner en **positionnement** sur les premières pages de
+      page web pourra gagner en **positionnement** sur les **premiers**
       **résultats de recherche** des **moteurs de recherche** et vous
       différencier de vos concurrents.
   - type: features_section
