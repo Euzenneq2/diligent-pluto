@@ -32,7 +32,7 @@ sections:
         image_alt: qu'est ce qu'un cocon sémantique
         media_position: bottom
         media_width: fourty
-        align: center
+        align: left
         type: feature
         content: >
           C'est une technique d'**optimisation SEO** de **netlinking** et de
