@@ -196,6 +196,9 @@ sections:
           votre contenu.
 
 
+          La rédaction de newsletter nécessite un talent **rédactionnel**. 
+
+
           C'est donc le moment de proposer une newsletter de qualité afin de
           convertir votre visiteur.
       - title: Reporting & veille
