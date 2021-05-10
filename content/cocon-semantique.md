@@ -22,7 +22,8 @@ sections:
 
       En suivant les techniques de réalisation d'un bon cocon sémantique votre
       page web pourra gagner en **positionnement** sur les premières pages de
-      **résultats de recherche** et vous différencier de vos concurrents.
+      **résultats de recherche** des **moteurs de recherche** et vous
+      différencier de vos concurrents.
   - type: features_section
     template: features_section
     title: Qu'est-ce qu'un cocon sémantique ?
