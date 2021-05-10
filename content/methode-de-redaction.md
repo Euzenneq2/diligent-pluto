@@ -45,7 +45,7 @@ sections:
     has_border: false
     background_color: primary
   - content: >
-      ## Qu'est-ce que les méthodes de rédaction ?
+      ## Quelles sont les méthodes de rédaction ?
 
 
       Afin de faire partie des sites web ou **e-commerce** dans la **SERP** des
