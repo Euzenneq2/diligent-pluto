@@ -320,9 +320,9 @@ sections:
           rédaction nécessaires.
 
 
-          Il n'est pas ci aisé de créer un bon **maillage interne**, de bonnes**
-          balises**, de trouver des **mots-clés pertinents** ou d'éviter le**
-          duplicate content** ou le **spinning**, etc.
+          Il n'est pas ci aisé de créer un bon **maillage interne**, de bonnes
+          **balises**, de trouver des **mots-clés pertinents** ou d'éviter le
+          **duplicate** **content** ou le **spinning**, etc.
         content_align: left
         actions: []
         actions_align: left
