@@ -119,11 +119,8 @@ sections:
           Cette dernière joue donc le rôle de page mère. Ainsi, les autres mots
           clés de votre site seront des pages filles et les pages de celles-ci
           seront des petites-filles, etc. Vous avez la possibilité de créer des
-          pages sœurs.
-
-
-          Vos **mots-clefs** se trouvent aussi dans votre **balise
-          meta-description ou **votre **balise titre**.
+          pages sœurs. Vos **mots-clefs** se trouvent aussi dans votre **balise
+          meta-description** ou votre **balise titre**.
 
 
           À noter que l'idéale est de ne pas dépasser **4 liaisons**.
