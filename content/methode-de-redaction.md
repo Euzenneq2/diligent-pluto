@@ -339,8 +339,8 @@ sections:
 
 
           La **stratégie de content marketing** réalisé par un bon rédacteur et
-          de façon intelligente peut vous apporter de nombreux résultats**
-          **positifs. Vidéos, **visuels**, articles de blog, podcasts,
+          de façon intelligente peut vous apporter de nombreux résultats
+          positifs. Vidéos, **visuels**, articles de blog, podcasts,
           **e-books**, newsletters, réseaux sociaux, etc.
 
 
