@@ -134,7 +134,7 @@ sections:
         template: grid_item
         title_align: left
         content: >
-          ### Méta description
+          ### Méta-description
 
 
           Une **balise meta**, c'est le petit texte qui apparait au-dessous du
