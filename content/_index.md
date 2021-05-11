@@ -20,7 +20,7 @@ sections:
       - type: action
         template: action
         label: Découvrez mon blog
-        url: /blog
+        url: /blog/
         style: primary
     image: /images/redacteur-web-seo-friendly.png
     image_alt: Redacteur-web-seo-friendly
