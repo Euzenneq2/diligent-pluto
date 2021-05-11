@@ -22,6 +22,7 @@ sections:
         label: Découvrez mon blog
         url: /blog/
         style: primary
+        no_follow: true
     image: /images/redacteur-web-seo-friendly.png
     image_alt: Redacteur-web-seo-friendly
     media_position: left
