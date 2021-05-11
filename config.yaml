@@ -97,6 +97,7 @@ params:
         label: Tout les articles
         url: /blog/
         style: link
+        no_follow: true
       - type: action
         template: action
         label: Actualité marketing
