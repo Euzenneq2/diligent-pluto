@@ -42,7 +42,7 @@ params:
       - type: action
         template: action
         label: Contactez-moi
-        url: /contact
+        url: /contact/
         style: secondary
         no_follow: false
     has_anncmnt: true
