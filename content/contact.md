@@ -33,8 +33,8 @@ sections:
           ces services.*
 
 
-          *Pour en savoir plus, reportez-vous à la page
-          *[*ci-joint*](https://diligent-pluto-bbfe2.netlify.app/politique-de-confidentialite/)*.*
+          *Pour en savoir plus, reportez-vous à la notice
+          *[*ci-jointe*](https://diligent-pluto-bbfe2.netlify.app/politique-de-confidentialite/)*.*
         actions: []
         image_alt: null
         media_position: right
