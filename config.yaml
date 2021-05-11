@@ -68,7 +68,7 @@ params:
       - type: action
         template: action
         label: À propos
-        url: /a-propos
+        url: /a-propos/
         style: link
       - label: Mentions légales
         url: /mentions-legales
