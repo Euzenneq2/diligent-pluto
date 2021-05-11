@@ -607,7 +607,7 @@ sections:
         content_align: left
         actions:
           - label: En savoir plus
-            url: /contenu-seo
+            url: /contenu-seo/
             style: primary
             has_icon: false
             icon: arrow-left
