@@ -126,7 +126,7 @@ params:
       - type: action
         template: action
         label: LinkedIn
-        url: 'https://www.linkedin.com/company/mary-marketing'
+        url: 'https://www.linkedin.com/company/mary-marketing/'
         style: link
         has_icon: true
         icon: linkedin
