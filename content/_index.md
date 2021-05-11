@@ -14,7 +14,7 @@ sections:
       - type: action
         template: action
         label: Contactez-moi
-        url: /contact
+        url: /contact/
         style: secondary
         no_follow: false
       - type: action
