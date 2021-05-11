@@ -319,7 +319,7 @@ sections:
           freelance.
         content_align: center
         actions:
-          - url: /redaction-web
+          - url: /redaction-web/
             style: secondary
             has_icon: false
             icon: arrow-left
