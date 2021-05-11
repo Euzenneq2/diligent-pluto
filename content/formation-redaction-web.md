@@ -282,7 +282,7 @@ sections:
       - type: action
         template: action
         label: J'y vais !
-        url: /contact
+        url: /contact/
         style: primary
         icon_position: left
     actions_position: bottom
