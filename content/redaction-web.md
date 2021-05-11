@@ -297,7 +297,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Rédaction web - Captivez vos visiteurs !
+  title: Rédaction web pour captivez vos visiteurs ! ⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
