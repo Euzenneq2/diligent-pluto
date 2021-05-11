@@ -541,7 +541,7 @@ sections:
         content_align: left
         actions:
           - label: En savoir plus
-            url: /redaction-seo
+            url: /redaction-seo/
             style: primary
             has_icon: false
             icon: arrow-left
