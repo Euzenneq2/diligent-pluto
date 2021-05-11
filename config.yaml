@@ -28,7 +28,7 @@ params:
       - type: action
         template: action
         label: À propos
-        url: /a-propos
+        url: /a-propos/
         style: primary
         no_follow: false
       - type: action
