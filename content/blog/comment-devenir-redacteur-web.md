@@ -3,7 +3,8 @@ title: Comment devenir rédacteur web ?
 date: '2021-01-05'
 categories:
   - data/categories/freelancing.json
-tags: []
+tags:
+  - data/tags/jamstack.json
 thumb_image: /images/article-devenir-redacteur-web.png
 thumb_image_alt: article-devenir-redacteur-web.png
 image: /images/article-devenir-redacteur-web.png
