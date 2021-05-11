@@ -24,7 +24,7 @@ params:
         label: Tarifs
         url: /tarifs/
         style: primary
-        no_follow: false
+        no_follow: true
       - type: action
         template: action
         label: À propos
