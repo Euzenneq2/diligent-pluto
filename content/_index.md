@@ -573,7 +573,7 @@ sections:
         content_align: left
         actions:
           - label: En savoir plus
-            url: /referencement-naturel
+            url: /referencement-naturel/
             style: primary
             has_icon: false
             icon: arrow-left
