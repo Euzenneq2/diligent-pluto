@@ -60,16 +60,16 @@ Ce fichier permet de :
 
 ## Vos droits
 
-Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), [**contactez-nous**](/contact)*.*
+Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), [**contactez-nous**](https://diligent-pluto-bbfe2.netlify.app/contact/)*.*
 
 Vous pouvez accéder aux données vous concernant, les rectifier ou les faire effacer. Vous disposez également d'un droit à la portabilité et d’un droit à la limitation du traitement de vos données (Consultez le site cnil.fr pour plus d’informations sur vos droits).
 
-Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez [**contactez-nous**](/contact).
+Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez [**contactez-nous**](https://diligent-pluto-bbfe2.netlify.app/contact/).
 
 Société Mary Marketing
 
 Rue de l'Engannerie
 
-14 000 CAEN
+14000 CAEN
 
 Si vous estimez, après avoir contacté la société Mary Marketing, que vos droits « Informatique et Libertés » ne sont pas respectés, vous pouvez adresser une réclamation en ligne à la CNIL.
