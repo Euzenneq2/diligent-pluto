@@ -783,7 +783,7 @@ sections:
       - type: action
         template: action
         label: Organiser un rendez-vous téléphonique
-        url: /contact
+        url: /contact/
         style: primary
     actions_position: bottom
     align: center
