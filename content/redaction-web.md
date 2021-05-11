@@ -144,7 +144,7 @@ sections:
       - type: action
         template: action
         label: Je me lance !
-        url: /contact
+        url: /contact/
         style: primary
         icon_position: left
     actions_position: bottom
