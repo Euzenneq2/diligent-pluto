@@ -103,6 +103,7 @@ params:
         label: Actualité marketing
         url: /blog/categorie/actualite-marketing-digital/
         style: link
+        no_follow: true
       - type: action
         template: action
         url: /blog/categorie/referencement-naturel-seo/
