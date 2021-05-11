@@ -125,7 +125,7 @@ Lorsqu'un autre site établit un lien vers le vôtre avec un lien standard (aka 
 
 Les **robots** des moteurs de recherche parcourent le Web à travers les liens dofollow, en notant qui est lié à qui. Ces relations sont, que les pros du SEO appellent "jus de lien" (**link juice** en anglais).
 
-Par exemple, imaginons qu'un site réputé avec un page-rank élevé établit un lien vers le votre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors \*\*augmenter votre pagerank \*\*et sa notoriété.
+Par exemple, imaginons qu'un site réputé avec un page-rank élevé établit un lien vers le votre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors **augmenter votre pagerank** et sa notoriété.
 
 Cela peut faire **progresser votre classement** et votre popularité dans les résultats des moteurs de recherche.
 
@@ -143,7 +143,7 @@ Pour ajouter **l'attribut nofollow** aux liens contenus dans un article, vous de
 
 Dans l'éditeur de votre blog, passez à **l'affichage HTML** afin de pouvoir modifier le code directement. Trouvez le lien que vous voulez rendre nofollow. Ajoutez l'attribut « nofollow » pour qu'il apparaisse tel que :
 
-**\<a href="https://test.fr/contact" rel="nofollow">Ceci est un test\</a>**
+***\<a href="https://test .fr/contact" rel="nofollow">Ceci est un test\</a>***
 
 À noter qu'il existe aussi d'autre attribue plus spécifique :
 
@@ -168,6 +168,7 @@ Certaines personnes disent qu'il est recommandé d’avoir un ratio de liens nof
 Cette allégation est contradictoire, car cela veut dire que l’on fait en sorte de modifier notre **ratio de backlinks** pour garder un quota spécial entre les nofollow et dofollow. C'est n'est donc pas « naturel ».
 
 Pour taire ces rumeurs, **John Mueller** de chez Google a confirmé que cette affirmation était fausse, sur Twitter.
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">That&#39;s not true.</p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1289223963931897856?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Et ensuite ?
