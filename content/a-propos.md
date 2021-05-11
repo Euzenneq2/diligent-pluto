@@ -101,7 +101,6 @@ sections:
     type: cta_section
   - type: cta_section
     template: cta_section
-    title: Contactez-moi !
     actions:
       - type: action
         template: action
