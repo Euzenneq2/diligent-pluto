@@ -645,7 +645,7 @@ sections:
         content_align: left
         actions:
           - label: En savoir plus
-            url: /methode-de-redaction
+            url: /methode-de-redaction/
             style: primary
             has_icon: false
             icon: arrow-left
