@@ -19,7 +19,7 @@ sections:
   - type: features_section
     template: features_section
     features:
-      - content: "N'hésitez pas à réserver votre rendez-vous en remplissant le formulaire Calendly ci-joint.\n\nUne date, un horaire, quelques questions et vous serez rappelé dans les plus brefs délais !\n\n*Mary Marketing traite les données recueillies en utilisant votre adresse électronique pour vous communiquer des publicités concernant ces services.*\n\n*Pour en savoir plus, reportez-vous à la notice\_ci-dessous.*\n"
+      - content: "N'hésitez pas à réserver votre rendez-vous en remplissant le formulaire Calendly ci-joint.\n\nUne date, un horaire, quelques questions et vous serez rappelé dans les plus brefs délais !\n\n*Mary Marketing traite les données recueillies en utilisant votre adresse électronique pour vous communiquer des publicités concernant ces services.*\n\n*Pour en savoir plus, reportez-vous à la page \"Politique de confidentialité\"\_ci-dessous.*\n"
         actions: []
         image_alt: null
         media_position: right
