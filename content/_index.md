@@ -293,7 +293,7 @@ sections:
         content_align: center
         actions:
           - label: Découvrir
-            url: /strategie-de-contenu
+            url: /strategie-de-contenu/
             style: secondary
             has_icon: false
             icon: arrow-left
