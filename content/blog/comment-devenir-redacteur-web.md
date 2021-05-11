@@ -59,7 +59,7 @@ Puis vient la **rédaction** proprement dite. C'est une étape durant laquelle
 
 Ensuite, le **référencement SEO**, en effet les contenus rédigés sur les pages web doivent être optimisés. Le référenceur est tenu de se conformer aux préconisations de Google en matière d'écriture web. Il faut notamment prendre en compte le **référencement** **naturel** pour que le contenu web puisse permettre aux sites internet d’être bien positionnés dans les moteurs de recherche. C'est ce que l'on appelle : l'optimisation SEO. Vous devrez aussi éviter d'abuser de l'utilisation de certains mots clés et être attentif au nombre de mots utilisés.
 
-Enfin, la **recherche de client** est primordiale. Le concepteur-rédacteur doit trouver des clients cibles et les fidéliser grâce à un contenu de qualité. Vous pourrez travailler en freelance (via des plateformes ou votre site internet), pour un éditeur de contenu ou pour une agence de communication.
+Enfin, la **recherche de client** est primordiale. Le concepteur-rédacteur doit trouver des clients cibles et les fidéliser grâce à un contenu de qualité. Vous pourrez travailler en freelance (via des plateformes ou votre site internet), pour un éditeur de contenu ou pour une agence de communication.![](/images/Dessin%20femme%20page%20web.png)
 
 ## Les qualités pour devenir un bon rédacteur web ?
 
