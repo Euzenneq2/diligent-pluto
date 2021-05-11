@@ -71,7 +71,7 @@ params:
         url: /a-propos/
         style: link
       - label: Mentions légales
-        url: /mentions-legales
+        url: /mentions-legales/
         style: link
         has_icon: false
         icon: arrow-left
