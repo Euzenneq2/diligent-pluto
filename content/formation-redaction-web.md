@@ -7,7 +7,6 @@ sections:
     background_color: primary
     actions:
       - label: Je me forme !
-        url: '#'
         style: primary
         has_icon: false
         icon: arrow-left
