@@ -34,7 +34,7 @@ params:
       - type: action
         template: action
         label: Blog
-        url: /blog
+        url: /blog/
         style: primary
         no_follow: false
     has_secondary_nav: true
