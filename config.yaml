@@ -94,7 +94,7 @@ params:
       - type: action
         template: action
         label: Tout les articles
-        url: /blog
+        url: /blog/
         style: link
       - type: action
         template: action
