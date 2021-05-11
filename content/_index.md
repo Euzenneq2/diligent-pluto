@@ -449,7 +449,7 @@ sections:
       - type: action
         template: action
         label: Contactez-moi !
-        url: /contact
+        url: /contact/
         style: primary
     actions_position: right
     actions_width: fourty
