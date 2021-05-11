@@ -299,7 +299,7 @@ sections:
   - type: cta_section
     template: cta_section
     actions:
-      - url: /contact
+      - url: /contact/
         style: primary
         has_icon: false
         icon: arrow-left
