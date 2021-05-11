@@ -112,6 +112,8 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+    content: |
+      ## Contactez-moi !
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
