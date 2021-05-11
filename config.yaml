@@ -16,7 +16,7 @@ params:
       - type: action
         template: action
         label: Rédaction web
-        url: /redaction-web
+        url: /redaction-web/
         style: primary
         no_follow: false
       - type: action
