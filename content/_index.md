@@ -344,7 +344,7 @@ sections:
         content_align: center
         actions:
           - label: Découvrir
-            url: /cocon-semantique
+            url: /cocon-semantique/
             style: secondary
             has_icon: false
             icon: arrow-left
