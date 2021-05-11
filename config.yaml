@@ -109,7 +109,7 @@ params:
         url: /blog/categorie/referencement-naturel-seo/
         style: link
         label: Référencement naturel
-        no_follow: false
+        no_follow: true
     has_tertiary_nav: true
     tertiary_nav_title: Newsletter
     tertiary_nav_links:
