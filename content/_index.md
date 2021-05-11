@@ -260,7 +260,7 @@ sections:
         subtitle: 'Enchanté, moi c''est Mary !'
         actions:
           - label: En savoir plus
-            url: /a-propos
+            url: /a-propos/
             style: primary
             has_icon: false
             icon: arrow-left
