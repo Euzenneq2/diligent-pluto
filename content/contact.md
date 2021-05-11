@@ -36,7 +36,7 @@ sections:
           *Pour en savoir plus, reportez-vous à la page
           *[*ci-joint*](https://diligent-pluto-bbfe2.netlify.app/politique-de-confidentialite/)*.*
         actions:
-          - label: lorem-ipsum
+          - label: 'Pour en savoir plus, reportez-vous à la page ci-jointe.'
             url: '#'
             style: link
             has_icon: false
