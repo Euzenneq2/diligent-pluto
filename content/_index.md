@@ -729,7 +729,7 @@ sections:
       - type: action
         template: action
         label: Voir plus d'articles
-        url: /blog
+        url: /blog/
         style: primary
     blog_feed_cols: three
     enable_cards: true
