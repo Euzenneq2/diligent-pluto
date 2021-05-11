@@ -14,6 +14,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        url: /contact/
     media_position: right
     background_image_position: left center
     media_width: fifty
