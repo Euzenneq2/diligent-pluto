@@ -35,7 +35,7 @@ sections:
       - type: action
         template: action
         label: Contactez moi
-        url: /contact
+        url: /contact/
         style: primary
         icon_position: left
     actions_position: bottom
