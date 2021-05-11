@@ -106,7 +106,7 @@ sections:
       - type: action
         template: action
         label: N'hésitez pas
-        url: /contact
+        url: /contact/
         style: primary
     align: center
     padding_top: medium
