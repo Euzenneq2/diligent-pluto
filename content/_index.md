@@ -169,7 +169,7 @@ sections:
           - type: action
             template: action
             label: En savoir plus
-            url: /redaction-web
+            url: /redaction-web/
             style: primary
             has_icon: true
             icon: arrow-right
