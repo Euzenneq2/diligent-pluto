@@ -8,7 +8,7 @@ sections:
     background_color: primary
     actions:
       - label: Contactez-moi
-        url: /contact
+        url: /contact/
         style: primary
         has_icon: false
         icon: arrow-left
