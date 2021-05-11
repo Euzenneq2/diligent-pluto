@@ -3,7 +3,8 @@ title: Les grandes tendances du Content Marketing en 2021
 date: '2021-01-02'
 categories:
   - data/categories/actualite-marketing-digital.json
-tags: []
+tags:
+  - data/tags/jamstack.json
 excerpt: >-
   Découvrez les tendances 2021 du marketing de contenu ! Dans cet article nous
   aborderons les sept plus grandes trends.
