@@ -4,7 +4,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Mentions légales ⎮ Mary Marketing
-  description: This is the terms and conditions page
+  description: Découvrez toutes les informations concernant Mary Marketing.
   extra:
     - name: 'og:type'
       value: website
