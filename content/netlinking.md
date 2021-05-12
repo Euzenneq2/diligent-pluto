@@ -272,7 +272,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: En quoi conciste le netlinking ? ⎮ Mary Marketing
+  title: En quoi consiste le netlinking ? ⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
