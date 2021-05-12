@@ -69,7 +69,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Contact - Mary Marketing - Rédacteur web
+  title: Contact ⎮ Mary Marketing rédactrice web SEO
   extra:
     - name: 'og:type'
       value: website
