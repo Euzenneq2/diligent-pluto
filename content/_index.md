@@ -303,7 +303,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
-        image: /images/stratégie-contenu.svg
+        image: /images/strategie-contenu.svg
         image_alt: Stratégie de contenu
         image_position: top
         image_align: center
