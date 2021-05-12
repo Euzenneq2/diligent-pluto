@@ -258,7 +258,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Comment fonctionne le community management ⎮ Mary Marketing
+  title: Community management ⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
