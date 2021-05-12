@@ -432,6 +432,6 @@ seo:
       relativeUrl: true
   description: >-
     Comment améliorer son référencement naturel ? Comment faire son
-    référencement naturel gratuitement ?
+    référencement naturel ? 
 layout: advanced
 ---
