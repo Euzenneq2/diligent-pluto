@@ -20,7 +20,7 @@ sections:
 layout: advanced
 seo:
   title: Newsletter ⎮ Mary Marketing
-  description: ''
+  description: Merci de t'être inscrit à ma newsletter !
   robots: []
   extra: []
   type: stackbit_page_meta
