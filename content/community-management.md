@@ -285,8 +285,8 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
-  description: >
-    Ce que je vous propose en rédaction web : Étude de la thématique, Production
-    de contenu, Optimisation SEO. Tout pour séduire vos visiteurs.
+  description: >-
+    Comment devenir community manager ? À quoi correspond concrètement le
+    community management ? Toutes les réponses sont sur cette page.
 layout: advanced
 ---
