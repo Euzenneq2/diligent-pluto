@@ -481,7 +481,7 @@ seo:
       value: images/about-3.jpg
       relativeUrl: true
   description: >-
-    Pourquoi est-ce si important ? Découvrez, sur cette page, quelles sont les
-    grandes notions à connaître ! 
+    Comment créer du contenu SEO ? Pourquoi est-ce si important ? Découvrez, sur
+    cette page, quelles sont les grandes notions à connaître ! 
 layout: advanced
 ---
