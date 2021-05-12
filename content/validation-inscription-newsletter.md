@@ -18,4 +18,10 @@ sections:
     background_color: none
     image: images/remerciement-newsletter.png
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
