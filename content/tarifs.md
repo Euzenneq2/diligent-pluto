@@ -3,7 +3,7 @@ title: Tarifs
 sections:
   - type: hero_section
     template: hero_section
-    title: Tarifs
+    title: Tarifs rédaction web
     subtitle: 'Par mot, feuillet ou à la journée, c''est vous qui choisissez !'
     align: center
     padding_top: large
