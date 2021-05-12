@@ -209,7 +209,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Cocon sémantique ⎮ Mary Marketing
+  title: Tout savoir sur le cocon sémantique ⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
