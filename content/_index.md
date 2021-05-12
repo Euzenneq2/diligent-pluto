@@ -354,7 +354,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
-        image: /images/cocon-sémantique.svg
+        image: /images/cocon-semantique.svg
         image_alt: Cocon sémantique
         image_position: top
         image_align: center
