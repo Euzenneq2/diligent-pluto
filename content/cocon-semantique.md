@@ -236,8 +236,8 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
-  description: >
-    Ce que je vous propose en rédaction web : Étude de la thématique, Production
-    de contenu, Optimisation SEO. Tout pour séduire vos visiteurs.
+  description: >-
+    Qu'est-ce qu'un cocon sémantique ? À quoi ça sert ? Comment le réaliser ?
+    Apprenez à
 layout: advanced
 ---
