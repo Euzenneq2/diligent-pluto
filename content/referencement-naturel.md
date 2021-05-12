@@ -432,6 +432,7 @@ seo:
       relativeUrl: true
   description: >-
     Comment améliorer son référencement naturel ? Comment faire son
-    référencement naturel ? 
+    référencement naturel ? Découvrez les points à connaître sur le
+    référencement naturel.
 layout: advanced
 ---
