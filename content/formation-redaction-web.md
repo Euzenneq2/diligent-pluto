@@ -260,7 +260,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-        image: images/incredible-spruce.png
+        image: images/formation-redaction-web.png
     feature_padding_vert: medium
     align: center
     padding_top: small
