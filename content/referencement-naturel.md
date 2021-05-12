@@ -403,7 +403,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Référencement naturel ⎮ Mary Marketing
+  title: Qu'est-ce que le référencement naturel ?⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
