@@ -451,8 +451,8 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
-  description: >
-    Ce que je vous propose en rédaction web : Étude de la thématique, Production
-    de contenu, Optimisation SEO. Tout pour séduire vos visiteurs.
+  description: >-
+    Différentes méthodes et techniques de rédaction web existent et doivent être
+    respectées. Découvrez les plus utilisées dans le métier.
 layout: advanced
 ---
