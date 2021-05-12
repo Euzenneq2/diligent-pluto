@@ -18,7 +18,6 @@ sections:
     background_color: none
 layout: advanced
 seo:
-  title: ''
   description: ''
   robots: []
   extra: []
