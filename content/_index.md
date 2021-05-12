@@ -311,7 +311,7 @@ sections:
         actions_width: auto
       - type: grid_item
         template: grid_item
-        title: Rédaction web
+        title: Redaction web
         title_align: center
         content: >
           Que ce soit un **article** de blog, une **fiche produit**, des **pages
