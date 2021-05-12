@@ -464,7 +464,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: 'Rédaction SEO : les bases ⎮ Mary Marketing'
+  title: Quelles sont les bases de la rédaction SEO ?⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
