@@ -474,7 +474,7 @@ sections:
 
 
           **Romane Lapresse**, *Cheffe de projet digital*
-        image: /images/Tem1.png
+        image: /images/temoignage-1.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
