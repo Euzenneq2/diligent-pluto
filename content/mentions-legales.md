@@ -3,7 +3,7 @@ title: Mentions légales
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Terms and Conditions
+  title: Mentions légales ⎮ Mary Marketing
   description: This is the terms and conditions page
   extra:
     - name: 'og:type'
