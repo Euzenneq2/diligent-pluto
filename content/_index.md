@@ -56,7 +56,7 @@ sections:
           Élaborer une stratégie marketing
       - type: grid_item
         template: grid_item
-        image: /images/Rédaction-web-seo.svg
+        image: /images/Redaction-web-seo.svg
         image_alt: Rédaction-web-seo
         image_align: center
         title: Rédaction web
@@ -76,7 +76,7 @@ sections:
           Méthode AIDA
       - type: grid_item
         template: grid_item
-        image: /images/Référencement-seo.svg
+        image: /images/Referencement-seo.svg
         image_alt: Référencement-seo
         image_align: center
         title: Référencement
