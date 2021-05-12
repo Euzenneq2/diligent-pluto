@@ -513,7 +513,7 @@ sections:
 
 
           **Anthony Lazure**, *Auto-entrepreneur*
-        image: /images/Tem3.png
+        image: /images/temoignage-3.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
