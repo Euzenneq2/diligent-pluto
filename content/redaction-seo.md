@@ -491,8 +491,6 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
-  description: >
-    Ce que je vous propose en rédaction web : Étude de la thématique, Production
-    de contenu, Optimisation SEO. Tout pour séduire vos visiteurs.
+  description: Pourquoi améliorer son site web avec la rédaction SEO ? Commnent ça marche ?
 layout: advanced
 ---
