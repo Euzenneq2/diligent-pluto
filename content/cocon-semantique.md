@@ -238,6 +238,6 @@ seo:
       relativeUrl: true
   description: >-
     Qu'est-ce qu'un cocon sémantique ? À quoi ça sert ? Comment le réaliser ?
-    Apprenez à
+    Apprenez à structurer vos pages web et améliorer votre classement.
 layout: advanced
 ---
