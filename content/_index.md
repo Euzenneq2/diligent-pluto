@@ -487,7 +487,7 @@ sections:
 
 
           **Frédéric Gauvin**, *Web designer*
-        image: /images/Tem2.png
+        image: /images/temoignage-2.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
