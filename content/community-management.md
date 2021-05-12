@@ -258,7 +258,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: 'Community management '
+  title: Community management ⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
