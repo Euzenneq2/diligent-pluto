@@ -325,7 +325,7 @@ seo:
       value: images/about-3.jpg
       relativeUrl: true
   description: >-
-    Étude de la thématique, production de contenu, optimisation SEO. Tout
-    connaitre de la rédaction web pour séduire vos visiteurs.
+    Étude de la thématique, production de contenu, optimisation SEO, voilà tout
+    ce que vous devez connaître de la rédaction web pour séduire vos visiteurs.
 layout: advanced
 ---
