@@ -260,7 +260,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stratégie de contenu ⎮ Mary Marketing
+  title: Comment créer une stratégie de contenu ?⎮Mary Marketing
   extra:
     - name: 'og:type'
       value: website
