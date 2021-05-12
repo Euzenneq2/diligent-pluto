@@ -464,7 +464,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Rédaction SEO ⎮ Mary Marketing
+  title: 'Rédaction SEO : les bases ⎮ Mary Marketing'
   extra:
     - name: 'og:type'
       value: website
