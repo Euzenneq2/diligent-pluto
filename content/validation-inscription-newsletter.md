@@ -19,7 +19,7 @@ sections:
     image: images/remerciement-newsletter.png
 layout: advanced
 seo:
-  title: ''
+  title: Newsletter ⎮ Mary Marketing
   description: ''
   robots: []
   extra: []
