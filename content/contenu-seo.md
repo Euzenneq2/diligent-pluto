@@ -481,7 +481,7 @@ seo:
       value: images/about-3.jpg
       relativeUrl: true
   description: >-
-    Comment améliorer son contenu SEO ? Pourquoi est-ce si important ?
-    Découvrez, sur cette page, quelles sont les grandes notions à connaître ! 
+    Pourquoi est-ce si important ? Découvrez, sur cette page, quelles sont les
+    grandes notions à connaître ! 
 layout: advanced
 ---
