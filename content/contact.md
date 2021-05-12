@@ -100,7 +100,7 @@ seo:
       keyName: name
       relativeUrl: false
   description: >-
-    Besoins de contenu rédactionnel ? Vous désirez collaborer avec moi ?
-    Remplissez le formulaire de contact, je serais ravie d'échanger avec vous.
+    Besoins d'aide dans la réalisation de vos contenus web ? Vous désirez
+    collaborer avec moi ? Je serais ravie d'échanger avec vous.
 layout: advanced
 ---
