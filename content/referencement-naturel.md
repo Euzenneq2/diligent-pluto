@@ -430,6 +430,8 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
-  description: 'Comment améliorer son référencement naturel ? '
+  description: >-
+    Comment améliorer son référencement naturel ? Comment faire son
+    référencement naturel gratuitement ?
 layout: advanced
 ---
