@@ -491,6 +491,8 @@ seo:
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
-  description: Pourquoi améliorer son site web avec la rédaction SEO ? Commnent ça marche ?
+  description: >-
+    Pourquoi améliorer son site web avec la rédaction SEO ? Comment ça
+    fonctionne ? Découvrez les réponses à vos questions sur cette page.
 layout: advanced
 ---
