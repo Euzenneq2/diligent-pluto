@@ -330,7 +330,7 @@ sections:
             type: action
             label: Découvrir
         actions_align: center
-        image: /images/rédaction-web.svg
+        image: /images/redaction-web.svg
         image_alt: Rédaction web
         image_position: top
         image_align: center
