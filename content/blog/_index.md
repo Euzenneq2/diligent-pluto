@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     template: hero_section
-    title: Blog rédactrice web SEO
+    title: Blog rédacteur web SEO
     subtitle: >-
       Chaque semaine, retrouvez mes conseils et stratégies qui fonctionnent pour
       bâtir et optimiser votre contenu sur le web.
