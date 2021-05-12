@@ -38,7 +38,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        image: /images/Stratégie-de-contenu.svg
+        image: /images/Strategie-de-contenu.svg
         image_alt: Stratégie-de-contenu
         image_align: center
         title: Stratégie de contenu
