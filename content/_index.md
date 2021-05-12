@@ -500,7 +500,7 @@ sections:
 
 
           **Claire Lebrun**, *Responsable communication*
-        image: /images/temoignage-3.png
+        image: /images/temoignage-4.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
