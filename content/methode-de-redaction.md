@@ -424,7 +424,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Les méthodes de rédaction ⎮ Mary Marketing
+  title: Quelles sont les méthodes de rédaction web ?⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
