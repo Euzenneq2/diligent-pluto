@@ -453,7 +453,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Contenu SEO ⎮ Mary Marketing
+  title: Comment optimisé le contenu SEO ? ⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
