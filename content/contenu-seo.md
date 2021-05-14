@@ -311,8 +311,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      ## Le contenu SEO est un groupement de règles bien spécifique qui peuvent
-      améliorer votre référencement naturel.
+      ## Le contenu SEO est un groupement de règles bien spécifique
 
 
       Bien les respecter est nécessaire pour générer du trafic et grimper dans
