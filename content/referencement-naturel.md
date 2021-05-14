@@ -259,12 +259,11 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      ## Le référencement naturel est un ensemble de techniques qui vous
-      aideront à atteindre les premiers résultats de recherche Google
+      ## Le référencement naturel : un ensemble de techniques
 
 
-      De ce fait, le taux de trafic de votre site sera considérablement augmenté
-      !
+      Le taux de trafic de votre site sera considérablement augmenté. Atteignez
+      les premiers résultats de recherche Google ! 
   - actions: []
     image_alt: Compétence rédaction seo
     media_position: bottom
