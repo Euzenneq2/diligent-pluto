@@ -319,10 +319,8 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    content: >
-      ## La rédaction SEO est un ensemble de techniques qui augmente votre
-      visibilité sur Google
-
+    content: |
+      ## La rédaction SEO : techniques qui augmentent votre visibilité
 
       et par conséquent le nombre de visiteurs sur votre site web...
   - actions: []
