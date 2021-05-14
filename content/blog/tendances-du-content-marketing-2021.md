@@ -13,7 +13,7 @@ image: images/blog-tendances-content-marketing-2021.png
 image_alt: blog-tendances-content-marketing-2021
 image_position: right
 seo:
-  title: Les tendances du content marketing 2021 - Mary Marketing
+  title: Les tendances du content marketing 2021 ⎮ Mary Marketing
   description: >-
     Suivez les grandes tendances du Content Marketing ! Les live-stream, les
     commandes vocales... Que nous réserve 2021 ? 
