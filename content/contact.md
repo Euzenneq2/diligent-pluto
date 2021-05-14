@@ -53,9 +53,7 @@ sections:
           async></script>
 
           <!-- Fin de widget en ligne Calendly -->
-        title: >-
-          Votre rédactrice web professionnelle et dévouée à votre projet sur
-          internet.
+        title: Votre rédactrice web professionnelle
     feature_padding_vert: medium
     align: center
     padding_top: medium
