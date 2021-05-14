@@ -276,8 +276,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      ## Les méthodes de rédaction : indispensables pour un contenu SEO de
-      qualité.
+      ## Les méthodes de rédaction : efficaces pour un contenu SEO de qualité
 
 
       Et ce contenu de qualité, pourra améliorer considérablement votre
