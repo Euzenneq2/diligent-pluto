@@ -3,9 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: >-
-      Un community management réussi pour une présence sur les réseaux sociaux
-      assurée
+    title: Un community management réussi pour accroitre sa popularité
     background_color: primary
     actions: []
     media_position: right
