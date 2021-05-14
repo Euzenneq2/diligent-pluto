@@ -15,7 +15,7 @@ image: images/blog-guide-seo.png
 image_alt: blog-guide-seo
 image_position: left
 seo:
-  title: Tout comprendre des techniques SEO - Blog - Mary Marketing
+  title: Tout comprendre des techniques SEO ⎮ Mary Marketing
   description: >-
     Vous souhaitez tout comprendre des différentes techniques SEO ? Dans cet
     articles nous les décortiquons !
