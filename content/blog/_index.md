@@ -21,7 +21,7 @@ sections:
         no_follow: false
         type: action
         url: '#newsletter'
-    image: /images/blog-redac-web.png
+    image: images/blog-redac-web.png
     media_position: right
     media_width: fifty
     image_alt: blog-redac-web
