@@ -48,7 +48,7 @@ sections:
     type: hero_section
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
-  title: Posts in Informatique et outils technologique
+  title: 'Blog : Informatique et outils technologique ⎮ Mary Marketing'
   description: This is the author archive page
   extra:
     - name: 'og:type'
