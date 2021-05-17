@@ -9,21 +9,21 @@ sections:
     background_color: none
     content: >
       Dans cet article, je vais vous parler de l'**actualité du Marketing** sur
-      les **réseaux sociaux** : **Twitter**, **Facebook**, **Linkedin**,
-      **Instagram**, **Youtube**, **TikTok**, **Snapchat**, **Clubhouse**, etc.
+      les **réseaux sociaux** : **Twitter**, **Facebook**, **LinkedIn**,
+      **Instagram**, **YouTube**, **TikTok**, **Snapchat**, **Clubhouse**, etc.
       Vous retrouverez mes expériences et conseils autour de ces **média
       sociaux**. Ils sont très intéressants pour votre **stratégie
       d'acquisition** ou de **notoriété**, si votre **community management** est
-      bien établis. De plus, la possibilité de création **publicité sur les
+      bien établi. De plus, la possibilité de création **publicité sur les
       réseaux sociaux** peut être un très bon levier pour l'**acquisition de
       trafic** et l'obtention de **Leads qualifié**.
 
 
-      Les **solutions adwords** que j'utilise actuellement dans mes activités
-      sont : **Linkedin Ads**, **Facebook Ads** et la publicité Twitter. Les
+      Les **solutions AdWords** que j'utilise actuellement dans mes activités
+      sont : **LinkedIn Ads**, **Facebook Ads** et la publicité Twitter. Les
       campagnes de **Social Selling** sont des techniques de vente ciblant une
       **audience** spécifique, déterminé selon des caractéristiques précise.
-      Exemple sur Linkedin : Utiliser ce **réseau social professionne**l très
+      Exemple sur LinkedIn : Utiliser ce **réseau social professionne**l très
       orienté BtoB pour cibler et démarcher des entreprises qui serait
       potentiellement intéressé par votre produit ou services. C'est une
       pratique simple qui viendra compléter vos démarchages par email ou votre
@@ -33,7 +33,7 @@ sections:
 
       Les réseaux professionnels comme Twitter ou Linkedin ont révolutionné le
       travail de beaucoup de corps de métier tel que : Les ressources humaines,
-      les commerciaux et ingénieur d'affaires mais aussi et surtout celui des
+      les commerciaux et ingénieur d'affaires, mais aussi et surtout celui des
       **entrepreneurs**.
 
 
