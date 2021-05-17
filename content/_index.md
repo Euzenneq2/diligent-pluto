@@ -23,7 +23,7 @@ sections:
         url: /blog/
         style: primary
         no_follow: false
-    image: /images/redacteur-web-seo-friendly.png
+    image: images/redacteur-web-seo-friendly.png
     image_alt: Redacteur-web-seo-friendly
     media_position: left
     media_width: fifty
