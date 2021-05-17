@@ -8,8 +8,8 @@ sections:
     padding_bottom: none
     background_color: none
     content: >
-      **L'évolution d'internet** et la Covid-19 ont accélérer le développement
-      du canal d'achat **e-commerce**. Les acteurs majeurs comme **Amazon** ou
+      **L'évolution d'internet** et la Covid-19 ont accéléré le développement du
+      canal d'achat **e-commerce**. Les acteurs majeurs comme **Amazon** ou
       **Cdiscount** ont grandement modifié les habitudes des consommateurs et
       réduit les parts de marché du commerce traditionnel. Aujourd'hui notre
       téléphone **mobile** influence notre manière d'acheter sur le web. Dans
