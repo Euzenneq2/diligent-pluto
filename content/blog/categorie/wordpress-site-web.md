@@ -55,7 +55,9 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Wordpress ⎮ Mary Marketing'
-  description: Toute l
+  description: >-
+    Sur cette page, vous trouverez tous les articles concernant le CMS
+    WordPress. 
   extra:
     - name: 'og:type'
       value: website
