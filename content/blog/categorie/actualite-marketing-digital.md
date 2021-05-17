@@ -60,7 +60,9 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Actualité du digital ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: >-
+    Le domaine du numérique est vaste. Ici, Je vous permets de suivre
+    l'actualité du digital.
   extra:
     - name: 'og:type'
       value: website
