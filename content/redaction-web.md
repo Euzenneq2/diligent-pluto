@@ -276,6 +276,7 @@ sections:
         media_position: left
         media_width: thirty-three
         image: images/Production-de-contenue.png
+        image_alt: Production de contenu seo
       - type: feature
         template: feature
         title: La richesse sémantique
