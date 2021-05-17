@@ -292,7 +292,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: /images/optimisation-seo.png
+        image: images/optimisation-seo.png
     title: Mes 4 étapes pour rédiger vos contenus sur internet
 seo:
   type: stackbit_page_meta
