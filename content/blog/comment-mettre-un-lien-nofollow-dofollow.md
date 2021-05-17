@@ -55,7 +55,7 @@ Voyons ensemble comment et quand les utiliser. Ne ratez pas l'occasion de gagner
 
 Les liens permettent aux **algorithmes des moteurs de recherches** de voir les relations entre les sites internet. Ces robots passent de site web à l'autre via des liens dofollow ainsi que par des liens nofollow.
 
-Pour avoir un bon **profil de backlink** pertinent sur votre site internet il est nécessaire de comprendre comment les autres **sites internet se lient** au votre.
+Pour avoir un bon **profil de backlink** pertinent sur votre site internet, il est nécessaire de comprendre comment les autres **sites internet se lient** au vôtre.
 
 Pourquoi est-ce si important ? C’est simple : si vous avez un grand nombre de **liens externes** de haute qualité qui pointent vers votre site web cela va **générer plus de trafic**, de la part des visiteurs qui cliquent sur ces liens et via les moteurs de recherche.
 
@@ -71,7 +71,7 @@ Il est nécessaire de **comprendre la différence** entre les deux types de lien
 
 De plus, pour **obtenir des backlinks** parfait, voici quelques critères de qualité pertinants :
 
-*   Vous devez avoir des liens d'un site interne qui as le **même thème de contenu** que le votre.
+*   Vous devez avoir des liens d'un site interne qui as le **même thème de contenu** que le vôtre.
 
 *   La page du lien externe doit avoir minimum un **trust flow supérieur a 40**.
 
@@ -125,7 +125,7 @@ Lorsqu'un autre site établit un lien vers le vôtre avec un lien standard (aka 
 
 Les **robots** des moteurs de recherche parcourent le Web à travers les liens dofollow, en notant qui est lié à qui. Ces relations sont, que les pros du SEO appellent "jus de lien" (**link juice** en anglais).
 
-Par exemple, imaginons qu'un site réputé avec un page-rank élevé établit un lien vers le votre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors **augmenter votre pagerank** et sa notoriété.
+Par exemple, imaginons qu'un site réputé avec un page-rank élevé établit un lien vers le vôtre. Les moteurs de recherche vont considérer que votre site est plus réputé et pourrons alors **augmenter votre pagerank** et sa notoriété.
 
 Cela peut faire **progresser votre classement** et votre popularité dans les résultats des moteurs de recherche.
 
@@ -147,11 +147,11 @@ Dans l'éditeur de votre blog, passez à **l'affichage HTML** afin de pouvoir mo
 
 À noter qu'il existe aussi d'autre attribue plus spécifique :
 
-*   rel= "nofollow" doit être employé quand les liens sont le **résultat de partenariats**, de **publicités** ou de contenus générés par les utilisateurs (**UGC**) dans les commentaires ou les forums.
+*   Rel= "nofollow" doit être employé quand les liens sont le **résultat de partenariats**, de **publicités** ou de contenus générés par les utilisateurs (**UGC**) dans les commentaires ou les forums.
 
-*   rel= "**sponsored**" peut être appliqué comme substitue à rel='nofollow" quand un lien a été **payé via une publicité** ou un partenariat.
+*   Rel= "**sponsored**" peut être appliqué comme substitue à rel='nofollow" quand un lien a été **payé via une publicité** ou un partenariat.
 
-*   rel= "**ugc**" peut être utilisé à la place de rel='nofollow" quand un **lien provient d'un contenu généré par les utilisateurs**.
+*   Rel= "**ugc**" peut être utilisé à la place de rel='nofollow" quand un **lien provient d'un contenu généré par les utilisateurs**.
 
 ## Quand utiliser des liens nofollow ou dofollow sur votre propre site ?
 
