@@ -79,7 +79,7 @@ Même s'il ne faut pas en abuser, vous devez porter une attention particulière 
 
 Voici un extrait de ces règles pour s'assurer d'une qualité de rédaction : 
 
-*   Structurer vos articles en utilisant les balises (HTML, alt, méta, titre, Hn, meta-description, etc.)
+*   Structurer vos articles en utilisant les balises (HTML, Alt, méta, titre, Hn, meta-description, etc.)
 
 *   Rédiger un contenu unique et un contenu de qualité
 
@@ -99,7 +99,7 @@ Voici un extrait de ces règles pour s'assurer d'une qualité de rédaction : 
 
 ## Le jargon dans vos écrits
 
-Un bon rédacteur web sait quand utiliser du langage soutenu et quand utiliser du jargon. Pensez à imaginer vos lecteurs pour ajuster votre façon de parler. En effet, il serait dommage d'utiliser trop de jargon pour parler d'un sujet tel que le système économique des État-Unis, par exemple. Sauf si votre but et de vulgariser ce thème qui semble complexe pour une partie de vos lecteurs.
+Un bon rédacteur web sait quand utiliser du langage soutenu et quand utiliser du jargon. Pensez à imaginer vos lecteurs pour ajuster votre façon de parler. En effet, il serait dommage d'utiliser trop de jargon pour parler d'un sujet tel que le système économique des États-Unis, par exemple. Sauf si votre but et de vulgariser ce thème qui semble complexe pour une partie de vos lecteurs.
 
 Autre exemple de création de contenu, si vous devez écrire un article de 2000 mots sur la construction d'une maison autosuffisante, il est important de savoir si vous vous adressez à des architectes ou à des propriétaires.
 
@@ -109,9 +109,9 @@ Apprenez à connaitre vos lecteurs avant même d'écrire votre contenu. Vous sau
 
 ## Toujours rédiger de la même façon
 
-Sur le web, il existe des milliers d'articles qui traite le même sujets de façon différentes.
+Sur le web, il existe des milliers d'articles qui traite le même sujet de façon différentes.
 
-Vous travaillez ou travaillerez avec de nombreuse personnes tout au long de votre carrière. Chaque client vous demande un ton différent pour la rédaction de contenu. Mais malgré cela vous constater que vous avez toujours le même style d'écriture ? 
+Vous travaillez ou travaillerez avec de nombreuses personnes tout au long de votre carrière. Chaque client vous demande un ton différent pour la rédaction de contenu. Mais malgré cela vous constater que vous avez toujours le même style d'écriture ? 
 
 La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger du contenu plus unique. Grace à votre point de vue personnel que vous pourrez modeler, vous donnerez à votre travail une chance d'émerger parmi les autres rédactions.
 
@@ -123,7 +123,7 @@ Une des plus grandes erreurs des rédacteurs est celle-ci : pensez que le conten
 
 Ayez toujours en tête qu'un bon article doit être conclu par une petite phrase, une citation, un appel à l'action ou par une incitation à utiliser ce que le lecteur vient de lire. Remercier le lecteur pour son temps passer à lire votre rédaction, de façon plus ou moins subtile.
 
-Cela vous permettra aussi de résumé succinctement votre article de blog. Mais aussi de rediriger vos cibles vers d'autre contenu textuel de votre site  e-commerce mais aussi d'autre site concurrent ou partenaire pour vous créer un profil de backlinks.
+Cela vous permettra aussi de résumé succinctement votre article de blog. Mais aussi de rediriger vos cibles vers d'autre contenu textuel de votre site  e-commerce, mais aussi d'autre site concurrent ou partenaire pour vous créer un profil de backlinks.
 
 ## Le temps, c'est de l'argent
 
