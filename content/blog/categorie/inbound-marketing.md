@@ -14,7 +14,7 @@ sections:
       lettres, boite mail ou fil d'actualité de vos réseaux sociaux.
       L'**Inbound** a pour objectif d'**amener les visiteurs vers nous** plutôt
       que de lui envoyer de la publicité via des bannières, des appels
-      téléphoniques ou des campagnes d'emalilling. Tous ces pratiques impacts
+      téléphoniques ou des campagnes d'e-malilling. Tous ces pratiques impacts
       notre quotidien et notre **expérience utilisateur**. D'ailleurs ils sont
       devenus invisibles aux yeux de beaucoup d'entre nous, en partie grâce aux
       extensions antipubs. En termes de retour sur investissement l'Inbound
