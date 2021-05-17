@@ -61,7 +61,9 @@ Ensuite, le **référencement SEO**, en effet les contenus rédigés sur les pa
 
 Enfin, la **recherche de client** est primordiale. Le concepteur-rédacteur doit trouver des clients cibles et les fidéliser grâce à un contenu de qualité. Vous pourrez travailler en freelance (via des plateformes ou votre site internet), pour un éditeur de contenu ou pour une agence de communication.
 
-![](/images/devenir-redacteur-web-seo.png)
+
+
+
 
 ## Les qualités pour devenir un bon rédacteur web ?
 
