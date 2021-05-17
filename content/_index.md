@@ -711,7 +711,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Maxime Louis
-        subtitle: Dévelopeur Web
+        subtitle: Développeur Web
         title_align: center
         image: images/maxime-louis.jpg
         image_position: top
