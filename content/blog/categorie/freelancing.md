@@ -12,7 +12,7 @@ sections:
       un certain nombre de barrières depuis. Les démarches administratives sont
       allégées avec le statut d'**auto-entrepreneur**, mais ce n'est pas une
       partie de plaisir pour autant. Les difficultés à trouver mes premières
-      **missions** freelances et mes **clients réguliers**.  Comment se
+      **missions** freelances et des **client habituel**.  Comment se
       différencier de vos concurrents ? Quelle solution bancaire choisir ?
       Comment améliorer votre **environnement de travail** ?
 
@@ -22,7 +22,7 @@ sections:
       partage mes conseils de vie et vous fais un **retour d’expérience** des
       différentes plateformes de **micro-services** que j’ai pu tester. Je vais
       vous partage également mon parcours professionnel et les **formations**
-      que j'ai suivis tout au long de celui-ci.
+      que j'ai suivies tout au long de celui-ci.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
