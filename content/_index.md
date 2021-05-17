@@ -707,6 +707,7 @@ sections:
         title_align: center
         image: images/etienne-lecaudey.jpg
         image_position: top
+        image_alt: Étienne Lecaudey - Sécurité & ré
       - type: grid_item
         template: grid_item
         title: Maxime Louis
