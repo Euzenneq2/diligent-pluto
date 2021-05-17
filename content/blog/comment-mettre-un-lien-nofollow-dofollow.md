@@ -8,7 +8,7 @@ excerpt: >-
   Cultivez vous sur l'utilisation de ces liens qui peuvent vous être très utiles
   et rendre votre site plus visible !
 thumb_image: images/blog-do-follow-no-follow.png
-thumb_image_alt: vignette-lien-do-follow-no-follow
+thumb_image_alt: 'Article - '
 image: images/blog-do-follow-no-follow.png
 image_alt: lien-do-follow-no-follow
 image_position: right
