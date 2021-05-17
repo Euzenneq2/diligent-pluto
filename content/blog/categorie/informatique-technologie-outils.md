@@ -49,7 +49,7 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Informatique et outils technologique ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: Découvrez l'actualité technologique et informatique du monde du numérique.
   extra:
     - name: 'og:type'
       value: website
