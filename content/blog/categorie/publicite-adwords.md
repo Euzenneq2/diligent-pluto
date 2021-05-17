@@ -42,7 +42,7 @@ sections:
     padding_bottom: large
     has_border: true
   - actions: []
-    image_alt:
+    image_alt: null
     video_embed_html: >-
       <iframe width="700" height="600"
       src="https://b749b5e7.sibforms.com/serve/MUIEAM0pkvbQinFOixEkW-rF_LkKDOef_kUfJGtk7R9-UfYGPAJ_DiiVnVBksDThZYDqnmeVL4MnotsgclA_AehybCmA3NKcWHLbbvdkKvG0n34T7OuHuIsL2dj3-o197_s8hEpdP9x5L2dDoMQzA-iDTR8VKjJg43Ng3XjNLA8_kzDtFQqaWLGl0KlowvrzGYQ-eObrny3EASDU"
@@ -62,7 +62,7 @@ sections:
     type: hero_section
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
-  title: Posts in Publicité et adwords
+  title: 'Blog : Publicité et adwords '
   description: This is the author archive page
   extra:
     - name: 'og:type'
