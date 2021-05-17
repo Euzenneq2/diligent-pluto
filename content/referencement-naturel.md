@@ -74,7 +74,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Moteur-de-recherche.png
+    image: images/Moteur-de-recherche.jpg
   - type: grid_section
     template: grid_section
     grid_items:
