@@ -58,7 +58,7 @@ sections:
     type: hero_section
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
-  title: Posts in Inbound marketing
+  title: 'Blog : Inbound marketing ⎮ Mary Marketing'
   description: This is the author archive page
   extra:
     - name: 'og:type'
