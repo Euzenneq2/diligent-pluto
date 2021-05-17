@@ -73,7 +73,8 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Réseaux sociaux et social selling ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: |+
+
   extra:
     - name: 'og:type'
       value: website
