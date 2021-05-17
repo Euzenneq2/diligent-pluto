@@ -66,5 +66,6 @@ seo:
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
+  description: 'En quoi consiste le marketing automation ? À quoi ça sert ? '
 layout: advanced
 ---
