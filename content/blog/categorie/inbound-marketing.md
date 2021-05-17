@@ -59,7 +59,9 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Inbound marketing ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: >-
+    Une stratégie des plus importante dans le domaine de la rédaction web. Vous
+    souhaitez en savoir plus sur l'Inbound marketing ? Tout ce trouve ici.
   extra:
     - name: 'og:type'
       value: website
