@@ -140,7 +140,7 @@ sections:
             icon: arrow-right
             icon_position: right
             no_follow: false
-        image: /images/metier-redacteur-web.png
+        image: images/metier-redacteur-web.png
         image_alt: Métier-rédacteur-web
         media_position: right
         media_width: fifty
