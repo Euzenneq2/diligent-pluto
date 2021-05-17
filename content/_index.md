@@ -699,7 +699,7 @@ sections:
         title_align: center
         image: images/Johan-Ennez.jpg
         image_position: top
-        image_alt: Johan E
+        image_alt: 'Johan Ennez - '
       - type: grid_item
         template: grid_item
         title: Etienne Lecaudey
