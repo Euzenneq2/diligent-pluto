@@ -715,6 +715,7 @@ sections:
         title_align: center
         image: images/maxime-louis.jpg
         image_position: top
+        image_alt: Maxime Louis - Développeur
       - type: grid_item
         template: grid_item
         title: Valérie Hausknost
