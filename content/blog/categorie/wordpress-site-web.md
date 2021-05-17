@@ -55,7 +55,7 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Wordpress ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: Toute l
   extra:
     - name: 'og:type'
       value: website
