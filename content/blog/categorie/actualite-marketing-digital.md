@@ -59,7 +59,7 @@ sections:
     type: hero_section
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
-  title: 'Blog : Actualité du digital '
+  title: 'Blog : Actualité du digital ⎮ Mary Marketing'
   description: This is the author archive page
   extra:
     - name: 'og:type'
