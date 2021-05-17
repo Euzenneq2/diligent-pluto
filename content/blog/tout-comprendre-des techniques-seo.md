@@ -10,7 +10,7 @@ excerpt: >-
   comment devenir une expert SEO ! Dans cet article vous allez découvrir les
   bases du référencement !
 thumb_image: images/blog-guide-seo.png
-thumb_image_alt: blog-guide-seo
+thumb_image_alt: 'Article - Tout comprendre du '
 image: images/blog-guide-seo.png
 image_alt: blog-guide-seo
 image_position: left
