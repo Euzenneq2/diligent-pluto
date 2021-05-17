@@ -50,7 +50,7 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Référencement naturel ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: 'Vous connaissez le Search Engine Optimization ? '
   extra:
     - name: 'og:type'
       value: website
