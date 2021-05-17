@@ -24,7 +24,7 @@ sections:
     image: images/blog-redac-web.png
     media_position: right
     media_width: fifty
-    image_alt: blog-redac-web
+    image_alt: Blog - Rédacteur web SEO
   - type: blog_feed_section
     template: blog_feed_section
     blog_feed_cols: three
