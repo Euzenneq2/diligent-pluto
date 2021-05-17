@@ -62,7 +62,7 @@ sections:
     type: hero_section
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
-  title: 'Blog : Publicité et adwords '
+  title: 'Blog : Publicité et adwords ⎮ Mary Marketing'
   description: This is the author archive page
   extra:
     - name: 'og:type'
