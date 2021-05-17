@@ -49,7 +49,7 @@ seo:
 layout: post
 author: data/team/mary-marketing.json
 ---
-Vous souhaitez apprendre le référencement ? En connaitre toutes les règles et tous les aspects ? 
+Vous souhaitez apprendre le référencement ? En connaitre toutes les règles et tous les aspects ?
 
 Voici quelques réponses.
 
@@ -145,7 +145,7 @@ Le SEO on-page améliorera le référencement et la crédibilité d'un site ou d
 ## &#xD;&#xA;SEO off-site
 
 La troisième étape est le référencement off-site.
-En plus des modifications que vous pouvez faire à votre site internet pour qu'il soit mieux classé dans les Serp (SEO on-site), l'autre moyen d'améliorer le classement de votre site grâce aux techniques de SEO off-site.
+En plus des modifications que vous pouvez faire à votre site internet pour qu'il soit mieux classé dans les SERP (SEO on-site), l'autre moyen d'améliorer le classement de votre site grâce aux techniques de SEO off-site.
 
 ### &#xD;&#xA;Pourquoi le SEO off-site est-il important ?
 
