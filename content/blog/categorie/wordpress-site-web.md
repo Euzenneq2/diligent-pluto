@@ -54,7 +54,7 @@ sections:
     type: hero_section
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
-  title: Posts in Wordpress
+  title: 'Blog : Wordpress ⎮ Mary Marketing'
   description: This is the author archive page
   extra:
     - name: 'og:type'
