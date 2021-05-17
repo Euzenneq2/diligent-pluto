@@ -632,7 +632,7 @@ sections:
 
 
           Un ensemble de méthode qui ont pour objectif de convertir vos clients
-          et générer des ventes : 
+          et générer des ventes :
 
 
           L'écriture persuasive, la méthode des 5W, la **pyramide inversée**, le
@@ -642,7 +642,7 @@ sections:
 
           C'est un ensemble de **technique de rédacteur** de contenu qui
           permettra d'augmenter considérablement les ventes de votre site
-          e-commerce, ou inciter vos visiteurs à choisir votre prestation !
+          e-commerce ou inciter vos visiteurs à choisir votre prestation !
         content_align: left
         actions:
           - label: En savoir plus
