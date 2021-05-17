@@ -723,6 +723,7 @@ sections:
         title_align: center
         image: images/Valérie-Hausknost.jpg
         image_position: top
+        image_alt: Valérie Hausknost - Desinger Graphique
     grid_cols: four
     align: center
     background_color: secondary
