@@ -55,7 +55,9 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Growth hacking ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: >-
+    Vous souhaitez apporter un notion de growth hacking à votre business ? Ou,
+    tout simplement, acquérir des connaissance a ce sujet ? Visitez cette page !
   extra:
     - name: 'og:type'
       value: website
