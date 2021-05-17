@@ -1,5 +1,5 @@
 ---
-title: Tarifs-
+title: Tarifs-redaction-web
 sections:
   - type: hero_section
     template: hero_section
