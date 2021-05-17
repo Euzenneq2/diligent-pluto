@@ -58,7 +58,9 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Freelancing ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: >-
+    Ici, je partage avec vous toutes mes connaissances concernant le
+    freelancing. J'essaye, aussi de répondre aux questions les plus rependues.
   extra:
     - name: 'og:type'
       value: website
