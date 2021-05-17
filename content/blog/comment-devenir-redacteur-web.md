@@ -6,7 +6,7 @@ categories:
 tags:
   - data/tags/jamstack.json
 thumb_image: images/article-devenir-redacteur-web.png
-thumb_image_alt: article-devenir-redacteur-web.png
+thumb_image_alt: Article - Devenir rédacteur web seo
 image: /images/article-devenir-redacteur-web.png
 image_alt: article-devenir-redacteur-web.png
 image_position: right
