@@ -5,7 +5,7 @@ categories:
   - data/categories/freelancing.json
 tags:
   - data/tags/jamstack.json
-thumb_image: /images/article-devenir-redacteur-web.png
+thumb_image: images/article-devenir-redacteur-web.png
 thumb_image_alt: article-devenir-redacteur-web.png
 image: /images/article-devenir-redacteur-web.png
 image_alt: article-devenir-redacteur-web.png
