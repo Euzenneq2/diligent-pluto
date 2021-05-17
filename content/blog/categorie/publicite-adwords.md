@@ -63,7 +63,10 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Publicité et adwords ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: >-
+    Qu'est-ce qu'une campagne de publicité sur les réseaux ? Comment bien
+    analyser son site internet grâce aux AdWords ? Toutes les réponses sur cette
+    pages.
   extra:
     - name: 'og:type'
       value: website
