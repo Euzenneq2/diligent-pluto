@@ -22,7 +22,7 @@ params:
       - type: action
         template: action
         label: Tarifs
-        url: /tarifs/
+        url: /tarifs-redaction-web/
         style: primary
         no_follow: false
       - type: action
