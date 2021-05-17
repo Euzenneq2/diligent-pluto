@@ -7,7 +7,6 @@ excerpt: >-
   Dans cet articles vous aller pouvoir connaître les pièges qu'il faut éviter
   dans la rédaction de contenu pour être dans les temps.
 thumb_image: images/blog-piege-temps.png
-thumb_image_alt: blog-piege-temps
 image: images/blog-piege-temps.png
 image_alt: blog-piege-temps
 image_position: right
