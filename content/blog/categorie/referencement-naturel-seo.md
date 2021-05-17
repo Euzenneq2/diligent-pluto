@@ -50,7 +50,9 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Référencement naturel ⎮ Mary Marketing'
-  description: 'Vous connaissez le Search Engine Optimization ? '
+  description: >-
+    Vous connaissez le Search Engine Optimization ? Sur cette page, vous
+    trouverez toute l'actualité du référencement naturel.
   extra:
     - name: 'og:type'
       value: website
