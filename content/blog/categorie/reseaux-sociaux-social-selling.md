@@ -73,8 +73,9 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : Réseaux sociaux et social selling ⎮ Mary Marketing'
-  description: |+
-
+  description: >-
+    Tout savoir sur les réseaux sociaux, c'est presque indispensable de nos
+    jours. Vous souhaiter en apprendre plus ? Ici, vous trouverez les réponses.
   extra:
     - name: 'og:type'
       value: website
