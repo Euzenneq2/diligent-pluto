@@ -58,7 +58,9 @@ sections:
     background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   title: 'Blog : E-commerce ⎮ Mary Marketing'
-  description: This is the author archive page
+  description: >-
+    Vous souhaitez diversifier vos connaissances concernant le e-commerce ? Sur
+    cette page, je vous livre les dernières actualités.
   extra:
     - name: 'og:type'
       value: website
