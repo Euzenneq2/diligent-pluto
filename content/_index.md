@@ -6,7 +6,7 @@ sections:
     title: Copywriter et rédacteur web SEO
     subtitle: >-
       Vous avez besoin d'atteindre les 10 pages de résultats de recherche de
-      Google pour promouvoir votre activité ?
+      Google pour promouvoir votre activité
     content: >
       C'est important en tant que rédactrice web d'être à jour dans les bonnes
       pratiques du référencement naturel...
