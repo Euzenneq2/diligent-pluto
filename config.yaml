@@ -46,7 +46,7 @@ params:
         style: secondary
         no_follow: false
         has_icon: false
-        new_window: false
+        new_window: true
     has_anncmnt: true
     anncmnt_content: >
       En poursuivant votre navigation, vous acceptez l'utilisation, de la part
