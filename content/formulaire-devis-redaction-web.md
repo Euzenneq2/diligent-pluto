@@ -1,5 +1,5 @@
 ---
-title: 'N''attendez plus, confiez vos contenus à un rédacteur web !'
+title: 'N''attendez plus, confiez vos contenus à une rédactrice web !'
 seo:
   title: ''
   description: ''
