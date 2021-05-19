@@ -45,7 +45,7 @@ params:
         url: /contact/
         style: secondary
         no_follow: false
-        has_icon: false
+        has_icon: true
     has_anncmnt: true
     anncmnt_content: >
       En poursuivant votre navigation, vous acceptez l'utilisation, de la part
