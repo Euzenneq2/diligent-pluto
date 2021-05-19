@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'N''attendez plus, confiez vos contenus à un rédacteur web !'
 seo:
   title: ''
   description: ''
