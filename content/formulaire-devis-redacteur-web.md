@@ -3,7 +3,7 @@ title: Rédaction web
 sections:
   - type: hero_section
     template: hero_section
-    title: 'Vous souhaitez devenir freelance, formez-vous en rédaction web !'
+    title: 'N''attendez plus, confiez vos contenus à une rédactrice web !'
     background_color: primary
     actions:
       - label: Je me forme !
