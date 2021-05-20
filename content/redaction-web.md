@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Rédaction web pour améliorer vos contenu web
-    subtitle: Faite grimper votre site internet dans le classement Google !
+    subtitle: Soyez le premiers dans les résultats des moteurs de recherche.
     background_color: primary
     actions:
       - label: Contactez-moi
