@@ -16,6 +16,11 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/OvsExoRcwfE" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 seo:
   description: ''
   robots: []
