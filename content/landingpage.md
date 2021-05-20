@@ -1,5 +1,5 @@
 ---
-title: Remerciement
+title: Landingpage
 sections:
   - type: hero_section
     template: hero_section
