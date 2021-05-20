@@ -23,7 +23,11 @@ sections:
     padding_bottom: large
     align: left
     image_alt: Rédaction web internet
-    video_embed_html: 'https://youtu.be/ofZhMiIgZ9s'
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ofZhMiIgZ9s" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     template: grid_section
     actions: []
