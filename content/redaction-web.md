@@ -16,7 +16,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    image: images/Strategie-de-mots-cles.png
     media_position: right
     background_image_position: left center
     media_width: fifty
