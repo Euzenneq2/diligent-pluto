@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Formulaire de devis
 sections: []
 seo:
   title: ''
