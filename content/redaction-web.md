@@ -23,6 +23,7 @@ sections:
     padding_bottom: large
     align: left
     image_alt: Rédaction web internet
+    video_embed_html: 'https://youtu.be/ofZhMiIgZ9s'
   - type: grid_section
     template: grid_section
     actions: []
