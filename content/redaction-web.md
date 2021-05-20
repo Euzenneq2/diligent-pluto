@@ -23,8 +23,6 @@ sections:
     padding_bottom: large
     align: left
     image_alt: Rédaction web internet
-    video_embed_html: >-
-      https://www.canva.com/design/DAEe7ZBTn78/Mrxaby869kSqMO1Xi_CrGA/watch?utm_content=DAEe7ZBTn78&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
   - type: grid_section
     template: grid_section
     actions: []
