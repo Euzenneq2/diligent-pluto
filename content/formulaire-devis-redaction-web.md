@@ -105,7 +105,7 @@ sections:
   - title: En faisant appel à une rédactrice web
     actions: []
     grid_items:
-      - title: Rédaction de contenu SEO
+      - title: Contenu de qualité
         subtitle: lorem-ipsum
         title_align: left
         content: >-
