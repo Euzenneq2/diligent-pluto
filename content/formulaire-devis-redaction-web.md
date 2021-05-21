@@ -166,6 +166,21 @@ sections:
         content: >
           La visibilité de votre site web est l'un des critère clés de la
           réussite de votre entreprise.
+
+
+          Pour cela, les étapes sont souvent :
+
+
+          *   La réalisation d'un audit SEO.
+
+
+          *   Utiliser les différentes balises.
+
+
+          *   Améliorer le maillage interne.
+
+
+          *   Raccourcir l'URL.
         content_align: left
         actions: []
         actions_align: left
