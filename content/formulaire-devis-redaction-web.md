@@ -153,7 +153,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Audit SEO
+      - title: PLus de vente...
         subtitle: lorem-ipsum
         title_align: left
         content: >-
