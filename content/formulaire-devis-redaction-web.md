@@ -105,7 +105,7 @@ sections:
   - title: 'Avec une rédactrice web, vous obtiendrez...'
     actions: []
     grid_items:
-      - title: Contenu de qualité
+      - title: Un contenu de qualité
         title_align: left
         content: >
           Pour un référencement naturel de qualité, il est nécessaire d'adapter
