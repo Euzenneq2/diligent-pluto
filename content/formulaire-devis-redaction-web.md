@@ -1,7 +1,7 @@
 ---
 title: Formulaire de devis
 sections:
-  - title: lorem-ipsum
+  - title: En tête
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
