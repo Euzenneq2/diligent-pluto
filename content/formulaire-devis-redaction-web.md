@@ -8,7 +8,7 @@ sections:
       Obtenez du contenu pertinent. Améliorer votre audience. Gagner du temps et
       de l'argent.
     actions:
-      - label: lorem-ipsum
+      - label: Demander un devis !
         url: '#'
         style: primary
         has_icon: false
