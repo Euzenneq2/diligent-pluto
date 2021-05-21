@@ -143,7 +143,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: PLus de vente...
+      - title: Un trafic en augmentation
         title_align: left
         content: |
           fbrdjyuki
