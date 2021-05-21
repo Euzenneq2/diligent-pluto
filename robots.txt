@@ -1,6 +1,6 @@
 User-agent: *
 
-Noindex: /private/
+Noindex: /politique-de-confidentialite/
 
 User-agent: *
 
