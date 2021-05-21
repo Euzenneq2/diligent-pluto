@@ -1,7 +1,7 @@
 ---
 title: Formulaire de devis
 sections:
-  - title: En tête
+  - title: Gagnez en visibilité en faisant appel à une professionnelle SEO !
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
