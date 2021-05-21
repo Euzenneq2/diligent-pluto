@@ -130,7 +130,7 @@ sections:
         image_alt: pictogramme contenu de qualité
         image_position: top
         image_width: fifty
-        image_align: left
+        image_align: right
         image_has_padding: false
         type: grid_item
         image: images/pictogram-1-formulaire.png
