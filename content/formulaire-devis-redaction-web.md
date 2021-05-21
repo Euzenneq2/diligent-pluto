@@ -147,10 +147,8 @@ sections:
         type: grid_item
         content: >
           Les règles émissent par les moteurs de recherche concernant les sites
-          internet sont claires.
-
-
-          Pour les respecter, je réponds à plusieurs critères SEO performants :
+          internet sont claires. Pour les respecter, je réponds à plusieurs
+          critères SEO performants :
 
 
           *   Des phrases courtes et simple.
