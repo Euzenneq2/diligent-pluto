@@ -102,7 +102,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: En faisant appel à une rédactrice web
+  - title: 'Avec une rédactrice web, vous obtiendrez...'
     actions: []
     grid_items:
       - title: Contenu de qualité
