@@ -133,7 +133,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Une évolution de votre positionnement
+      - title: Une gain de positionnement
         title_align: left
         content: |
           dvsvdfs
