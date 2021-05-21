@@ -43,7 +43,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: Problematique
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
