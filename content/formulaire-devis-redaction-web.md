@@ -150,11 +150,7 @@ sections:
           internet sont claires.
 
 
-
-
-          Pour les respecter, j'utilise plusieurs technique SEO performantes :
-
-
+          Pour les respecter, je réponds à plusieurs critères SEO performants :
 
 
           *   Des phrases courtes et simple.
@@ -164,6 +160,9 @@ sections:
 
 
           *   Une veille informationnelle efficiente sur le sujet traité.
+
+
+          *   L'utilisation d'un champ lexical et sémantique adapté.
       - title: Un trafic en augmentation
         title_align: left
         content: |
