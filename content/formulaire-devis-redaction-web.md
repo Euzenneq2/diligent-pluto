@@ -162,6 +162,7 @@ sections:
 
 
           *   L'utilisation d'un champ lexical et sémantique adapté.
+        image: images/pictogram-2-formulaire.png
       - title: Un trafic en augmentation
         title_align: left
         content: >
