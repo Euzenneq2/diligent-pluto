@@ -95,7 +95,7 @@ sections:
         video_embed_html: >-
           <iframe width="540" height="305"
           src="https://b749b5e7.sibforms.com/serve/MUIEAFRm0h92uG4_KotyAhCXkgMeKpaXfpztWDd4mcqSN1QPoooYrkVx7UEqQ1STc2cs1AQvS8mGekrETkvlitOFLi9pwKCet9aj6wF1a9aXrbSQxXsxjIdPVWM3FoeJh7t7ivNkkB1cpxYm4_Pej1DbghgPPlCWzWsyOw_zheqC_vdPhmO1E6O46AxBPYtGvonz-3wv420D9BXe"
-          frameborder="0" scrolling="0" allowfullscreen style="display:
+          frameborder="0" scrolling="auto" allowfullscreen style="display:
           block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     feature_padding_vert: medium
     align: center
