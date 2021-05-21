@@ -38,7 +38,6 @@ sections:
   - title: Vous souhaitez...
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
