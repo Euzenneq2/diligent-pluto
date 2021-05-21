@@ -37,17 +37,15 @@ sections:
     type: hero_section
   - title: Vous souhaitez...
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          *   Alimentez votre site internet avec du contenu de qualité.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Amenez plus de visiteur pour faire connaître vos produits ou
+          services.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Convertir plus de prospects en clients et pérenniser cela.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
