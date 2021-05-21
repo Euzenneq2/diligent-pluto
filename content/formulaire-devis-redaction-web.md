@@ -103,7 +103,16 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: 'Avec une rédactrice web, vous obtiendrez...'
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items:
       - title: Un contenu de qualité
         title_align: left
