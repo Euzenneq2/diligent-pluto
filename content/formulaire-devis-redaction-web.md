@@ -164,7 +164,7 @@ sections:
   - title: Comment en bénéficier ?
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Contactez-moi
         subtitle: lorem-ipsum
         title_align: left
         content: >-
