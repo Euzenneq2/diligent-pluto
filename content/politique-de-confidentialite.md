@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Politique de confidentialité
 seo:
   type: stackbit_page_meta
@@ -21,7 +22,6 @@ seo:
     - name: 'twitter:description'
       value: This is the privacy policy page
   description: Découvrez la politique de confidentialité du site internet Mary Marketing.
-  robots: 'noindex'
 sections:
   - type: hero_section
 template: hero_section
