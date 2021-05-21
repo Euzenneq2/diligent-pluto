@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:description'
       value: This is the privacy policy page
   description: Découvrez la politique de confidentialité du site internet Mary Marketing.
-  robots :
+  robots: noindex, nofollow
 sections:
   - type: hero_section
 template: hero_section
