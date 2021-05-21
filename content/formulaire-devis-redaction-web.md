@@ -105,7 +105,7 @@ sections:
   - title: 'Offres, 3 benefices'
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Rédaction de contenu SEO
         subtitle: lorem-ipsum
         title_align: left
         content: >-
