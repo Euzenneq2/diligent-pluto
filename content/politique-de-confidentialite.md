@@ -5,7 +5,7 @@ seo:
   template: stackbit_page_meta
   title: Politique de confidentialité ⎮ Mary Marketing
   robots:
-    - options: noindex
+    - content: noindex
   extra:
     - name: 'og:type'
       value: website
