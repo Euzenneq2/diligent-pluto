@@ -49,7 +49,7 @@ sections:
         actions: []
         media_position: bottom
         media_width: fifty
-        align: left
+        align: center
         type: feature
         image: images/formaulaire-devis-vous-souhaitez.png
         image_alt: 'Rédaction web, les souhaits des clients'
