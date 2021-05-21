@@ -135,8 +135,6 @@ sections:
         type: grid_item
       - title: Une gain de positionnement
         title_align: left
-        content: |
-          dvsvdfs
         content_align: left
         actions: []
         actions_align: left
