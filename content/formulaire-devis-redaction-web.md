@@ -67,17 +67,24 @@ sections:
       Découvrez comment j'ai aidé de nombreuses personnes en manque de
       visibilité digitale !
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          Je m'appelle Marylène, je suis rédactrice web SEO. Mon travail est
+          d'aider les entreprises et toutes personnes ayant un site internet ou
+          un blog, à améliorer leur positionnement sur les différents moteurs de
+          recherche. Suite à une analyse SEO et à la mise en avant des erreurs
+          de référencement, j'établis des recommandations et si besoins, je les
+          corrige.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          J'ai acquis de nombreuses compétences à la suite de formations, mais
+          aussi en travaillant pour mes clients. La rédaction web permet
+          constamment d'apprendre sur des nouveaux sujets.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Je suis en mesure de vous produire du contenu sur toutes les
+          thématiques que vous souhaitez. Sans pour autant négliger la qualité
+          de ce contenu. En effet, mes méthodes sont toujours appliquées pour
+          tous mes clients.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
