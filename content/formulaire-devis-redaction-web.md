@@ -56,7 +56,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: 'A propos, histoire du produit et de moi'
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
