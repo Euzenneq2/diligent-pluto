@@ -93,8 +93,8 @@ sections:
         align: center
         type: feature
         video_embed_html: >-
-          <iframe width="540" height="1200"
-          src="https://b749b5e7.sibforms.com/serve/MUIEAFRm0h92uG4_KotyAhCXkgMeKpaXfpztWDd4mcqSN1QPoooYrkVx7UEqQ1STc2cs1AQvS8mGekrETkvlitOFLi9pwKCet9aj6wF1a9aXrbSQxXsxjIdPVWM3FoeJh7t7ivNkkB1cpxYm4_Pej1DbghgPPlCWzWsyOw_zheqC_vdPhmO1E6O46AxBPYtGvonz-3wv420D9BXe"
+          <iframe width="540" height="305"
+          src="https://b749b5e7.sibforms.com/serve/MUIEAA5EJOW02bm5VblDt1Jfyy_zTaUGzYMmqTk3fLOuYEg-T92OBnXKoLS4TYaHEeYU7bqmCGm4V-tK1q7ApXlufymrsgJ7LvZpFQ8qjtvWa_u3Hol0KYjalQguhfqhf2P6UVmauBM_mdDpXa1M-ueItCiivmn1n7m29TgCNsDO_K3h8bUcNf0zQTpym05Y1sCff5wT0hG50Hy9"
           frameborder="0" scrolling="auto" allowfullscreen style="display:
           block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
     feature_padding_vert: medium
