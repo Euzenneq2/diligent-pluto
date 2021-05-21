@@ -37,8 +37,7 @@ sections:
     type: hero_section
   - title: Vous souhaitez...
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
