@@ -47,7 +47,7 @@ sections:
 
           *   Convertir plus de prospects en clients et pérenniser cela.
         actions: []
-        media_position: left
+        media_position: bottom
         media_width: fifty
         align: left
         type: feature
