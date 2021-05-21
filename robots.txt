@@ -1,2 +1,2 @@
 User-Agent: *
-Disallow: /
+Disallow: /politique-de-confidentialite/ 
