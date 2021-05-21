@@ -210,8 +210,6 @@ sections:
     grid_items:
       - title: Contactez-moi
         title_align: left
-        content: |
-          gfbsdfbghnyntn,uiy;il:;jyrtegzrefzrhnj,k;l:m
         content_align: left
         actions: []
         actions_align: left
