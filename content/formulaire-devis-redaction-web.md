@@ -68,6 +68,10 @@ sections:
       visibilité digitale !
     features:
       - content: >
+          # Découvrez comment j'ai aidé de nombreuses personnes en manque de
+          visibilité digitale !
+
+
           Je m'appelle Marylène, je suis **rédactrice web SEO**. Mon travail est
           d'aider les entreprises et toutes personnes ayant un site internet ou
           un blog, à **améliorer leur positionnement** sur les différents
