@@ -63,10 +63,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: >-
-      Découvrez comment j'ai aidé de nombreuses personnes en manque de
-      visibilité digitale !
-    features:
+  - features:
       - content: >
           # Découvrez comment j'ai aidé de nombreuses personnes en manque de
           visibilité digitale !
