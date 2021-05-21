@@ -222,8 +222,6 @@ sections:
         type: grid_item
       - title: Formulez vos attentes
         title_align: left
-        content: |
-          azezrrtyyuiioplkhjnhggsqsqxxwcxc bvnhjkuig
         content_align: left
         actions: []
         actions_align: left
