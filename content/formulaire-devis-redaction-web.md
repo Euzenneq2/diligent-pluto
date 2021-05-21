@@ -105,7 +105,7 @@ sections:
   - title: 'Avec une rédactrice web, vous obtiendrez...'
     actions:
       - url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
