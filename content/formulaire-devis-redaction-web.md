@@ -102,7 +102,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: 'Offres, 3 benefices'
+  - title: En faisant appel à une rédactrice web
     actions: []
     grid_items:
       - title: Rédaction de contenu SEO
