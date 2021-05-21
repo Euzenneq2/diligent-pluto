@@ -2,7 +2,9 @@
 title: Formulaire de devis
 sections:
   - title: Vous gagnerez en visibilité en faisant appel à une professionnelle SEO !
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Obtenez du contenu pertinent, de l'audience et gagner du temps et de
+      l'argent.
     actions:
       - label: lorem-ipsum
         url: '#'
