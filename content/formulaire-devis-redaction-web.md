@@ -130,7 +130,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Visibilité; positionnement
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
