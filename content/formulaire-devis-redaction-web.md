@@ -261,7 +261,6 @@ sections:
   - title: Et après ?
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
