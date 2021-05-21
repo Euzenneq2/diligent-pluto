@@ -104,8 +104,7 @@ sections:
     type: features_section
   - title: 'Avec une rédactrice web, vous obtiendrez...'
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: false
         icon: arrow-left
