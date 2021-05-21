@@ -150,7 +150,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/pictogram-1-formulaire.png
-      - title: Une gain de positionnement
+      - title: Un gain de positionnement
         title_align: left
         content_align: left
         actions: []
