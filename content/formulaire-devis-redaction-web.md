@@ -67,8 +67,7 @@ sections:
       Découvrez comment j'ai aidé de nombreuses personnes en manque de
       visibilité digitale !
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
