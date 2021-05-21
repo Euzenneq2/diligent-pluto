@@ -1,2 +1,7 @@
-User-Agent: *
-Disallow: /politique-de-confidentialite/ 
+User-agent: *
+
+Noindex: /private/
+
+User-agent: *
+
+Disallow: /private/
