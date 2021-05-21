@@ -129,7 +129,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Visibilité; positionnement
+      - title: Une évolution de votre positionnement
         title_align: left
         content: |
           dvsvdfs
