@@ -260,17 +260,11 @@ sections:
     type: grid_section
   - title: Et après ?
     features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: >
+          Imaginez que votre site internet ait un beau design moderne, vous ne
+          voulez pas qu'il devienne invisible sur Google ? Alors agissez dès
+          maintenant et faites appel à un professionnel de la rédaction web SEO
+          !
         actions: []
         image_alt: lorem-ipsum
         media_position: top
