@@ -107,8 +107,18 @@ sections:
     grid_items:
       - title: Contenu de qualité
         title_align: left
-        content: |
-          zfegerzg
+        content: >
+          Pour un référencement naturel de qualité, il est nécessaire d'adapter
+          son contenu. Mes méthodes de rédaction sont :
+
+
+          *   Transmettre un message clair qui s'adresse aux besoins du client
+          cible.
+
+
+          *
+
+           Remonte dans les résultats des moteurs de recherche. Augmente le trafic de clients potentiels sur votre site Internet. Génère durablement des leads et des conversions (prise de contact, demande de devis, etc.)
         content_align: left
         actions: []
         actions_align: left
