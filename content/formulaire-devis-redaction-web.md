@@ -129,7 +129,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Page de vente qui convertissent
+      - title: Page de vente qui converti
         subtitle: lorem-ipsum
         title_align: left
         content: >-
