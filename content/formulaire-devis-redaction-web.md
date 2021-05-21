@@ -89,7 +89,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: sixty
+        media_width: fifty
         align: center
         type: feature
         video_embed_html: >-
