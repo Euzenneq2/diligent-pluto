@@ -110,7 +110,7 @@ sections:
     type: features_section
   - title: 'Avec une rédactrice web, vous obtiendrez...'
     actions:
-      - url: '#'
+      - url: /contact/
         style: primary
         has_icon: false
         icon: arrow-left
