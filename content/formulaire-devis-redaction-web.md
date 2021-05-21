@@ -145,6 +145,25 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        content: >
+          Les règles émissent par les moteurs de recherche concernant les sites
+          internet sont claires.
+
+
+
+
+          Pour les respecter, j'utilise plusieurs technique SEO performantes :
+
+
+
+
+          *   Des phrases courtes et simple.
+
+
+          *   La recherche de requête et de mot clé principal pertinents.
+
+
+          *   Une veille informationnelle efficiente sur le sujet traité.
       - title: Un trafic en augmentation
         title_align: left
         content: |
