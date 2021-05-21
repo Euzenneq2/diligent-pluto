@@ -163,8 +163,9 @@ sections:
           *   L'utilisation d'un champ lexical et sémantique adapté.
       - title: Un trafic en augmentation
         title_align: left
-        content: |
-          fbrdjyuki
+        content: >
+          La visibilité de votre site web est l'un des critère clés de la
+          réussite de votre entreprise.
         content_align: left
         actions: []
         actions_align: left
