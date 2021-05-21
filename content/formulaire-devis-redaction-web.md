@@ -48,7 +48,7 @@ sections:
           *   Convertir plus de prospects en clients et pérenniser cela.
         actions: []
         media_position: bottom
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
         image: images/formaulaire-devis-vous-souhaitez.png
