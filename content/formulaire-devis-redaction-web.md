@@ -234,8 +234,6 @@ sections:
         type: grid_item
       - title: Recevez votre contenu optimisé
         title_align: left
-        content: |
-          efesqrgtrgtyjhnyiukilhervazecze
         content_align: left
         actions: []
         actions_align: left
