@@ -52,6 +52,7 @@ sections:
         align: left
         type: feature
         image: images/formaulaire-devis-vous-souhaitez.png
+        image_alt: For
     feature_padding_vert: medium
     align: center
     padding_top: medium
