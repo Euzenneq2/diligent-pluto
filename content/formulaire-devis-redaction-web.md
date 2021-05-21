@@ -260,8 +260,7 @@ sections:
     type: grid_section
   - title: Et après ?
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
