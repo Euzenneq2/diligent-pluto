@@ -109,16 +109,20 @@ sections:
         title_align: left
         content: >
           Pour un référencement naturel de qualité, il est nécessaire d'adapter
-          son contenu. Mes méthodes de rédaction sont :
+          son contenu.
+
+
+          Mes méthodes de rédaction sont :
 
 
           *   Transmettre un message clair qui s'adresse aux besoins du client
           cible.
 
 
-          *
+          *   Le rédiger en respectant les règles du copywrinting.
 
-           Remonte dans les résultats des moteurs de recherche. Augmente le trafic de clients potentiels sur votre site Internet. Génère durablement des leads et des conversions (prise de contact, demande de devis, etc.)
+
+          *   L'optimiser à l'aide de logiciel dédier à cela.
         content_align: left
         actions: []
         actions_align: left
