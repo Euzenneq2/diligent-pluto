@@ -165,7 +165,6 @@ sections:
     actions: []
     grid_items:
       - title: Contactez-moi
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
