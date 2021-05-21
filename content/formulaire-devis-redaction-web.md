@@ -63,7 +63,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: 'A propos, histoire du produit et de moi'
+  - title: >-
+      Découvrez comment j'ai aidé de nombreuses personnes en manque de
+      visibilité digitale !
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
