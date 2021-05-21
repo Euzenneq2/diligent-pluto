@@ -1,7 +1,9 @@
 ---
 title: Formulaire de devis
 sections:
-  - title: Vous gagnerez en visibilité en faisant appel à une professionnelle SEO !
+  - title: >-
+      Vous augmenterez votre visibilité en faisant appel à une professionnelle
+      SEO !
     subtitle: >-
       Obtenez du contenu pertinent. Améliorer votre audience. Gagner du temps et
       de l'argent.
