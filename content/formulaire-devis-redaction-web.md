@@ -148,7 +148,7 @@ sections:
         content: >
           Les règles émissent par les moteurs de recherche concernant les sites
           internet sont claires. Pour les respecter, je réponds à plusieurs
-          critères SEO performants :
+          facteurs SEO performants :
 
 
           *   Des phrases courtes et simple.
