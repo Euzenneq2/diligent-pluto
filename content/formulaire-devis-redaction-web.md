@@ -52,7 +52,6 @@ sections:
         align: left
         type: feature
         image: images/formaulaire-devis-vous-souhaitez.png
-        image_alt: 'Les souhaits '
     feature_padding_vert: medium
     align: center
     padding_top: medium
