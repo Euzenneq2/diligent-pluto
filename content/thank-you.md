@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Remerciement
 sections:
   - type: hero_section
