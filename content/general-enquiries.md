@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: General enquiries
 sections:
   - type: hero_section
