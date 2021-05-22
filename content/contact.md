@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Contact
 sections:
   - type: hero_section
