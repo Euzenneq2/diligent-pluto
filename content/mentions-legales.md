@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Mentions légales
 seo:
   type: stackbit_page_meta
