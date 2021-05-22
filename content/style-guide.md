@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Style Guide
 seo:
   type: stackbit_page_meta
