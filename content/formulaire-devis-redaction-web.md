@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: Formulaire de devis
 sections:
   - title: >-
