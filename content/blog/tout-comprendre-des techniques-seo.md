@@ -47,7 +47,6 @@ seo:
       value: /images/blog-guide-seo.png
       relativeUrl: true
 layout: post
-author: data/team/mary-marketing.json
 ---
 Vous souhaitez apprendre le référencement ? En connaitre toutes les règles et tous les aspects ?
 
