@@ -248,7 +248,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/formaulaire-devis-vos-attentes.png
+        image: images/formulaire-devis-vos-attentes.png
       - title: Recevez votre contenu optimisé
         title_align: center
         content_align: left
@@ -306,7 +306,11 @@ sections:
       - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          <a name ="demandedevis"><iframe width="540" height="1200" src="https://b749b5e7.sibforms.com/serve/MUIEAGlyBM_1q3b3vuIuXbVkXVZ1Mk91Lc9IvsdqL2iRH63jp1ya7Ywvgg1t6E_WygwJVsT0Z2RO2aft3c68gEhdmjXNiz4uwAGvDpzPZLQrCMms5YCG6ZP5myG_EMymXp2-7UmnCf7rSsPVoA77AWjGGeRFbVWdLkZhHMsVG9zVAIGcwPlvUGf-ZQ_gAzbAKp2kvnsiSY9OqEEU" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe></a>
+          <a name ="demandedevis"><iframe width="540" height="1200"
+          src="https://b749b5e7.sibforms.com/serve/MUIEAGlyBM_1q3b3vuIuXbVkXVZ1Mk91Lc9IvsdqL2iRH63jp1ya7Ywvgg1t6E_WygwJVsT0Z2RO2aft3c68gEhdmjXNiz4uwAGvDpzPZLQrCMms5YCG6ZP5myG_EMymXp2-7UmnCf7rSsPVoA77AWjGGeRFbVWdLkZhHMsVG9zVAIGcwPlvUGf-ZQ_gAzbAKp2kvnsiSY9OqEEU"
+          frameborder="0" scrolling="auto" allowfullscreen style="display:
+          block;margin-left: auto;margin-right: auto;max-width:
+          100%;"></iframe></a>
         media_position: top
         media_width: fifty
         align: left
