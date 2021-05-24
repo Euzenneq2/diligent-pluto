@@ -300,7 +300,7 @@ sections:
   - type: cta_section
     template: cta_section
     actions:
-      - url: 'https://diligent-pluto-bbfe2.netlify.app/devis-redaction-web/'
+      - url: /devis-redaction-web/
         style: primary
         has_icon: false
         icon: arrow-left
