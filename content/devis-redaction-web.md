@@ -239,7 +239,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/formulaire-devis-contactez-moi.png
-      - title: Formulez vos attentes
+      - title: 2. Formulez vos attentes
         title_align: center
         content_align: left
         actions: []
