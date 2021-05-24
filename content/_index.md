@@ -485,8 +485,9 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          Très professionnelle, Mary est à l'écoute, sait s'adapter au projet et
-          nos attentes.
+          Marylène est professionnelle et connait son métier. Nous avons pu
+          collaborer pour un audit SEO de mon site internet. Ces recommandations
+          et ces conseils ont été utiles.
 
 
           **Frédéric Gauvin**, *Web designer*
