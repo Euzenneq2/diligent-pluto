@@ -10,7 +10,7 @@ sections:
       de l'argent.
     actions:
       - label: Demander un devis !
-        url: '#devis'
+        url: '/#devis'
         style: primary
         has_icon: false
         icon: arrow-left
