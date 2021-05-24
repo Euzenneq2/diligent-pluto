@@ -425,7 +425,10 @@ seo:
     - name: 'twitter:title'
       value: Qu'est-ce que le référencement naturel ?⎮ Mary Marketing
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Comment améliorer son référencement naturel ? Comment faire son
+        référencement naturel ? Découvrez les points à connaître sur le
+        référencement naturel.
     - name: 'twitter:image'
       value: images/Miniature-partage-Robot-SEO.jpg
       relativeUrl: true
