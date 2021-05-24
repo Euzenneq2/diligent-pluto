@@ -8,7 +8,8 @@
         <meta name="google" content="notranslate" />
         <meta name="description" content="{{ .Params.seo.description | default "" }}" />
         {{if in .Params.robots "noindex"}}
-        <meta name="robots" content="noindex,nofollow"> {{end}}
+        <meta name="robots" content="noindex,nofollow">
+        {{end}}
         {{ range $meta := .Params.seo.extra }}
           {{ $key_name := $meta.keyName | default "name" }}
           {{ if $meta.relativeUrl }}
