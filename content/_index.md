@@ -816,7 +816,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Mary Marketing - Rédacteur web SEO - Gagnez en visibilité !
+      value: Rédacteur web SEO - Gagnez en visibilité ! ⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
         Mary Marketing : Rédacteur web SEO friendly, Stratégie éditoriale,
