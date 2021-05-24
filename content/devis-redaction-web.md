@@ -328,7 +328,11 @@ seo:
   title: Formulaire de devis ⎮ Mary Marketing
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Formulaire de devis ⎮ Mary Marketing
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
