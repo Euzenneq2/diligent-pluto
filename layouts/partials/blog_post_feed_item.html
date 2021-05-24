@@ -46,9 +46,8 @@
 						{{ end }}
 					{{ end }}
 					{{ if $blog_feed_section.show_date }}
+						<span class="item__date"><time datetime="{{ $post.Date | dateFormat "02-01-2006 15:04" }}">{{ $post.Date | dateFormat "02 January, 2006" }}</time></span>
 					{{ end }}
-                    {{ $mymonths := index $.Site.Data.mois }}{{ .Date.Day }}
-                    {{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }}
 				</div>
 				{{ end }}
 				{{ if $blog_feed_section.title }}
