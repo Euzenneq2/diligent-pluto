@@ -88,7 +88,7 @@ De plus, pour **obtenir des backlinks** parfait, voici quelques critères de qua
 
 *   Privilégiez les liens pointant vers un **site a fort trafic**.
 
-À noter, vous ne pouvez pas échanger des liens partenaire comme bon vous semble. En effet, si vous faite cela vous encourez au mieux un mauvais positionnement et au pire une pénalité de **Google Penguin** (Google pingouin en français : est un filtre du moteur de recherche Google précisément réservé à contrôler le **netlinking** d'un site)
+À noter, vous ne pouvez pas échanger des liens partenaire comme bon vous semble. En effet, si vous faite cela, vous encourez au mieux un mauvais positionnement et au pire une pénalité de **Google Penguin** (Google pingouin en français : est un filtre du moteur de recherche Google précisément réservé à contrôler le **netlinking** d'un site)
 
 ## Qu'est-ce qu'un lien nofollow ?
 
