@@ -488,7 +488,7 @@ seo:
         Pourquoi améliorer son site web avec la rédaction SEO ? Comment ça
         fonctionne ? Découvrez les réponses à vos questions sur cette page.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/Miniature-partage-redaction-seo.png
       relativeUrl: true
   description: >-
     Pourquoi améliorer son site web avec la rédaction SEO ? Comment ça
