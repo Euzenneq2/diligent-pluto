@@ -287,7 +287,7 @@ sections:
       Étant rédacteur web formé au référencement naturel, ma mission première
       est de rédiger des articles ayant de l'intérêt pour mes lecteurs et le
       référencer pour qu'il soit lisible par les moteurs de recherche.
-      Cependant, j'ai décidé de ne pas m'arrêter la en élargissant mon champ mon
+      Cependant, j'ai décidé de ne pas m'arrêter là en élargissant mon champ mon
       expertise. L'objectif est de proposer à ma clientèle un large éventail de
       solution pour augmenter leurs visibilités sur internet.
     image: images/Competence-mary-marketing.png
