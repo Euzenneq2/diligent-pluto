@@ -297,6 +297,9 @@ sections:
         media_width: fifty
         align: center
         type: feature
+        video_embed_html: >-
+          Après notre collaboration, vous pourrez constater les nombreuses
+          retombées.
     feature_padding_vert: medium
     align: center
     padding_top: medium
