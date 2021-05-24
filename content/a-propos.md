@@ -137,7 +137,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Àpropos
+      value: À propos ⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
         Rédactrice web SEO en freelance. Découvrez-moi au travers de cette
