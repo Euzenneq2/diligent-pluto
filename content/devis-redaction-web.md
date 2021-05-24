@@ -33,7 +33,7 @@ sections:
     type: hero_section
     video_embed_html: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/9-aEhR_r-nc?controls=0" video player"
+      src="https://www.youtube.com/embed/9-aEhR_r-nc?controls=0" 
       frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: Vous souhaitez...
