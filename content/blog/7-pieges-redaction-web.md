@@ -4,7 +4,7 @@ date: '2021-01-25'
 categories:
   - data/categories/freelancing.json
 excerpt: >-
-  Dans cet articles vous aller pouvoir connaître les pièges qu'il faut éviter
+  Dans cet article vous aller pouvoir connaître les pièges qu'il faut éviter
   dans la rédaction de contenu pour être dans les temps.
 thumb_image: images/blog-piege-temps.png
 image: images/blog-piege-temps.png
