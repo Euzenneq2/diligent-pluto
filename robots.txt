@@ -3,4 +3,4 @@ Disallow: /*.xls$
 Disallow: /*.pdf$
 Noindex: /politique-de-confidentialite/
 
-Sitemap : https://www.monsite.fr/sitemap
+Sitemap : https://www.monsite.fr/sitemap.xml
