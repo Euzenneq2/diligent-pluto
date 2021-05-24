@@ -252,7 +252,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/formaulaire-devis-vos-attentes.png
-      - title: Recevez votre contenu optimisé
+      - title: 3. Recevez votre contenu optimisé
         title_align: center
         content_align: left
         actions: []
