@@ -93,9 +93,8 @@ seo:
       relativeUrl: false
     - name: 'twitter:description'
       value: >-
-        Besoins de contenu rédactionnel ? Vous désirez collaborer avec moi ?
-        Remplissez le formulaire de contact, je serais ravie d'échanger avec
-        vous.
+        Besoins d'aide dans la réalisation de vos contenus web ? Vous désirez
+        collaborer avec moi ? Je serais ravie d'échanger avec vous.
       keyName: name
       relativeUrl: false
   description: >-
