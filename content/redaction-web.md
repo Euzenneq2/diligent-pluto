@@ -147,6 +147,7 @@ sections:
         style: primary
         icon_position: left
         url: /devis-redaction-web/
+        no_follow: true
     actions_position: bottom
     align: left
     padding_top: medium
