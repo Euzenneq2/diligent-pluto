@@ -209,7 +209,7 @@ sections:
           éditorial.
 
 
-          En d'autre termes, si vous êtes sur une des **pages de votre site**
+          En d'autres termes, si vous êtes sur une des **pages de votre site**
           web, les premiers textes que vous lirez aborderont un thème général,
           mais le dernier texte de cette même page sera un maximum détaillé.
           C'est une **stratégie de contenu** assez intéressante pour structurer
