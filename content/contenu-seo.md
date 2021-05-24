@@ -478,7 +478,7 @@ seo:
         Comment créer du contenu SEO ? Pourquoi est-ce si important ? Découvrez,
         sur cette page, quelles sont les grandes notions à connaître ! 
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/Miniature-partage-contenu-seo.png
       relativeUrl: true
   description: >-
     Comment créer du contenu SEO ? Pourquoi est-ce si important ? Découvrez, sur
