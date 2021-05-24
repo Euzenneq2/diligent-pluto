@@ -355,6 +355,10 @@ seo:
       value: /_static/app-assets/miniature-partage-formulaire-devis.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /_static/app-assets/miniature-partage-formulaire-devis.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
