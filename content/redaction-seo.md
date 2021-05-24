@@ -476,7 +476,7 @@ seo:
         fonctionne ? Découvrez les réponses à vos questions sur cette page.
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-redaction-seo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
