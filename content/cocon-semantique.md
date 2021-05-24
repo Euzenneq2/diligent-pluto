@@ -215,7 +215,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Rédaction web
+      value: Tout savoir sur le cocon sémantique ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
