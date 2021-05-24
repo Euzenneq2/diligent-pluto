@@ -309,6 +309,29 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+  - features:
+      - actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="540" height="1200"
+          src="https://b749b5e7.sibforms.com/serve/MUIEAAw8zR6P2qqAdmfE8Wb-eo5_kgMz50R_3AH2GcCP9Bw_CW1RFQn-9f0cjKIbVQplx3gzwVxccKAGNTPTsk4NUsUPB6-ANmQF3UovqiycpR2opwgj_j4tC7yTexCQPFy7-k1Y4tclyaCejZcrh84w8-GXn4fjI3-Lgui5K-4iKcXdb736iwxIb3u_jMqMSesXHhi1kaJVhfLz"
+          frameborder="0" scrolling="auto" allowfullscreen style="display:
+          block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - type: grid_section
     template: grid_section
     title: Besoin d'en savoir plus ?
@@ -337,29 +360,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-  - features:
-      - actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="540" height="1200"
-          src="https://b749b5e7.sibforms.com/serve/MUIEAAw8zR6P2qqAdmfE8Wb-eo5_kgMz50R_3AH2GcCP9Bw_CW1RFQn-9f0cjKIbVQplx3gzwVxccKAGNTPTsk4NUsUPB6-ANmQF3UovqiycpR2opwgj_j4tC7yTexCQPFy7-k1Y4tclyaCejZcrh84w8-GXn4fjI3-Lgui5K-4iKcXdb736iwxIb3u_jMqMSesXHhi1kaJVhfLz"
-          frameborder="0" scrolling="auto" allowfullscreen style="display:
-          block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
 seo:
   title: Formulaire de devis ⎮ Mary Marketing
   description: >-
