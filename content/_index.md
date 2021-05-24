@@ -827,7 +827,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
-      value: /images/square-coriander.png
+      value: /images/Miniature-test.png
       keyName: property
       relativeUrl: true
   description: >-
