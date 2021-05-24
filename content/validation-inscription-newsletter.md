@@ -32,5 +32,9 @@ seo:
       value: Merci de t'être inscrit à ma newsletter !
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Merci de t'être inscrit à ma newsletter !
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 ---
