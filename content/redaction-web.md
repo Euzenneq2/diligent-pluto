@@ -317,7 +317,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
-      value: summary_large_image
+      value: Miniature-partage-edaction-web.png
     - name: 'twitter:title'
       value: Rédaction web
     - name: 'twitter:description'
