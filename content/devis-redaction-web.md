@@ -333,6 +333,10 @@ seo:
       value: Formulaire de devis ⎮ Mary Marketing
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Formulaire de devis ⎮ Mary Marketing
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
