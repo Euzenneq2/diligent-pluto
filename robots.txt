@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /*.xls$
 Disallow: /*.pdf$
 Noindex: /politique-de-confidentialite/
+
+Sitemap : https://www.monsite.fr/sitemap
