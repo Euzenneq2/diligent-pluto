@@ -137,8 +137,8 @@ seo:
       relativeUrl: true
     - name: 'og:description'
       value: >-
-        Rédaction web SEO à partir de 0,10€ - Délais urgent (sous 24H) + 50 % -
-        Possibilité de forfait sur devis.
+        Je rédige vos contenu optimisé à partir de 0,10 €/ mot. Venez découvrir
+        mes services !
       keyName: property
       relativeUrl: false
   description: >-
