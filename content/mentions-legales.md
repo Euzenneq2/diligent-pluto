@@ -22,10 +22,6 @@ seo:
       value: Terms and Conditions
     - name: 'twitter:description'
       value: This is the terms and conditions page
-    - name: 'og:image'
-      value: Mentions légales ⎮ Mary Marketing
-      keyName: property
-      relativeUrl: true
 layout: page
 ---
 ## Identité
