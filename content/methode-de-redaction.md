@@ -429,7 +429,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Rédaction web
+      value: Quelles sont les méthodes de rédaction web ?⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
