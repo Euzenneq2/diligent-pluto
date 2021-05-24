@@ -65,7 +65,7 @@ sections:
     type: features_section
   - features:
       - content: >
-          # Découvrez comment j'ai aidé de nombreuses personnes en manque de
+          ## Découvrez comment j'ai aidé de nombreuses personnes en manque de
           visibilité digitale !
 
 
