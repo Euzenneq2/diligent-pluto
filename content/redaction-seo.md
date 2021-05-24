@@ -24,7 +24,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/Redaction-SEO.png
+    image: images/Redaction-seo-entete.png
   - type: cta_section
     template: cta_section
     content: >
