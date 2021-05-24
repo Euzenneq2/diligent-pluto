@@ -40,7 +40,7 @@ sections:
         url: /contact/
         style: primary
         icon_position: left
-        no_follow: false
+        no_follow: true
     actions_position: bottom
     align: left
     padding_top: medium
