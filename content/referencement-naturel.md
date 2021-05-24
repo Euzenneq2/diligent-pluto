@@ -427,7 +427,7 @@ seo:
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/Miniature-partage-Robot-SEO.jpg
       relativeUrl: true
   description: >-
     Comment améliorer son référencement naturel ? Comment faire son
