@@ -80,7 +80,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact - Mary Marketing - Rédacteur web
+      value: Contact ⎮ Mary Marketing rédactrice web SEO
     - name: 'og:image'
       value: /images/square-coriander.png
       keyName: property
