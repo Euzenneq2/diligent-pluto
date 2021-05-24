@@ -243,6 +243,7 @@ sections:
         no_follow: false
         type: action
         label: 'Demandez un devis, c''est gratuit'
+        url: /devis-redaction-web/
     actions_position: bottom
     actions_width: fourty
     align: center
