@@ -82,7 +82,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog rédactrice web SEO - Mary Marketing
+      value: Blog rédactrice web SEO ⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
         Grâce au blog Mary marketing, restez à l'écoutes des dernières nouvelle
