@@ -241,7 +241,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
         label: 'Demandez un devis, c''est gratuit'
         url: /devis-redaction-web/
