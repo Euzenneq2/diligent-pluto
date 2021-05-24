@@ -12,7 +12,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
         url: /contact/
     media_position: right
