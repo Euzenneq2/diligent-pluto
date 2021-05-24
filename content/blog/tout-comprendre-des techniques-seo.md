@@ -62,13 +62,7 @@ Par ailleurs, pour améliorer la qualité d'un site et le rendre plus convivial,
 Les missions de SEO les plus importantes sont les suivantes :
 
 *   Connaître ce que les utilisateurs recherchent, lié à vos produits et services.
-
-<!---->
-
 *   Créer du contenu qui répondra aux besoins des utilisateurs.
-
-<!---->
-
 *   Envoyer les bonnes informations aux robots d'exploration et aux algorithmes des moteurs de recherche grâce aux différentes techniques de référencement.
 
 L'ensemble du référencement comporte un plusieurs règles (ou directives), un certain nombre d'étapes et un ensemble de contrôles.
@@ -82,25 +76,10 @@ Le référencement peut vous aider, si vous avez un site internet, un blog ou un
 Le SEO est primordial car :
 
 *   Plus de 70 % des utilisateurs de moteurs de recherche sont plus susceptibles de cliquer sur l'une des 5 premières suggestions dans les pages de résultats des moteurs de recherche (SERP). Pour en profiter et attirer des visiteurs sur votre site internet ou des clients sur votre boutique en ligne, ces derniers doivent apparaître dans l'une des premières positions.
-
-<!---->
-
 *   Le SEO concerne aussi votre site internet. En effet, le référencement améliore l'expérience utilisateur sur votre site.
-
-<!---->
-
 *   Être présent dans les premières positions des moteurs de recherche lors d’une requête faite par l'utilisateur augmente la confiance de l’utilisateur dans le site web.
-
-<!---->
-
 *   Le référencement est bon pour la promotion des médias sociaux de votre site web. Les personnes qui trouvent votre site web en effectuant une recherche sur Google ou Bing sont plus susceptibles de le promouvoir sur Facebook ou d'autres canaux de médias sociaux.
-
-<!---->
-
-*   Le SEO est important pour les grands sites internet. Ces derniers ayant plus d'un auteur peuvent bénéficier du référencement de manière directe et indirecte. Leur avantage direct est une augmentation du trafic naturel et leur avantage indirect est de disposer d'un cadre commun (listes de contrôle) à utiliser avant de publier du contenu sur le site.
-
-<!---->
-
+*   Le SEO est important pour les grands sites internet. Ces derniers ayant plus d'un auteur, peuvent bénéficier du référencement de manière directe et indirecte. Leur avantage direct est une augmentation du trafic naturel et leur avantage indirect est de disposer d'un cadre commun (listes de contrôle) à utiliser avant de publier du contenu sur le site.
 *   Le référencement peut vous donner une longueur d'avance sur la concurrence. Si deux sites internet vendent la même chose, le site optimisé pour les moteurs de recherche a plus de chances d'avoir plus de clients et de réaliser plus de ventes.
 
 ## &#xD;&#xA;SEO pour les débutants : introduction
@@ -116,13 +95,7 @@ Le référencement n'est pas un processus statique, mais plutôt un cadre avec d
 Plus simplement, le SEO peut être décomposé en 3 types principaux :
 
 *   SEO technique : vous pouvez vous assurer que les moteurs de recherche peuvent explorer et indexer votre site internet sans problème.
-
-<!---->
-
 *   SEO on-site : règles à appliquer sur votre site et son contenu pour qu'il soit adapté aux moteurs de recherche.
-
-<!---->
-
 *   SEO off-site : moyens de promouvoir votre site internet ou votre blog afin qu'il soit mieux classé dans les résultats de recherche.
 
 ## SEO technique
@@ -166,7 +139,8 @@ Si vos classements et votre trafic naturel augmentent, cela signifie que vous ê
 ## &#xD;&#xA;Quelle est la différence entre le SEO et le marketing digital ?
 
 Le référencement est-il la même chose que le marketing digital ?
+
 Le SEO est l'un des outils disponibles dans l’ensemble du marketing digital. Le référencement peut faire partie de votre campagne globale de marketing digital qui comprend normalement d'autres éléments comme la promotion des médias sociaux, le CPC (coup par clic), la stratégie de contenu, etc.
 
 Avant de conclure cette introduction au référencement, il est important de bien comprendre que le référencement (SEO) ne peut pas vous aider si vous n'avez pas un bon contenu.
-Si vous essayez de référencer un site web avec un contenu pas optimisé, vos chances de réussite sont minimes. Aussi, un site web avec un bon contenu peut fonctionner avec ou sans référencement. Le SEO donnera simplement un coup de booste en plus au site.
+Si vous essayez de référencer un site web avec un contenu non optimisé, vos chances de réussite sont minimes. Aussi, un site web avec un bon contenu peut fonctionner avec ou sans référencement. Le SEO donnera simplement un coup de boost en plus au site.
