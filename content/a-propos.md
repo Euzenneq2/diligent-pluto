@@ -140,7 +140,7 @@ seo:
       value: Àpropos
     - name: 'twitter:description'
       value: >-
-        Rédactrice web SEO en freelance. Découvrez moi au travers de cette
+        Rédactrice web SEO en freelance. Découvrez-moi au travers de cette
         page. 
     - name: 'twitter:image'
       value: /images/Miniature-partage-mary-marketing-redactrice.png
