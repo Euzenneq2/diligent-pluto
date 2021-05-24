@@ -5,7 +5,7 @@ categories:
   - data/categories/referencement-naturel-seo.json
 tags: []
 excerpt: >-
-  Cultivez vous sur l'utilisation de ces liens qui peuvent vous être très utiles
+  Cultivez-vous sur l'utilisation de ces liens qui peuvent vous être très utiles
   et rendre votre site plus visible !
 thumb_image: images/blog-do-follow-no-follow.png
 thumb_image_alt: Article - Comment mettre un lien en nofollow et dofollow ?
