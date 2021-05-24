@@ -47,6 +47,8 @@
 					{{ end }}
 					{{ if $blog_feed_section.show_date }}
 					{{ end }}
+                    {{ $mymonths := index $.Site.Data.mois }}{{ .Date.Day }}
+                    {{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }}
 				</div>
 				{{ end }}
 				{{ if $blog_feed_section.title }}
