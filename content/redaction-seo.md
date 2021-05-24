@@ -482,7 +482,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Rédaction web
+      value: Quelles sont les bases de la rédaction SEO ?⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
         Pourquoi améliorer son site web avec la rédaction SEO ? Comment ça
