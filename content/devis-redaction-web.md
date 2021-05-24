@@ -34,7 +34,7 @@ sections:
     video_embed_html: >-
       <iframe width="1200" height="630"
       src="https://www.youtube.com/embed/9-aEhR_r-nc?controls=0"></iframe>
-  - title: Vous souhaitez...
+  - title: Optimiser son contenu est la clé pour Vous souhaitez...
     features:
       - content: >
           *   Alimentez votre site internet avec du contenu de qualité.
