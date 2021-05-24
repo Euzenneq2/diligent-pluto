@@ -325,7 +325,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
 seo:
-  title: ''
+  title: 'Formulaire de devis '
   description: ''
   robots: []
   extra: []
