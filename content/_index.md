@@ -151,8 +151,8 @@ sections:
           C'est ici que mon expertise marketing intervient.
 
 
-          En perpétuelle évolution tant les métiers du web ce développent
-          rapidement, je me suis formé au marketing digital.
+          En perpétuelle évolution tant les métiers du web se développent
+          rapidement, je me suis formée au marketing digital.
 
 
           Tout d'abord, **j'adapterais ma stratégie de contenu à votre
