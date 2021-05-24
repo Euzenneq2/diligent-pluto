@@ -13,7 +13,9 @@ seo:
       value: Politique de confidentialité ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
-      value: This is the privacy policy page
+      value: >-
+        Découvrez la politique de confidentialité du site internet Mary
+        Marketing.
       keyName: property
     - name: 'twitter:card'
       value: summary
