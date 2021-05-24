@@ -284,6 +284,12 @@ sections:
         align: center
         type: feature
       - content: >
+          Imaginez que votre **site internet** ait un beau design, vous ne
+          voulez pas qu'il devienne invisible sur **Google** ? Alors agissez dès
+          maintenant et faites appel à un **professionnel de la rédaction web
+          SEO** !
+
+
           Après notre collaboration, vous pourrez constater les nombreuses
           retombées.
         actions: []
