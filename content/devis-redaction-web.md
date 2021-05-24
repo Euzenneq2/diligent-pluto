@@ -326,7 +326,9 @@ sections:
     type: features_section
 seo:
   title: Formulaire de devis ⎮ Mary Marketing
-  description: ''
+  description: >-
+    Sur cette page, vous trouverez toutes les informations que vous avez besoins
+    avant de passer à l'action.
   robots: []
   extra:
     - name: 'og:title'
