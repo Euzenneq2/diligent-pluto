@@ -814,7 +814,7 @@ seo:
         votre visibilité !
       keyName: property
     - name: 'twitter:card'
-      value: summary_large_image
+      value: Miniature-partage-home.jpeg
     - name: 'twitter:title'
       value: Rédacteur web SEO - Gagnez en visibilité ! ⎮ Mary Marketing
     - name: 'twitter:description'
