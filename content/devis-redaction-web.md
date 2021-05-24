@@ -222,7 +222,7 @@ sections:
   - title: Comment en bénéficier ?
     actions: []
     grid_items:
-      - title: 1. Contactez-moi
+      - title: Contactez-moi
         title_align: center
         content_align: left
         actions: []
