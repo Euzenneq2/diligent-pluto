@@ -45,7 +45,6 @@ seo:
     Envie de devenir rédacteur web ? Dans cet articles nous dévoilons les
     avantages, les missions ainsi que les formations à avoir pour ce lancer.
 layout: post
-author: data/team/mary-marketing.json
 excerpt: >-
   Vous souhaitez changer de vie professionnelle et devenir rédacteur ou
   rédactrice web ? Dans cet article vous trouverez toutes les réponses à vos
