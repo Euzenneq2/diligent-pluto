@@ -10,7 +10,8 @@ sections:
       de l'argent.
     actions:
       - label: Demander un devis !
-        url: '#demandedevis'
+        url: >-
+          #https://diligent-pluto-bbfe2.netlify.app/devis-redaction-web//demandedevis
         style: primary
         has_icon: false
         icon: arrow-left
