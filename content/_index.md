@@ -683,8 +683,8 @@ sections:
       Il est important pour moi d'être entouré d'expert pour
 
       répondre du mieux possible aux besoins de mes clients. Focalisé sur la
-      rédaction SEO, je ne prétends pas disposer de toutes les connaissances sur
-      le web.
+      rédaction SEO, je ne prétends pas disposer de toutes les connaissances du
+      web.
     actions:
       - type: action
         template: action
