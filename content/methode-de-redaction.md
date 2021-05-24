@@ -449,7 +449,7 @@ seo:
         Différentes méthodes et techniques de rédaction web existent et doivent
         être respectées. Découvrez les plus utilisées dans le métier.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/Miniature-partage-methode-deredaction.png
       relativeUrl: true
   description: >-
     Différentes méthodes et techniques de rédaction web existent et doivent être
