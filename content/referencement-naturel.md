@@ -417,7 +417,7 @@ seo:
         référencement naturel.
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-Robot-SEO.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
