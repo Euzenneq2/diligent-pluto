@@ -29,13 +29,14 @@ sections:
           Plus jeune, je souhaitais être vétérinaire, comédienne puis arrivée au
           lycée, journaliste. Je me souviens de cette passion naissante et très
           intense pour ce métier. Ma première année fut rythmée et driver par
-          cette envie. Puis après quelques remises en question, très courantes à
-          cet âge. Je me suis tournée vers un milieu plus commun : le marketing.
+          cette envie. Puis, après quelques remises en question, très courantes
+          à cet âge. Je me suis tournée vers un milieu plus commun : le
+          marketing.
 
 
           Quelques années plus tard j’ai réalisé un BTS assistant-manager puis
           un Bachelor en marketing événementiel dans lequel je me suis
-          véritablement épanouie car mes missions étaient orientées vers la
+          véritablement épanouie, car mes missions étaient orientées vers la
           communication digitale.
 
 
