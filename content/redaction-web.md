@@ -321,7 +321,10 @@ seo:
     - name: 'twitter:title'
       value: Rédaction web pour captivez vos visiteurs ! ⎮ Mary Marketing
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Ce que je vous propose en rédaction web : étude de la thématique,
+        production de contenu, optimisation SEO. Tout pour séduire vos
+        visiteurs.
     - name: 'twitter:image'
       value: images/Miniature-partage-edaction-web.png
       relativeUrl: true
