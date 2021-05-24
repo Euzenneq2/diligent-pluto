@@ -3,7 +3,6 @@ title: Tout comprendre des techniques SEO
 date: '2021-03-18'
 categories:
   - data/categories/referencement-naturel-seo.json
-  - data/categories/publicite-adwords.json
 tags: []
 excerpt: >-
   Vous souhaitez compléter votre stratégie d'Inbound marketing ? Apprenez à
