@@ -75,7 +75,7 @@ seo:
         référencement naturel, la rédaction web ou le digital.
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-contact.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
