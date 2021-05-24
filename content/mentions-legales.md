@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Terms and Conditions
+      value: Mentions légales ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: Découvrez toutes les informations concernant Mary Marketing.
