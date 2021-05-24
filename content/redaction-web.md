@@ -323,7 +323,7 @@ seo:
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/Miniature-partage-edaction-web.png
       relativeUrl: true
   description: >-
     Étude de la thématique, production de contenu, optimisation SEO, voilà tout
