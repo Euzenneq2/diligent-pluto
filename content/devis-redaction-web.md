@@ -51,7 +51,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/formaulaire-devis-vous-souhaitez.png
+        image: images/formulaire-devis-vous-souhaitez.png
         image_alt: 'Rédaction web, les souhaits des clients'
         title: Vous souhaitez...
     feature_padding_vert: medium
