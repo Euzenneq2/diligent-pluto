@@ -82,7 +82,7 @@ seo:
     - name: 'twitter:title'
       value: Contact ⎮ Mary Marketing rédactrice web SEO
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-contact.png
       keyName: property
       relativeUrl: true
     - name: 'og:description'
