@@ -1,5 +1,5 @@
 ---
-robots: "noindex"
+robots: noindex
 title: Contact
 sections:
   - type: hero_section
@@ -75,7 +75,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact - Mary Marketing - Rédacteur web
+      value: Contact ⎮ Mary Marketing rédactrice web SEO
       keyName: property
     - name: 'twitter:card'
       value: summary
