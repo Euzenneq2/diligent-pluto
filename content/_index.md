@@ -511,9 +511,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        content: >
-          Je me suis formé à la rédaction web grâce Mary Marketing. Formation en
-          quelques heures, tout était très bien expliqué.
+        content: |
 
 
           **Anthony Lazure**, *Auto-entrepreneur*
