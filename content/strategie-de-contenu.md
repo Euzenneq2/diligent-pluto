@@ -270,9 +270,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
-        visiteurs.
+        Connaissez-vous les différentes stratégies de contenu ? Une définition
+        clair et des étapes concrètes vous attendent sur cette page.
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
