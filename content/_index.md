@@ -566,7 +566,7 @@ sections:
         title_align: left
         content: >
           Vous trouverez sur les plateformes de micro-service des rédacteurs à
-          moindre coût qui vont diront connaître le **référencement naturel**.
+          moindre coût qui vous diront connaître le **référencement naturel**.
           Pour avoir collaboré avec ce type de prestataire, c'est rarement le
           cas.
 
