@@ -55,8 +55,8 @@ sections:
         title: Vous souhaitez...
     feature_padding_vert: medium
     align: center
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: medium
     has_border: false
     background_color: secondary
     background_image_opacity: 0
@@ -95,8 +95,8 @@ sections:
         type: feature
     feature_padding_vert: medium
     align: center
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: medium
     has_border: false
     background_color: none
     background_image_opacity: 0
@@ -210,8 +210,8 @@ sections:
     grid_gap_horiz: small
     enable_cards: false
     align: center
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: medium
     has_border: false
     background_color: secondary
     background_image_opacity: 0
@@ -292,8 +292,8 @@ sections:
         type: feature
     feature_padding_vert: medium
     align: center
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: medium
     has_border: false
     background_color: primary
     background_image_opacity: 0
@@ -305,19 +305,18 @@ sections:
       - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          <a name ="devis"><iframe width="540" height="1200"
-          src="https://b749b5e7.sibforms.com/serve/MUIEAAw8zR6P2qqAdmfE8Wb-eo5_kgMz50R_3AH2GcCP9Bw_CW1RFQn-9f0cjKIbVQplx3gzwVxccKAGNTPTsk4NUsUPB6-ANmQF3UovqiycpR2opwgj_j4tC7yTexCQPFy7-k1Y4tclyaCejZcrh84w8-GXn4fjI3-Lgui5K-4iKcXdb736iwxIb3u_jMqMSesXHhi1kaJVhfLz"
-          frameborder="0" scrolling="auto" allowfullscreen style="display:
-          block;margin-left: auto;margin-right: auto;max-width:
-          100%;"></iframe></a>
+          <a name="newsletter"><iframe width="540" height="720"
+      src="https://b749b5e7.sibforms.com/serve/MUIEAItORIVlfyHY8C-89IfT27t2i0i4F9RqnVE_2FftfQ3wHbb_e96whocY5-xxprl2aDgkgRgM4XOZ7XuCrS_RiVCcjxmTd5nGtxJ_YplsoTLyEf54PK4TCnM6WbjvCcatUwdWnyR4HYFYHS_tO47-HF3-CHgb_7WV97yIbGZiKKMH169OVB34jVi2mpjZdhOvbBBWOJ8EYZIg"
+      frameborder="0" scrolling="no" allowfullscreen style="display:
+      block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe></a>
         media_position: top
         media_width: fifty
         align: left
         type: feature
     feature_padding_vert: medium
     align: center
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: medium
     has_border: false
     background_color: none
     background_image_opacity: 0
@@ -351,7 +350,7 @@ sections:
     grid_gap_horiz: medium
     enable_cards: true
     padding_top: large
-    padding_bottom: large
+    padding_bottom: medium
     has_border: false
     background_color: secondary
 seo:
