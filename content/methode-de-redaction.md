@@ -443,7 +443,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Rédaction web
+      value: Quelles sont les méthodes de rédaction web ?⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
         Différentes méthodes et techniques de rédaction web existent et doivent
