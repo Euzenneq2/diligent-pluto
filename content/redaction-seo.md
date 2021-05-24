@@ -472,9 +472,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
-        visiteurs.
+        Pourquoi améliorer son site web avec la rédaction SEO ? Comment ça
+        fonctionne ? Découvrez les réponses à vos questions sur cette page.
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
