@@ -32,7 +32,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     video_embed_html: >-
-      <iframe width="1200" height="315"
+      <iframe width="1200" height="630"
       src="https://www.youtube.com/embed/9-aEhR_r-nc?controls=0"></iframe>
   - title: Vous souhaitez...
     features:
