@@ -46,7 +46,6 @@ seo:
     c'est de l'argent. Découvrez les points à éviter pour ne pas perdre de
     temps.
 layout: post
-author: data/team/mary-marketing.json
 thumb_image_alt: Article- 7 pièges à éviter en rédaction web
 ---
 En ligne, la durée d’attention d’un utilisateur est relativement courte. Les rédacteurs web doivent aller à l’essentiel pour le captiver avant qu’il ne se concentre sur un autre contenu web.
