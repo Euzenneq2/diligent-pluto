@@ -53,7 +53,7 @@
 				{{ if $blog_feed_section.title }}
 					<h3 class="item__title mt-0{{ if eq $columns "two" }} h3{{ end }}{{ if eq $columns "three" }} h4{{ end }}"><a href="{{ $post.URL }}"{{ $post.Params.title }}</a></h3>
 				{{ else }}
-					<h2 class="item__title mt-0{{ if eq $columns "two" }} h3{{ end }}{{ if eq $columns "three" }} h4{{ end }}"><a href="{{ $post.URL }}" rel=”nofollow”>{{ $post.Params.title }}</a></h2>
+					<h2 class="item__title mt-0{{ if eq $columns "two" }} h3{{ end }}{{ if eq $columns "three" }} h4{{ end }}"><a href="{{ $post.URL }}"{{ $post.Params.title }}</a></h2>
 				{{ end }}
 				{{ if and $blog_feed_section.show_excerpt $post.Params.excerpt }}
 				<div class="item__copy">
