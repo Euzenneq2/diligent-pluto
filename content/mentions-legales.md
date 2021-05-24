@@ -42,7 +42,7 @@ Hébergement : Netlify
 
 ## Personne morale
 
-Mary Marketing - entreprise individuelle au capital de ... - SIRET 898 296 231 00019 -  16 rue de l'Engannerie, 14000 CAEN.
+Mary Marketing - entreprise individuelle au capital d’un euro - SIRET 898 296 231 00019 -  16 rue de l'Engannerie, 14000 CAEN.
 
 Adresse mail : marymarketing.pro@gmail.com
 
