@@ -22,7 +22,7 @@
 						<span class="post__meta-sep"> &middot; </span>
 					{{ end }}
 					{{ $mymonths := index $.Site.Data.mois }}{{ .Date.Day }}
-{{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                    {{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }}
 				</div>
 				<h1 class="post__title mt-0">{{ .Params.title }}</h1>
 				{{ if .Params.subtitle }}
