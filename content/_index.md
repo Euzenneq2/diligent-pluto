@@ -499,11 +499,11 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          J'ai fait appel à Mary Marketing pour une rédaction de quelques mots.
-          Très satisfaite du travail.
+          Très satisfaite du travail fourni par Marylène. Je lui ai commandé un
+          article de blog, il était parfait et correspondait à mes demandes.
 
 
-          **Claire Lebrun**, *Responsable communication*
+          ** Claire Lebrun**, *Responsable communication*
         image: /images/temoignage-4.png
         image_alt: Eleanor Carr
         image_position: left
