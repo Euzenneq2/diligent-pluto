@@ -304,7 +304,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Rédaction web
+      value: Rédaction web pour captivez vos visiteurs ! ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
