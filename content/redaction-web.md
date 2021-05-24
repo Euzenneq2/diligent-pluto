@@ -319,7 +319,7 @@ seo:
     - name: 'twitter:card'
       value: Miniature-partage-edaction-web.png
     - name: 'twitter:title'
-      value: Rédaction web
+      value: Rédaction web pour captivez vos visiteurs ! ⎮ Mary Marketing
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
