@@ -46,7 +46,6 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: images/blog-tendances-content-marketing-2021.png
-author: data/team/mary-marketing.json
 ---
 Vous vous souvenez de 2020 ? Évidemment…
 
