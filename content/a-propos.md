@@ -143,7 +143,7 @@ seo:
         Rédactrice web SEO en freelance. Découvrez moi au travers de cette
         page. 
     - name: 'twitter:image'
-      value: /images/square-coriander.png
+      value: /images/Miniature-partage-mary-marketing-redactrice.png
       relativeUrl: true
   description: 'Rédactrice web SEO en freelance. Découvrez-moi au travers de cette page. '
 layout: advanced
