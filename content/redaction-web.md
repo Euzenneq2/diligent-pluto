@@ -234,8 +234,7 @@ sections:
   - type: cta_section
     template: cta_section
     actions:
-      - url: /contact/
-        style: primary
+      - style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
