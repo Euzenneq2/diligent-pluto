@@ -470,8 +470,10 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          Mary Marketing m'a apportée son analyse de contenu SEO et à corriger
-          quelque problème d'optimisation. Mon site internet est plus visible.
+          Le travail de Marylène a été très utile. Nous avons travaillé ensemble
+          concernant la production de contenu optimisé dans le but d'améliorer
+          le positionnement de mon site internet. Les résultats sont très
+          satisfaisants.
 
 
           **Romane Lapresse**, *Cheffe de projet digital*
