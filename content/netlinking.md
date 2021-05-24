@@ -282,9 +282,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
-        visiteurs.
+        Envie de connaître les secrets des liens internes et externes ? Apprenez
+        à les utiliser avec intelligence et améliorez votre site internet.
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
