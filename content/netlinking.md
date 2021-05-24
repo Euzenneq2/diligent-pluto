@@ -296,7 +296,7 @@ seo:
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/Miniature-partage-netlinking.png
       relativeUrl: true
   description: >-
     Envie de connaître les secrets des liens internes et externes ? Apprenez à
