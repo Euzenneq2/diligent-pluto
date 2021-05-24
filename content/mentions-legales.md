@@ -14,7 +14,7 @@ seo:
       value: Terms and Conditions
       keyName: property
     - name: 'og:description'
-      value: This is the terms and conditions page
+      value: Découvrez toutes les informations concernant Mary Marketing.
       keyName: property
     - name: 'twitter:card'
       value: summary
