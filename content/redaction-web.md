@@ -14,7 +14,7 @@ sections:
         icon: arrow-left
         icon_position: left
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
     media_position: right
     background_image_position: left center
