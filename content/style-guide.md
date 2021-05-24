@@ -1,5 +1,5 @@
 ---
-noindex: true
+robots: "noindex"
 title: Style Guide
 seo:
   type: stackbit_page_meta
