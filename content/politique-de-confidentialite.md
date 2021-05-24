@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Privacy Policy
+      value: Politique de confidentialité ⎮ Mary Marketing
     - name: 'twitter:description'
       value: This is the privacy policy page
   description: Découvrez la politique de confidentialité du site internet Mary Marketing.
