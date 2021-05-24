@@ -332,6 +332,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    background_image: images/newsletter-mary-marketing-background.jpg
   - type: grid_section
     template: grid_section
     title: Besoin d'en savoir plus ?
