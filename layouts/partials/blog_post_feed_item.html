@@ -42,8 +42,6 @@
 						{{ $include_dict := dict "categories" $post.Params.categories "container_class" "item__cat" }}
 						{{ partial "blog_post_categories.html" $include_dict }}
 					{{ end }}
-                    {{ $mymonths := index $.Site.Data.mois }}{{ .Date.Day }}
-{{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }}
 				</div>
 				{{ end }}
 				{{ if $blog_feed_section.title }}
