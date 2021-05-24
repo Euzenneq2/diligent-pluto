@@ -2,9 +2,6 @@
 {{ $blog_feed_section := .blog_feed_section }}
 {{ $columns := $blog_feed_section.blog_feed_cols | default "three" }}
 
-{{ $mymonths := index $.Site.Data.mois }}{{ .Date.Day }}
-{{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }}
-
 {{ $is_card := false }}
 {{ if $blog_feed_section.enable_cards }}
 	{{ $is_card = true }}
