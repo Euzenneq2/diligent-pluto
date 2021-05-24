@@ -278,7 +278,9 @@ seo:
     - name: 'twitter:title'
       value: Qu'est-ce que le community management ? ⎮ Mary Marketing
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Comment devenir community manager ? À quoi correspond concrètement le
+        community management ? Toutes les réponses sont sur cette page.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
