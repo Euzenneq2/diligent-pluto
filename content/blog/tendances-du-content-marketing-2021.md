@@ -4,7 +4,9 @@ date: '2021-01-02'
 categories:
   - data/categories/actualite-marketing-digital.json
 tags: []
-excerpt: Dans cet article découvrez les
+excerpt: >-
+  Dans cet article restez en veille informationnelle et découvrez les trends du
+  content marketing pour l'année 2021.
 thumb_image_alt: blog-tendances-content-marketing-2021
 image: images/blog-tendances-content-marketing-2021.png
 image_alt: blog-tendances-content-marketing-2021
