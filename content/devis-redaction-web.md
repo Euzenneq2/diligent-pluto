@@ -325,7 +325,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
 seo:
-  title: 'Formulaire de devis '
+  title: Formulaire de devis ⎮ Mary Marketing
   description: ''
   robots: []
   extra: []
