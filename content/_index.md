@@ -823,7 +823,7 @@ seo:
         Netlinking, Social média, Google Analytics. Une alliée pour booster
         votre visibilité !
     - name: 'og:image'
-      value: /_static/app-assets/
+      value: /_static/app-assets/Miniature-partage-home.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
