@@ -292,7 +292,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Rédaction web
+      value: En quoi consiste le netlinking ? ⎮ Mary Marketing
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
