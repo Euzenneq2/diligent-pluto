@@ -36,7 +36,7 @@ align: left
 ---
 ## Objet du traitement
 
-La société Mary Marketing, dont le siège est situé à CAEN (14 000), Rue de l'Engannerie, dispose d’un site internet de services rédaction web. Ce site permet de collecter via un formulaire les données personnelles à cette occasion sont enregistrées et traitées dans un fichier clients.
+La société Mary Marketing, dont le siège est situé à CAEN (14 000), 16 rue de l'Engannerie, dispose d’un site internet de services rédaction web. Ce site permet de collecter via un formulaire les données personnelles à cette occasion sont enregistrées et traitées dans un fichier clients.
 
 Ce fichier permet de :
 
@@ -47,9 +47,6 @@ Ce fichier permet de :
 ## Catégories de données
 
 *   Identité : civilité, nom, prénom, numéro de téléphone, adresse électronique, données relatives à l’enregistrement sur des listes d’opposition.
-
-<!---->
-
 *   Données nécessaires à la réalisation des actions de fidélisation et de prospection : historique des navigation sur notre site internet.
 
 ## Destinataires des données
@@ -59,9 +56,6 @@ Ce fichier permet de :
 ## Durée de conservation des données
 
 *   Données nécessaires à la réalisation des actions de fidélisation et à la prospection : pendant toute la durée de la relation commerciale et trois (3) ans à compter de la validation du formulaire de contact.
-
-<!---->
-
 *   Données concernant les listes d'opposition à recevoir de la prospection : trois (3) ans.
 
 ## Vos droits
@@ -69,10 +63,9 @@ Ce fichier permet de :
 Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné),<a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>
 contactez-moi</a>
 
-
 Vous pouvez accéder aux données vous concernant, les rectifier ou les faire effacer. Vous disposez également d'un droit à la portabilité et d’un droit à la limitation du traitement de vos données (Consultez le site cnil.fr pour plus d’informations sur vos droits).
 
-Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez<a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>
+Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez <a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>
 contactez-moi</a>
 .
 
