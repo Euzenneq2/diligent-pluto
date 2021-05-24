@@ -93,5 +93,5 @@ Le propriétaire du site se réserve le droit de demander la suppression d’un 
 Tout utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une preuve d’identité. 
 
 Pour connaitre la politique de confidentialité, veuillez vous référer à cette <a href=”https://diligent-pluto-bbfe2.netlify.app/politique-de-confidentialite/” rel=”nofollow”>
-page**</a>
+page</a>
 .
