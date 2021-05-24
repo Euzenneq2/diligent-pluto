@@ -503,7 +503,7 @@ sections:
           article de blog, il était parfait et correspondait à mes demandes.
 
 
-          ** Claire Lebrun**, *Responsable communication*
+          **Claire Lebrun**, *Responsable communication*
         image: /images/temoignage-4.png
         image_alt: Eleanor Carr
         image_position: left
