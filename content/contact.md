@@ -97,6 +97,10 @@ seo:
         collaborer avec moi ? Je serais ravie d'échanger avec vous.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: /_static/app-assets/Miniature-partage-contact.png
+      keyName: property
+      relativeUrl: true
   description: >-
     Besoins d'aide dans la réalisation de vos contenus web ? Vous désirez
     collaborer avec moi ? Je serais ravie d'échanger avec vous.
