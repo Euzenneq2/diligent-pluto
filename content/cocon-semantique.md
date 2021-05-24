@@ -219,9 +219,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
-        visiteurs.
+        Qu'est-ce qu'un cocon sémantique ? À quoi ça sert ? Comment le réaliser
+        ? Apprenez à structurer vos pages web et améliorer votre classement.
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
