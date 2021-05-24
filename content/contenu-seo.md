@@ -458,7 +458,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Rédaction web
+      value: Comment améliorer son contenu SEO ? ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
