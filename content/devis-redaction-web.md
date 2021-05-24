@@ -351,6 +351,10 @@ seo:
         besoins avant de passer à l'action.
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /_static/app-assets/miniature-partage-formulaire-devis.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
