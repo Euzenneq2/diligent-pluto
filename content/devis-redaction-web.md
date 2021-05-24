@@ -345,6 +345,12 @@ seo:
         besoins avant de passer à l'action.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Sur cette page, vous trouverez toutes les informations que vous avez
+        besoins avant de passer à l'action.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
