@@ -131,7 +131,7 @@ seo:
         page. 
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-mary-marketing-redactrice.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
