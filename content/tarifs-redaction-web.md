@@ -118,7 +118,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Tarifs - Mary Marketing
+      value: Tarifs - Rédaction web SEO ⎮ Mary Marketing
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Miniature-partage-tarif-redaction-web.png
