@@ -40,5 +40,9 @@ seo:
       value: Newsletter ⎮ Mary Marketing
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /_static/app-assets/Miniature-partage-newsletter-Mary-marketing.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
