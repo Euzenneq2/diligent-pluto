@@ -127,7 +127,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Rédactrice web SEO en freelance. Découvrez moi au travers de cette
+        Rédactrice web SEO en freelance. Découvrez-moi au travers de cette
         page. 
       keyName: property
     - name: 'og:image'
