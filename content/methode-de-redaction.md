@@ -437,7 +437,7 @@ seo:
         être respectées. Découvrez les plus utilisées dans le métier.
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-methode-deredaction.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
