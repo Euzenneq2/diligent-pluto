@@ -1,5 +1,5 @@
 ---
-robots: "noindex"
+robots: noindex
 title: Politique de confidentialité
 seo:
   type: stackbit_page_meta
@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Privacy Policy
+      value: Politique de confidentialité ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: This is the privacy policy page
