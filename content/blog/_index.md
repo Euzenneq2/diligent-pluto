@@ -38,6 +38,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    category: data/categories/category-8v6oiz8my.json
   - actions: []
     image_alt: null
     video_embed_html: >-
