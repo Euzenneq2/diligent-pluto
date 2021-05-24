@@ -278,7 +278,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Rédaction web
+      value: En quoi consiste le netlinking ? ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
