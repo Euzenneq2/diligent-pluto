@@ -20,7 +20,7 @@ sections:
         type: action
     image_alt: lorem-ipsum
     media_position: right
-    media_width: sixty
+    media_width: fifty
     align: left
     padding_top: medium
     padding_bottom: medium
