@@ -59,6 +59,7 @@ sections:
     type: hero_section
     background_image: images/newsletter-mary-marketing-background.jpg
     title: test
+    subtitle: test
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
