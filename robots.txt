@@ -42,13 +42,6 @@ Disallow: /mentions-legales/
 Disallow: /general-enquiries/
 Disallow: /devis-redaction-web/
 Disallow: /contact/
-Sitemap: https://diligent-pluto-bbfe2.netlify.app/sitemap.xml
-
-
-
-User-agent: *
 Disallow: /*.xls$
 Disallow: /*.pdf$
-Noindex: /politique-de-confidentialite/
-
-Sitemap : https://www.monsite.fr/sitemap.xml
+Sitemap: https://diligent-pluto-bbfe2.netlify.app/sitemap.xml
