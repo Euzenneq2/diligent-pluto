@@ -1,5 +1,5 @@
 ---
-noindex: true
+robots: "noindex"
 title: Remerciement
 sections:
   - type: hero_section
