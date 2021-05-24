@@ -133,7 +133,7 @@ seo:
         Rédaction web SEO à partir de 0,10€ - Délais urgent (sous 24H) + 50 % -
         Possibilité de forfait sur devis.
     - name: 'twitter:image'
-      value: /images/square-coriander.png
+      value: /images/Miniature-partage-tarif-redaction-web.png
       relativeUrl: true
     - name: 'og:description'
       value: >-
