@@ -31,6 +31,12 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/9-aEhR_r-nc?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
   - title: Vous souhaitez...
     features:
       - content: >
