@@ -73,6 +73,7 @@ params:
         label: À propos
         url: /a-propos/
         style: link
+        no_follow: true
       - label: Mentions légales
         url: /mentions-legales/
         style: link
