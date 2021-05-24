@@ -1,5 +1,6 @@
 title: Mary Marketing V2
 baseURL: /
+languageCode= "fr"
 params:
   layout_type: full-width
   style: minimal
