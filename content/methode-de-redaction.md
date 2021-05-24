@@ -433,9 +433,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
-        visiteurs.
+        Différentes méthodes et techniques de rédaction web existent et doivent
+        être respectées. Découvrez les plus utilisées dans le métier.
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
