@@ -260,7 +260,7 @@ sections:
       - type: action
         template: action
         label: Je demande un devis
-        url: /contact/
+        url: /devis-redaction-web/
         style: primary
         icon_position: left
         no_follow: true
