@@ -805,7 +805,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Mary Marketing - Rédacteur web SEO - Gagnez en visibilité !
+      value: Rédacteur web SEO - Gagnez en visibilité !
       keyName: property
     - name: 'og:description'
       value: >-
