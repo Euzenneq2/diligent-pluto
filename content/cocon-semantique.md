@@ -6,7 +6,7 @@ sections:
     title: Un cocon sémantique de qualité pour un référencement de qualité
     background_color: primary
     actions: []
-    image: images/page-ocon-semantique.png
+    image: images/page-cocon-semantique.png
     media_position: right
     background_image_position: left center
     media_width: fifty
