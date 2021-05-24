@@ -230,7 +230,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Rédaction web
+      value: Tout savoir sur le cocon sémantique ⎮ Mary Marketing
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
