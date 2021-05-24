@@ -1,5 +1,4 @@
 User-agent: *
-User-agent: Googlebot
 Disallow: /*.xls$
 Disallow: /*.pdf$
 Noindex: /politique-de-confidentialite/
