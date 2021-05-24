@@ -107,6 +107,7 @@ sections:
         label: N'hésitez pas
         url: /contact/
         style: primary
+        no_follow: true
     align: center
     padding_top: medium
     padding_bottom: medium
