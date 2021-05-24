@@ -338,8 +338,7 @@ sections:
     has_border: false
     background_color: secondary
   - features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
