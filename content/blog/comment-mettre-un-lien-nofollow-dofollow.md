@@ -45,7 +45,6 @@ seo:
       value: /images/blog-do-follow-no-follow.png
       relativeUrl: true
 layout: post
-author: data/team/mary-marketing.json
 ---
 Connaissez-vous les liens **nofollow et dofollow** ? Ces petits attributs super important pour que les moteurs de recherche identifient correctement l'intention de vos liens.
 
