@@ -42,9 +42,11 @@ Hébergement : Netlify
 
 ## Personne morale
 
-< ‘Raison sociale’ – ‘Forme juridique’ au capital de XXX XXX euros – RCS XXXXXX – ‘Adresse complète’ >
+Mary Marketing - entreprise individuelle au capital de ... - SIRET 898 296 231 00019 -  16 rue de l'Engannerie, 14000 CAEN.
 
-< ‘Téléphone’ – ‘Email’ >
+Adresse mail : marymarketing.pro@gmail.com
+
+Numéros de téléphone : 0628654582
 
 ## Conditions d’utilisation
 
@@ -82,7 +84,7 @@ Le propriétaire du site autorise les liens hypertextes vers l’une des pages d
 
 *   tout risque de confusion entre le site citant et le propriétaire du site
 
-*   ainsi que toute présentation tendancieuse, ou contraire aux lois en vigueur.
+*   ainsi que toute présentation tendancieuse ou contraire aux lois en vigueur.
 
 Le propriétaire du site se réserve le droit de demander la suppression d’un lien s’il estime que le site source ne respecte pas les règles ainsi définies.
 
