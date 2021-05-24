@@ -466,7 +466,7 @@ seo:
         sur cette page, quelles sont les grandes notions à connaître ! 
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-contenu-seo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
