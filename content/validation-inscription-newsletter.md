@@ -28,5 +28,9 @@ seo:
       value: Newsletter ⎮ Mary Marketing
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: Merci de t'être inscrit à ma newsletter !
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 ---
