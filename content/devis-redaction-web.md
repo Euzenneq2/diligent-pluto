@@ -283,15 +283,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-      - content: >
-          Imaginez que votre **site internet** ait un beau design, vous ne
-          voulez pas qu'il devienne invisible sur **Google** ? Alors agissez dès
-          maintenant et faites appel à un **professionnel de la rédaction web
-          SEO** !
-
-
-          Après notre collaboration, vous pourrez constater les nombreuses
-          retombées.
+      - content: "Internet est la première source d'information au monde. Quand l'un de vos prospects se pose une question, son premier réflexe sera toujours d'aller\_chercher une réponse sur Google.\n\nOr, chaque semaine passée sans optimiser votre contenu représente des centaines d'opportunités manquées de clients qui ne visitent  ou n'achètent pas sur votre site.\n\nPire encore, ne pas améliorer votre contenu rédactionnel, c'est fournir la possibilité à tes concurrents d'accroître leur visibilité sur internet\_en se plaçant sur vos parts de marché.\n\nEt plus tu patientes, plus tu les laisses te distancer sur ta niche.\n\nVous avez déjà perdu assez de temps et d'argent jusqu'à maintenant en n'appliquant pas la bonne stratégie de contenu.\n\nSautez le pas et donnez-vous enfin l'opportunité être premier sur Google !\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: right
