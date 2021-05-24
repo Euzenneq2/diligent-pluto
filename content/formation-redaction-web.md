@@ -304,9 +304,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
-        visiteurs.
+        Quelle formation pour devenir rédacteur web ? Qu'est-ce que la rédaction
+        web ? Découvrez mes conseils concernant les différentes formations en
+        rédaction web.
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
