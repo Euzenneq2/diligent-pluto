@@ -462,9 +462,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
-        visiteurs.
+        Comment créer du contenu SEO ? Pourquoi est-ce si important ? Découvrez,
+        sur cette page, quelles sont les grandes notions à connaître ! 
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
