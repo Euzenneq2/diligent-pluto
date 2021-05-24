@@ -22,7 +22,7 @@ sections:
     media_position: right
     media_width: fifty
     align: left
-    padding_top: medium
+    padding_top: large
     padding_bottom: large
     has_border: false
     background_color: none
