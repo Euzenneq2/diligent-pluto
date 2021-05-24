@@ -321,7 +321,7 @@ sections:
           ### Stratégie de contenu
 
 
-          Vous a t-ou déjà parlé de **content marketing** ? Cette **stratégie
+          Vous a-t-on déjà parlé de **content marketing** ? Cette **stratégie
           éditoriale** vous permettra d'optimiser la distribution de vos
           contenus, pour qu'il s'adresse efficacement à votre persona cible.
 
