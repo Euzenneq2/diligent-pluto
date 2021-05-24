@@ -16,7 +16,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
     image_alt: lorem-ipsum
     media_position: right
