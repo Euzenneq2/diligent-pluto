@@ -18,13 +18,13 @@ sections:
       Une **stratégie de contenu**, c'est apprendre à connaître l'environnement
       de l'entreprise avec laquelle je travaille. Connaître son marché, son
       histoire, son positionnement ainsi que ses **cibles** pour une
-      **création** **de contenu** adapté.
+      **création** **de contenu** adaptée.
 
 
       Cela va permettre d'établir cette **stratégie marketing** de façon
       **pertinente** grâce à des **mots-clés**, du **content marketing** et du
       **contenu intelligent**. Dans le but de générer des **leads**, de gagner
-      de nouveaux **prospects**, augmenter votre **taux de conversion** et
+      de nouveaux **prospects**, d'augmenter votre **taux de conversion** et
       d’engager une communauté sur **le long terme**.
   - type: features_section
     template: features_section
