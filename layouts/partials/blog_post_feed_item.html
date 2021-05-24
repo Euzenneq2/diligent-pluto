@@ -41,6 +41,12 @@
 					{{ if $show_categories }}
 						{{ $include_dict := dict "categories" $post.Params.categories "container_class" "item__cat" }}
 						{{ partial "blog_post_categories.html" $include_dict }}
+						{{ if $blog_feed_section.show_date }}
+							<span class="item__meta-sep"> &middot; </span>
+						{{ end }}
+					{{ end }}
+					{{ if $blog_feed_section.show_date }}
+						<span class="item__date"><time datetime="{{ $post.Date | dateFormat "02-01-2006 15:04" }}">{{ $post.Date | dateFormat "02 January, 2006" }}</time></span>
 					{{ end }}
 				</div>
 				{{ end }}
