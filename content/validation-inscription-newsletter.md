@@ -1,5 +1,5 @@
 ---
-robots: "noindex"
+robots: noindex
 title: Remerciement
 sections:
   - type: hero_section
@@ -23,6 +23,10 @@ seo:
   title: Newsletter ⎮ Mary Marketing
   description: Merci de t'être inscrit à ma newsletter !
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Newsletter ⎮ Mary Marketing
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 ---
