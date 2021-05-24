@@ -52,7 +52,6 @@ sections:
         type: feature
         image: images/formaulaire-devis-vous-souhaitez.png
         image_alt: 'Rédaction web, les souhaits des clients'
-        subtitle: Vous souhaitez...
         title: Vous souhaitez...
     feature_padding_vert: medium
     align: center
