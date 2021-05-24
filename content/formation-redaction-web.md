@@ -322,7 +322,7 @@ seo:
         web ? Découvrez mes conseils concernant les différentes formations en
         rédaction web.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/Miniature-partage-formation.png
       relativeUrl: true
   description: >-
     Quelle formation pour devenir rédacteur web ? Qu'est-ce que la rédaction web
