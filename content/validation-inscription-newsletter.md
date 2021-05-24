@@ -36,5 +36,9 @@ seo:
       value: Merci de t'être inscrit à ma newsletter !
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Newsletter ⎮ Mary Marketing
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 ---
