@@ -67,7 +67,7 @@ Ce fichier permet de :
 ## Vos droits
 
 Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), <a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>
-un rendez-vous téléphonique</a>
+contactez-moi</a>
 
 
 Vous pouvez accéder aux données vous concernant, les rectifier ou les faire effacer. Vous disposez également d'un droit à la portabilité et d’un droit à la limitation du traitement de vos données (Consultez le site cnil.fr pour plus d’informations sur vos droits).
