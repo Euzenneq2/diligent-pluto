@@ -308,8 +308,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
+        Étude de la thématique, production de contenu, optimisation SEO, voilà
+        tout ce que vous devez connaître de la rédaction web pour séduire vos
         visiteurs.
       keyName: property
     - name: 'og:image'
