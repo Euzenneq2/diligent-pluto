@@ -317,7 +317,10 @@ seo:
     - name: 'twitter:title'
       value: Rédaction web
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Quelle formation pour devenir rédacteur web ? Qu'est-ce que la rédaction
+        web ? Découvrez mes conseils concernant les différentes formations en
+        rédaction web.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
