@@ -511,10 +511,12 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        content: |
+        content: >
+          J'ai consulté Marylène pour en savoir plus sur le métier de rédacteur
+          web. Elle est de bons conseils et n'hésiter pas à vous aider.
 
 
-          **Anthony Lazure**, *Auto-entrepreneur*
+          **Anthony Lazure**, *Freelance*
         image: /images/temoignage-3.png
         image_alt: Gordon Norman
         image_position: left
