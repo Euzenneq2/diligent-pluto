@@ -327,7 +327,7 @@ sections:
     type: features_section
   - type: grid_section
     template: grid_section
-    title: F.A.Q
+    title: Besoin d'en savoir plus ?
     grid_items:
       - type: grid_item
         template: grid_item
