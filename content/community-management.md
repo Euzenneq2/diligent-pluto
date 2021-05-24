@@ -266,9 +266,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
-        visiteurs.
+        Comment devenir community manager ? À quoi correspond concrètement le
+        community management ? Toutes les réponses sont sur cette page.
       keyName: property
     - name: 'og:image'
       value: /images/square-coriander.png
