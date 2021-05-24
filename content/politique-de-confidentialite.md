@@ -72,7 +72,7 @@ contactez-moi</a>
 
 Vous pouvez accéder aux données vous concernant, les rectifier ou les faire effacer. Vous disposez également d'un droit à la portabilité et d’un droit à la limitation du traitement de vos données (Consultez le site cnil.fr pour plus d’informations sur vos droits).
 
-Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez <a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>
+Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez<a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>
 contactez-moi</a>
 .
 
