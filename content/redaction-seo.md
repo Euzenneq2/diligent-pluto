@@ -484,7 +484,9 @@ seo:
     - name: 'twitter:title'
       value: Rédaction web
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Pourquoi améliorer son site web avec la rédaction SEO ? Comment ça
+        fonctionne ? Découvrez les réponses à vos questions sur cette page.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
