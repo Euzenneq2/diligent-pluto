@@ -21,7 +21,7 @@ sections:
     image_alt: lorem-ipsum
     video_embed_html: >-
       <iframe src="https://player.vimeo.com/video/554288154" width="640"
-      height="360" ></iframe>
+      height="360"></iframe>
     media_position: right
     media_width: fifty
     align: left
