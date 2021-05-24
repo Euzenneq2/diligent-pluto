@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: Mentions légales ⎮ Mary Marketing
     - name: 'twitter:description'
-      value: This is the terms and conditions page
+      value: Découvrez toutes les informations concernant Mary Marketing.
 layout: page
 ---
 ## Identité
