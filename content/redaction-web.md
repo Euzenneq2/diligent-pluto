@@ -32,8 +32,11 @@ sections:
         title_align: left
         content: |
           *   Identification des mots clés cibles
+
           *   Analyse des intentions de recherche
+
           *   Définir votre audience
+
           *   Créer une ligne éditoriale cohérente
         content_align: left
         actions: []
