@@ -325,6 +325,34 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+  - type: grid_section
+    template: grid_section
+    title: F.A.Q
+    grid_items:
+      - type: grid_item
+        template: grid_item
+        title: Combien de temps faut-il pour écrire un article ?
+        content: "Tout dépend de sa\_**thématique**, de la\_**profondeur d'analyse sémantique**, de l'**optimisation SEO**\_à effectuer, du travail de\_**netlinking**\_et de la\_**taille de l'article**. Toutes ces variables peuvent influer sur la durée de ma prestation. Cependant\_**la durée moyenne de rédaction d'un article de 1000 mots varie entre une matinée à deux jours**.\n"
+      - type: grid_item
+        template: grid_item
+        title: Quels sont vos diplômes ?
+        content: "Diplômé d'une licence en\_**marketing événementiel**\_en 2018 et ayant un attrait pour les métiers du digital pendant mon cursus scolaire. J'ai décidé de suivre des\_**formations complémentaires pour mieux comprendre la communication sur internet**.\n\nJ'ai suivi\_**plusieurs certifications**\_sur la\_**rédaction web**, l'**optimisation SEO**\_et l'**UX design**.\n\nJe suis une grande curieuse et donc en\_**veille constante des innovations web**. C'est pourquoi je me forme en continu sur\_**les nouvelles stratégies et outils de demain**.\n"
+      - type: grid_item
+        template: grid_item
+        title: Pourquoi faire appel à une rédactrice web ?
+        content: "Il existe plusieurs raisons pertinent pour\_**faire appel à une rédactrice web**.\n\nVous pouvez faire appel à moi par\_**manque de compétences**. En effet, si vous ne connaissez pas les termes : SEO, wordpress, netlinking, charte éditoriale ou stratégie de contenu, vous ne pourrez pas vous passer d'une rédactrice de contenu !\n\nEnsuite, le\_**manque de temps**\_peut être aussi un élément déclencheur. Effectivement, si vous êtes chef d'entreprise vous avez surement beaucoup de missions et de projets sur le feu. Faire appel à une\_**rédactrice web en freelance**\_vous permettra de laisser vos salariés focus sur leurs missions tout en restant dans les temps de vos projets.\n\nEnfin, il est possible aussi que vous ne disposiez pas de rédacteur dans votre structure. En période de\_**fortes activités** dans votre entreprise, le\_**manque de personnel**\_peu être un frein. Un freelance ne vous engage à rien si ce n'est de payer ces services.\n"
+      - type: grid_item
+        template: grid_item
+        title: Comment se passe une collaboration ?
+        content: "En amont, vous aurez rempli le\_**petit formulaire**\_de contact Calendly pour booker\_[un rendez-vous téléphonique](https://diligent-pluto-bbfe2.netlify.app/contact/).\n\nLa première étape est donc la\_**prise de contact**\_et la\_**définition des missions**.\n\nEnsuite, en fonction de cette première conversation, je vous envoie une\_**recommandation des missions**\_à mettre en place et vous joins également un\_**devis**. Vous relisez tout ça, on modifie si besoin et la collaboration est lancée !\n\nTout au long de cette dernière,\_**je reste à votre disposition**\_pour répondre à toutes vos questions ou remarques.\n\nEn ce qui concerne nos échanges par\_**mail ou par téléphone**, cela dépend de vos envies.\n\nAprès vous avoir livré le\_**travail final**, je reste disponible pour effectuer les modifications éventuelles. Lorsque le rendu vous convient, je vous envoie la facture et vous avez 30 jours pour la régler.\n"
+    grid_cols: two
+    grid_gap_vert: medium
+    grid_gap_horiz: medium
+    enable_cards: true
+    padding_top: large
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
 seo:
   title: Formulaire de devis ⎮ Mary Marketing
   description: >-
