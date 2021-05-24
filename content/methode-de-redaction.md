@@ -445,7 +445,9 @@ seo:
     - name: 'twitter:title'
       value: Rédaction web
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Différentes méthodes et techniques de rédaction web existent et doivent
+        être respectées. Découvrez les plus utilisées dans le métier.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
