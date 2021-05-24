@@ -274,7 +274,7 @@ seo:
         clair et des étapes concrètes vous attendent sur cette page.
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-strategie-de-contenu.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
