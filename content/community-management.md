@@ -270,7 +270,7 @@ seo:
         community management ? Toutes les réponses sont sur cette page.
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-community-management.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
