@@ -87,7 +87,7 @@ seo:
         Grâce à mon blog, découvrez l'actualité concernant le marketing, le
         référencement naturel, la rédaction web ou le digital.
     - name: 'twitter:image'
-      value: /images/square-coriander.png
+      value: /images/Miniature-partage-blog-redac-web.png
       relativeUrl: true
   description: >-
     Grâce à mon blog, découvrez l'actualité concernant le marketing, le
