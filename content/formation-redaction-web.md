@@ -315,7 +315,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Rédaction web
+      value: Formation en rédaction web ⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
         Quelle formation pour devenir rédacteur web ? Qu'est-ce que la rédaction
