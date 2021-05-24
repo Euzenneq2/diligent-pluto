@@ -84,9 +84,8 @@ seo:
       value: Blog rédactrice web SEO ⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
-        Grâce au blog Mary marketing, restez à l'écoutes des dernières nouvelle
-        dans le domaine du marketing, de la rédaction web ou plus généralement,
-        du digital ! 
+        Grâce à mon blog, découvrez l'actualité concernant le marketing, le
+        référencement naturel, la rédaction web ou le digital.
     - name: 'twitter:image'
       value: /images/square-coriander.png
       relativeUrl: true
