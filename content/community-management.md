@@ -262,7 +262,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Rédaction web
+      value: Qu'est-ce que le community management ? ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
