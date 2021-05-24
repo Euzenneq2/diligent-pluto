@@ -137,7 +137,7 @@ Gagner de l’argent grâce à ces propres écrits tout en travaillant de chez s
 
 La mission principale du rédacteur web est **l'écriture**. Il existe toutefois de nombreuses contraintes autour de celle-ci. D'abord, vous devez penser que ces textes sont destinés à internet et être capable de rédiger différents contenus tels que des **articles de blog**, des fiches produits ou encore des **rédactions publicitaires**. Il est essentiel d'être conscient de devoir écrire pour attirer le lecteur tout en satisfaisant votre client.
 
-Devenir rédacteur web, c'est aussi effectuer des **missions** qui pourraient être complémentaires à sa mission principale. Devoir faire de la relecture, de la correction et/ou de la réécriture pour certains de ses écrits ou encore optimiser le **contenu SEO**. Cela va de soi, mais c'est également savoir mettre un contenu sur le web.
+Devenir rédacteur web, c'est aussi effectuer des **missions** qui pourraient être complémentaires à sa mission principale. Devoir faire de la relecture, de la correction et de la réécriture pour certains de ses écrits ou encore optimiser le **contenu SEO**. Cela va de soi, mais c'est également savoir mettre un contenu sur le web.
 
 ## Quelle formation peut-on suivre ?
 
