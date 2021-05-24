@@ -423,7 +423,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Rédaction web
+      value: Qu'est-ce que le référencement naturel ?⎮ Mary Marketing
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
