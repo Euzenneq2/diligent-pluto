@@ -279,7 +279,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Les retombées de notre collaboration
+  - title: Et après ?
     features:
       - content: >+
           Imaginez que votre **site internet** ait un beau design, vous ne
