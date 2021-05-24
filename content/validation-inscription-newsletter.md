@@ -44,5 +44,9 @@ seo:
       value: /_static/app-assets/Miniature-partage-newsletter-Mary-marketing.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: Miniature-partage-newsletter-Mary-marketing.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
