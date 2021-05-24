@@ -85,7 +85,7 @@ sections:
         title_align: left
         content: >
           Les backlinks sont des liens **pointant vers votre site**
-          **Wordpress** (**lien** **entrant**). Ou à l'inverse, des liens placés
+          **WordPress** (**lien** **entrant**). Ou à l'inverse, des liens placés
           sur votre site pointant vers celui d'un partenaire (**lien**
           **sortant**). Cela dépend de ce que vous souhaitez faire. Si vous
           souhaitez acquérir du trafic provenant d'un site **référent**, alors
