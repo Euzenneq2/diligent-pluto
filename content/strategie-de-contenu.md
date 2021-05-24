@@ -266,7 +266,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Rédaction web
+      value: Comment créer une stratégie de contenu ?⎮Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
