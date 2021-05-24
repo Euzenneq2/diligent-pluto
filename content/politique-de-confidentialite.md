@@ -74,7 +74,7 @@ Pour exercer ces droits ou pour toute question sur le traitement de vos données
 
 Société Mary Marketing
 
-Rue de l'Engannerie
+16 rue de l'Engannerie
 
 14000 CAEN
 
