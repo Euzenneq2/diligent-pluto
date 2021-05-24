@@ -282,7 +282,9 @@ seo:
     - name: 'twitter:title'
       value: Comment créer une stratégie de contenu ?⎮Mary Marketing
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Connaissez-vous les différentes stratégies de contenu ? Une définition
+        clair et des étapes concrètes vous attendent sur cette page.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
