@@ -49,7 +49,7 @@ sections:
     has_border: false
     background_color: primary
   - content: >
-      ## Qu'est ce que le référencement naturel ?
+      ## Qu'est-ce que le référencement naturel ?
 
 
       Essentiel si vous souhaitez utiliser le canal web pour votre activité, le
