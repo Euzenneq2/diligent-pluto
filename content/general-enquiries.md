@@ -1,5 +1,5 @@
 ---
-noindex: true
+robots: "noindex"
 title: General enquiries
 sections:
   - type: hero_section
