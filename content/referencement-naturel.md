@@ -109,13 +109,13 @@ sections:
 
 
           Pour que votre page web se positionne correctement sur le moteur de
-          recherche elle doit répondre aux **exigences des robots** crawler.
+          recherche, elle doit répondre aux **exigences des robots** crawler.
 
 
           C'est pourquoi lors de mes **audits SEO**, je vérifie que vos pages
           répondre à ces normes en commençant par la bonne structuration de
           votre contenu avec les balises HTML (h1,h2,h3...). Que vous ayez
-          rédiger des paragraphes bien distincts, que celui comporte des liens
+          rédigé des paragraphes bien distincts, que celui comporte des liens
           internes et externes, l'enrichissement de votre champ sémantique et
           l'**optimisation des médias** présents.
         content_align: left
