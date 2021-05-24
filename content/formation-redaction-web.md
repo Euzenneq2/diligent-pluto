@@ -309,7 +309,7 @@ seo:
         rédaction web.
       keyName: property
     - name: 'og:image'
-      value: /images/square-coriander.png
+      value: /_static/app-assets/Miniature-partage-formation.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
