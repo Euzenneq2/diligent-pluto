@@ -117,7 +117,7 @@ sections:
 
 
           Elle permettra également d'**atteindre vos objectifs** fixés, et de
-          conserver un lien et une harmonie entre dans votre **contenu**
+          conserver un lien et une harmonie dans votre **contenu**
           **marketing**.
 
 
