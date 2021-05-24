@@ -231,7 +231,9 @@ seo:
     - name: 'twitter:title'
       value: Tout savoir sur le cocon sémantique ⎮ Mary Marketing
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Qu'est-ce qu'un cocon sémantique ? À quoi ça sert ? Comment le réaliser
+        ? Apprenez à structurer vos pages web et améliorer votre classement.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
