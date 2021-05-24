@@ -322,8 +322,8 @@ seo:
       value: Rédaction web pour captivez vos visiteurs ! ⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
-        Ce que je vous propose en rédaction web : étude de la thématique,
-        production de contenu, optimisation SEO. Tout pour séduire vos
+        Étude de la thématique, production de contenu, optimisation SEO, voilà
+        tout ce que vous devez connaître de la rédaction web pour séduire vos
         visiteurs.
     - name: 'twitter:image'
       value: images/Miniature-partage-edaction-web.png
