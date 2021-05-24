@@ -2,7 +2,7 @@
 title: À propos
 sections:
   - title: 'Bonjour, moi c''est Mary !'
-    subtitle: Rédactrice web SEO et travailleuse indépendante depuis peu.
+    subtitle: Rédactrice web SEO et travailleuse indépendante.
     actions: []
     image_alt: Mary-marketing-redactrice
     media_position: right
