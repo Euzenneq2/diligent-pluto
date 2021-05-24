@@ -305,7 +305,7 @@ sections:
     type: features_section
   - features:
       - content: >
-          ### Après notre collaboration, vous pourrez constater les nombreuses
+          Après notre collaboration, vous pourrez constater les nombreuses
           retombées.
         actions: []
         image_alt: lorem-ipsum
