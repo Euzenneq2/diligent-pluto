@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Terms and Conditions
+      value: Mentions légales ⎮ Mary Marketing
     - name: 'twitter:description'
       value: This is the terms and conditions page
 layout: page
