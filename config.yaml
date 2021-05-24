@@ -1,6 +1,6 @@
 title: Mary Marketing V2
 baseURL: /
-languageCode: "fr"
+languageCode: fr
 params:
   layout_type: full-width
   style: minimal
@@ -82,7 +82,7 @@ params:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: true
+        no_follow: false
         type: action
       - label: Politique de confidentialité
         url: /politique-de-confidentialite/
