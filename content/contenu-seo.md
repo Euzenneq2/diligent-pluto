@@ -474,7 +474,9 @@ seo:
     - name: 'twitter:title'
       value: Comment améliorer son contenu SEO ? ⎮ Mary Marketing
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Comment créer du contenu SEO ? Pourquoi est-ce si important ? Découvrez,
+        sur cette page, quelles sont les grandes notions à connaître ! 
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
