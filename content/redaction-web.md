@@ -146,6 +146,7 @@ sections:
         label: Je me lance !
         style: primary
         icon_position: left
+        url: /devis-redaction-web/
     actions_position: bottom
     align: left
     padding_top: medium
