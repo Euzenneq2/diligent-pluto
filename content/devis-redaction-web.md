@@ -339,6 +339,12 @@ seo:
       value: Formulaire de devis ⎮ Mary Marketing
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Sur cette page, vous trouverez toutes les informations que vous avez
+        besoins avant de passer à l'action.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
