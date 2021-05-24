@@ -48,57 +48,57 @@ seo:
 layout: post
 thumb_image_alt: Article- 7 pièges à éviter en rédaction web
 ---
-En ligne, la durée d’attention d’un utilisateur est relativement courte. Les rédacteurs web doivent aller à l’essentiel pour le captiver avant qu’il ne se concentre sur un autre contenu web.
+En ligne, la durée d’attention d’un utilisateur est relativement courte. Les **rédacteurs web** doivent aller à l’essentiel pour le captiver avant qu’il ne se concentre sur un autre **contenu web**.
 
-Pour éviter de perdre du temps inutilement en rédigeant, voici 7 pièges qui vous font perdre du temps en rédaction web à éviter à tout prix.
+Pour éviter de perdre du temps inutilement en rédigeant, voici **7 pièges** qui vous font perdre du temps en rédaction web à éviter à tout prix.
 
 ## Utiliser un langage trop soutenu
 
-Le style rédactionnel est propre a chacun.
+Le style **rédactionnel** est propre a chacun.
 
-Le risque avec la rédaction de textes, les articles de blog, les livres blancs, les fiches-produits et autres rédactions web, c'est que vous devez vous adapter au public-cible et à son envie de comprendre le message directement sans passer par de long paragraphe de culture générale ou de métaphores.
+Le risque avec la **rédaction de textes**, les **articles de blog**, les **livres blancs**, les **fiches-produits** et autres rédactions web, c'est que vous devez vous adapter au **public-cible** et à son envie de comprendre le message directement sans passer par de long **paragraphe** de culture générale ou de métaphores.
 
-Conseil de rédaction : pour satisfaire vos lecteurs et marquer des points auprès de lui, choisissez votre type de contenu et allez simplement à l'essentielle.
+Conseil de rédaction : pour satisfaire vos **lecteurs** et marquer des points auprès de lui, choisissez votre **type de contenu** et allez simplement à l'essentielle.
 
 ## Ne penser qu'au référencement naturel
 
-Il y a quelque temps, le référencement sur les moteurs de recherche rimait avec : mots clés compliqués, orthographiés différemment et surtout répétition à outrance. Ces efforts n'était pas forcément payant au niveau des résultats sur la SERP Google.
+Il y a quelque temps, le **référencement** sur les **moteurs de recherche** rimait avec : **mots-clés** compliqués, orthographiés différemment et surtout répétition à outrance. Ces efforts n'était pas forcément payant au niveau des résultats sur la **SERP Google**.
 
-Désormais, les écrits de votre content marketing doivent être utiles, pertinents, optimisés, sans plagiat et de qualités. Il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur champ sémantique et champ lexical. De plus vous devez faire attention au nombre de mots que vous utilisez sur votre site internet.
+Désormais, les écrits de votre **content marketing** doivent être utiles, pertinents, **optimisés**, sans plagiat et de qualités. Il est nécessaire d'utiliser les mots clés à bon escient en utilisant leur **champ sémantique** et **champ lexical**. De plus vous devez faire attention au b que vous utilisez sur votre site internet.
 
-Il est important de se concentrer en premier lieu, au contenu éditorial puis aux mots clés et à la longue traîne, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs. Créez une stratégie éditoriale, elle vous servira de guide.
+Il est important de se concentrer en premier lieu, au **contenu éditorial** puis aux mots clés et à la **longue traîne**, sinon, vous risquerez de noyer votre sujet auprès de vos lecteurs. Créez une b, elle vous servira de guide.
 
 ## Faire l'impasse sur le SEO
 
-Afin d'écrire pour le web, vous devez connaître un maximum de chose concernant le référencement. Il y a des règles à savoir afin de réellement optimiser votre contenu rédactionnel et surtout pour que cette optimisation SEO soit parfaite aux yeux du moteur de recherche Google.
+Afin d'**écrire pour le web**, vous devez connaître un maximum de chose concernant le **référencement**. Il y a des règles à savoir afin de réellement optimiser votre b et surtout pour que cette **optimisation SEO** soit parfaite aux yeux du moteur de recherche Google.
 
-En effet, dans votre stratégie de contenu vous devez intégrer votre mot clé principal dans la tire, les sous-titres et aussi les paragraphes de l'article web. Évidemment, vous devez faire attention à la lisibilité de votre contenu.
+En effet, dans votre stratégie de contenu vous devez intégrer votre **mot clé principal** dans la **tire**, les **sous-titres** et aussi les **paragraphes** de l'**article web**. Évidemment, vous devez faire attention à la lisibilité de votre contenu.
 
 Même s'il ne faut pas en abuser, vous devez porter une attention particulière au bon référencement. Ne perdez pas votre temps sur un contenu qui ne sera pas vu.
 
-Voici un extrait de ces règles pour s'assurer d'une qualité de rédaction : 
+Voici un extrait de ces règles pour s'assurer d'une **qualité de rédaction** : 
 
-*   Structurer vos articles en utilisant les balises (HTML, Alt, méta, titre, Hn, meta-description, etc.)
+*   Structurer vos articles en utilisant les **balises** (HTML, Alt, méta, titre, Hn, meta-description, etc.)
 
-*   Rédiger un contenu unique et un contenu de qualité
+*   Rédiger un **contenu unique** et un **contenu de qualité**
 
-*   Éviter le duplicate content (contenu dupliqué en français)
+*   Éviter le **duplicate content** (contenu dupliqué en français)
 
-*   Créer un contenu qualitatif
+*   Créer un **contenu qualitatif**
 
-*   Pensez à référencer vos images
+*   Pensez à **référencer** vos images
 
-*   Créer des liens internes et externes sur vos pages web
+*   Créer des **liens internes** et externes sur vos **pages web**
 
-*   Créer un maillage interne
+*   Créer un **maillage interne**
 
-*   Faite naître une communauté
+*   Faite naître une **communauté**
 
-*   Penser en permanence à votre audience
+*   Penser en permanence à votre **audience**
 
 ## Le jargon dans vos écrits
 
-Un bon rédacteur web sait quand utiliser du langage soutenu et quand utiliser du jargon. Pensez à imaginer vos lecteurs pour ajuster votre façon de parler. En effet, il serait dommage d'utiliser trop de jargon pour parler d'un sujet tel que le système économique des États-Unis, par exemple. Sauf si votre but et de vulgariser ce thème qui semble complexe pour une partie de vos lecteurs.
+Un **bon rédacteur web** sait quand utiliser du langage soutenu et quand utiliser du jargon. Pensez à imaginer vos lecteurs pour ajuster votre façon de parler. En effet, il serait dommage d'utiliser trop de jargon pour parler d'un sujet tel que le système économique des États-Unis, par exemple. Sauf si votre but et de vulgariser ce thème qui semble complexe pour une partie de vos lecteurs.
 
 Autre exemple de création de contenu, si vous devez écrire un article de 2000 mots sur la construction d'une maison autosuffisante, il est important de savoir si vous vous adressez à des architectes ou à des propriétaires.
 
@@ -110,15 +110,15 @@ Apprenez à connaitre vos lecteurs avant même d'écrire votre contenu. Vous sau
 
 Sur le web, il existe des milliers d'articles qui traite le même sujet de façon différentes.
 
-Vous travaillez ou travaillerez avec de nombreuses personnes tout au long de votre carrière. Chaque client vous demande un ton différent pour la rédaction de contenu. Mais malgré cela vous constater que vous avez toujours le même style d'écriture ? 
+Vous travaillez ou travaillerez avec de nombreuses personnes tout au long de votre carrière. Chaque client vous demande un **ton différent** pour la rédaction de contenu. Mais malgré cela vous constater que vous avez toujours le même style d'écriture ? 
 
-La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de l'inspiration et surtout vous permettre de rédiger du contenu plus unique. Grace à votre point de vue personnel que vous pourrez modeler, vous donnerez à votre travail une chance d'émerger parmi les autres rédactions.
+La solution, c'est de changer de point de vue. En effet, déplacer votre point de vue peut vous redonner de **l'inspiration** et surtout vous permettre de rédiger du contenu plus unique. Grace à votre point de vue personnel que vous pourrez modeler, vous donnerez à votre travail une chance d'émerger parmi les autres rédactions.
 
 Apprenez à laisser votre touche personnelle dans vos récits.
 
 ## Ne négligez pas la conclusion
 
-Une des plus grandes erreurs des rédacteurs est celle-ci : pensez que le contenu éditorial de notre article est suffisant pour le lecteur. Or, il est impossible de terminer un article sans conclusion. Pensez à la technique de journalisme : la pyramide inversée.
+Une des plus grandes erreurs des rédacteurs est celle-ci : pensez que le **contenu éditorial** de notre article est suffisant pour le lecteur. Or, il est impossible de terminer un article sans conclusion. Pensez à la technique de journalisme : la **pyramide inversée**.
 
 Ayez toujours en tête qu'un bon article doit être conclu par une petite phrase, une citation, un appel à l'action ou par une incitation à utiliser ce que le lecteur vient de lire. Remercier le lecteur pour son temps passer à lire votre rédaction, de façon plus ou moins subtile.
 
@@ -128,4 +128,4 @@ Cela vous permettra aussi de résumé succinctement votre article de blog. Mais 
 
 Vous faites ce métier pour gagner votre vie. Ne perdez pas votre temps à écrire un roman littéraire qui ne sera pas vue ou un texte fatigant qui ne sera jamais lu.
 
-Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction SEO. C'est le moment d'appliquer ces conseils. Si toutefois vous souhaitez approfondir vos compétences sur le netlinking, les techniques de rédactions ou apprendre comment écrire n'hésitez pas faire une formation en rédaction web.
+Vous connaissez à présent les erreurs à ne pas commettre pour éviter de perdre du temps lors de la rédaction SEO. C'est le moment d'appliquer ces **conseils**. Si toutefois vous souhaitez approfondir vos compétences sur le **netlinking**, les **techniques de rédactions** ou apprendre comment écrire n'hésitez pas faire une **formation en rédaction web**.
