@@ -240,7 +240,7 @@ sections:
     template: cta_section
     content: >
       <strong><font size="6">Un article de blog optimisé SEO en accord avec votre marketing de
-      contenu, à partir de 0,10 €/mot**
+      contenu, à partir de 0,10 €/mot</font></strong>
 
 
       Gagnez en notoriété !
