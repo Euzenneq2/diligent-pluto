@@ -346,9 +346,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Comment se passe une collaboration ?
-        content: "En amont, vous aurez rempli le\_**petit formulaire**\_de contact Calendly pour booker <a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>
-        **un rendez-vous téléphonique**</a>
-        .\n\nLa première étape est donc la\_**prise de contact**\_et la\_**définition des missions**.\n\nEnsuite, en fonction de cette première conversation, je vous envoie une\_**recommandation des missions**\_à mettre en place et vous joins également un\_**devis**. Vous relisez tout ça, on modifie si besoin et la collaboration est lancée !\n\nTout au long de cette dernière,\_**je reste à votre disposition**\_pour répondre à toutes vos questions ou remarques.\n\nEn ce qui concerne nos échanges par\_**mail ou par téléphone**, cela dépend de vos envies.\n\nAprès vous avoir livré le\_**travail final**, je reste disponible pour effectuer les modifications éventuelles. Lorsque le rendu vous convient, je vous envoie la facture et vous avez 30 jours pour la régler.\n"
+        content: "En amont, vous aurez rempli le\_**petit formulaire**\_de contact Calendly pour booker <a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”> **un rendez-vous téléphonique**</a> .\n\nLa première étape est donc la\_**prise de contact**\_et la\_**définition des missions**.\n\nEnsuite, en fonction de cette première conversation, je vous envoie une\_**recommandation des missions**\_à mettre en place et vous joins également un\_**devis**. Vous relisez tout ça, on modifie si besoin et la collaboration est lancée !\n\nTout au long de cette dernière,\_**je reste à votre disposition**\_pour répondre à toutes vos questions ou remarques.\n\nEn ce qui concerne nos échanges par\_**mail ou par téléphone**, cela dépend de vos envies.\n\nAprès vous avoir livré le\_**travail final**, je reste disponible pour effectuer les modifications éventuelles. Lorsque le rendu vous convient, je vous envoie la facture et vous avez 30 jours pour la régler.\n"
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
@@ -357,6 +355,31 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
 seo:
   title: Formulaire de devis ⎮ Mary Marketing
   description: >-
