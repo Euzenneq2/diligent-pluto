@@ -367,7 +367,7 @@ sections:
         type: action
         label: Demandez un devis
     actions_position: top
-    actions_width: fourty
+    actions_width: sixty
     align: center
     padding_top: medium
     padding_bottom: medium
