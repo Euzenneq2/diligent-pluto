@@ -164,11 +164,11 @@ sections:
           ### Balise TITRE
 
 
-          Encore un pilier du référencement sur Google : la **balise TITRE** est
+          Encore un pilier du référencement sur Google : la **balise TITLE** est
           toute aussi importante, même plus, que la balise H1.
 
 
-          Il y a des règles ici aussi, à respecter pour une bonne balise TITRE.
+          Il y a des règles ici aussi, à respecter pour une bonne balise TITLE.
           Cette balise sera à remplir sur chacune des **pages de votre site**
           internet. Elle décrit chaque page et doit comporter moins de 60
           caractères.
