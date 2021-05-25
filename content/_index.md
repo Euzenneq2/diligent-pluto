@@ -463,7 +463,7 @@ sections:
     background_color: primary
     content: >
       <strong><font size="6">Besoin de bâtir une stratégie digitale pour développer votre notoriété
-      ?**
+      ?</font></strong>
   - type: grid_section
     template: grid_section
     title: "Témoignages\_clients"
