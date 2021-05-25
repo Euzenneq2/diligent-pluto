@@ -52,6 +52,7 @@ sections:
 
           Découvrez les principaux points que vous devez retrouver dans les
           sommaires des formations de rédaction web.
+        title: 'Pour cela, une formation'
     feature_padding_vert: medium
     align: center
     padding_top: medium
