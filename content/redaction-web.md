@@ -129,7 +129,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      **À partir de 0,10 €/mot, vous pouvez avoir un contenu SEO optimisé pour
+      <strong><font size="6">À partir de 0,10 €/mot, vous pouvez avoir un contenu SEO optimisé pour
       Google**
 
 
