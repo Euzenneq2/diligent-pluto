@@ -306,7 +306,7 @@ sections:
         content_align: center
         actions:
           - url: >-
-              https://diligent-pluto-bbfe2.netlify.app/redaction-web/#demandedevis
+              https://diligent-pluto-bbfe2.netlify.app/redaction-web/#redactionweb
             style: secondary
             has_icon: false
             icon: arrow-left
