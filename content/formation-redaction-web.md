@@ -275,7 +275,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: |
-      <strong><font size="6">Sauter enfin le pas, formez-vous au métier de la rédaction web
+      <strong><font size="6">Sauter enfin le pas, formez-vous au métier de la rédaction web</font></strong>
 
       Vous avez toutes les clés en main !
     actions:
