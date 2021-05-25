@@ -22,6 +22,11 @@ seo:
       value: Mentions légales ⎮ Mary Marketing
     - name: 'twitter:description'
       value: Découvrez toutes les informations concernant Mary Marketing.
+    - name: 'og:image'
+      value: >-
+        /_static/app-assets/Miniature-partage-termes%20et%20confidentialite%CC%81.png
+      keyName: property
+      relativeUrl: true
 layout: page
 ---
 ## Identité
