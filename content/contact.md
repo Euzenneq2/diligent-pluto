@@ -1,5 +1,4 @@
 ---
-robots: noindex
 title: Contact
 sections:
   - type: hero_section
