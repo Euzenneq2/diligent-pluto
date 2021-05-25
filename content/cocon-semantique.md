@@ -188,7 +188,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      **Demandez un contenu optimisé SEO correspondant à votre cocon sémantique,
+      <strong><font size="6">Demandez un contenu optimisé SEO correspondant à votre cocon sémantique,
       à partir de 0,10 €/mot**
 
 
