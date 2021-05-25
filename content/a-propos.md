@@ -1,5 +1,5 @@
 ---
-title: À propos
+title: <a name ="apropos">À propos</a>
 sections:
   - title: 'Bonjour, moi c''est Mary !'
     subtitle: Rédactrice web SEO et travailleuse indépendante.
