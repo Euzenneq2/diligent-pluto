@@ -312,7 +312,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      Le contenu SEO est un groupement de règles bien spécifique</font></strong>
+      <strong><font size="6">Le contenu SEO est un groupement de règles bien spécifique</font></strong>
 
 
       Bien les respecter est nécessaire pour générer du trafic et grimper dans
