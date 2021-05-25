@@ -513,7 +513,7 @@ sections:
         template: grid_item
         content: >
           J'ai consulté Marylène pour en savoir plus sur le métier de rédacteur
-          web. Elle est de bons conseils et n'hésiter pas à vous aider.
+          web. Elle est de bons conseils et n'hésite pas à vous aider.
 
 
           **Anthony Lazure**, *Freelance*
