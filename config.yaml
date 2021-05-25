@@ -45,7 +45,7 @@ params:
         label: Contactez-moi
         url: /contact/
         style: secondary
-        no_follow: true
+        no_follow: false
         has_icon: false
         new_window: false
     has_anncmnt: true
