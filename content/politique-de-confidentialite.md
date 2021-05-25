@@ -30,6 +30,11 @@ seo:
         /_static/app-assets/Miniature-partage-termes%20et%20confidentialite%CC%81.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: >-
+        /_static/app-assets/Miniature-partage-termes%20et%20confidentialite%CC%81.png
+      keyName: property
+      relativeUrl: true
   description: Découvrez la politique de confidentialité du site internet Mary Marketing.
 sections:
   - type: hero_section
