@@ -130,16 +130,7 @@ sections:
 
           Il intervient aussi lors de la **mise en place d'une stratégie
           éditoriale**, pour répondre à la **problématique de son client**.
-        actions:
-          - type: action
-            template: action
-            label: Plus de détails
-            url: /redaction-web/
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            no_follow: false
+        actions: []
         image: images/metier-redacteur-web.png
         image_alt: Métier-rédacteur-web
         media_position: right
@@ -462,8 +453,8 @@ sections:
     padding_bottom: large
     background_color: primary
     content: >
-      <strong><font size="6">Besoin de bâtir une stratégie digitale pour développer votre notoriété
-      ?</font></strong>
+      <strong><font size="6">Besoin de bâtir une stratégie digitale pour
+      développer votre notoriété ?</font></strong>
   - type: grid_section
     template: grid_section
     title: "Témoignages\_clients"
