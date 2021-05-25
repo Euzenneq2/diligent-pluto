@@ -356,8 +356,7 @@ sections:
     has_border: false
     background_color: secondary
   - actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: false
         icon: arrow-left
