@@ -6,7 +6,7 @@ sections:
       Le contenu SEO ne se base pas simplement sur des **techniques** à
       apprendre telles que les moyens d'adapter le texte aux **impératifs des
       algorithmes**. Le contenu SEO est plus **compliqué** que cela. En effet,
-      savez-vous composer une **balise TITRE** ou une **balise
+      savez-vous composer une **balise TITLE** ou une **balise
       méta-description** dans les règles de l'art ? Savez-vous optimiser des
       images ? Savez-vous rédiger un **contenu utile plus lisible** ? Pour
       répondre à ces questions et vous faciliter la vie ainsi que la création de
@@ -29,8 +29,10 @@ sections:
     image: images/contenu-seo.png
   - type: cta_section
     template: cta_section
-    content: |
-      <strong><font size="6">Profitez, pour 0,10 €/mot d'une rédaction SEO avec les balises</font></strong>
+    content: >
+      <strong><font size="6">Profitez, pour 0,10 €/mot d'une rédaction SEO avec
+      les balises</font></strong>
+
 
       C'est le moment de remonter dans la SERP Google !
     actions:
@@ -312,7 +314,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      <strong><font size="6">Le contenu SEO est un groupement de règles bien spécifique</font></strong>
+      <strong><font size="6">Le contenu SEO est un groupement de règles bien
+      spécifique</font></strong>
 
 
       Bien les respecter est nécessaire pour générer du trafic et grimper dans
