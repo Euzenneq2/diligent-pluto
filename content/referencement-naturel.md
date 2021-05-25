@@ -260,7 +260,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      <strong><font size="6">Le référencement naturel : un ensemble de techniques
+      <strong><font size="6">Le référencement naturel : un ensemble de techniques</font></strong>
 
 
       Le taux de trafic de votre site sera considérablement augmenté. Atteignez
