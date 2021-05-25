@@ -364,7 +364,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: dEMANDE
+        label: Demandez un devis
     actions_position: top
     actions_width: fourty
     align: center
