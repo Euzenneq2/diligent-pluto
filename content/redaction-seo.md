@@ -29,7 +29,7 @@ sections:
     template: cta_section
     content: >
       <strong><font size="6">Obtenez votre rédaction SEO optimisé pour Google, balise méta comprise
-      pour 0,10€/mot.**
+      pour 0,10€/mot.</font></strong>
 
 
       Soyez meilleur que vos concurrents, l'inaction à un coût !
