@@ -272,7 +272,7 @@ sections:
         align: center
         image: images/portrait-mary-marketing.png
         content: >
-          <font size="8">Enchanté, moi c'est Mary !</font></br> Rédactrice web et en **freelance** depuis peu. Je suis ravi de vous
+          <font size="6">Enchanté, moi c'est Mary !</font></br> Rédactrice web et en **freelance** depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre **stratégie éditoriale**, en
           vous produisant des contenus de qualités et **optimisés SEO**."
     feature_padding_vert: small
