@@ -678,7 +678,7 @@ sections:
       - type: action
         template: action
         label: Rejoignez-nous !
-        url: /contact/
+        url: '/contact/#contact'
         style: primary
         no_follow: true
     grid_items:
