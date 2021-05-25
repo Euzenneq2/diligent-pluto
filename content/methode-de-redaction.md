@@ -26,7 +26,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      **Demandez vos articles optimisés SEO, balise méta comprise pour
+      <strong><font size="6">Demandez vos articles optimisés SEO, balise méta comprise pour
       0,10 €/mot**
 
 
