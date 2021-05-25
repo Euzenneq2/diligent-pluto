@@ -189,7 +189,7 @@ sections:
     template: cta_section
     content: >
       <strong><font size="6">Demandez un contenu optimisé SEO correspondant à votre cocon sémantique,
-      à partir de 0,10 €/mot**
+      à partir de 0,10 €/mot</font></strong>
 
 
       La rigueur est la clé du référencement naturel !
