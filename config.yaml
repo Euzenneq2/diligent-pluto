@@ -72,7 +72,7 @@ params:
       - type: action
         template: action
         label: À propos
-        url: /a-propos/
+        url: '/a-propos/#apropos'
         style: link
         no_follow: false
       - label: Mentions légales
