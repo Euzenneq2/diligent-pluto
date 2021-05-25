@@ -728,7 +728,7 @@ sections:
         title: Valérie Hausknost
         subtitle: Designer Graphique
         title_align: center
-        image: images/Valérie-Hausknost.jpg
+        image: images/Valerie-Hausknost.jpg
         image_position: top
         image_alt: Valérie Hausknost - Designer Graphique
     grid_cols: four
