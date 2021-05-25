@@ -258,7 +258,7 @@ sections:
         image_alt: portrait-mary-marketing
         media_position: right
         media_width: thirty-three
-        subtitle:
+        subtitle: null
         actions:
           - label: En savoir plus
             url: /a-propos/
@@ -273,9 +273,10 @@ sections:
         image: images/portrait-mary-marketing.png
         content: >
           <strong><font size="6">Enchanté, moi c'est Mary !</font></strong>
-          </br></br>Rédactrice web et en **freelance** depuis peu. Je suis ravi de vous
-          proposer mes services pour déployer votre **stratégie éditoriale**, en
-          vous produisant des contenus de qualités et **optimisés SEO**."
+          </br></br>Rédactrice web et en **freelance** depuis peu. Je suis ravi
+          de vous proposer mes services pour déployer votre **stratégie
+          éditoriale**, en vous produisant des contenus de qualités et
+          **optimisés SEO**."
     feature_padding_vert: small
     background_color: primary
     background_image_position: right center
@@ -461,8 +462,8 @@ sections:
     padding_bottom: large
     background_color: primary
     content: >
-      ## **Besoin de bâtir une stratégie digitale pour développer votre
-      notoriété ?**
+      **Besoin de bâtir une stratégie digitale pour développer votre notoriété
+      ?**
   - type: grid_section
     template: grid_section
     title: "Témoignages\_clients"
