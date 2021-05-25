@@ -462,7 +462,7 @@ sections:
     padding_bottom: large
     background_color: primary
     content: >
-      **Besoin de bâtir une stratégie digitale pour développer votre notoriété
+      <strong><font size="6">Besoin de bâtir une stratégie digitale pour développer votre notoriété
       ?**
   - type: grid_section
     template: grid_section
