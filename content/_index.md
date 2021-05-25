@@ -258,7 +258,7 @@ sections:
         image_alt: portrait-mary-marketing
         media_position: right
         media_width: thirty-three
-        subtitle: 'Enchanté, moi c''est Mary !'
+        subtitle: '<font size="5">Ceci est la taille de police 5</font></p>Enchanté, moi c''est Mary !'
         actions:
           - label: En savoir plus
             url: /a-propos/
