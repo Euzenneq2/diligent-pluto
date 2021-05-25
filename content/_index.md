@@ -779,7 +779,7 @@ sections:
       - type: action
         template: action
         label: Organiser un rendez-vous téléphonique
-        url: /contact/
+        url: '/contact/#contact'
         style: primary
         no_follow: true
     actions_position: bottom
