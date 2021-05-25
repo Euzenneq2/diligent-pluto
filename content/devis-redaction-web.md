@@ -356,7 +356,7 @@ sections:
     has_border: false
     background_color: secondary
   - actions:
-      - url: '#'
+      - url: '#devis'
         style: link
         has_icon: false
         icon: arrow-left
