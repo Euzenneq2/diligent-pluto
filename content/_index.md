@@ -157,15 +157,7 @@ sections:
           Finalement,  je vous ferais part de mes **recommandations en ce qui
           concerne la stratégie marketing à mettre en place pour atteindre vos
           objectifs.**
-        actions:
-          - type: action
-            template: action
-            label: En savoir plus
-            url: /redaction-web/
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/Moteur-de-recherche.png
         image_alt: Moteur-de-recherche
         media_position: left
