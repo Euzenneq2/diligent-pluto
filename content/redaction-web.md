@@ -252,7 +252,7 @@ sections:
     background_image_repeat: no-repeat
     content: >
       Restructurer votre site pour améliorer votre visibilité et accroître le
-      nombre de visiteurs&#xA;
+      nombre de visiteurs&#xA;</font></strong>
   - type: features_section
     template: features_section
     features:
