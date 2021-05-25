@@ -1,5 +1,5 @@
 ---
-title: <a name ="demandedevis">Rédaction web</a>
+title: <a name ="demandedevis">Rédaction web </a>
 sections:
   - type: hero_section
     template: hero_section
