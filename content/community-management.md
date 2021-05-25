@@ -235,7 +235,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      Multipliez votre présences sur les médias sociaux grâce au
+      <strong><font size="6">Multipliez votre présences sur les médias sociaux grâce au
       web-marketing</font></strong>
 
 
