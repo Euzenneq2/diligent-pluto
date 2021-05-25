@@ -251,7 +251,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      Améliorez votre netlinking grâce à un contenu unique, à partir de
+      <strong><font size="6">Améliorez votre netlinking grâce à un contenu unique, à partir de
       0,10 €/mot</font></strong>
 
 
