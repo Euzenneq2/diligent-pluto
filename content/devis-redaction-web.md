@@ -356,7 +356,8 @@ sections:
     has_border: false
     background_color: secondary
   - actions:
-      - url: '#devis'
+      - url: >-
+          https://diligent-pluto-bbfe2.netlify.app/devis-redaction-web/#demandedevis
         style: primary
         has_icon: false
         icon: arrow-left
