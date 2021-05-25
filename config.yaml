@@ -99,7 +99,7 @@ params:
       - type: action
         template: action
         label: Tout les articles
-        url: /blog/
+        url: '/blog/#blog'
         style: link
         no_follow: false
       - type: action
