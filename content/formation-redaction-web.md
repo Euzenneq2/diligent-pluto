@@ -52,6 +52,28 @@ sections:
 
           Découvrez les principaux points que vous devez retrouver dans les
           sommaires des formations de rédaction web.
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
     feature_padding_vert: medium
     align: center
     padding_top: medium
@@ -274,8 +296,10 @@ sections:
     type: features_section
   - type: cta_section
     template: cta_section
-    content: |
-      <strong><font size="6">Sauter enfin le pas, formez-vous au métier de la rédaction web</font></strong>
+    content: >
+      <strong><font size="6">Sauter enfin le pas, formez-vous au métier de la
+      rédaction web</font></strong>
+
 
       Vous avez toutes les clés en main !
     actions:
