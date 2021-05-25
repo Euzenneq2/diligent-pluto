@@ -29,7 +29,7 @@ sections:
     template: cta_section
     content: >
       **Bénéficiez de votre article optimisé SEO pour 0,10€/mot (balise méta
-      comprise).**
+      comprise).</font></strong>
 
 
       Vos concurrents sont déjà positionné ? Sachez qu'il n'est jamais trop tard
