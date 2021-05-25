@@ -129,8 +129,8 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      <strong><font size="6">À partir de 0,10 €/mot, vous pouvez avoir un contenu SEO optimisé pour
-      Google</font></strong>
+      <strong><font size="6">À partir de 0,10 €/mot, vous pouvez avoir un
+      contenu SEO optimisé pour Google</font></strong>
 
 
       Grâce à des techniques bien définies, soyez meilleur que vos concurrents !
@@ -201,7 +201,7 @@ sections:
         template: grid_item
         title: Des pages web
         title_align: left
-        content: "Les pages web doivent répondre à une problématique de\_**référencement naturel**.\n\nQu'est-ce que le référencement naturel ? Il s'agit de soumettre du\_**contenu rédactionnel de qualité**, avec un champ lexical et sémantique riche, un nombre de mots conséquent afin de répondre aux exigences de Google et ainsi être dans le top 10 des apparitions après une recherche.\n\nTout ceci s'améliore grâce à une stratégie de contenu et en partie à la\_**pyramide inversée**\_(type de rédaction qui consiste à aller droit au but) ainsi que toute l’**optimisation SEO**\_(Balise meta : balise TITRE et méta description).\n"
+        content: "Les pages web doivent répondre à une problématique de\_**référencement naturel**.\n\nQu'est-ce que le référencement naturel ? Il s'agit de soumettre du\_**contenu rédactionnel de qualité**, avec un champ lexical et sémantique riche, un nombre de mots conséquent afin de répondre aux exigences de Google et ainsi être dans le top 10 des apparitions après une recherche.\n\nTout ceci s'améliore grâce à une stratégie de contenu et en partie à la\_**pyramide inversée**\_(type de rédaction qui consiste à aller droit au but) ainsi que toute l’**optimisation SEO**\_(Balise meta : balise TITLE et méta description).\n"
         content_align: left
         actions: []
         actions_align: left
@@ -251,8 +251,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      <strong><font size="6">Restructurer votre site pour améliorer votre visibilité et accroître le
-      nombre de visiteurs</font></strong>
+      <strong><font size="6">Restructurer votre site pour améliorer votre
+      visibilité et accroître le nombre de visiteurs</font></strong>
   - type: features_section
     template: features_section
     features:
