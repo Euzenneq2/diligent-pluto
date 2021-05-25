@@ -305,8 +305,7 @@ sections:
           freelance.
         content_align: center
         actions:
-          - url: >-
-              https://diligent-pluto-bbfe2.netlify.app/redaction-web/#redactionweb
+          - url: '/#redactionweb'
             style: secondary
             has_icon: false
             icon: arrow-left
