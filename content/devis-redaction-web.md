@@ -368,7 +368,7 @@ sections:
     actions_position: top
     actions_width: fourty
     align: center
-    padding_top: small
+    padding_top: medium
     padding_bottom: medium
     has_border: false
     background_color: none
