@@ -244,7 +244,7 @@ sections:
         subtitle: null
         actions:
           - label: En savoir plus
-            url: /a-propos/
+            url: '/a-propos/#apropos'
             style: primary
             has_icon: false
             icon: arrow-left
