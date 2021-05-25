@@ -305,7 +305,8 @@ sections:
           freelance.
         content_align: center
         actions:
-          - url: /redaction-web/
+          - url: >-
+              https://diligent-pluto-bbfe2.netlify.app/devis-redaction-web/#demandedevis
             style: secondary
             has_icon: false
             icon: arrow-left
