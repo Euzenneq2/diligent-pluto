@@ -27,7 +27,7 @@ sections:
     template: cta_section
     content: >
       <strong><font size="6">Demandez vos articles optimisés SEO, balise méta comprise pour
-      0,10 €/mot**
+      0,10 €/mot</font></strong>
 
 
       Maintenant, ayez un contenu visible !
