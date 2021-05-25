@@ -3,7 +3,7 @@ title: Rédaction SEO
 sections:
   - title: La rédaction SEO pour développer votre business
     content: >
-      Le métier de **rédacteur web SEO** ne laisse aucune part au hasard.
+      Le métier de **rédacteur web SEO** ne laisse aucune chance au hasard.
       Beaucoup se lance dans l’aventure avec peu de connaissance, cependant des
       **techniques exigeantes** et un **large panel d’outils** articulent ces
       métiers autour de la rédaction SEO. Le prix d’un **rédacteur web** est
@@ -28,8 +28,8 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      <strong><font size="6">Obtenez votre rédaction SEO optimisé pour Google, balise méta comprise
-      pour 0,10€/mot.</font></strong>
+      <strong><font size="6">Obtenez votre rédaction SEO optimisé pour Google,
+      balise méta comprise pour 0,10€/mot.</font></strong>
 
 
       Soyez meilleur que vos concurrents, l'inaction à un coût !
@@ -320,8 +320,10 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    content: |
-      <strong><font size="6">La rédaction SEO : techniques qui augmentent votre visibilité</font></strong>
+    content: >
+      <strong><font size="6">La rédaction SEO : techniques qui augmentent votre
+      visibilité</font></strong>
+
 
       et par conséquent le nombre de visiteurs sur votre site web...
   - actions: []
