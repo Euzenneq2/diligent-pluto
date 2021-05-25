@@ -30,7 +30,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: |
-      <strong><font size="6">Profitez, pour 0,10 €/mot d'une rédaction SEO avec les balises**
+      <strong><font size="6">Profitez, pour 0,10 €/mot d'une rédaction SEO avec les balises</font></strong>
 
       C'est le moment de remonter dans la SERP Google !
     actions:
