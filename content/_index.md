@@ -272,7 +272,7 @@ sections:
         align: center
         image: images/portrait-mary-marketing.png
         content: >
-        <font face="Times New Roman">le texte est en Times New Roman</font>
+          <font face="Times New Roman">le texte est en Times New Roman</font>
           <font size="6">Enchanté, moi c'est Mary !</font>
           </br></br>Rédactrice web et en **freelance** depuis peu. Je suis ravi de vous
           proposer mes services pour déployer votre **stratégie éditoriale**, en
