@@ -305,7 +305,7 @@ sections:
           freelance.
         content_align: center
         actions:
-          - url: '/#redactionweb'
+          - url: '/redaction-web#redactionweb'
             style: secondary
             has_icon: false
             icon: arrow-left
