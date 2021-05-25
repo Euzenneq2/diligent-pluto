@@ -52,7 +52,7 @@ sections:
 
           Découvrez les principaux points que vous devez retrouver dans les
           sommaires des formations de rédaction web.
-        title: Formez vous
+        title: 'Se former, c''est la clé'
     feature_padding_vert: medium
     align: center
     padding_top: medium
