@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: <a name ="contact">Contact</a>
 sections:
   - type: hero_section
     template: hero_section
