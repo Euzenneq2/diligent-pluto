@@ -77,7 +77,7 @@ sections:
         icon: linkedin
         icon_position: center
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
         url: 'https://www.linkedin.com/company/mary-marketing'
       - url: 'https://www.facebook.com/marymarketing.pro'
