@@ -90,6 +90,8 @@ De plus, pour **obtenir des backlinks** parfait, voici quelques critères de qua
 
 À noter, vous ne pouvez pas échanger des liens partenaire comme bon vous semble. En effet, si vous faite cela, vous encourez au mieux un mauvais positionnement et au pire une pénalité de **Google Penguin** (Google pingouin en français : est un filtre du moteur de recherche Google précisément réservé à contrôler le **netlinking** d'un site)
 
+![](/\_static/app-assets/article-lien-follow.jpg)
+
 ## Qu'est-ce qu'un lien nofollow ?
 
 Pour la plupart des utilisateurs d'un site internet, les liens **dofollow** et nofollow ont la même apparence. Cependant, les liens nofollow ont un morceau de code, appelé attribut, qui signale à l'algorithme des moteurs de recherche qu'il ne doit pas suivre le lien. Cela ressemble à ceci : **rel="nofollow"**.
