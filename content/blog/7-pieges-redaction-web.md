@@ -96,6 +96,8 @@ Voici un extrait de ces règles pour s'assurer d'une **qualité de rédaction** 
 
 *   Penser en permanence à votre **audience**
 
+****![](/\_static/app-assets/article-pieges-de-redaction-web.jpg)
+
 ## Le jargon dans vos écrits
 
 Un **bon rédacteur web** sait quand utiliser du langage soutenu et quand utiliser du jargon. Pensez à imaginer vos lecteurs pour ajuster votre façon de parler. En effet, il serait dommage d'utiliser trop de jargon pour parler d'un sujet tel que le système économique des États-Unis, par exemple. Sauf si votre but et de vulgariser ce thème qui semble complexe pour une partie de vos lecteurs.
