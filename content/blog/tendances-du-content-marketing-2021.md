@@ -60,8 +60,6 @@ Voyons quelles sont les **tendances marketing** qui vont s’imposer cette anné
 
 Découvrez les tendances clés à ne pas oublier !
 
-
-
 ## Tendance n°1 : Les Influenceurs et les Lives
 
 Les confinements et les obligations de rester cloitré à la maison ont engendré la suppression d’événements. Personne n’a pas pu assister à des événements en physique ni se réunir avec des amis ou de la famille. Ce qui a mis en avant les **médias sociaux** et le **marketing numérique**.
@@ -85,6 +83,8 @@ Il est nécessaire pour les marques d’être en accord avec leurs valeurs et le
 Ce concept peut être un **levier marketing** pour votre marque. En effet, une fois identifié par les consommateurs comme une marque fiable vous pourrez améliorer votre **référencement SEO** et par la suite amener votre **site internet** en bonne position dans les **résultats des moteurs de recherche**.
 
 Cette tendance s’accentue de plus en plus. C’est le moment de finalisé sa **stratégie digitale** et de la moderniser avec cette tendance de transparence.
+
+![](/\_static/app-assets/article-content-marketing.jpg)
 
 ## Tendance n°3 : Améliorer l’expérience client grâce au contenu généré par l’utilisateur
 
