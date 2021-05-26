@@ -398,9 +398,9 @@ sections:
       - title: Formation
         title_align: center
         content: >
-          Je propose des **formations** pour vous et vos équipes afin de vous
-          rendre **autonome** en rédaction SEO ! Vous aurez les compétences en
-          interne afin d'écrire pour le web.
+          Des **formations** pour vous et vos équipes afin de vous rendre
+          **autonome** en rédaction SEO ! Vous aurez les compétences en interne
+          afin d'écrire pour le web.
         content_align: center
         actions:
           - label: En savoir plus
