@@ -60,6 +60,8 @@ Voyons quelles sont les **tendances marketing** qui vont s’imposer cette anné
 
 Découvrez les tendances clés à ne pas oublier !
 
+
+
 ## Tendance n°1 : Les Influenceurs et les Lives
 
 Les confinements et les obligations de rester cloitré à la maison ont engendré la suppression d’événements. Personne n’a pas pu assister à des événements en physique ni se réunir avec des amis ou de la famille. Ce qui a mis en avant les **médias sociaux** et le **marketing numérique**.
@@ -78,7 +80,7 @@ Cette **stratégie social media** ou **stratégie de communication**, permet ent
 
 Les **consommateurs** ont du mal à se laisser tenter par l’achat d’un produit d’une marque qu’ils ne trouvent pas fiable. Cela reste logique, quelle idée d’investir dans un produit qui ne nous convient pas ? Par conséquent, le lien est essentiel pour les marques qui veulent rester proche des valeurs des consommateurs en 2021.
 
-Il est nécessaire pour les marques d’être en accord avec leurs valeurs et leur but. Elles devront de plus en plus trouver des moyens de créer ou faire perdurer le lien avec ces consommateurs ou toucher de nouvelles** cibles**.
+Il est nécessaire pour les marques d’être en accord avec leurs valeurs et leur but. Elles devront de plus en plus trouver des moyens de créer ou faire perdurer le lien avec ces consommateurs ou toucher de nouvelles\*\* cibles\*\*.
 
 Ce concept peut être un **levier marketing** pour votre marque. En effet, une fois identifié par les consommateurs comme une marque fiable vous pourrez améliorer votre **référencement SEO** et par la suite amener votre **site internet** en bonne position dans les **résultats des moteurs de recherche**.
 
