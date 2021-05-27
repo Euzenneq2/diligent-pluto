@@ -435,7 +435,7 @@ sections:
       - type: action
         template: action
         label: Contactez-moi !
-        url: '/contact/#contact'
+        url: /contact/
         style: primary
         no_follow: true
     actions_position: right
