@@ -99,6 +99,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/categorie-information-outils-technologique.png
       - title: Marketing automation
         title_align: left
         content: >-
