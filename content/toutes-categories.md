@@ -46,17 +46,7 @@ sections:
         image: images/categorie-e-commerce.png
       - title: Freelancing
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Découvrez une multitude d’articles traitant de divers sujets liés à\_**l’entrepreneuriat**. Je vous partage mes conseils de vie et vous fais un\_**retour d’expérience**\_des différentes plateformes de\_**micro-services**\_que j’ai pu tester.\n"
         content_align: left
         actions: []
         actions_align: left
