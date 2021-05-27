@@ -147,17 +147,7 @@ sections:
         image: images/categorie-referencement-naturel.png
       - title: Réseaux sociaux et social selling
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Dans cet catégorie, je vais vous parler de l'**actualité du Marketing**\_sur les\_**réseaux sociaux**\_:\_**Twitter**,\_**Facebook**,\_**LinkedIn**,\_**Instagram**,\_**YouTube**,\_**TikTok**,\_**Snapchat**,\_**Clubhouse**, etc. Vous retrouverez mes expériences et conseils autour de ces\_**média sociaux**.\n"
         content_align: left
         actions: []
         actions_align: left
