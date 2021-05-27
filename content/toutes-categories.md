@@ -113,6 +113,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/categorie-marketing-automation.png
       - title: Publicité et AdWords
         title_align: left
         content: >-
