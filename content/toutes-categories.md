@@ -11,16 +11,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    actions:
-      - label: S'abonner
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: true
-        type: action
-        url: '#newsletter'
+    actions: []
     image: images/blog-redac-web.png
     media_position: right
     media_width: fifty
