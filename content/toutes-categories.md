@@ -29,6 +29,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/categorie-actualite-marketing-digital.png
       - title: E-commerce
         title_align: left
         content: >-
