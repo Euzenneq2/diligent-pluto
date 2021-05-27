@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Toutes les catégories
-    subtitle: >-
-      Chaque semaine, retrouvez mes conseils et stratégies qui fonctionnent pour
-      bâtir et optimiser votre contenu sur le web.
+    subtitle: hoisissez la catégorie
     align: center
     padding_top: medium
     padding_bottom: none
