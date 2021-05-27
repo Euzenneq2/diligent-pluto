@@ -680,7 +680,7 @@ sections:
         label: Rejoignez-nous !
         url: /contact/
         style: primary
-        no_follow: false
+        no_follow: true
     grid_items:
       - type: grid_item
         template: grid_item
