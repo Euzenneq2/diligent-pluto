@@ -10,7 +10,7 @@ sections:
     padding_bottom: none
     background_color: none
     actions: []
-    image: images/blog-redac-web.png
+    image: images/toutes-categories.png
     media_position: right
     media_width: fifty
     image_alt: Blog - Rédacteur web SEO
