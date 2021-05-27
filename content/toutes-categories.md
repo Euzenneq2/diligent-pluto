@@ -116,17 +116,10 @@ sections:
         image: images/categorie-marketing-automation.png
       - title: Publicité et AdWords
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Trouvez ici toutes les informations concernant Google AdWords et la
+          publicité sur le moteur de recherche Google. La publicité Display est
+          très intéressante si vous gérez un e-commerce.
         content_align: left
         actions: []
         actions_align: left
