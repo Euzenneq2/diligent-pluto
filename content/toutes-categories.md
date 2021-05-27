@@ -133,17 +133,7 @@ sections:
         image: images/categorie-publicite-adwords.png
       - title: Référencement naturel
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Un\_**site web**\_est utile à votre activité, seulement s’il est\_**visible**\_sur\_**Google**. Cependant, il n’est pas simple d’être bien\_**positionné**\_sur les\_**moteurs de recherche**. Découvrez tous les secrets du référencement naturel.\n"
         content_align: left
         actions: []
         actions_align: left
