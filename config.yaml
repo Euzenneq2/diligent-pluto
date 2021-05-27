@@ -108,7 +108,6 @@ params:
         no_follow: true
       - type: action
         template: action
-        url: /blog/categorie/referencement-naturel-seo/
         style: link
         label: Par tag
         no_follow: true
