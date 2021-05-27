@@ -98,7 +98,7 @@ params:
     secondary_nav_links:
       - type: action
         template: action
-        label: Actualité du marketing digital
+        label: Par catégorie
         style: link
         no_follow: false
       - type: action
