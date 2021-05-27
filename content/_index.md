@@ -724,7 +724,7 @@ sections:
       - type: action
         template: action
         label: Voir plus d'articles
-        url: '/blog/#blog'
+        url: /blog/
         style: primary
         no_follow: true
     blog_feed_cols: three
