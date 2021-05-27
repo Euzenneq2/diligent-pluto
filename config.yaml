@@ -99,7 +99,6 @@ params:
       - type: action
         template: action
         label: Actualité du marketing digital
-        url: '/blog/#blog'
         style: link
         no_follow: false
       - type: action
