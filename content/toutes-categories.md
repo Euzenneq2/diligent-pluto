@@ -85,6 +85,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/categorie-inbound-marketing.png
       - title: Informatique et outils technologique
         title_align: left
         content: >-
