@@ -88,17 +88,7 @@ sections:
         image: images/categorie-inbound-marketing.png
       - title: Informatique et outils technologique
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "**Sécurité informatique**,\_**logiciel de virtualisation**,\_**cloud computing**, etc. Vous trouverez  dans cette catégories tous les\_articles concernant des **outils**\_et\_**logiciels**\_que j’utilise dans mon travail au quotidien.\n"
         content_align: left
         actions: []
         actions_align: left
