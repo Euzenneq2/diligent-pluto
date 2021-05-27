@@ -18,7 +18,6 @@ sections:
     actions: []
     grid_items:
       - title: Actualité du marketing digital
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
