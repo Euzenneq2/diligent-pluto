@@ -162,6 +162,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/violet-whale.png
       - title: WordPress
         title_align: left
         content: "Comme vous devez le savoir,\_**WordPress est le CMS le plus populaire**\_et le plus utilisé au monde.\_Découvrez-en plus à ce sujet.\n"
