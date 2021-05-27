@@ -144,6 +144,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/categorie-referencement-naturel.png
       - title: Réseaux sociaux et social selling
         title_align: left
         content: >-
