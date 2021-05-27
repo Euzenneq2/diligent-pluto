@@ -111,7 +111,7 @@ params:
         template: action
         url: /blog/categorie/referencement-naturel-seo/
         style: link
-        label: Référencement naturel
+        label: Par tag
         no_follow: true
     has_tertiary_nav: true
     tertiary_nav_title: Newsletter
