@@ -32,17 +32,7 @@ sections:
         image: images/categorie-actualite-marketing-digital.png
       - title: E-commerce
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Je vais vous partager les actualités sur ce secteur qui révolutionne aujourd’hui le quotidien des consommateurs. Optimiser votre business peut vous permettre un gain d’1% de votre\_**taux de conversion**.\n"
         content_align: left
         actions: []
         actions_align: left
