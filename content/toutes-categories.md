@@ -164,17 +164,7 @@ sections:
         type: grid_item
       - title: WordPress
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Comme vous devez le savoir,\_**WordPress est le CMS le plus populaire**\_et le plus utilisé au monde.\_Découvrez-en plus à ce sujet.\n"
         content_align: left
         actions: []
         actions_align: left
