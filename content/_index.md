@@ -437,7 +437,7 @@ sections:
         label: Contactez-moi !
         url: /contact/
         style: primary
-        no_follow: true
+        no_follow: false
     actions_position: right
     actions_width: fourty
     align: left
