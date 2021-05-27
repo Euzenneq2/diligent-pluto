@@ -74,17 +74,7 @@ sections:
         image: images/categorie-growth-hacking.png
       - title: Inbound marketing
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "En termes de retour sur investissement l’Inbound Marketing et très intéressante pour vos clients\_**BtoB**. Découvrez tous les articles ç ce sujet.\n"
         content_align: left
         actions: []
         actions_align: left
