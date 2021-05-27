@@ -16,7 +16,7 @@ sections:
         label: Contactez-moi
         url: /contact/
         style: secondary
-        no_follow: false
+        no_follow: true
       - type: action
         template: action
         label: Découvrez mon blog
