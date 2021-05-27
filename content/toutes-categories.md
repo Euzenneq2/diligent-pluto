@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Toutes les catégories
-    subtitle: >-
-      Trouvez votre bonheur parmi mes articles souhaitez, choisissez la
-      catégorie
+    subtitle: 'Trouvez votre bonheur, choisissez une catégorie !'
     align: center
     padding_top: medium
     padding_bottom: none
