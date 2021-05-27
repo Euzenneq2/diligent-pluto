@@ -98,7 +98,7 @@ params:
     secondary_nav_links:
       - type: action
         template: action
-        label: Par catégorie
+        label: Tous les articles
         style: link
         no_follow: false
       - type: action
