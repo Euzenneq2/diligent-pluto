@@ -165,7 +165,7 @@ sections:
         image: images/violet-whale.png
       - title: WordPress
         title_align: left
-        content: "Comme vous devez le savoir,\_**WordPress est le CMS le plus populaire**\_et le plus utilisé au monde.\_Découvrez-en plus à ce sujet.\n"
+        content: "Comme vous devez le savoir,\_**WordPress est le CMS le plus populaire**\_et le plus utilisé au monde.\_WordPress est un outil avec lequel je travaille depuis de nombreuses années maintenant. Découvrez-en plus à ce sujet.\n"
         content_align: left
         actions: []
         actions_align: left
