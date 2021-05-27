@@ -726,7 +726,7 @@ sections:
         label: Voir plus d'articles
         url: /blog/
         style: primary
-        no_follow: false
+        no_follow: true
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
