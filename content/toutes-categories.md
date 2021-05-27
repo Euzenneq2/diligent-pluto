@@ -147,7 +147,11 @@ sections:
         image: images/categorie-referencement-naturel.png
       - title: Réseaux sociaux et social selling
         title_align: left
-        content: "Dans cet catégorie, je vais vous parler de l'**actualité du Marketing**\_sur les\_**réseaux sociaux**\_:\_**Twitter**,\_**Facebook**,\_**LinkedIn**,\_**Instagram**,\_**YouTube**,\_**TikTok**,\_**Snapchat**,\_**Clubhouse**, etc. Vous retrouverez mes expériences et conseils autour de ces\_**média sociaux**.\n"
+        content: >
+          Dans cet catégorie, je vais vous parler de **l'actualité du
+          Marketing** sur les réseaux sociaux : Twitter, Facebook, LinkedIn,
+          Instagram, YouTube, TikTok, Snapchat, Clubhouse, etc. Vous retrouverez
+          mes expériences et conseils autour de ces **média sociaux**.
         content_align: left
         actions: []
         actions_align: left
