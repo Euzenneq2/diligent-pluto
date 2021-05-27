@@ -1,5 +1,5 @@
 ---
-title: <a name ="blog">Blog</a>
+title: Toutes les catégories
 sections:
   - type: hero_section
     template: hero_section
