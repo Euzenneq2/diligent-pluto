@@ -781,7 +781,7 @@ sections:
         label: Organiser un rendez-vous téléphonique
         url: /contact/
         style: primary
-        no_follow: true
+        no_follow: false
     actions_position: bottom
     align: center
     padding_top: large
