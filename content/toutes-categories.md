@@ -60,17 +60,7 @@ sections:
         image: images/categorie-freelancing.png
       - title: Growth hacking
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Découvrez les meilleures astuces pour notamment optimiser le\_**taux de conversion**\_de votre site internet et comment\_**générer du trafic**\_à moindre coût.\n"
         content_align: left
         actions: []
         actions_align: left
