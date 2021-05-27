@@ -5,7 +5,7 @@ sections:
     template: hero_section
     title: Toutes les catégories
     subtitle: >-
-      Trouvez votre bonheur parmi mes articles que vous souhaitez, choisissez la
+      Trouvez votre bonheur parmi mes articles souhaitez, choisissez la
       catégorie
     align: center
     padding_top: medium
