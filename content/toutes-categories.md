@@ -102,17 +102,7 @@ sections:
         image: images/categorie-information-outils-technologique.png
       - title: Marketing automation
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Vous pouvez aussi opter pour\_**l’automatisation de votre stratégie marketing**, en montant différents scénarios (Workflow).\_Apprenez comment dans ces articles réalisé avec soins.\n"
         content_align: left
         actions: []
         actions_align: left
