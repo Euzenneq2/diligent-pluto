@@ -130,6 +130,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/categorie-publicite-adwords.png
       - title: Référencement naturel
         title_align: left
         content: >-
