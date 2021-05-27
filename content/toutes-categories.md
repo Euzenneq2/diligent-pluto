@@ -135,7 +135,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Informatique et outils technologique
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
