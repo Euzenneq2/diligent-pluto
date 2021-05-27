@@ -18,7 +18,7 @@ sections:
     grid_items:
       - title: Actualité du marketing digital
         title_align: left
-        content: "Trouvez dans cette catégorie toutes les\_**nouveautés du numérique**\_et les études vous permettant d’être à la pointe du\_**référencement naturelle**, des\_**réseaux sociaux **ou encore du\_**e-commerce.**\n"
+        content: "Trouvez dans cette catégorie toutes les\_**nouveautés du numérique**\_et les études vous permettant d’être à la pointe du\_**référencement naturelle**, des\_**réseaux sociaux** ou encore du\_**e-commerce.**\n"
         content_align: left
         actions: []
         actions_align: left
