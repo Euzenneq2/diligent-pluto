@@ -234,8 +234,17 @@ sections:
           Instagram, YouTube, TikTok, Snapchat, etc. Vous retrouverez mes
           expériences et conseils autour de ces **média sociaux**.
         content_align: left
-        actions: []
-        actions_align: right
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
         actions_width: auto
         image_alt: Catégorie - Réseaux sociaux et social selling - Mary Marketing
         image_position: top
