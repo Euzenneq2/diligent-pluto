@@ -323,8 +323,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Grâce à mon blog, découvrez l'actualité concernant le marketing, le
-        référencement naturel, la rédaction web ou le digital.
+        Découvrez  les différentes catégories que j'alimente grâce à mes
+        articles de blog.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Miniature-partage-blog-redac-web.png
