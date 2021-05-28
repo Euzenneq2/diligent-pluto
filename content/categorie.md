@@ -319,7 +319,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog rédactrice web SEO ⎮ Mary Marketing
+      value: Catégories ⎮ Mary Marketing
       keyName: property
     - name: 'og:description'
       value: >-
