@@ -258,7 +258,7 @@ sections:
         content: "Comme vous devez le savoir,\_**WordPress est le CMS le plus populaire**\_et le plus utilisé au monde.\_WordPress est un outil avec lequel je travaille depuis de nombreuses années maintenant. Découvrez-en plus à ce sujet.\n"
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir cette catégorie
             url: '#'
             style: link
             has_icon: false
