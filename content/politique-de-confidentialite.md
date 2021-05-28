@@ -78,6 +78,8 @@ Pour exercer ces droits ou pour toute question sur le traitement de vos données
 
 Société Mary Marketing
 
+SIRET : 898 296 231 00019
+
 16 rue de l'Engannerie
 
 14000 CAEN
