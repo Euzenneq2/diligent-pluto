@@ -235,7 +235,7 @@ sections:
           expériences et conseils autour de ces **média sociaux**.
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: right
         actions_width: auto
         image_alt: Catégorie - Réseaux sociaux et social selling - Mary Marketing
         image_position: top
