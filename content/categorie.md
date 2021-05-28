@@ -186,7 +186,7 @@ sections:
         content_align: left
         actions:
           - label: Découvrir cette catégorie
-            url: /blog/categorie/
+            url: /blog/categorie/publicite-adwords/
             style: primary
             has_icon: false
             icon: arrow-left
