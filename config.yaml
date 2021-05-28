@@ -100,7 +100,7 @@ params:
         template: action
         label: Tous les articles
         style: link
-        no_follow: false
+        no_follow: true
       - type: action
         template: action
         label: Par catégories
