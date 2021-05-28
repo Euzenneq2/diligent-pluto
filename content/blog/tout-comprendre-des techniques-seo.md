@@ -82,7 +82,7 @@ Le SEO est primordial car :
 *   Le SEO est important pour les grands sites internet. Ces derniers ayant plus d'un auteur, peuvent bénéficier du référencement de manière directe et indirecte. Leur avantage direct est une augmentation du trafic naturel et leur avantage indirect est de disposer d'un cadre commun (listes de contrôle) à utiliser avant de publier du contenu sur le site.
 *   Le référencement peut vous donner une longueur d'avance sur la concurrence. Si deux sites internet vendent la même chose, le site optimisé pour les moteurs de recherche a plus de chances d'avoir plus de clients et de réaliser plus de ventes.
 
-![Article sur le SEO Mary Marketing](/\_static/app-assets/article-tout-comprendre-seo.png)
+![Article sur le SEO Mary Marketing](/images/article-tout-comprendre-seo.png)
 
 ## &#xD;&#xA;SEO pour les débutants : introduction
 
