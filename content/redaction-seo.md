@@ -36,7 +36,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Contactez moi
+        label: Contactez-moi
         url: /contact/
         style: primary
         icon_position: left
