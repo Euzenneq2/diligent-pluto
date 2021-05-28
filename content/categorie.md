@@ -86,7 +86,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/categorie-inbound-marketing.png
-      - title: Informatique et outils technologique
+      - title: Informatique & outils technologique
         title_align: left
         content: "**Sécurité informatique**,\_**logiciel de virtualisation**,\_**cloud computing**, etc. Vous trouverez  dans cette catégories tous les\_articles concernant des **outils**\_et\_**logiciels**\_que j’utilise.\n"
         content_align: left
