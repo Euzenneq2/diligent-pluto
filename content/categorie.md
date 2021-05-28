@@ -29,7 +29,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: <a href="http://mon-lien.com">images/categorie-actualite-marketing-digital.png
+        image: <a href="https://diligent-pluto-bbfe2.netlify.app/blog/categorie/actualite-marketing-digital/">images/categorie-actualite-marketing-digital.png
       - title: E-commerce
         title_align: left
         content: "Je vais vous partager les actualités sur ce secteur qui révolutionne aujourd’hui le quotidien des consommateurs. Optimiser votre business peut vous permettre un gain d’1% de votre\_**taux de conversion**.\n"
