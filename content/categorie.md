@@ -334,6 +334,10 @@ seo:
       value: >-
         Découvrez  les différentes catégories que j'alimente grâce à mes
         articles de blog.
+    - name: 'og:image'
+      value: /_static/app-assets/Miniature-partage-categories.png
+      keyName: property
+      relativeUrl: true
   description: >-
     Découvrez  les différentes catégories que j'alimente grâce à mes articles de
     blog.
