@@ -764,7 +764,6 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: Mes articles
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
