@@ -208,7 +208,7 @@ sections:
         content: "Un\_**site web**\_est utile à votre activité, seulement s’il est\_**visible**\_sur\_**Google**. Cependant, il n’est pas simple d’être bien\_**positionné**\_sur les\_**moteurs de recherche**. Découvrez tous les secrets du référencement naturel.\n"
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: Catégorie - Référencement naturel- Mary Marketing
         image_position: top
