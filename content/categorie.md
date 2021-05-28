@@ -13,7 +13,7 @@ sections:
     image: images/toutes-categories.png
     media_position: right
     media_width: fifty
-    image_alt: Blog - Rédacteur web SEO
+    image_alt: Catégories des blogs
   - actions: []
     grid_items:
       - title: Actualité du marketing digital
