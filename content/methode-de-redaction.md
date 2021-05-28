@@ -26,8 +26,8 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      <strong><font size="6">Demandez vos articles optimisés SEO, balise méta comprise pour
-      0,10 €/mot</font></strong>
+      <strong><font size="6">Demandez vos articles optimisés SEO, balise méta
+      comprise pour 0,10 €/mot</font></strong>
 
 
       Maintenant, ayez un contenu visible !
@@ -262,7 +262,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: true
+        no_follow: false
         type: action
         label: 'Demandez votre devis, c''est gratuit'
     actions_position: bottom
@@ -277,7 +277,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      <strong><font size="6">Les méthodes de rédaction : efficaces pour un SEO de qualité</font></strong>
+      <strong><font size="6">Les méthodes de rédaction : efficaces pour un SEO
+      de qualité</font></strong>
 
 
       Et ce contenu de qualité, pourra améliorer considérablement votre
