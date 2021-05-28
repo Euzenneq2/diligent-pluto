@@ -717,30 +717,6 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - type: blog_feed_section
-    template: blog_feed_section
-    title: Mes articles
-    actions:
-      - type: action
-        template: action
-        label: Voir plus d'articles
-        url: /blog/
-        style: primary
-        no_follow: true
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_date: false
-    show_categories: true
-    show_author: true
-    show_excerpt: true
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - actions: []
     image_alt: null
     media_position: right
