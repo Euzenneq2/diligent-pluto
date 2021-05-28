@@ -159,7 +159,7 @@ sections:
         content: "Vous pouvez aussi opter pour\_**l’automatisation de votre stratégie marketing**, en montant différents scénarios (Workflow).\_Apprenez comment dans ces articles réalisé avec soins.\n"
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir cette catégorie
             url: '#'
             style: link
             has_icon: false
