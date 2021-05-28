@@ -90,7 +90,7 @@ sections:
         content: "Découvrez les meilleures astuces pour notamment optimiser le\_**taux de conversion**\_de votre site internet et comment\_**générer du trafic**\_à moindre coût.\n"
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
