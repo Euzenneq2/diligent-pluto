@@ -209,7 +209,7 @@ sections:
         content_align: left
         actions:
           - label: Découvrir cette catégorie
-            url: '#'
+            url: /blog/categorie.
             style: link
             has_icon: false
             icon: arrow-left
