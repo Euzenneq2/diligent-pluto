@@ -313,7 +313,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Blog rédactrice web SEO ⎮ Mary Marketing
+  title: Catégories ⎮ Mary Marketing
   extra:
     - name: 'og:type'
       value: website
