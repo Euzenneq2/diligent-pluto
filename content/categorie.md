@@ -259,7 +259,7 @@ sections:
         content_align: left
         actions:
           - label: Découvrir cette catégorie
-            url: /blog/categorie/wordpress-site/
+            url: /blog/categorie/wordpress-site-web/
             style: primary
             has_icon: false
             icon: arrow-left
