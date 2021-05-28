@@ -188,8 +188,8 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      <strong><font size="6">Demandez un contenu optimisé SEO correspondant à votre cocon sémantique,
-      à partir de 0,10 €/mot</font></strong>
+      <strong><font size="6">Demandez un contenu optimisé SEO correspondant à
+      votre cocon sémantique, à partir de 0,10 €/mot</font></strong>
 
 
       La rigueur est la clé du référencement naturel !
@@ -200,7 +200,7 @@ sections:
         url: /devis-redaction-web/
         style: primary
         icon_position: left
-        no_follow: true
+        no_follow: false
     actions_position: bottom
     align: left
     padding_top: medium
