@@ -28,8 +28,8 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      <strong><font size="6">Bénéficiez de votre article optimisé SEO pour 0,10€/mot (balise méta
-      comprise).</font></strong>
+      <strong><font size="6">Bénéficiez de votre article optimisé SEO pour
+      0,10€/mot (balise méta comprise).</font></strong>
 
 
       Vos concurrents sont déjà positionné ? Sachez qu'il n'est jamais trop tard
@@ -245,7 +245,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: true
+        no_follow: false
         type: action
         label: 'Demandez votre devis, c''est gratuit'
     actions_position: bottom
@@ -260,7 +260,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     content: >
-      <strong><font size="6">Le référencement naturel : un ensemble de techniques</font></strong>
+      <strong><font size="6">Le référencement naturel : un ensemble de
+      techniques</font></strong>
 
 
       Le taux de trafic de votre site sera considérablement augmenté. Atteignez
