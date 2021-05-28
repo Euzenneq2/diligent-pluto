@@ -209,7 +209,7 @@ sections:
         content_align: left
         actions:
           - label: Découvrir cette catégorie
-            url: /blog/categorie/referencement-naturel/
+            url: /blog/categorie/referencement-naturel-seo/
             style: primary
             has_icon: false
             icon: arrow-left
