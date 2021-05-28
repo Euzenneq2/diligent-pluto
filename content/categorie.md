@@ -74,7 +74,7 @@ sections:
         image: images/categorie-growth-hacking.png
       - title: Inbound marketing
         title_align: left
-        content: "En termes de retour sur investissement l’Inbound Marketing et très intéressante pour vos clients\_**BtoB**. Découvrez tous les articles à ce sujet.\n"
+        content: "En termes de retour sur investissement l’Inbound Marketing et très intéressante pour vos clients\_**BtoB**.\n\nDécouvrez tous les articles à ce sujet.\n"
         content_align: left
         actions: []
         actions_align: left
