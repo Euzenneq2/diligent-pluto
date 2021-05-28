@@ -105,7 +105,7 @@ params:
         template: action
         label: Par catégories
         style: link
-        no_follow: true
+        no_follow: false
         url: /categorie/
     has_tertiary_nav: true
     tertiary_nav_title: Newsletter
