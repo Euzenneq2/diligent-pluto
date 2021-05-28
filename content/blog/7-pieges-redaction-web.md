@@ -96,7 +96,7 @@ Voici un extrait de ces règles pour s'assurer d'une **qualité de rédaction** 
 
 *   Penser en permanence à votre **audience**
 
-![](/\_static/app-assets/article-pieges-de-redaction-web.jpg)
+![](/images/article-pieges-de-redaction-web.jpg)
 
 ## Le jargon dans vos écrits
 
