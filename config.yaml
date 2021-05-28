@@ -106,6 +106,7 @@ params:
         label: Par catégories
         style: link
         no_follow: true
+        url: /categorie/
       - type: action
         template: action
         style: link
