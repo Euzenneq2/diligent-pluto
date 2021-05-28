@@ -117,9 +117,9 @@ sections:
       - title: Publicité et AdWords
         title_align: left
         content: >
-          Trouvez ici toutes les informations concernant Google AdWords et la
-          publicité sur le moteur de recherche Google. La publicité Display est
-          très intéressante si vous gérez un e-commerce.
+          Trouvez ici toutes les informations concernant **Google AdWords** et
+          la publicité sur le moteur de recherche Google. La publicité Display
+          est très intéressante si vous gérez un e-commerce.
         content_align: left
         actions: []
         actions_align: left
