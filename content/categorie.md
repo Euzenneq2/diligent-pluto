@@ -112,7 +112,16 @@ sections:
         title_align: left
         content: "En termes de retour sur investissement l’Inbound Marketing et très intéressante pour vos clients\_**BtoB**.\n\nDécouvrez tous les articles à ce sujet.\n"
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
