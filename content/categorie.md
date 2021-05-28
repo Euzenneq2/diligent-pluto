@@ -138,7 +138,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: Catégorie
+        image_alt: Catégorie - Référencement - Mary Marketing
         image_position: top
         image_width: fifty
         image_align: left
