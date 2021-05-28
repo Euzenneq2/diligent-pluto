@@ -25,8 +25,7 @@ sections:
     media_position: right
     media_width: fifty
     image_alt: Blog - Rédacteur web SEO
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
