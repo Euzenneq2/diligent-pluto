@@ -18,7 +18,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: true
+        no_follow: false
         type: action
         url: '#newsletter'
     image: images/blog-redac-web.png
