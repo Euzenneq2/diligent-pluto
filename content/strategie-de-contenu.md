@@ -239,8 +239,8 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      <strong><font size="6">Un article de blog optimisé SEO en accord avec votre marketing de
-      contenu, à partir de 0,10 €/mot</font></strong>
+      <strong><font size="6">Un article de blog optimisé SEO en accord avec
+      votre marketing de contenu, à partir de 0,10 €/mot</font></strong>
 
 
       Gagnez en notoriété !
@@ -251,7 +251,7 @@ sections:
         url: /devis-redaction-web/
         style: primary
         icon_position: left
-        no_follow: true
+        no_follow: false
     actions_position: bottom
     align: left
     padding_top: medium
