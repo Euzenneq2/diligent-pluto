@@ -185,7 +185,7 @@ sections:
           est très intéressante si vous gérez un e-commerce.
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: Catégorie - Publicité et AdWords - Mary Marketing
         image_position: top
