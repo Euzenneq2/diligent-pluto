@@ -88,7 +88,7 @@ sections:
         image: images/categorie-inbound-marketing.png
       - title: Informatique & outils technologique
         title_align: left
-        content: "**Sécurité informatique**,\_**logiciel de virtualisation**,\_**cloud computing**, etc. Vous trouverez  dans cette catégories tous les\_articles concernant des **outils**\_et\_**logiciels**\_que j’utilise.\n"
+        content: "Sécurité informatique,\_logiciel de virtualisation,\_cloud computing, etc. Vous trouverez dans cette catégories tous les\_**articles** concernant des **outils**\_et\_**logiciels**\_que j’utilise.\n"
         content_align: left
         actions: []
         actions_align: left
