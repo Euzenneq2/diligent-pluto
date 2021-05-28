@@ -722,7 +722,7 @@ sections:
     blog_feed_cols: three
     enable_cards: false
     show_recent: false
-    recent_count: 3
+    recent_count: 0
     show_date: true
     show_categories: true
     show_author: false
