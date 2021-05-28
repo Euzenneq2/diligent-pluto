@@ -326,10 +326,6 @@ seo:
         Découvrez  les différentes catégories que j'alimente grâce à mes
         articles de blog.
       keyName: property
-    - name: 'og:image'
-      value: /_static/app-assets/Miniature-partage-categories.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
