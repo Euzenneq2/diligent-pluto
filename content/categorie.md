@@ -43,7 +43,16 @@ sections:
         title_align: left
         content: "Je vais vous partager les actualités sur ce secteur qui révolutionne aujourd’hui le quotidien des consommateurs. Optimiser votre business peut vous permettre un gain d’1% de votre\_**taux de conversion**.\n"
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: Catégorie - E-commerce - Mary Marketing
