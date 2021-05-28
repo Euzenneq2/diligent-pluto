@@ -21,7 +21,7 @@ sections:
         content: "Trouvez dans cette catégorie toutes les\_**nouveautés du numérique**\_et les études vous permettant d’être à la pointe du\_**référencement naturelle**, des\_**réseaux sociaux** ou encore du\_**e-commerce.**\n"
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir cette catégorie
             url: '#'
             style: link
             has_icon: false
