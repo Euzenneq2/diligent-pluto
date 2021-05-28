@@ -20,7 +20,16 @@ sections:
         title_align: left
         content: "Trouvez dans cette catégorie toutes les\_**nouveautés du numérique**\_et les études vous permettant d’être à la pointe du\_**référencement naturelle**, des\_**réseaux sociaux** ou encore du\_**e-commerce.**\n"
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: Catégorie - Actualité du marketing digital - Mary Marketing
