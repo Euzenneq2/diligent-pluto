@@ -1,5 +1,4 @@
 ---
-robots: noindex
 title: Formulaire de devis
 sections:
   - title: >-
