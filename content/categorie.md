@@ -205,7 +205,7 @@ sections:
         image: images/royal-whale.png
       - title: Référencement naturel
         title_align: left
-        content: "Un\_**site web**\_est utile à votre activité, seulement s’il est\_**visible**\_sur\_**Google**. Cependant, il n’est pas simple d’être bien\_**positionné**\_sur les\_**moteurs de recherche**. Découvrez tous les secrets du référencement naturel.\n"
+        content: "Un\_**site web**\_est utile seulement s’il est\_**visible**\_sur\_**Google**. Il n’est pas simple d’être bien\_**positionné**\_sur les\_**moteurs de recherche**. Découvrez tous les secrets du référencement naturel.\n"
         content_align: left
         actions:
           - label: Découvrir cette catégorie
