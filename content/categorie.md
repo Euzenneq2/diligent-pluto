@@ -87,7 +87,7 @@ sections:
         image: images/categorie-freelancing.png
       - title: Growth hacking
         title_align: left
-        content: "Découvrez les meilleures astuces pour notamment optimiser le\_**taux de conversion**\_de votre site internet et comment\_**générer du trafic**\_à moindre coût.\n"
+        content: "Découvrez dans cette catégorie, les meilleures astuces pour notamment optimiser le\_**taux de conversion**\_de votre site internet et comment\_**générer du trafic**\_à moindre coût.\n"
         content_align: left
         actions:
           - label: Découvrir cette catégorie
