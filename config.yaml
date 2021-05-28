@@ -106,7 +106,7 @@ params:
         label: Par catégories
         style: link
         no_follow: false
-        url: categorie
+        url: /categorie
     has_tertiary_nav: true
     tertiary_nav_title: Newsletter
     tertiary_nav_links:
