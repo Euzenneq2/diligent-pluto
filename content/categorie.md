@@ -114,7 +114,7 @@ sections:
         content_align: left
         actions:
           - label: Découvrir cette catégorie
-            url: /blog/categorie/
+            url: /blog/categorie/inbound-marketing/
             style: link
             has_icon: false
             icon: arrow-left
