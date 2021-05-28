@@ -67,7 +67,7 @@ sections:
         content: "Découvrez une multitude d’articles traitant de divers sujets liés à\_**l’entrepreneuriat**. Je vous partage mes conseils de vie et vous fais un\_**retour d’expérience**\_des différentes plateformes de\_**micro-services**\_que j’ai pu tester.\n"
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: Catégorie - Freelancing - Mary Marketing
         image_position: top
