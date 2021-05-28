@@ -342,7 +342,7 @@ seo:
       value: /images/Miniature-partage-blog-redac-web.png
       relativeUrl: true
   description: >-
-    Grâce à mon blog, découvrez l'actualité concernant le marketing, le
-    référencement naturel, la rédaction web ou le digital.
+    Découvrez  les différentes catégories que j'alimente grâce à mes articles de
+    blog.
 layout: advanced
 ---
