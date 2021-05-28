@@ -299,7 +299,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: true
+        no_follow: false
         type: action
         label: 'Demandez votre devis, c''est gratuit'
     actions_position: bottom
