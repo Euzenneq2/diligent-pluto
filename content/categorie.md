@@ -258,7 +258,7 @@ sections:
         content: "Comme vous devez le savoir,\_**WordPress est le CMS le plus populaire**\_et le plus utilisé au monde.\_WordPress est un outil avec lequel je travaille depuis de nombreuses années maintenant. Découvrez-en plus à ce sujet.\n"
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: right
         actions_width: auto
         image_alt: Catégorie - Wordpress - Mary Marketing
         image_position: top
