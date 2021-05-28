@@ -136,7 +136,7 @@ sections:
         content: "Sécurité informatique,\_logiciel de virtualisation,\_cloud computing, etc. Vous trouverez dans cette catégories tous les\_**articles** concernant des **outils**\_et\_**logiciels**\_que j’utilise.\n"
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir cette catégorie
             url: '#'
             style: link
             has_icon: false
