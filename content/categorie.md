@@ -13,7 +13,7 @@ sections:
     image: images/toutes-categories.png
     media_position: right
     media_width: fifty
-    image_alt: Catégories des blogs
+    image_alt: Catégories des articles de blog - Mary Marketing
   - actions: []
     grid_items:
       - title: Actualité du marketing digital
