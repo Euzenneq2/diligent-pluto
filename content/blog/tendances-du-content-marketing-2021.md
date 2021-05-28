@@ -84,7 +84,7 @@ Ce concept peut être un **levier marketing** pour votre marque. En effet, une f
 
 Cette tendance s’accentue de plus en plus. C’est le moment de finalisé sa **stratégie digitale** et de la moderniser avec cette tendance de transparence.
 
-![Les tendances de content marketing - Mary Marketing](/imagess/article-content-marketing.jpg)
+![Les tendances de content marketing - Mary Marketing](/images/article-content-marketing.jpg)
 
 ## Tendance n°3 : Améliorer l’expérience client grâce au contenu généré par l’utilisateur
 
