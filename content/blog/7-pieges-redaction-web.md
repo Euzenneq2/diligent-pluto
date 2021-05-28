@@ -96,7 +96,7 @@ Voici un extrait de ces règles pour s'assurer d'une **qualité de rédaction** 
 
 *   Penser en permanence à votre **audience**
 
-![](/images/article-pieges-de-redaction-web.jpg)
+![Les 7 pièges à éviter en rédaction web - Mary Marketing](/images/article-pieges-de-redaction-web.jpg)
 
 ## Le jargon dans vos écrits
 
