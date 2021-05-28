@@ -107,11 +107,6 @@ params:
         style: link
         no_follow: true
         url: /categorie/
-      - type: action
-        template: action
-        style: link
-        label: Par tag
-        no_follow: true
     has_tertiary_nav: true
     tertiary_nav_title: Newsletter
     tertiary_nav_links:
