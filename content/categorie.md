@@ -339,7 +339,7 @@ seo:
         Découvrez  les différentes catégories que j'alimente grâce à mes
         articles de blog.
     - name: 'twitter:image'
-      value: /images/Miniature-partage-blog-redac-web.png
+      value: /_static/app-assets/Miniature-partage-categories.png
       relativeUrl: true
   description: >-
     Découvrez  les différentes catégories que j'alimente grâce à mes articles de
