@@ -235,8 +235,8 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      <strong><font size="6">Multipliez votre présences sur les médias sociaux grâce au
-      web-marketing</font></strong>
+      <strong><font size="6">Multipliez votre présences sur les médias sociaux
+      grâce au web-marketing</font></strong>
 
 
       Utilisez de nouveaux outils et créez une communauté !
@@ -247,7 +247,7 @@ sections:
         url: /devis-redaction-web/
         style: primary
         icon_position: left
-        no_follow: true
+        no_follow: false
     actions_position: bottom
     align: left
     padding_top: medium
