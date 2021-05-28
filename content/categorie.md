@@ -185,7 +185,7 @@ sections:
           est très intéressante si vous gérez un e-commerce.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir cette catégorie
             url: '#'
             style: link
             has_icon: false
