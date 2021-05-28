@@ -333,7 +333,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog rédactrice web SEO ⎮ Mary Marketing
+      value: Catégories ⎮ Mary Marketing
     - name: 'twitter:description'
       value: >-
         Grâce à mon blog, découvrez l'actualité concernant le marketing, le
