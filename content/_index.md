@@ -763,7 +763,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Mes articles
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
