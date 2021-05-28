@@ -150,8 +150,8 @@ sections:
         content: >
           Dans cet catégorie, je vais vous parler de **l'actualité du
           Marketing** sur les réseaux sociaux : Twitter, Facebook, LinkedIn,
-          Instagram, YouTube, TikTok, Snapchat, Clubhouse, etc. Vous retrouverez
-          mes expériences et conseils autour de ces **média sociaux**.
+          Instagram, YouTube, TikTok, Snapchat, etc. Vous retrouverez mes
+          expériences et conseils autour de ces **média sociaux**.
         content_align: left
         actions: []
         actions_align: left
