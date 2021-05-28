@@ -89,7 +89,16 @@ sections:
         title_align: left
         content: "Découvrez les meilleures astuces pour notamment optimiser le\_**taux de conversion**\_de votre site internet et comment\_**générer du trafic**\_à moindre coût.\n"
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
