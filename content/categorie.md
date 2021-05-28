@@ -75,7 +75,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            url: /blog/categorie/freelancing
+            url: /blog/categorie/freelancing/
         actions_align: center
         actions_width: auto
         image_alt: Catégorie - Freelancing - Mary Marketing
