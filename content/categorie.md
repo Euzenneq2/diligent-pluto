@@ -327,7 +327,7 @@ seo:
         articles de blog.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/Miniature-partage-blog-redac-web.png
+      value: /_static/app-assets/Miniature-partage-categories.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
