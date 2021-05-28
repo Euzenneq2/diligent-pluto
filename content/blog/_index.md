@@ -25,26 +25,6 @@ sections:
     media_position: right
     media_width: fifty
     image_alt: Blog - Rédacteur web SEO
-  - actions: []
-    image_alt: null
-    video_embed_html: >-
-      <iframe width="700" height="600"
-      src="https://b749b5e7.sibforms.com/serve/MUIEAM0pkvbQinFOixEkW-rF_LkKDOef_kUfJGtk7R9-UfYGPAJ_DiiVnVBksDThZYDqnmeVL4MnotsgclA_AehybCmA3NKcWHLbbvdkKvG0n34T7OuHuIsL2dj3-o197_s8hEpdP9x5L2dDoMQzA-iDTR8VKjJg43Ng3XjNLA8_kzDtFQqaWLGl0KlowvrzGYQ-eObrny3EASDU"
-      frameborder="0" scrolling="no" allowfullscreen style="display:
-      block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: auto
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    background_image: images/newsletter-mary-marketing-background.jpg
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
@@ -67,6 +47,26 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+  - actions: []
+    image_alt: null
+    video_embed_html: >-
+      <iframe width="700" height="600"
+      src="https://b749b5e7.sibforms.com/serve/MUIEAM0pkvbQinFOixEkW-rF_LkKDOef_kUfJGtk7R9-UfYGPAJ_DiiVnVBksDThZYDqnmeVL4MnotsgclA_AehybCmA3NKcWHLbbvdkKvG0n34T7OuHuIsL2dj3-o197_s8hEpdP9x5L2dDoMQzA-iDTR8VKjJg43Ng3XjNLA8_kzDtFQqaWLGl0KlowvrzGYQ-eObrny3EASDU"
+      frameborder="0" scrolling="no" allowfullscreen style="display:
+      block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: auto
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    background_image: images/newsletter-mary-marketing-background.jpg
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
