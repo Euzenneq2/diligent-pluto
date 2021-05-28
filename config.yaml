@@ -114,7 +114,7 @@ params:
         template: action
         label: S'inscrire
         style: secondary
-        no_follow: true
+        no_follow: false
         icon: arrow-right
         has_icon: true
         url: '#newsletter'
