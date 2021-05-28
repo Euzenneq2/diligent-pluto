@@ -235,7 +235,7 @@ sections:
           expériences et conseils autour de ces **média sociaux**.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Découvrir cette catégorie
             url: '#'
             style: link
             has_icon: false
