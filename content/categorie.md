@@ -159,7 +159,7 @@ sections:
         content: "Vous pouvez aussi opter pour\_**l’automatisation de votre stratégie marketing**, en montant différents scénarios (Workflow).\_Apprenez comment dans ces articles réalisé avec soins.\n"
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: Catégorie - Marketing automation - Mary Marketing
         image_position: top
