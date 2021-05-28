@@ -53,7 +53,7 @@ Hébergement : Netlify
 
 Mary Marketing, entreprise individuelle au capital d’un euro.
 
-SIRET 898 296 231 00019
+SIRET : 898 296 231 00019
 
 Adresse postale : 16 rue de l'Engannerie, 14000 CAEN.
 
