@@ -103,7 +103,7 @@ params:
         no_follow: false
       - type: action
         template: action
-        label: Par catégorie
+        label: Par catégories
         style: link
         no_follow: true
       - type: action
