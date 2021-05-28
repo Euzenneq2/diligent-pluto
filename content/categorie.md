@@ -22,7 +22,7 @@ sections:
         content_align: left
         actions:
           - label: Découvrir cette catégorie
-            url: /blog/categorie
+            url: /blog/categorie/actualite-marketing-digital/
             style: link
             has_icon: false
             icon: arrow-left
