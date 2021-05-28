@@ -46,7 +46,7 @@ sections:
         actions:
           - label: Découvrir cette catégorie
             url: /blog/categorie/e-commerce/
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
