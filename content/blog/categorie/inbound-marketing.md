@@ -70,7 +70,10 @@ seo:
       value: 'Blog : Inbound marketing ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Une stratégie des plus importante dans le domaine de la rédaction web.
+        Vous souhaitez en savoir plus sur l'Inbound marketing ? Tout ce trouve
+        ici.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
