@@ -89,10 +89,6 @@ seo:
         jours. Vous souhaiter en apprendre plus ? Ici, vous trouverez les
         réponses.
       keyName: property
-    - name: 'og:image'
-      value: images/classic/post-5.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
