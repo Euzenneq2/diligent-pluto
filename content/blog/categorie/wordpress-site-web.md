@@ -70,10 +70,6 @@ seo:
         Sur cette page, vous trouverez tous les articles concernant le CMS
         WordPress. 
       keyName: property
-    - name: 'og:image'
-      value: images/classic/post-5.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:description'
