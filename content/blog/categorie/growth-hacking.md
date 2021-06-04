@@ -63,7 +63,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Growth hacking
+      value: 'Blog : Growth hacking ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
