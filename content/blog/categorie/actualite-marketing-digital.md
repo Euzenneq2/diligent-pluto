@@ -75,10 +75,6 @@ seo:
         Le domaine du numérique est vaste. Ici, Je vous permets de suivre
         l'actualité du digital.
       keyName: property
-    - name: 'og:image'
-      value: images/classic/post-5.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:image'
