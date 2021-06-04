@@ -66,7 +66,10 @@ seo:
       value: 'Blog : Growth hacking ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Vous souhaitez apporter un notion de growth hacking à votre business ?
+        Ou, tout simplement, acquérir des connaissance a ce sujet ? Visitez
+        cette page !
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
