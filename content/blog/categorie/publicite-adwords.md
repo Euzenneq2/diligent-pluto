@@ -75,7 +75,10 @@ seo:
       value: 'Blog : Publicité et adwords ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Qu'est-ce qu'une campagne de publicité sur les réseaux ? Comment bien
+        analyser son site internet grâce aux AdWords ? Toutes les réponses sur
+        cette pages.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
