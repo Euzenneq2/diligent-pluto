@@ -69,7 +69,9 @@ seo:
       value: 'Blog : E-commerce ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Vous souhaitez diversifier vos connaissances concernant le e-commerce ?
+        Sur cette page, je vous livre les dernières actualités.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
