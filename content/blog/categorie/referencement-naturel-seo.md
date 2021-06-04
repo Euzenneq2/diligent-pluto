@@ -61,7 +61,9 @@ seo:
       value: 'Blog : Référencement naturel ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Vous connaissez le Search Engine Optimization ? Sur cette page, vous
+        trouverez toute l'actualité du référencement naturel.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
