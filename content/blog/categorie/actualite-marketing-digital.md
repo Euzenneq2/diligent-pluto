@@ -71,7 +71,9 @@ seo:
       value: 'Blog : Actualité du digital ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Le domaine du numérique est vaste. Ici, Je vous permets de suivre
+        l'actualité du digital.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
