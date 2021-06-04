@@ -77,8 +77,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Posts in Freelancing
     - name: 'twitter:description'
       value: This is the author archive page
 layout: advanced
