@@ -63,7 +63,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Wordpress
+      value: 'Blog : Wordpress ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
