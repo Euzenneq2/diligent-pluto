@@ -71,10 +71,6 @@ seo:
         Ou, tout simplement, acquérir des connaissance a ce sujet ? Visitez
         cette page !
       keyName: property
-    - name: 'og:image'
-      value: images/classic/post-5.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:image'
