@@ -58,7 +58,9 @@ seo:
       value: 'Blog : Informatique et outils technologique ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Découvrez l'actualité technologique et informatique du monde du
+        numérique.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
