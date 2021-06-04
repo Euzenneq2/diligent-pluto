@@ -82,8 +82,6 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Posts in Publicité et adwords
     - name: 'twitter:description'
       value: This is the author archive page
     - name: 'twitter:image'
