@@ -65,10 +65,6 @@ seo:
         Vous connaissez le Search Engine Optimization ? Sur cette page, vous
         trouverez toute l'actualité du référencement naturel.
       keyName: property
-    - name: 'og:image'
-      value: images/classic/post-5.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:description'
