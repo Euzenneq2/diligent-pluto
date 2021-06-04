@@ -77,8 +77,5 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:image'
-      value: images/classic/post-5.png
-      relativeUrl: true
 layout: advanced
 ---
