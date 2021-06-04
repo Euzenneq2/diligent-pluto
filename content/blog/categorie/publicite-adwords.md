@@ -72,7 +72,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Publicité et adwords
+      value: 'Blog : Publicité et adwords ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
