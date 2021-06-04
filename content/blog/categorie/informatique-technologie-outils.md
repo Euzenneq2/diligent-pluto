@@ -62,10 +62,6 @@ seo:
         Découvrez l'actualité technologique et informatique du monde du
         numérique.
       keyName: property
-    - name: 'og:image'
-      value: images/classic/post-5.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:image'
