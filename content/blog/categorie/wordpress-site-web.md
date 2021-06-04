@@ -66,7 +66,9 @@ seo:
       value: 'Blog : Wordpress ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: >-
+        Sur cette page, vous trouverez tous les articles concernant le CMS
+        WordPress. 
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
