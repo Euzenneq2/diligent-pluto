@@ -67,7 +67,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Inbound marketing
+      value: 'Blog : Inbound marketing ⎮ Mary Marketing'
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
