@@ -80,8 +80,5 @@ seo:
       value: Posts in Inbound marketing
     - name: 'twitter:description'
       value: This is the author archive page
-    - name: 'twitter:image'
-      value: images/classic/post-5.png
-      relativeUrl: true
 layout: advanced
 ---
