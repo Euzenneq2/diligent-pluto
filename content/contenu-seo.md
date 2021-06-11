@@ -335,8 +335,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
-      ## Vous souhaitez avoir davantage d'informations sur mes compétences liées
-      à la rédaction web ?
+      ## Vous aimeriez connaître davantage mes méthodes de contenu SEO ?
 
 
       Certaines compétences sont indispensables pour la rédaction web. Outre
