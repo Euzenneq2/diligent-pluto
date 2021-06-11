@@ -298,8 +298,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
-      ## Vous souhaitez avoir davantage d'informations sur mes compétences liées
-      à la rédaction web ?
+      ## Quelles sont les bonnes méthodes de rédaction ?
 
 
       Un bon **rédacteur web freelance** doit connaitre ces méthodes de
