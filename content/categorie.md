@@ -202,7 +202,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/categorie-publicite-adwords.png
+        image: images/categorie-publicite-et-adwords.png
       - title: Référencement naturel
         title_align: left
         content: "Un\_**site web**\_est utile seulement s’il est\_**visible**\_sur\_**Google**. Il n’est pas simple d’être bien\_**positionné**\_sur les\_**moteurs de recherche**. Découvrez tous les secrets du référencement naturel.\n"
