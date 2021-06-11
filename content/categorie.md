@@ -202,7 +202,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/categorie-pub-et-adwords.png
+        image: images/Johan-Ennez.jpg
       - title: Référencement naturel
         title_align: left
         content: "Un\_**site web**\_est utile seulement s’il est\_**visible**\_sur\_**Google**. Il n’est pas simple d’être bien\_**positionné**\_sur les\_**moteurs de recherche**. Découvrez tous les secrets du référencement naturel.\n"
