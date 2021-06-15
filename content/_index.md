@@ -256,7 +256,7 @@ sections:
         image: images/portrait-mary-marketing.png
         content: >
           <strong><font size="6">Enchanté, moi c'est Mary !</font></strong>
-          </br></br>En tant que rédactrice web en **freelance**. Je suis ravi
+          </br></br>En tant que rédactrice web en **freelance**, je suis ravi
           de vous proposer mes services pour déployer votre **stratégie
           éditoriale**, en vous produisant des contenus de qualités et
           **optimisés SEO**."
