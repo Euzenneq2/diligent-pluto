@@ -254,7 +254,7 @@ sections:
             type: action
           - label: Demander un devis
             url: /devis-redaction-web/
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
