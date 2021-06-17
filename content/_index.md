@@ -256,8 +256,8 @@ sections:
         image: images/portrait-mary-marketing.png
         content: >
           <strong><font size="6">Enchanté, moi c'est Mary !</font></strong>
-          </br></br>En tant que rédactrice web en **freelance**, je suis ravi
-          de vous proposer mes services pour déployer votre **stratégie
+          </br></br>En tant que rédactrice web en **freelance**, je suis ravi de
+          vous proposer mes services pour déployer votre **stratégie
           éditoriale**, en vous produisant des contenus de qualités et
           **optimisés SEO**."
     feature_padding_vert: small
@@ -399,8 +399,8 @@ sections:
         title_align: center
         content: >
           Des **formations** pour vous et vos équipes afin de vous rendre
-          **autonome** en rédaction SEO ! Vous aurez les compétences en interne
-          afin d'écrire pour le web.
+          **autonome** en rédaction SEO ! Vous aurez enfin les compétences en
+          interne pour d'écrire pour le web.
         content_align: center
         actions:
           - label: En savoir plus
