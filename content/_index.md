@@ -253,7 +253,7 @@ sections:
             no_follow: true
             type: action
           - label: Demander un devis
-            url: /devis-redac
+            url: /devis-redaction-web/
             style: link
             has_icon: false
             icon: arrow-left
