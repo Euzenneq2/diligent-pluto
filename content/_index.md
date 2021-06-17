@@ -252,7 +252,7 @@ sections:
             new_window: false
             no_follow: true
             type: action
-          - label: lorem-ipsum
+          - label: Demander un devis
             url: '#'
             style: link
             has_icon: false
