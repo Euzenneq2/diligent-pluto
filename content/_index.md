@@ -399,8 +399,8 @@ sections:
         title_align: center
         content: >
           Des **formations** pour vous et vos équipes afin de vous rendre
-          **autonome** en rédaction SEO ! Vous aurez les compétences en interne
-          pour d'écrire pour le web.
+          **autonome** en rédaction SEO ! Vous aurez enfin les compétences en
+          interne pour d'écrire pour le web.
         content_align: center
         actions:
           - label: En savoir plus
