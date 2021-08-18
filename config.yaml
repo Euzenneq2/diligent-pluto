@@ -101,6 +101,7 @@ params:
         label: Tous les articles
         style: link
         no_follow: true
+        url: /blog
       - type: action
         template: action
         label: Par catégories
