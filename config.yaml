@@ -149,7 +149,7 @@ params:
 taxonomies:
   stub: stub
 disableKinds:
-  - Sitemap.xml
+  - Sitemap
   - RSS
   - taxonomy
   - taxonomyTerm
