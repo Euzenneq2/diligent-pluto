@@ -148,8 +148,7 @@ params:
   favicon: /images/logo-favicon-mary-marketing.png
 taxonomies:
   stub: stub
-disableKinds:
-  - Sitemap
+disableKinds: ["sitemap"]
   - RSS
   - taxonomy
   - taxonomyTerm
