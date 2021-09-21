@@ -37,7 +37,7 @@ layout: page
 
 Nom du site web : Mary Marketing
 
-Adresse : < http://nomdusite.domaine >
+Adresse : https://www.copywriter-web.com/
 
 Propriétaire : Marylène LOUIS
 
