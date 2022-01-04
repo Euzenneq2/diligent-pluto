@@ -48,7 +48,7 @@ sections:
   - actions: []
     image_alt: null
     video_embed_html: >-
-      <iframe width="150" height="300"
+      <iframe width="550" height="300"
       src="https://bd938a0c.sibforms.com/serve/MUIEAIKFgK8Mo2CI8lGUE7zUcQf9XdX9rM1RfIH2jRbkqBI4W2PDbGOamBvINruIHmZHz62ksuvDXyZDvb3WKodYathG8Vui0Bg3Zr9-y9r7vONqDTlfCGT9z6BWJ5yPFk7CiRlkDsNouQBNMODPjXhi-Si7OTjDrNXltfgjmgtX4fJ0GvB4dSLCgqo9D_Tk7JrRkWsHb8UCeK9i"
       frameborder="0" scrolling="auto" allowfullscreen style="display:
       block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
