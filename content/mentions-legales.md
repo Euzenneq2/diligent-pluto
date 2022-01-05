@@ -55,7 +55,7 @@ Mary Marketing, entreprise individuelle au capital d’un euro.
 
 SIRET : 898 296 231 00019
 
-Adresse postale : 16 rue de l'Engannerie, 14000 CAEN.
+Adresse postale : 86 rue des rosiers, 14000 CAEN.
 
 Adresse mail : marymarketing.pro@gmail.com
 
@@ -105,6 +105,4 @@ Le propriétaire du site se réserve le droit de demander la suppression d’un 
 
 Tout utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une preuve d’identité. 
 
-Pour connaitre la politique de confidentialité, veuillez vous référer à cette <a href=”https://diligent-pluto-bbfe2.netlify.app/politique-de-confidentialite/” rel=”nofollow”>
-page</a>
-.
+Pour connaitre la politique de confidentialité, veuillez vous référer à cette [page](https://copywriter-web.com/politique-de-confidentialite/).
