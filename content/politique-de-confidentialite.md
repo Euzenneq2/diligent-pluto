@@ -45,7 +45,7 @@ align: left
 ---
 ## Objet du traitement
 
-La société Mary Marketing, dont le siège est situé à CAEN (14 000), 16 rue de l'Engannerie, dispose d’un site internet de services rédaction web. Ce site permet de collecter via un formulaire les données personnelles à cette occasion sont enregistrées et traitées dans un fichier clients.
+La société Mary Marketing, dont le siège est situé à CAEN (14 000), 86 rue des rosiers, dispose d’un site internet de services rédaction web. Ce site permet de collecter via un formulaire les données personnelles à cette occasion sont enregistrées et traitées dans un fichier clients.
 
 Ce fichier permet de :
 
@@ -69,18 +69,17 @@ Ce fichier permet de :
 
 ## Vos droits
 
-Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), <a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>contactez-moi</a>
+Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), [contactez-moi](https://copywriter-web.com/contact/).
 
 Vous pouvez accéder aux données vous concernant, les rectifier ou les faire effacer. Vous disposez également d'un droit à la portabilité et d’un droit à la limitation du traitement de vos données (Consultez le site cnil.fr pour plus d’informations sur vos droits).
 
-Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez <a href=”https://diligent-pluto-bbfe2.netlify.app/contact/” rel=”nofollow”>me contacter</a>
-.
+Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez me [contacter](https://copywriter-web.com/contact/).
 
 Société Mary Marketing
 
 SIRET : 898 296 231 00019
 
-16 rue de l'Engannerie
+86 rue des rosiers
 
 14000 CAEN
 
