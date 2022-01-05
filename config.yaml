@@ -144,7 +144,7 @@ params:
        &copy; Mary-Marketing rédactrice web freelance. Tous les droits 
       réservés. Ne pas utiliser le contenus et les photos sans autorisations.
     links: []
-  domain: 'https://diligent-pluto-bbfe2.netlify.app'
+  domain: www.
   favicon: /images/logo-favicon-mary-marketing.png
 taxonomies:
   stub: stub
